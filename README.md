@@ -78,5 +78,11 @@ If you use or refer to this work, please cite the paper:
 Givon, Adam. Language Is Not Transparent: Semantic Density, Architecture, and the Design of LLM Constraints. 2026.
 Author
 
+## License
+The paper, systems, scenarios, conversations, close-reading materials, numerical analysis documents, annexes, and other written research materials are licensed under **CC BY-NC 4.0**, unless otherwise stated.
+Any code or scripts in this repository are licensed under the **MIT License**, unless otherwise stated.
+
+See `LICENSE` and `LICENSE-CODE`.
+
 Adam Givon
 7 June 2026
