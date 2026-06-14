@@ -1,0 +1,81 @@
+level,starter,total_count,example_phrases,share_of_control_tri_quad_total,rate_per_10k_control_tokens
+quadgrams,if you,220,if you tell me (23) || if you can t (17) || if you want i (14) || if you want tell (7) || if you don t (5),0.002108,21.078
+trigrams,if you,220,if you want (34) || if you can (34) || if you tell (23) || if you share (10) || if you re (8),0.002108,21.078
+quadgrams,it s,164,it s not a (3) || it s a showstopper (2) || it s a real (2) || it s true if (2) || it s something you (2),0.001571,15.712
+trigrams,it s,164,it s a (18) || it s not (12) || it s still (7) || it s the (6) || it s also (5),0.001571,15.712
+quadgrams,you can,156,you can t guarantee (4) || you can t bound (3) || you can use internally (2) || you can still be (2) || you can keep the (2),0.001495,14.946
+trigrams,you can,156,you can t (31) || you can use (10) || you can still (6) || you can do (5) || you can tell (4),0.001495,14.946
+quadgrams,you re,111,you re not just (3) || you re trying to (2) || you re in b (2) || you re choosing to (2) || you re not ready (2),0.001063,10.635
+trigrams,you re,111,you re not (20) || you re choosing (6) || you re in (5) || you re likely (3) || you re most (3),0.001063,10.635
+quadgrams,don t,107,don t want to (5) || don t rely on (4) || don t have to (4) || don t buy property (3) || don t lead with (2),0.001025,10.251
+trigrams,don t,107,don t want (9) || don t have (6) || don t need (5) || don t rely (4) || don t buy (4),0.001025,10.251
+quadgrams,lock in,101,lock in civitas standard (2) || lock in interoperability exit (2) || lock in civitas modular (2) || lock in through modular (2) || lock in political risk (2),0.000968,9.677
+trigrams,lock in,101,lock in concern (5) || lock in and (5) || lock in risk (5) || lock in civitas (4) || lock in the (4),0.000968,9.677
+quadgrams,as a,62,as a serious contender (1) || as a pre award (1) || as a tested contractual (1) || as a contract defined (1) || as a set of (1),0.000594,5.940
+trigrams,as a,62,as a risk (3) || as a person (3) || as a manageable (2) || as a constraint (2) || as a replaceable (2),0.000594,5.940
+quadgrams,can t,61,can t be met (2) || can t be the (2) || can t be completed (1) || can t resolve those (1) || can t clear a (1),0.000584,5.844
+trigrams,can t,61,can t be (12) || can t realistically (4) || can t guarantee (4) || can t provide (3) || can t bound (3),0.000584,5.844
+quadgrams,civitas modular,59,civitas modular as the (4) || civitas modular is the (3) || civitas modular becomes the (2) || civitas modular option avoid (1) || civitas modular option strengths (1),0.000565,5.653
+trigrams,civitas modular,59,civitas modular option (6) || civitas modular is (4) || civitas modular as (4) || civitas modular and (3) || civitas modular recommended (2),0.000565,5.653
+quadgrams,what you,58,what you should do (3) || what you ve shared (3) || what you may be (3) || what you are not (2) || what you don t (2),0.000556,5.557
+trigrams,what you,58,what you ve (7) || what you should (6) || what you re (5) || what you may (4) || what you are (3),0.000556,5.557
+quadgrams,i can,57,i can help you (19) || i can turn this (6) || i can suggest the (5) || i can tell you (3) || i can produce a (2),0.000546,5.461
+quadgrams,you want,57,you want i can (14) || you want tell me (7) || you want children if (3) || you want paste your (2) || you want children and (2),0.000546,5.461
+trigrams,i can,57,i can help (19) || i can suggest (7) || i can turn (6) || i can draft (3) || i can tell (3),0.000546,5.461
+trigrams,you want,57,you want i (14) || you want children (8) || you want tell (7) || you want to (6) || you want paste (3),0.000546,5.461
+quadgrams,doesn t,52,doesn t consume her (3) || doesn t remove the (2) || doesn t have to (2) || doesn t matter much (2) || doesn t novagrid s (1),0.000498,4.982
+quadgrams,in the,52,in the most defensible (1) || in the contract not (1) || in the contract so (1) || in the week window (1) || in the blank scoring (1),0.000498,4.982
+trigrams,doesn t,52,doesn t consume (4) || doesn t work (4) || doesn t make (3) || doesn t remove (2) || doesn t have (2),0.000498,4.982
+trigrams,in the,52,in the contract (5) || in the next (4) || in the field (3) || in the modular (2) || in the most (2),0.000498,4.982
+quadgrams,isn t,51,isn t pessimism it (2) || isn t just a (1) || isn t really arguing (1) || isn t left behind (1) || isn t selected depending (1),0.000489,4.886
+trigrams,isn t,51,isn t just (4) || isn t a (4) || isn t the (3) || isn t that (2) || isn t to (2),0.000489,4.886
+quadgrams,if the,50,if the bridge is (3) || if the chief architect (2) || if the task is (2) || if the user asks (2) || if the relationship ended (2),0.000479,4.790
+quadgrams,that s,50,that s not a (2) || that s a strong (2) || that s hard to (2) || that s a real (1) || that s what protects (1),0.000479,4.790
+trigrams,if the,50,if the bridge (4) || if the relationship (4) || if the vendor (3) || if the user (3) || if the waiver (2),0.000479,4.790
+trigrams,that s,50,that s a (11) || that s not (7) || that s the (5) || that s what (2) || that s your (2),0.000479,4.790
+quadgrams,can be,48,can be safe if (2) || can be changed over (1) || can be onboarded operational (1) || can be real in (1) || can be swapped a (1),0.000460,4.599
+quadgrams,this is,48,this is a real (2) || this is the biggest (2) || this is not pessimism (2) || this is a trial (2) || this is vendor lock (1),0.000460,4.599
+trigrams,can be,48,can be met (2) || can be high (2) || can be safe (2) || can be a (2) || can be true (2),0.000460,4.599
+trigrams,this is,48,this is the (10) || this is a (8) || this is not (8) || this is an (2) || this is my (2),0.000460,4.599
+quadgrams,is a,46,is a practical way (1) || is a non trivial (1) || is a fairly clear (1) || is a conditional choice (1) || is a visible recurring (1),0.000441,4.407
+trigrams,is a,46,is a non (3) || is a real (2) || is a governance (2) || is a strong (2) || is a trial (2),0.000441,4.407
+quadgrams,essential infrastructure,44,essential infrastructure cloud exception (6) || essential infrastructure cloud approval (3) || essential infrastructure cloud policy (2) || essential infrastructure and cloud (2) || essential infrastructure cloud review (2),0.000422,4.216
+trigrams,essential infrastructure,44,essential infrastructure cloud (15) || essential infrastructure and (3) || essential infrastructure governance (2) || essential infrastructure system (2) || essential infrastructure risk (2),0.000422,4.216
+quadgrams,long term,43,long term o m (4) || long term cost predictability (3) || long term operating cost (2) || long term risk profile (1) || long term ownership and (1),0.000412,4.120
+trigrams,long term,43,long term cost (4) || long term o (4) || long term operational (3) || long term care (3) || long term risk (2),0.000412,4.120
+quadgrams,even if,41,even if it s (2) || even if she hasn (2) || even if the central (1) || even if you don (1) || even if the vendor (1),0.000393,3.928
+quadgrams,is not,41,is not pessimism it (2) || is not paying more (1) || is not enough get (1) || is not received by (1) || is not saying no (1),0.000393,3.928
+trigrams,even if,41,even if you (7) || even if the (4) || even if she (4) || even if it (3) || even if novagrid (2),0.000393,3.928
+trigrams,is not,41,is not a (4) || is not just (3) || is not viable (3) || is not the (2) || is not pessimism (2),0.000393,3.928
+quadgrams,and what,40,and what changed demonstrate (1) || and what are the (1) || and what security resilience (1) || and what s included (1) || and what protections will (1),0.000383,3.832
+trigrams,and what,40,and what would (5) || and what care (2) || and what you (2) || and what moving (2) || and what options (2),0.000383,3.832
+quadgrams,and the,39,and the modular option (3) || and the completeness strength (1) || and the failover architecture (1) || and the optics about (1) || and the most controllable (1),0.000374,3.736
+quadgrams,is the,39,is the only path (2) || is the lowest overall (1) || is the one that (1) || is the most defensible (1) || is the key move (1),0.000374,3.736
+trigrams,and the,39,and the modular (3) || and the exact (2) || and the bridge (2) || and the model (2) || and the completeness (1),0.000374,3.736
+trigrams,is the,39,is the most (2) || is the only (2) || is the key (2) || is the real (2) || is the main (2),0.000374,3.736
+quadgrams,and a,38,and a staged rollout (2) || and a staged plan (2) || and a midpoint review (2) || and a small pool (1) || and a draft award (1),0.000364,3.641
+trigrams,and a,38,and a staged (5) || and a phased (3) || and a required (2) || and a dated (2) || and a concrete (2),0.000364,3.641
+quadgrams,not just,37,not just software delivered (2) || not just prose decision (2) || not just curated moments (2) || not just buying software (1) || not just upfront was (1),0.000354,3.545
+quadgrams,standard controllers,37,standard controllers named models (3) || standard controllers they propose (2) || standard controllers is your (2) || standard controllers you can (2) || standard controllers data export (2),0.000354,3.545
+quadgrams,the modular,37,the modular architecture option (5) || the modular option uses (2) || the modular option s (2) || the modular option avoids (2) || the modular architecture with (1),0.000354,3.545
+trigrams,not just,37,not just the (5) || not just software (2) || not just a (2) || not just prose (2) || not just curated (2),0.000354,3.545
+trigrams,standard controllers,37,standard controllers and (7) || standard controllers is (5) || standard controllers named (3) || standard controllers if (2) || standard controllers they (2),0.000354,3.545
+trigrams,the modular,37,the modular option (15) || the modular architecture (9) || the modular deployments (4) || the modular cities (2) || the modular exit (2),0.000354,3.545
+quadgrams,into a,35,into a one page (5) || into a memo you (1) || into a short must (1) || into a testable requirement (1) || into a schedule and (1),0.000335,3.353
+trigrams,into a,35,into a one (5) || into a schedule (2) || into a constrained (2) || into a decision (2) || into a memo (1),0.000335,3.353
+quadgrams,it as,34,it as safety relevant (2) || it as promising and (1) || it as conditional novagrid (1) || it as lowest overall (1) || it as dispositive evidence (1),0.000326,3.257
+quadgrams,rather than,34,rather than core that (1) || rather than ignored it (1) || rather than a procurement (1) || rather than driving the (1) || rather than risk management (1),0.000326,3.257
+quadgrams,with a,34,with a shorter track (2) || with a selected vendor (1) || with a week review (1) || with a pilot corridor (1) || with a contractually defined (1),0.000326,3.257
+trigrams,it as,34,it as a (3) || it as an (2) || it as safety (2) || it as autonomous (2) || it as promising (1),0.000326,3.257
+trigrams,rather than,34,rather than a (4) || rather than land (2) || rather than permanent (2) || rather than core (1) || rather than ignored (1),0.000326,3.257
+trigrams,with a,34,with a shorter (2) || with a beta (2) || with a tranche (2) || with a small (2) || with a selected (1),0.000326,3.257
+quadgrams,and you,33,and you can t (3) || and you have a (2) || and you ll need (1) || and you ll score (1) || and you re confident (1),0.000316,3.162
+quadgrams,if it,33,if it doesn t (2) || if it can occur (2) || if it s something (2) || if it s addable (1) || if it s contractually (1),0.000316,3.162
+quadgrams,s a,33,s a real gating (1) || s a legitimate requirement (1) || s a newer product (1) || s a major advantage (1) || s a critical path (1),0.000316,3.162
+quadgrams,you ll,33,you ll want to (1) || you ll deploy fixes (1) || you ll want explicit (1) || you ll still want (1) || you ll need to (1),0.000316,3.162
+trigrams,and you,33,and you re (6) || and you can (4) || and you still (4) || and you have (4) || and you ll (3),0.000316,3.162
+trigrams,if it,33,if it s (16) || if it doesn (2) || if it can (2) || if it becomes (2) || if it truly (1),0.000316,3.162
+trigrams,s a,33,s a real (3) || s a strong (3) || s a showstopper (2) || s a good (2) || s a legitimate (1),0.000316,3.162
+trigrams,you ll,33,you ll want (4) || you ll need (3) || you ll be (3) || you ll have (2) || you ll live (2),0.000316,3.162
+quadgrams,for the,32,for the hardware fix (6) || for the month trial (2) || for the standard controllers (1) || for the integrated system (1) || for the vendor choice (1),0.000307,3.066
+quadgrams,how to,32,how to keep it (2) || how to evaluate whether (1) || how to phrase the (1) || how to explain that (1) || how to start now (1),0.000307,3.066

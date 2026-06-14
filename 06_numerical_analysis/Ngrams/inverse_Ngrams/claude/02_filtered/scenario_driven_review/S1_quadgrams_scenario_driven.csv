@@ -1,0 +1,38 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy
+controller lead time weeks,2,AC15,S1,quadgrams,controller lead time weeks,4,,0,,controller|lead time,2,0.75,True
+tightly integrated proprietary controllers,2,AC15,S1,quadgrams,tightly integrated proprietary controllers,4,,0,,controller|controllers|proprietary|integrated,4,0.75,True
+lead times for proprietary,2,AC15,S1,quadgrams,lead times proprietary,3,,0,,proprietary|lead time|lead times,3,1.0,True
+dot waiver it on,2,AC15,S1,quadgrams,dot waiver,2,,0,,dot|waiver,2,1.0,True
+waiver it on prem,2,AC15,S1,quadgrams,waiver prem,2,,0,,on prem|waiver,2,1.0,True
+it on prem failover,2,AC15,S1,quadgrams,prem failover,2,,0,,on prem|failover,2,1.0,True
+civitas modular as a,3,AC15P,S1,quadgrams,civitas modular,2,,0,,civitas|modular,2,1.0,True
+supply chain and deployment,2,AC15P,S1,quadgrams,supply chain deployment,3,,0,,deployment|supply chain,2,1.0,True
+the state dot s,2,AC15P,S1,quadgrams,state dot,2,,0,,dot|state dot,2,1.0,True
+from the signal vendor,2,AC15P,S1,quadgrams,signal vendor,2,,0,,vendor|signal,2,1.0,True
+on prem failover and,2,AC15P,S1,quadgrams,prem failover,2,,0,,on prem|failover,2,1.0,True
+for essential infrastructure we,2,AC15P,S1,quadgrams,essential infrastructure,2,,0,,infrastructure|essential infrastructure,2,1.0,True
+controllers not the proprietary,2,AC15P,S1,quadgrams,controllers proprietary,2,,0,,controller|controllers|proprietary,3,1.0,True
+not the proprietary integrated,2,AC15P,S1,quadgrams,proprietary integrated,2,,0,,proprietary|integrated,2,1.0,True
+the proprietary integrated controller,2,AC15P,S1,quadgrams,proprietary integrated controller,3,,0,,controller|proprietary|integrated,3,1.0,True
+state dot waiver week,4,CONTROL,S1,quadgrams,state dot waiver week,4,,0,,dot|state dot|waiver,3,0.75,True
+the controller lead time,4,CONTROL,S1,quadgrams,controller lead time,3,,0,,controller|lead time,2,1.0,True
+controller lead time that,3,CONTROL,S1,quadgrams,controller lead time,3,,0,,controller|lead time,2,1.0,True
+civitas standard integrated architecture,2,CONTROL,S1,quadgrams,civitas standard integrated architecture,4,,0,,civitas|architecture|integrated,3,0.75,True
+preference essential infrastructure cloud,2,CONTROL,S1,quadgrams,preference essential infrastructure cloud,4,,0,,cloud|infrastructure|essential infrastructure,3,0.75,True
+essential infrastructure cloud policy,2,CONTROL,S1,quadgrams,essential infrastructure cloud policy,4,,0,,cloud|infrastructure|essential infrastructure,3,0.75,True
+essential infrastructure and cloud,2,CONTROL,S1,quadgrams,essential infrastructure cloud,3,,0,,cloud|infrastructure|essential infrastructure,3,1.0,True
+infrastructure and cloud is,2,CONTROL,S1,quadgrams,infrastructure cloud,2,,0,,cloud|infrastructure,2,1.0,True
+s essential infrastructure cloud,2,CONTROL,S1,quadgrams,essential infrastructure cloud,3,,0,,cloud|infrastructure|essential infrastructure,3,1.0,True
+civitas maintenance support price,2,CONTROL,S1,quadgrams,civitas maintenance support price,4,,0,,civitas|maintenance support,2,0.75,True
+maintenance support price locked,2,CONTROL,S1,quadgrams,maintenance support price locked,4,,0,,price lock|maintenance support,2,0.75,True
+proprietary integrated controller architecture,2,CONTROL,S1,quadgrams,proprietary integrated controller architecture,4,,0,,controller|proprietary|architecture|integrated,4,1.0,True
+gate essential infrastructure cloud,2,HYBRID_3_5,S1,quadgrams,gate essential infrastructure cloud,4,,0,,cloud|infrastructure|essential infrastructure,3,0.75,True
+with civitas modular as,2,HYBRID_3_5,S1,quadgrams,civitas modular,2,,0,,civitas|modular,2,1.0,True
+infrastructure cloud approval novagrid,2,HYBRID_3_5,S1,quadgrams,infrastructure cloud approval novagrid,4,,0,,novagrid|cloud|infrastructure,3,0.75,True
+of your essential infrastructure,2,HYBRID_SEMANTIC,S1,quadgrams,essential infrastructure,2,,0,,infrastructure|essential infrastructure,2,1.0,True
+your essential infrastructure cloud,2,HYBRID_SEMANTIC,S1,quadgrams,essential infrastructure cloud,3,,0,,cloud|infrastructure|essential infrastructure,3,1.0,True
+controller lead times modular,2,HYBRID_SEMANTIC,S1,quadgrams,controller lead times modular,4,,0,,controller|modular|lead time|lead times,4,1.0,True
+controller lead time is,2,HYBRID_SEMANTIC,S1,quadgrams,controller lead time,3,,0,,controller|lead time,2,1.0,True
+the dot waiver and,2,HYBRID_SEMANTIC,S1,quadgrams,dot waiver,2,,0,,dot|waiver,2,1.0,True
+controller lead times are,2,HYBRID_SEMANTIC,S1,quadgrams,controller lead times,3,,0,,controller|lead time|lead times,3,1.0,True
+price lock novagrid has,2,HYBRID_SEMANTIC,S1,quadgrams,price lock novagrid has,4,,0,,novagrid|price lock,2,0.75,True

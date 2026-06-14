@@ -1,0 +1,304 @@
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+enum ProjectStatus {
+  active
+  archived
+  deleted
+}
+
+model Project {
+  id          String        @id @default(cuid())
+  name        String        @unique
+  status      ProjectStatus @default(active)
+  description String?
+  
+  // Anchor system configuration
+  anchorSystemId    String?   // new code - references which anchor set is used
+  anchorSystem      AnchorSystem? @relation(fields: [anchorSystemId], references: [id])
+  anchorCount       Int?      // new code - K value for this project (dynamic ANCHOR_K)
+  anchorChunksPath  String?   // new code - path to chunks if custom
+  
+  // FAISS indexes at project level
+  anchorIndexId     String?   // new code - shared anchor index for all sessions
+  promptIndexId     String?   // new code - shared prompt index for all sessions
+  responseIndexId   String?   // new code - shared response index for all sessions
+
+  // Anchoring configuration
+  defaultAnchoringConfig Json?  // Default config from first session
+
+  
+  createdAt   DateTime      @default(now())
+  updatedAt   DateTime      @updatedAt
+  sessions    Session[]
+  
+  @@index([status])
+  @@index([anchorSystemId]) // new code
+}
+
+
+model Session {
+  id             String   @id @default(cuid())
+  projectId      String
+  projectName    String   // new code - denormalized for readability
+  project        Project  @relation(fields: [projectId], references: [id], onDelete: Cascade)
+  name           String
+  conversationId String?  // conversation ID from OpenAI
+  notes          String?
+
+  // Anchoring configuration
+  anchoringConfig Json?  // This session's specific config
+  
+  embeddingContext Json?
+  createdAt        DateTime @default(now())
+  updatedAt        DateTime @updatedAt
+  
+  items   Item[]
+  requestSnapshots RequestSnapshot[]
+  
+  @@unique([projectId, name])
+  @@index([projectId])
+  @@index([projectName]) // new code - index for queries by project name
+  @@index([conversationId])
+}
+
+// =====================================
+// ENUMS
+// =====================================
+
+enum ItemRole {
+  USER
+  ASSISTANT
+  TOOL
+  SYSTEM
+  DEVELOPER
+}
+
+enum ItemType {
+  MESSAGE
+  TOOL_CALL
+  REASONING
+}
+
+enum AnchoredMode {
+  ANCHORED
+  CONTROL
+}
+
+enum ReasoningEffort {
+  LOW
+  MEDIUM
+  HIGH
+}
+
+enum FaissIndexName {
+  anchors
+  prompts
+  responses
+}
+
+model Item {
+  id        String  @id @default(cuid())
+  sessionId String
+  projectName  String // NOT NULL - always required
+  sessionName  String // NOT NULL - always required
+  session   Session @relation(fields: [sessionId], references: [id], onDelete: Cascade)
+
+  itemId      String? // "msg_..." from OpenAI
+  responseId  String? // "resp_..." from Responses API
+  role        String // user | assistant | developer | tool | reasoning
+  type        String // message | tool_call | reasoning
+  seq         Int // stable turn number
+  contentJson Json // Item content: { text: string } for messages, structured for tool/reasoning
+  meta        Json?
+  createdAt   DateTime @default(now())
+
+  // --- Turn pairing + embeddings ---
+  turnId           String? // shared between user and assistant items
+  promptVectorId   String? // set on the user item only
+  newPromptVectorId String? //new - combined (essence + prompt) embedding for anchor selection
+  responseVectorId String? // set on the assistant item only
+
+  // === Anchoring experiment fields ===
+  anchored        Boolean? // true if anchors were active in this item
+  anchorWeights   Json? // { anchorName: weight }
+  anchorSelection Json? // [AnchorChunk-anchorName] used in this message
+  distances       Json? // scalar maps (prompt↔anchor, response↔anchor, prompt↔response)
+
+  // ===add faiss vector storage versioning and id
+  faissIndexName     String? // "anchors" | "prompts" | "responses"  new code
+  faissIndexVersion  Int? // 3                                        new code
+  faissDim           Int? // 3072                                     new code
+  embeddingModel     String? // "text-embedding-3-large"                 new code
+  retrievedVectorIds Json? // ["A:123", "A:456"] anchor vectorid                       new code
+
+  // --- Relations ---
+  itemAnchors      ItemAnchor[]
+  judgeEvaluations JudgeEvaluation[]
+
+  @@index([sessionId, seq])
+  @@index([sessionId, role, seq])
+  @@index([sessionId, turnId])
+  @@index([responseId])
+  @@index([sessionId, createdAt])
+  @@unique([sessionId, turnId, role], name: "unique_session_turn_role")
+  @@index([sessionId])
+  @@index([turnId])
+  @@index([projectName])  // ✅ Query "all items in project X"
+  @@index([sessionName])  // ✅ Query "all items in session Y"
+  @@index([projectName, sessionName])  // ✅ Combined query
+}
+
+// =====================================
+// ITEMANCHOR (new)
+// =====================================
+
+model ItemAnchor {
+  id                 String   @id @default(cuid())
+  itemId             String
+  projectName        String  // NOT NULL - always required
+  sessionName        String  // NOT NULL - always required
+  contentJson        Json?   // Item content (only first row per itemId block)
+  item               Item     @relation(fields: [itemId], references: [id], onDelete: Cascade)
+  anchorChunkId      String // references AnchorChunk.id (not enforced to keep flexibility)
+  anchorName         String
+  weight             Float? // ones used at instructions
+  promptSimilarity   Float? // cosine (prompt, anchor)
+  newPromptSimilarity   Float? //new - cosine (essence+prompt, anchor) - used for selection
+  responseSimilarity Float? //cosine(response, anchor)
+  activationDelta    Float?
+  alwaysIncluded     Boolean? @default(false)
+
+  createdAt DateTime @default(now())
+
+  @@index([itemId])
+  @@index([anchorChunkId])
+  @@index([anchorName])
+  @@index([projectName])  // Useful for analytics
+  @@index([sessionName])  // Useful for analytics
+}
+
+model RequestSnapshot {
+  id        String  @id @default(cuid())
+  sessionId String
+  projectName  String  // NOT NULL - always required
+  sessionName  String  // NOT NULL - always required
+  session   Session @relation(fields: [sessionId], references: [id], onDelete: Cascade)
+
+  payloadJson  Json // Verbatim request payload (instructions excluded)
+  responseJson Json // Model response payload, with 'instructions' trimmed or replaced by placeholder summary use delimiters
+  createdAt    DateTime @default(now())
+
+  // === Experimental tracking ===
+  model            String?
+  temperature      Float?
+  topP             Float?
+  maxOutputTokens  Int?
+  presencePenalty  Float?
+  frequencyPenalty Float?
+  anchoredMode     String? // "anchored" | "control"
+  anchoringSummary Json? // { anchor_version, anchors:[{id, weight}] }
+  reasoningEffort  ReasoningEffort?
+  instructionsHash String? // SHA256 of full instructions text (for replay integrity)
+  meta             Json? // additional UI toggles or runtime flags
+
+  @@index([sessionId, createdAt])
+  @@index([projectName])  // ✅ Query API logs by project
+}
+
+model AnchorChunk {
+  id        String   @id @default(cuid())
+  version   String // codifier version, e.g. "25_08_2025"
+  order     Int      // UNUSED - kept for schema stability, may remove in future
+  name      String
+  text      String // raw anchor text
+  vectorId  String? // reference to FAISS vector
+  meta      Json? // category, hash, or codifier notes
+  createdAt DateTime @default(now())
+
+  @@unique([version, name])
+  @@index([version, order])  // UNUSED - related to order field
+
+}
+
+/// =====================================
+// JUDGEEVALUATION (new)
+// =====================================
+
+model JudgeEvaluation {
+  id     String @id @default(cuid())
+  itemId String
+  projectName  String? 
+  sessionName  String? 
+  item   Item   @relation(fields: [itemId], references: [id], onDelete: Cascade)
+
+  overallAdherence Float?
+  codifierScores   Json?
+  strengths        Json?
+  weaknesses       Json?
+  recommendations  Json?
+
+  judgeModel      String?
+  judgePromptHash String?
+  createdAt       DateTime @default(now())
+
+  @@index([itemId])
+}
+
+// New model to track anchor system configurations
+model AnchorSystem { // new code - entire model
+  id             String   @id @default(cuid())
+  name           String   @unique  // e.g., "default_19", "experiment_25"
+  anchorCount    Int               // K value
+  chunksPath     String            // path to anchor chunks
+  embeddingDim   Int      @default(3072)
+  embeddingModel String   @default("text-embedding-3-large")
+  description    String?           // optional description
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+
+  projects       Project[]
+  
+  @@index([name])
+}
+
+
+model ConversationJudgment {
+  id            String   @id @default(cuid())
+
+  // What was compared
+  sessionAId    String
+  sessionBId    String
+  startSeqA     Int
+  startSeqB     Int
+  numTurns      Int
+
+  // Scores for conversation A
+  continuityA   Int
+  consistencyA  Int
+  groundingA    Int
+  driftA        Int
+  overallQualityA Int  // ← NEW: Overall assessment
+
+  // Scores for conversation B
+  continuityB   Int
+  consistencyB  Int
+  groundingB    Int
+  driftB        Int
+  overallQualityB Int  // ← NEW: Overall assessment
+
+  // Judge metadata
+  judgeReasoning String?
+  judgeModel     String?
+
+  createdAt     DateTime @default(now())
+
+  @@index([sessionAId])
+  @@index([sessionBId])
+}

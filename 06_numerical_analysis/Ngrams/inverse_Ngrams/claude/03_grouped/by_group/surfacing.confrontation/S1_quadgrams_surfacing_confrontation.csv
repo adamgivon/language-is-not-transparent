@@ -1,0 +1,17 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+would make us wrong,6,AC15,S1,quadgrams,make wrong,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,wrong,False
+is permissible and doesn,2,AC15,S1,quadgrams,permissible doesn,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn,False
+permissible and doesn t,2,AC15,S1,quadgrams,permissible doesn,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn|doesn t,False
+make us wrong a,2,AC15,S1,quadgrams,make wrong,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,wrong,False
+make us wrong the,2,AC15,S1,quadgrams,make wrong,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,wrong,False
+the contract doesn t,2,AC15,S1,quadgrams,contract doesn,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn|doesn t,False
+contract doesn t allow,2,AC15,S1,quadgrams,contract doesn allow,3,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn|doesn t,False
+emergency services isn t,4,CONTROL,S1,quadgrams,emergency services isn,3,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,isn t,False
+isn t hostage priced,4,HYBRID_3_5,S1,quadgrams,isn hostage priced,3,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,isn t,False
+so exit isn t,3,HYBRID_3_5,S1,quadgrams,exit isn,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,isn t,False
+exit isn t hostage,3,HYBRID_3_5,S1,quadgrams,exit isn hostage,3,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,isn t,False
+wrong in year one,3,HYBRID_3_5,S1,quadgrams,wrong year one,3,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,wrong,False
+that doesn t mean,2,HYBRID_3_5,S1,quadgrams,doesn mean,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn|doesn t,False
+doesn t mean novagrid,2,HYBRID_3_5,S1,quadgrams,doesn mean novagrid,3,,0,,novagrid,1,0.3333333333333333,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn|doesn t,False
+something minor goes wrong,2,HYBRID_3_5,S1,quadgrams,something minor goes wrong,4,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,wrong,False
+s clearly wrong you,3,HYBRID_SEMANTIC,S1,quadgrams,clearly wrong,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,wrong,False

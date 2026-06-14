@@ -1,0 +1,121 @@
+level,ngram,total_count,scenarios_present,scenarios,starter,scenario_term_count,scenario_heavy
+trigrams,if you can,34,4,S1|S3|S5|S7,if you,0,False
+trigrams,if you want,34,4,S1|S3|S5|S7,if you,0,False
+trigrams,you can t,31,4,S1|S3|S5|S7,you can,0,False
+trigrams,you don t,29,4,S1|S3|S5|S7,you don,0,False
+trigrams,you tell me,24,4,S1|S3|S5|S7,you tell,0,False
+quadgrams,if you tell me,23,4,S1|S3|S5|S7,if you,0,False
+trigrams,if you tell,23,4,S1|S3|S5|S7,if you,0,False
+trigrams,you re not,20,3,S1|S3|S7,you re,1,False
+quadgrams,i can help you,19,3,S1|S3|S7,i can,0,False
+trigrams,can help you,19,3,S1|S3|S7,can help,0,False
+trigrams,i can help,19,3,S1|S3|S7,i can,0,False
+trigrams,industry standard controllers,19,1,S1,industry standard,1,False
+trigrams,it s a,18,3,S1|S3|S7,it s,0,False
+quadgrams,if you can t,17,3,S3|S5|S7,if you,0,False
+trigrams,if it s,16,4,S1|S3|S5|S7,if it,0,False
+trigrams,your home base,16,1,S7,your home,0,False
+trigrams,essential infrastructure cloud,15,1,S1,essential infrastructure,3,True
+trigrams,on prem failover,15,1,S1,on prem,3,True
+trigrams,the modular option,15,1,S1,the modular,1,False
+quadgrams,if you want i,14,4,S1|S3|S5|S7,if you,0,False
+quadgrams,you want i can,14,4,S1|S3|S5|S7,you want,0,False
+trigrams,want i can,14,4,S1|S3|S5|S7,want i,0,False
+trigrams,you want i,14,4,S1|S3|S5|S7,you want,0,False
+trigrams,you may be,13,4,S1|S3|S5|S7,you may,0,False
+trigrams,can t be,12,4,S1|S3|S5|S7,can t,0,False
+trigrams,controller lead time,12,1,S1,controller lead,3,True
+trigrams,it doesn t,12,4,S1|S3|S5|S7,it doesn,0,False
+trigrams,it s not,12,4,S1|S3|S5|S7,it s,0,False
+trigrams,maintenance support price,12,1,S1,maintenance support,3,True
+trigrams,treat it as,12,4,S1|S3|S5|S7,treat it,0,False
+quadgrams,keep your home base,11,1,S7,keep your,0,False
+trigrams,can still be,11,4,S1|S3|S5|S7,can still,0,False
+trigrams,decisions conventions constraints,11,1,S5,decisions conventions,0,False
+trigrams,i want to,11,1,S7,i want,0,False
+trigrams,keep your home,11,1,S7,keep your,0,False
+trigrams,only if you,11,4,S1|S3|S5|S7,only if,0,False
+trigrams,that s a,11,3,S1|S3|S7,that s,0,False
+quadgrams,maintenance support price lock,10,1,S1,maintenance support,4,True
+quadgrams,year maintenance support price,10,1,S1,year maintenance,4,True
+trigrams,but it s,10,4,S1|S3|S5|S7,but it,0,False
+trigrams,but only if,10,3,S1|S3|S5,but only,0,False
+trigrams,day to day,10,4,S1|S3|S5|S7,day to,0,False
+trigrams,for essential infrastructure,10,1,S1,for essential,2,True
+trigrams,if you share,10,3,S1|S3|S7,if you,0,False
+trigrams,modular architecture option,10,1,S1,modular architecture,2,True
+trigrams,support price lock,10,1,S1,support price,3,True
+trigrams,the hardware fix,10,1,S3,the hardware,1,False
+trigrams,this is the,10,3,S1|S5|S7,this is,0,False
+trigrams,this isn t,10,4,S1|S3|S5|S7,this isn,0,False
+trigrams,year maintenance support,10,1,S1,year maintenance,3,True
+trigrams,you can use,10,3,S1|S3|S7,you can,0,False
+trigrams,a one page,9,3,S1|S3|S7,a one,0,False
+trigrams,and i ll,9,3,S1|S3|S7,and i,0,False
+trigrams,don t want,9,2,S3|S7,don t,0,False
+trigrams,help you draft,9,2,S1|S7,help you,0,False
+trigrams,s lock in,9,1,S1,s lock,2,True
+trigrams,tell me what,9,4,S1|S3|S5|S7,tell me,0,False
+trigrams,the chief architect,9,1,S3,the chief,2,True
+trigrams,the modular architecture,9,1,S1,the modular,2,True
+quadgrams,you tell me what,8,4,S1|S3|S5|S7,you tell,0,False
+trigrams,both of you,8,1,S7,both of,1,False
+trigrams,do you want,8,1,S7,do you,0,False
+trigrams,high interference zones,8,1,S3,high interference,1,False
+trigrams,if you re,8,2,S1|S7,if you,1,False
+trigrams,or at least,8,4,S1|S3|S5|S7,or at,0,False
+trigrams,proposal a as,8,1,S3,proposal a,0,False
+trigrams,that don t,8,4,S1|S3|S5|S7,that don,0,False
+trigrams,the budget chair,8,1,S1,the budget,1,False
+trigrams,this is a,8,4,S1|S3|S5|S7,this is,0,False
+trigrams,this is not,8,4,S1|S3|S5|S7,this is,0,False
+trigrams,unless you can,8,3,S1|S3|S7,unless you,0,False
+trigrams,what do you,8,1,S7,what do,0,False
+trigrams,what reveals it,8,1,S7,what reveals,0,False
+trigrams,what would you,8,1,S7,what would,0,False
+trigrams,you have a,8,3,S1|S3|S7,you have,0,False
+trigrams,you want children,8,1,S7,you want,1,False
+quadgrams,can help you draft,7,2,S1|S7,can help,0,False
+quadgrams,conventions constraints system map,7,1,S5,conventions constraints,0,False
+quadgrams,dot waiver week review,7,1,S1,dot waiver,2,True
+quadgrams,if you want tell,7,2,S1|S7,if you,0,False
+quadgrams,what did we try,7,1,S5,what did,0,False
+quadgrams,you want tell me,7,2,S1|S7,you want,0,False
+trigrams,a staged plan,7,1,S7,a staged,0,False
+trigrams,and it s,7,3,S1|S5|S7,and it,0,False
+trigrams,and whether you,7,2,S1|S7,and whether,0,False
+trigrams,because it s,7,4,S1|S3|S5|S7,because it,0,False
+trigrams,change of control,7,1,S1,change of,1,False
+trigrams,constraints system map,7,1,S5,constraints system,0,False
+trigrams,conventions constraints system,7,1,S5,conventions constraints,0,False
+trigrams,did we try,7,1,S5,did we,0,False
+trigrams,dot waiver week,7,1,S1,dot waiver,2,True
+trigrams,even if you,7,3,S1|S5|S7,even if,0,False
+trigrams,fail safe behavior,7,2,S1|S3,fail safe,0,False
+trigrams,for the hardware,7,1,S3,for the,1,False
+trigrams,i can suggest,7,2,S3|S7,i can,0,False
+trigrams,in high interference,7,1,S3,in high,2,True
+trigrams,it s still,7,3,S1|S3|S7,it s,0,False
+trigrams,lead time risk,7,1,S1,lead time,2,True
+trigrams,more likely to,7,2,S1|S5,more likely,0,False
+trigrams,proprietary controller lead,7,1,S1,proprietary controller,3,True
+trigrams,so you can,7,2,S1|S5,so you,0,False
+trigrams,spares hot swap,7,1,S3,spares hot,0,False
+trigrams,standard controllers and,7,1,S1,standard controllers,1,False
+trigrams,that s not,7,4,S1|S3|S5|S7,that s,0,False
+trigrams,this into a,7,4,S1|S3|S5|S7,this into,0,False
+trigrams,vendor lock in,7,1,S1,vendor lock,3,True
+trigrams,waiver week review,7,1,S1,waiver week,1,False
+trigrams,want tell me,7,2,S1|S7,want tell,0,False
+trigrams,what did we,7,1,S5,what did,0,False
+trigrams,what to verify,7,2,S1|S5,what to,0,False
+trigrams,what you ve,7,3,S1|S3|S7,what you,0,False
+trigrams,where you are,7,1,S3,where you,0,False
+trigrams,where you d,7,1,S7,where you,0,False
+trigrams,whether you d,7,1,S7,whether you,0,False
+trigrams,you want tell,7,2,S1|S7,you want,0,False
+quadgrams,but only if you,6,3,S1|S3|S5,but only,0,False
+quadgrams,can turn this into,6,3,S1|S3|S5,can turn,0,False
+quadgrams,controller lead time risk,6,1,S1,controller lead,3,True
+quadgrams,council s lock in,6,1,S1,council s,3,True
+quadgrams,decisions conventions constraints system,6,1,S5,decisions conventions,0,False

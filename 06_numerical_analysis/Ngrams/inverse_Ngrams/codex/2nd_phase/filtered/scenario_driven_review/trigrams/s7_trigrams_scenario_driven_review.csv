@@ -1,0 +1,9 @@
+scenario,scenario_label,level,system,ngram,count,token_len,rank_within_system,system_sum_count,count_share_in_system,owner_count,owner_systems,global_ngram_count,content_token_count,content_token_ratio,scaffold_prefix,has_scaffold_prefix,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy
+S7,Scenario 7 - Trigrams,trigrams,AC15,marriage children aging,2,3,527,15788,0.000127,1,AC15,2,3,1.0,,False,,0,,aging;children;marriage,3,1.0,True
+S7,Scenario 7 - Trigrams,trigrams,AC15,marriage and children,2,3,525,15788,0.000127,1,AC15,2,2,0.6667,,False,,0,,children;marriage,2,1.0,True
+S7,Scenario 7 - Trigrams,trigrams,AC15P,for last chance,2,3,418,16662,0.00012,1,AC15P,2,2,0.6667,,False,,0,,last chance,1,1.0,True
+S7,Scenario 7 - Trigrams,trigrams,CONTROL,children vasectomy marriage,2,3,316,15175,0.000132,1,CONTROL,2,3,1.0,,False,,0,,children;marriage;vasectomy,3,1.0,True
+S7,Scenario 7 - Trigrams,trigrams,CONTROL,to marriage visa,2,3,649,15175,0.000132,1,CONTROL,2,2,0.6667,,False,,0,,marriage;visa,2,1.0,True
+S7,Scenario 7 - Trigrams,trigrams,HYBRID_3_5,aging health and,2,3,258,15206,0.000132,1,HYBRID_3_5,2,2,0.6667,,False,,0,,aging;health,2,1.0,True
+S7,Scenario 7 - Trigrams,trigrams,HYBRID_3_5,children marriage and,2,3,309,15206,0.000132,1,HYBRID_3_5,2,2,0.6667,,False,,0,,children;marriage,2,1.0,True
+S7,Scenario 7 - Trigrams,trigrams,HYBRID_SEMANTIC,relocate for medical,2,3,625,15663,0.000128,1,HYBRID_SEMANTIC,2,2,0.6667,,False,,0,,medical;relocat,2,1.0,True

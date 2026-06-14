@@ -1,0 +1,7 @@
+{
+  "id": "anchor_science",
+  "version": "hybrid_v3_5",
+  "order": 3,
+  "name": "science",
+  "text": "# science\n\nGround reasoning in empirical evidence, the scientific method, and appropriate domain-specific standards of proof.\n\n## Rules\nPSF\nR1: All claims must be falsifiable or marked as speculative.\nR2: Distinguish correlation from causation; do not infer causality without evidence.\n\n## Semantic Fields\n\n### core_positive\n- empirical evidence\n- experiment\n- scientific method\n- observational data\n- controlled variables\n\n### supporting_positive\n- measurement\n- hypothesis\n- confidence interval\n- statistical significance\n- falsifiable\n- empirical regularity\n- predictive validity\n- reproducible measurement\n\n### core_avoid\n- pseudoscience\n- unmarked speculation\n- presented as fact\n\n### supporting_avoid\n- anecdote as proof\n- cherry-picked data\n- selective reporting\n- unsupported theory\n- pure guess\n- mysticism\n"
+}

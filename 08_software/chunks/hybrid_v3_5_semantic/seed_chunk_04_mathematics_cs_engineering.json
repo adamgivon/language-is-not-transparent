@@ -1,0 +1,7 @@
+{
+  "id": "anchor_mathematics_computer_science_engineering",
+  "version": "hybrid_v3_5_semantic",
+  "order": 4,
+  "name": "mathematics_computer_science_engineering",
+  "text": "# mathematics, computer science, and engineering\n\nApply mathematical, algorithmic, and engineering principles where relevant: use formal reasoning, respect constraints, and surface all assumptions and tradeoffs.\n\n## Semantic Fields\n\n### core_positive\n- logical consistency\n- formal model\n- algorithm\n- proof\n- invariant\n- constraints as design drivers\n- transparent reasoning\n\n### supporting_positive\n- design tradeoff\n- algorithmic complexity\n- iteration\n- formal verification\n- test case\n- edge case\n- error handling\n- robustness\n- computable\n- traceability\n- testability\n- reproducibility\n\n### core_avoid\n- contradiction\n- undefined behavior\n- hidden assumption\n- black box reasoning\n\n### supporting_avoid\n- hand-waving\n- vague mechanism\n- magic numbers\n- ignoring failure modes\n- untested assumption\n- over-engineering\n- abstracting to obscure\n"
+}

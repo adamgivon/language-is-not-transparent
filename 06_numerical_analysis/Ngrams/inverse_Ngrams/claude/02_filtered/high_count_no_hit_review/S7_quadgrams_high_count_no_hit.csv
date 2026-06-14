@@ -1,0 +1,63 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy
+keep an exit fund,7,AC15,S7,quadgrams,keep exit fund,3,,0,,,0,0.0,False
+an exit fund don,5,AC15,S7,quadgrams,exit fund,2,,0,,,0,0.0,False
+exit fund don t,5,AC15,S7,quadgrams,exit fund,2,,0,,,0,0.0,False
+week ordinary life stay,5,AC15,S7,quadgrams,week ordinary life stay,4,,0,,,0,0.0,False
+an exit fund and,5,AC15,S7,quadgrams,exit fund,2,,0,,,0,0.0,False
+family expect from a,3,AC15,S7,quadgrams,family expect,2,,0,,,0,0.0,False
+don t merge finances,3,AC15,S7,quadgrams,merge finances,2,,0,,,0,0.0,False
+get independent legal advice,3,AC15,S7,quadgrams,get independent legal advice,4,,0,,,0,0.0,False
+and your citizenship i,3,AC15,S7,quadgrams,citizenship i,2,,0,,citizenship,1,0.5,False
+your citizenship i can,3,AC15,S7,quadgrams,citizenship i,2,,0,,citizenship,1,0.5,False
+an week ordinary life,3,AC15,S7,quadgrams,week ordinary life,3,,0,,,0,0.0,False
+maintain an exit fund,3,AC15,S7,quadgrams,maintain exit fund,3,,0,,,0,0.0,False
+exit fund and a,3,AC15,S7,quadgrams,exit fund,2,,0,,,0,0.0,False
+weekly activity without her,3,AC15,S7,quadgrams,weekly activity without her,4,,0,,,0,0.0,False
+may not be seeing,8,AC15P,S7,quadgrams,may seeing,2,,0,,,0,0.0,False
+your home country and,7,AC15P,S7,quadgrams,home country,2,,0,,,0,0.0,False
+can afford alone in,4,AC15P,S7,quadgrams,afford alone,2,,0,,alone,1,0.5,False
+afford alone in your,4,AC15P,S7,quadgrams,afford alone,2,,0,,alone,1,0.5,False
+alone in your name,4,AC15P,S7,quadgrams,alone name,2,,0,,alone,1,0.5,False
+care is plan a,4,AC15P,S7,quadgrams,care plan,2,,0,,,0,0.0,False
+or rent your own,4,AC15P,S7,quadgrams,rent own,2,,0,,,0,0.0,False
+with a clear exit,3,AC15P,S7,quadgrams,clear exit,2,,0,,,0,0.0,False
+rental in your name,3,AC15P,S7,quadgrams,rental name,2,,0,,,0,0.0,False
+in your name separate,3,AC15P,S7,quadgrams,name separate,2,,0,,,0,0.0,False
+your name separate finances,3,AC15P,S7,quadgrams,name separate finances,3,,0,,,0,0.0,False
+and yours and whether,3,AC15P,S7,quadgrams,yours whether,2,,0,,,0,0.0,False
+in years you she,3,AC15P,S7,quadgrams,years she,2,,0,,,0,0.0,False
+home country and hers,3,AC15P,S7,quadgrams,home country hers,3,,0,,,0,0.0,False
+activities not centered on,3,AC15P,S7,quadgrams,activities centered,2,,0,,,0,0.0,False
+marriage money model family,3,AC15P,S7,quadgrams,marriage money model family,4,,0,,marriage,1,0.25,False
+money model family obligations,3,AC15P,S7,quadgrams,money model family obligations,4,,0,,,0,0.0,False
+last chance pressure is,3,AC15P,S7,quadgrams,last chance pressure,3,,0,,last chance,1,0.6666666666666666,False
+separate finances no loans,3,AC15P,S7,quadgrams,separate finances no loans,4,,0,,,0,0.0,False
+exit plan cash logistics,3,AC15P,S7,quadgrams,exit plan cash logistics,4,,0,,,0,0.0,False
+checkpoints on the calendar,3,AC15P,S7,quadgrams,checkpoints calendar,2,,0,,,0,0.0,False
+whether you ll stay,3,AC15P,S7,quadgrams,whether ll stay,3,,0,,,0,0.0,False
+your own place and,3,AC15P,S7,quadgrams,own place,2,,0,,,0,0.0,False
+stay with her or,3,AC15P,S7,quadgrams,stay her,2,,0,,,0,0.0,False
+her or rent your,3,AC15P,S7,quadgrams,her rent,2,,0,,,0,0.0,False
+doesn t consume her,3,CONTROL,S7,quadgrams,doesn consume her,3,,0,,,0,0.0,False
+t consume her life,3,CONTROL,S7,quadgrams,consume her life,3,,0,,,0,0.0,False
+in a new country,3,CONTROL,S7,quadgrams,new country,2,,0,,,0,0.0,False
+about kids marriage family,3,CONTROL,S7,quadgrams,about kids marriage family,4,,0,,marriage,1,0.25,False
+home base for a,3,CONTROL,S7,quadgrams,home base,2,,0,,,0,0.0,False
+base for a year,3,CONTROL,S7,quadgrams,base year,2,,0,,,0,0.0,False
+keeping my home base,3,CONTROL,S7,quadgrams,keeping my home base,4,,0,,,0,0.0,False
+you may not want,6,HYBRID_3_5,S7,quadgrams,may want,2,,0,,,0,0.0,False
+may not want to,6,HYBRID_3_5,S7,quadgrams,may want,2,,0,,,0,0.0,False
+not want to see,6,HYBRID_3_5,S7,quadgrams,want see,2,,0,,,0,0.0,False
+trial relocation months with,3,HYBRID_3_5,S7,quadgrams,trial relocation months,3,,0,,relocat|relocation,2,0.3333333333333333,False
+e g week and,3,HYBRID_3_5,S7,quadgrams,e g week,3,,0,,,0,0.0,False
+longer normal life stay,3,HYBRID_3_5,S7,quadgrams,longer normal life stay,4,,0,,,0,0.0,False
+you attend without her,3,HYBRID_3_5,S7,quadgrams,attend without her,3,,0,,,0,0.0,False
+want to see that,3,HYBRID_3_5,S7,quadgrams,want see,2,,0,,,0,0.0,False
+you may be missing,8,HYBRID_SEMANTIC,S7,quadgrams,may missing,2,,0,,,0,0.0,False
+avoided because it can,4,HYBRID_SEMANTIC,S7,quadgrams,avoided because,2,,0,,,0,0.0,False
+pre commit to a,3,HYBRID_SEMANTIC,S7,quadgrams,pre commit,2,,0,,,0,0.0,False
+don t renegotiate under,3,HYBRID_SEMANTIC,S7,quadgrams,renegotiate under,2,,0,,,0,0.0,False
+and whether she wants,3,HYBRID_SEMANTIC,S7,quadgrams,whether she wants,3,,0,,,0,0.0,False
+no irreversible steps yet,3,HYBRID_SEMANTIC,S7,quadgrams,no irreversible steps yet,4,,0,,,0,0.0,False
+money norms family obligations,3,HYBRID_SEMANTIC,S7,quadgrams,money norms family obligations,4,,0,,,0,0.0,False
+another trial split base,3,HYBRID_SEMANTIC,S7,quadgrams,another trial split base,4,,0,,,0,0.0,False

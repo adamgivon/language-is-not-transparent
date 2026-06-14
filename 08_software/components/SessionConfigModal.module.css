@@ -1,0 +1,322 @@
+.backdrop {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+.modal {
+  background: var(--bg-primary, #1e1e1e);
+  border: 1px solid var(--border-color, #3e3e3e);
+  border-radius: 8px;
+  padding: 24px;
+  min-width: 500px;
+  max-width: 600px;
+  max-height: 80vh;
+  overflow-y: auto;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.header {
+  margin-bottom: 24px;
+  border-bottom: 1px solid var(--border-color, #3e3e3e);
+  padding-bottom: 16px;
+}
+
+.title {
+  margin: 0 0 8px 0;
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--text-primary, #e0e0e0);
+}
+
+.subtitle {
+  margin: 0;
+  font-size: 13px;
+  color: var(--text-tertiary, #808080);
+  font-style: italic;
+}
+
+.content {
+  margin-bottom: 24px;
+}
+
+.field {
+  margin-bottom: 20px;
+}
+
+.label {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--text-secondary, #b0b0b0);
+}
+
+.input,
+.select {
+  width: 100%;
+  padding: 10px;
+  background: var(--bg-secondary, #2a2a2a);
+  border: 1px solid var(--border-color, #3e3e3e);
+  border-radius: 4px;
+  color: var(--text-primary, #e0e0e0);
+  font-size: 14px;
+  font-family: inherit;
+}
+
+.input:focus,
+.select:focus {
+  outline: none;
+  border-color: var(--accent-color, #569cd6);
+}
+
+.inputSmall {
+  width: 80px;
+  padding: 6px 10px;
+  background: var(--bg-secondary, #2a2a2a);
+  border: 1px solid var(--border-color, #3e3e3e);
+  border-radius: 4px;
+  color: var(--text-primary, #e0e0e0);
+  font-size: 14px;
+  font-family: inherit;
+}
+
+.inputSmall:focus {
+  outline: none;
+  border-color: var(--accent-color, #569cd6);
+}
+
+.forcedAnchors {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 12px;
+  background: var(--bg-tertiary, #252525);
+  border-radius: 4px;
+}
+
+.forcedAnchorRow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.anchorName {
+  font-size: 14px;
+  color: var(--text-primary, #e0e0e0);
+  font-weight: 500;
+  text-transform: capitalize;
+}
+
+.checkboxLabel {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+  color: var(--text-primary, #e0e0e0);
+  font-size: 14px;
+}
+
+.checkboxLabel input[type="checkbox"] {
+  cursor: pointer;
+  width: 16px;
+  height: 16px;
+}
+
+.actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 12px;
+  padding-top: 16px;
+  border-top: 1px solid var(--border-color, #3e3e3e);
+}
+
+.buttonSecondary,
+.buttonPrimary {
+  padding: 10px 20px;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  border: none;
+  transition: all 0.2s;
+}
+
+.buttonSecondary {
+  background: transparent;
+  color: var(--text-secondary, #b0b0b0);
+  border: 1px solid var(--border-color, #3e3e3e);
+}
+
+.buttonSecondary:hover {
+  background: var(--bg-secondary, #2a2a2a);
+}
+
+.buttonPrimary {
+  background: var(--accent-color, #569cd6);
+  color: #ffffff;
+}
+
+.buttonPrimary:hover {
+  background: var(--accent-color-hover, #4a8cc4);
+}
+
+/* new code - loading state */
+.loading {
+  text-align: center;
+  padding: 20px;
+  color: var(--text-secondary, #b0b0b0);
+  font-size: 14px;
+}
+
+/* new code - chunk list container */
+.chunkList {
+  max-height: 400px;
+  overflow-y: auto;
+  border: 1px solid var(--border-color, #3e3e3e);
+  border-radius: 4px;
+  background: var(--bg-secondary, #2a2a2a);
+  padding: 12px;
+}
+
+/* new code - individual chunk row */
+.chunkRow {
+  display: grid;
+  grid-template-columns: minmax(150px, 1fr) 80px 80px 100px 120px;
+  gap: 12px;
+  align-items: center;
+  padding: 10px;
+  border-bottom: 1px solid var(--border-color, #3e3e3e);
+}
+
+.chunkRow:last-child {
+  border-bottom: none;
+}
+
+/* new code - chunk name column */
+.chunkName {
+  /* font-size: 14px;
+  color: var(--text-primary, #e0e0e0);
+  font-weight: 500;
+  text-transform: capitalize; */
+  font-size: 14px;
+  color: var(--text-primary, #e0e0e0);
+  font-weight: 500;
+  text-transform: capitalize;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  min-width: 0; /* allows text-overflow to work in grid */
+}
+
+/* new code - individual cell in chunk row */
+.chunkHeader {
+  display: grid;
+  grid-template-columns: minmax(150px, 1fr) 80px 80px 100px 120px;
+  gap: 12px;
+  align-items: center;
+  padding: 10px;
+  font-weight: 600;
+  font-size: 12px;
+  color: var(--text-secondary, #b0b0b0);
+  text-transform: uppercase;
+  border-bottom: 2px solid var(--border-color, #3e3e3e);
+}
+
+.chunkCell {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.chunkCell input[type="checkbox"] {
+  cursor: pointer;
+  width: 16px;
+  height: 16px;
+}
+
+.chunkCell input[type="checkbox"]:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+/* new code - checkboxes section */
+.chunkControls {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+/* new code - inputs section */
+.chunkInputs {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-end;
+  min-width: 80px;
+}
+
+/* new code - compact view styles */
+.compactSection {
+  margin-bottom: 20px;
+  padding: 12px;
+  background: var(--bg-secondary, #2a2a2a);
+  border-radius: 4px;
+}
+
+.compactLabel {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--text-tertiary, #808080);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 8px;
+}
+
+.compactValue {
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--text-primary, #e0e0e0);
+  text-transform: capitalize;
+}
+
+.compactList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.compactItem {
+  padding: 6px 12px;
+  background: var(--bg-tertiary, #252525);
+  border: 1px solid var(--border-color, #3e3e3e);
+  border-radius: 4px;
+  font-size: 13px;
+  color: var(--text-primary, #e0e0e0);
+  font-weight: 500;
+}
+
+.compactParams {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 8px;
+}
+
+.compactParam {
+  font-size: 14px;
+  color: var(--text-secondary, #b0b0b0);
+}
+
+.editButtonContainer {
+  margin-top: 16px;
+  display: flex;
+  justify-content: center;
+}

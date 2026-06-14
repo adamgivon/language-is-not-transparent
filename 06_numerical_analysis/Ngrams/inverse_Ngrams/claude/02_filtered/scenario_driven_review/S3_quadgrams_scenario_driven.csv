@@ -1,0 +1,10 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy
+a the chief architect,2,AC15,S3,quadgrams,chief architect,2,,0,,chief architect,1,1.0,True
+from the chief architect,2,AC15P,S3,quadgrams,chief architect,2,,0,,chief architect,1,1.0,True
+chief architect is a,2,AC15P,S3,quadgrams,chief architect,2,,0,,chief architect,1,1.0,True
+early access is not,2,AC15P,S3,quadgrams,early access,2,,0,,early access,1,1.0,True
+availability early access launch,2,AC15P,S3,quadgrams,availability early access launch,4,,0,,launch|early access,2,0.75,True
+commercial early access launch,2,CONTROL,S3,quadgrams,commercial early access launch,4,,0,,launch|early access,2,0.75,True
+chief architect on the,2,HYBRID_3_5,S3,quadgrams,chief architect,2,,0,,chief architect,1,1.0,True
+the chief architect can,2,HYBRID_SEMANTIC,S3,quadgrams,chief architect,2,,0,,chief architect,1,1.0,True
+you launch into mining,2,HYBRID_SEMANTIC,S3,quadgrams,launch mining,2,,0,,launch|mining,2,1.0,True

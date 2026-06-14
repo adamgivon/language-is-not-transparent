@@ -1,0 +1,164 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy
+data config portability transition,4,AC15,S1,quadgrams,data config portability transition,4,truth_and_fact|temporal_dynamics,2,transition|data,,0,0.0,False
+timeline and required controls,3,AC15,S1,quadgrams,timeline required controls,3,practicality_and_feasibility,1,timeline,,0,0.0,False
+data config portability and,3,AC15,S1,quadgrams,data config portability,3,truth_and_fact,1,data,,0,0.0,False
+config portability transition assistance,3,AC15,S1,quadgrams,config portability transition assistance,4,temporal_dynamics,1,transition,,0,0.0,False
+with timeline and required,2,AC15,S1,quadgrams,timeline required,2,practicality_and_feasibility,1,timeline,,0,0.0,False
+a concrete critical path,2,AC15,S1,quadgrams,concrete critical path,3,practicality_and_feasibility,1,concrete,,0,0.0,False
+controllers data config portability,2,AC15,S1,quadgrams,controllers data config portability,4,truth_and_fact,1,data,controller|controllers,2,0.25,False
+in standard controllers data,2,AC15,S1,quadgrams,standard controllers data,3,truth_and_fact,1,data,controller|controllers,2,0.3333333333333333,False
+standard controllers data ownership,2,AC15,S1,quadgrams,standard controllers data ownership,4,truth_and_fact,1,data,controller|controllers,2,0.25,False
+less long run evidence,2,AC15,S1,quadgrams,less long run evidence,4,truth_and_fact,1,evidence,,0,0.0,False
+concrete way standard controllers,2,AC15,S1,quadgrams,concrete way standard controllers,4,practicality_and_feasibility,1,concrete,controller|controllers,2,0.25,False
+maintenance cost reduction vs,2,AC15,S1,quadgrams,maintenance cost reduction vs,4,practicality_and_feasibility,1,cost,,0,0.0,False
+on schedule if novagrid,2,AC15,S1,quadgrams,schedule novagrid,2,practicality_and_feasibility,1,schedule,novagrid,1,0.5,False
+schedule if novagrid can,2,AC15,S1,quadgrams,schedule novagrid,2,practicality_and_feasibility,1,schedule,novagrid,1,0.5,False
+a week selection window,2,AC15,S1,quadgrams,week selection window,3,temporal_dynamics,1,window,,0,0.0,False
+cost to maintain the,2,AC15,S1,quadgrams,cost maintain,2,practicality_and_feasibility,1,cost,,0,0.0,False
+configurations logs performance data,2,AC15,S1,quadgrams,configurations logs performance data,4,truth_and_fact,1,data,,0,0.0,False
+a phased notice to,2,AC15,S1,quadgrams,phased notice,2,temporal_dynamics,1,phased,,0,0.0,False
+phased notice to proceed,2,AC15,S1,quadgrams,phased notice proceed,3,temporal_dynamics,1,phased,,0,0.0,False
+a phased start and,2,AC15,S1,quadgrams,phased start,2,temporal_dynamics,1,phased,,0,0.0,False
+and lock in risk,2,AC15,S1,quadgrams,lock risk,2,practicality_and_feasibility,1,risk,lock in,1,0.5,False
+fewest external blockers civitas,2,AC15,S1,quadgrams,fewest external blockers civitas,4,practicality_and_feasibility,1,blockers,civitas,1,0.25,False
+schedule exhibit with long,2,AC15,S1,quadgrams,schedule exhibit long,3,practicality_and_feasibility,1,schedule,,0,0.0,False
+cost and complexity that,2,AC15,S1,quadgrams,cost complexity,2,practicality_and_feasibility,1,cost,,0,0.0,False
+more predictable near term,2,AC15,S1,quadgrams,more predictable near term,4,temporal_dynamics,1,near term,,0,0.0,False
+predictable near term opex,2,AC15,S1,quadgrams,predictable near term opex,4,temporal_dynamics,1,near term,,0,0.0,False
+in documented formats transition,2,AC15,S1,quadgrams,documented formats transition,3,temporal_dynamics,1,transition,,0,0.0,False
+documented formats transition assistance,2,AC15,S1,quadgrams,documented formats transition assistance,4,temporal_dynamics,1,transition,,0,0.0,False
+formats transition assistance defined,2,AC15,S1,quadgrams,formats transition assistance defined,4,temporal_dynamics,1,transition,,0,0.0,False
+data ownership full export,7,AC15P,S1,quadgrams,data ownership full export,4,truth_and_fact,1,data,,0,0.0,False
+transition assistance clause pre,5,AC15P,S1,quadgrams,transition assistance clause pre,4,temporal_dynamics,1,transition,,0,0.0,False
+a week award window,3,AC15P,S1,quadgrams,week award window,3,temporal_dynamics,1,window,,0,0.0,False
+one failure council budget,3,AC15P,S1,quadgrams,one failure council budget,4,practicality_and_feasibility,1,budget,,0,0.0,False
+failure council budget chair,3,AC15P,S1,quadgrams,failure council budget chair,4,practicality_and_feasibility,1,budget,,0,0.0,False
+becomes a schedule risk,2,AC15P,S1,quadgrams,becomes schedule risk,3,practicality_and_feasibility,2,risk|schedule,,0,0.0,False
+schedule risk regardless of,2,AC15P,S1,quadgrams,schedule risk regardless,3,practicality_and_feasibility,2,risk|schedule,,0,0.0,False
+term cost continuity controls,2,AC15P,S1,quadgrams,term cost continuity controls,4,practicality_and_feasibility|temporal_dynamics,2,cost|continuity,,0,0.0,False
+schedule risk we are,2,AC15P,S1,quadgrams,schedule risk,2,practicality_and_feasibility,2,risk|schedule,,0,0.0,False
+logs detector data in,2,AC15P,S1,quadgrams,logs detector data,3,truth_and_fact,1,data,,0,0.0,False
+access transition assistance clause,2,AC15P,S1,quadgrams,access transition assistance clause,4,temporal_dynamics,1,transition,,0,0.0,False
+waiver friction essential infrastructure,2,AC15P,S1,quadgrams,waiver friction essential infrastructure,4,practicality_and_feasibility,1,friction,infrastructure|essential infrastructure|waiver,3,0.75,True
+without punitive fees transition,2,AC15P,S1,quadgrams,without punitive fees transition,4,temporal_dynamics,1,transition,,0,0.0,False
+punitive fees transition assistance,2,AC15P,S1,quadgrams,punitive fees transition assistance,4,temporal_dynamics,1,transition,,0,0.0,False
+risk vendor responsiveness and,2,AC15P,S1,quadgrams,risk vendor responsiveness,3,practicality_and_feasibility,1,risk,vendor,1,0.3333333333333333,False
+the week award constraint,2,AC15P,S1,quadgrams,week award constraint,3,practicality_and_feasibility,1,constraint,,0,0.0,False
+we chose the option,2,AC15P,S1,quadgrams,chose option,2,imagination_and_possibility,1,option,,0,0.0,False
+reduce schedule certainty and,2,AC15P,S1,quadgrams,reduce schedule certainty,3,practicality_and_feasibility,1,schedule,,0,0.0,False
+schedule certainty and increase,2,AC15P,S1,quadgrams,schedule certainty increase,3,practicality_and_feasibility,1,schedule,,0,0.0,False
+certainty and increase lifecycle,2,AC15P,S1,quadgrams,certainty increase lifecycle,3,temporal_dynamics,1,lifecycle,,0,0.0,False
+migrates in the future,2,AC15P,S1,quadgrams,migrates future,2,temporal_dynamics,1,future,,0,0.0,False
+have procurement legal confirm,2,AC15P,S1,quadgrams,have procurement legal confirm,4,truth_and_fact,1,confirm,procurement,1,0.25,False
+possible iteration it required,2,AC15P,S1,quadgrams,possible iteration required,3,imagination_and_possibility,1,possible,,0,0.0,False
+the probability of schedule,2,AC15P,S1,quadgrams,probability schedule,2,practicality_and_feasibility,1,schedule,,0,0.0,False
+probability of schedule slip,2,AC15P,S1,quadgrams,probability schedule slip,3,practicality_and_feasibility,1,schedule,,0,0.0,False
+t delay start constraint,2,AC15P,S1,quadgrams,delay start constraint,3,practicality_and_feasibility,1,constraint,,0,0.0,False
+dependency inside a week,2,AC15P,S1,quadgrams,dependency inside week,3,practicality_and_feasibility,1,dependency,,0,0.0,False
+window novagrid also triggers,2,AC15P,S1,quadgrams,window novagrid also triggers,4,temporal_dynamics,1,window,novagrid,1,0.25,False
+risk stack for essential,2,AC15P,S1,quadgrams,risk stack essential,3,practicality_and_feasibility,1,risk,,0,0.0,False
+approved substitutes data ownership,2,AC15P,S1,quadgrams,approved substitutes data ownership,4,truth_and_fact,1,data,,0,0.0,False
+substitutes data ownership full,2,AC15P,S1,quadgrams,substitutes data ownership full,4,truth_and_fact,1,data,,0,0.0,False
+long term o m,4,CONTROL,S1,quadgrams,long term o m,4,temporal_dynamics,1,long term,,0,0.0,False
+o m cost predictability,4,CONTROL,S1,quadgrams,o m cost predictability,4,practicality_and_feasibility,1,cost,,0,0.0,False
+to compete future components,3,CONTROL,S1,quadgrams,compete future components,3,temporal_dynamics,1,future,,0,0.0,False
+preference for years operational,2,CONTROL,S1,quadgrams,preference years operational,3,practicality_and_feasibility,1,operational,,0,0.0,False
+for years operational history,2,CONTROL,S1,quadgrams,years operational history,3,practicality_and_feasibility,1,operational,,0,0.0,False
+data during major infrastructure,2,CONTROL,S1,quadgrams,data during major infrastructure,4,truth_and_fact,1,data,infrastructure,1,0.25,False
+right to compete future,2,CONTROL,S1,quadgrams,right compete future,3,temporal_dynamics,1,future,,0,0.0,False
+in interoperability exit options,2,CONTROL,S1,quadgrams,interoperability exit options,3,imagination_and_possibility,1,options,,0,0.0,False
+the city s constraints,2,CONTROL,S1,quadgrams,city constraints,2,practicality_and_feasibility,1,constraints,,0,0.0,False
+standard controllers data export,2,CONTROL,S1,quadgrams,standard controllers data export,4,truth_and_fact,1,data,controller|controllers,2,0.25,False
+emergency services incident adaptive,2,CONTROL,S1,quadgrams,emergency services incident adaptive,4,temporal_dynamics,1,adaptive,adaptive,1,0.25,False
+a higher governance risk,2,CONTROL,S1,quadgrams,higher governance risk,3,practicality_and_feasibility,1,risk,,0,0.0,False
+higher governance risk architecture,2,CONTROL,S1,quadgrams,higher governance risk architecture,4,practicality_and_feasibility,1,risk,architecture,1,0.25,False
+term o m cost,2,CONTROL,S1,quadgrams,term o m cost,4,practicality_and_feasibility,1,cost,,0,0.0,False
+cloud exception path practical,2,CONTROL,S1,quadgrams,cloud exception path practical,4,practicality_and_feasibility,1,practical,cloud,1,0.25,False
+a revised schedule that,2,CONTROL,S1,quadgrams,revised schedule,2,practicality_and_feasibility,1,schedule,,0,0.0,False
+revised schedule that still,2,CONTROL,S1,quadgrams,revised schedule still,3,practicality_and_feasibility,1,schedule,,0,0.0,False
+schedule that still meets,2,CONTROL,S1,quadgrams,schedule still meets,3,practicality_and_feasibility,1,schedule,,0,0.0,False
+procure spares independently data,2,CONTROL,S1,quadgrams,procure spares independently data,4,truth_and_fact,1,data,,0,0.0,False
+spares independently data ownership,2,CONTROL,S1,quadgrams,spares independently data ownership,4,truth_and_fact,1,data,,0,0.0,False
+independently data ownership export,2,CONTROL,S1,quadgrams,independently data ownership export,4,truth_and_fact,1,data,,0,0.0,False
+the modular option avoids,2,CONTROL,S1,quadgrams,modular option avoids,3,imagination_and_possibility,1,option,modular,1,0.3333333333333333,False
+modular option avoids the,2,CONTROL,S1,quadgrams,modular option avoids,3,imagination_and_possibility,1,option,modular,1,0.3333333333333333,False
+option avoids the week,2,CONTROL,S1,quadgrams,option avoids week,3,imagination_and_possibility,1,option,,0,0.0,False
+timing config performance data,2,CONTROL,S1,quadgrams,timing config performance data,4,truth_and_fact,1,data,,0,0.0,False
+waiver week review uncertain,2,CONTROL,S1,quadgrams,waiver week review uncertain,4,truth_and_fact,1,uncertain,waiver,1,0.25,False
+week review uncertain outcome,2,CONTROL,S1,quadgrams,week review uncertain outcome,4,truth_and_fact,1,uncertain,,0,0.0,False
+scenario demo incident modes,2,CONTROL,S1,quadgrams,scenario demo incident modes,4,temporal_dynamics|imagination_and_possibility,1,scenario,,0,0.0,False
+modular open controller option,4,HYBRID_3_5,S1,quadgrams,modular open controller option,4,imagination_and_possibility,1,option,controller|modular,2,0.5,False
+predictable long term operating,3,HYBRID_3_5,S1,quadgrams,predictable long term operating,4,temporal_dynamics,1,long term,,0,0.0,False
+pre priced transition assistance,3,HYBRID_3_5,S1,quadgrams,pre priced transition assistance,4,temporal_dynamics,1,transition,,0,0.0,False
+data ownership export timing,3,HYBRID_3_5,S1,quadgrams,data ownership export timing,4,truth_and_fact,1,data,,0,0.0,False
+operations package evp priority,3,HYBRID_3_5,S1,quadgrams,operations package evp priority,4,practicality_and_feasibility,1,priority,,0,0.0,False
+data export transition assistance,2,HYBRID_3_5,S1,quadgrams,data export transition assistance,4,truth_and_fact|temporal_dynamics,2,transition|data,,0,0.0,False
+risk lock in resilience,2,HYBRID_3_5,S1,quadgrams,risk lock resilience,3,practicality_and_feasibility|temporal_dynamics,2,resilience|risk,lock in,1,0.3333333333333333,False
+avoids the most uncertain,2,HYBRID_3_5,S1,quadgrams,avoids most uncertain,3,truth_and_fact,1,uncertain,,0,0.0,False
+standards models multi source,2,HYBRID_3_5,S1,quadgrams,standards models multi source,4,truth_and_fact,1,source,,0,0.0,False
+less long horizon evidence,2,HYBRID_3_5,S1,quadgrams,less long horizon evidence,4,truth_and_fact,1,evidence,,0,0.0,False
+transition assistance rates pre,2,HYBRID_3_5,S1,quadgrams,transition assistance rates pre,4,temporal_dynamics,1,transition,,0,0.0,False
+risk and narrative risk,2,HYBRID_3_5,S1,quadgrams,risk narrative risk,3,practicality_and_feasibility,1,risk,,0,0.0,False
+and narrative risk even,2,HYBRID_3_5,S1,quadgrams,narrative risk even,3,practicality_and_feasibility,1,risk,,0,0.0,False
+narrative risk even if,2,HYBRID_3_5,S1,quadgrams,narrative risk even,3,practicality_and_feasibility,1,risk,,0,0.0,False
+90k annual cloud cost,2,HYBRID_3_5,S1,quadgrams,90k annual cloud cost,4,practicality_and_feasibility,1,cost,cloud|90k,2,0.5,False
+the lowest approval friction,2,HYBRID_3_5,S1,quadgrams,lowest approval friction,3,practicality_and_feasibility,1,friction,,0,0.0,False
+is the main constraint,2,HYBRID_3_5,S1,quadgrams,main constraint,2,practicality_and_feasibility,1,constraint,,0,0.0,False
+risk if you share,2,HYBRID_3_5,S1,quadgrams,risk share,2,practicality_and_feasibility,1,risk,,0,0.0,False
+year s tighter budget,2,HYBRID_3_5,S1,quadgrams,year tighter budget,3,practicality_and_feasibility,1,budget,,0,0.0,False
+civitas s modular option,2,HYBRID_3_5,S1,quadgrams,civitas modular option,3,imagination_and_possibility,1,option,civitas|modular,2,0.6666666666666666,False
+less proven cities years,2,HYBRID_3_5,S1,quadgrams,less proven cities years,4,truth_and_fact,1,proven,,0,0.0,False
+the modular option even,2,HYBRID_3_5,S1,quadgrams,modular option even,3,imagination_and_possibility,1,option,modular,1,0.3333333333333333,False
+real schedule critical path,2,HYBRID_3_5,S1,quadgrams,real schedule critical path,4,practicality_and_feasibility,1,schedule,,0,0.0,False
+open controller option plus,2,HYBRID_3_5,S1,quadgrams,open controller option plus,4,imagination_and_possibility,1,option,controller,1,0.25,False
+multi source procurement city,2,HYBRID_3_5,S1,quadgrams,multi source procurement city,4,truth_and_fact,1,source,procurement,1,0.25,False
+source procurement city ownership,2,HYBRID_3_5,S1,quadgrams,source procurement city ownership,4,truth_and_fact,1,source,procurement,1,0.25,False
+transition assistance rates and,2,HYBRID_3_5,S1,quadgrams,transition assistance rates,3,temporal_dynamics,1,transition,,0,0.0,False
+at risk due to,2,HYBRID_3_5,S1,quadgrams,risk due,2,practicality_and_feasibility,1,risk,,0,0.0,False
+term operating cost stability,2,HYBRID_3_5,S1,quadgrams,term operating cost stability,4,practicality_and_feasibility,1,cost,,0,0.0,False
+most predictable long term,2,HYBRID_3_5,S1,quadgrams,most predictable long term,4,temporal_dynamics,1,long term,,0,0.0,False
+package evp priority incident,2,HYBRID_3_5,S1,quadgrams,package evp priority incident,4,practicality_and_feasibility,1,priority,,0,0.0,False
+evp priority incident corridor,2,HYBRID_3_5,S1,quadgrams,evp priority incident corridor,4,practicality_and_feasibility,1,priority,,0,0.0,False
+priority incident corridor modes,2,HYBRID_3_5,S1,quadgrams,priority incident corridor modes,4,practicality_and_feasibility,1,priority,,0,0.0,False
+transition assistance priced now,6,HYBRID_SEMANTIC,S1,quadgrams,transition assistance priced now,4,temporal_dynamics,1,transition,,0,0.0,False
+priced transition assistance incident,4,HYBRID_SEMANTIC,S1,quadgrams,priced transition assistance incident,4,temporal_dynamics,1,transition,,0,0.0,False
+detours overrides priority workflows,3,HYBRID_SEMANTIC,S1,quadgrams,detours overrides priority workflows,4,practicality_and_feasibility,1,priority,,0,0.0,False
+cost exposure operational maturity,2,HYBRID_SEMANTIC,S1,quadgrams,cost exposure operational maturity,4,practicality_and_feasibility|temporal_dynamics,3,cost|operational|maturity,,0,0.0,False
+year cost exposure operational,2,HYBRID_SEMANTIC,S1,quadgrams,year cost exposure operational,4,practicality_and_feasibility,2,cost|operational,,0,0.0,False
+cost continuity protections are,2,HYBRID_SEMANTIC,S1,quadgrams,cost continuity protections,3,practicality_and_feasibility|temporal_dynamics,2,cost|continuity,,0,0.0,False
+term cost continuity protections,2,HYBRID_SEMANTIC,S1,quadgrams,term cost continuity protections,4,practicality_and_feasibility|temporal_dynamics,2,cost|continuity,,0,0.0,False
+and continuity risks and,2,HYBRID_SEMANTIC,S1,quadgrams,continuity risks,2,practicality_and_feasibility|temporal_dynamics,2,risks|continuity,,0,0.0,False
+a phased rollout pilot,2,HYBRID_SEMANTIC,S1,quadgrams,phased rollout pilot,3,temporal_dynamics|imagination_and_possibility,2,pilot|phased,rollout,1,0.3333333333333333,False
+phased rollout pilot corridor,2,HYBRID_SEMANTIC,S1,quadgrams,phased rollout pilot corridor,4,temporal_dynamics|imagination_and_possibility,2,pilot|phased,rollout,1,0.25,False
+scenarios detours overrides priority,2,HYBRID_SEMANTIC,S1,quadgrams,scenarios detours overrides priority,4,practicality_and_feasibility|temporal_dynamics,2,scenarios|priority,,0,0.0,False
+supply chain risk than,2,HYBRID_SEMANTIC,S1,quadgrams,supply chain risk than,4,practicality_and_feasibility,1,risk,supply chain,1,0.5,False
+schedule protections milestone dates,2,HYBRID_SEMANTIC,S1,quadgrams,schedule protections milestone dates,4,practicality_and_feasibility,1,schedule,,0,0.0,False
+exit and transition assistance,2,HYBRID_SEMANTIC,S1,quadgrams,exit transition assistance,3,temporal_dynamics,1,transition,,0,0.0,False
+and transition assistance priced,2,HYBRID_SEMANTIC,S1,quadgrams,transition assistance priced,3,temporal_dynamics,1,transition,,0,0.0,False
+a viable alternative only,2,HYBRID_SEMANTIC,S1,quadgrams,viable alternative,2,imagination_and_possibility,1,alternative,,0,0.0,False
+viable alternative only if,2,HYBRID_SEMANTIC,S1,quadgrams,viable alternative,2,imagination_and_possibility,1,alternative,,0,0.0,False
+continuity protections are secured,2,HYBRID_SEMANTIC,S1,quadgrams,continuity protections secured,3,temporal_dynamics,1,continuity,,0,0.0,False
+to ask verify documented,2,HYBRID_SEMANTIC,S1,quadgrams,ask verify documented,3,truth_and_fact,1,verify,,0,0.0,False
+architecture option is the,2,HYBRID_SEMANTIC,S1,quadgrams,architecture option,2,imagination_and_possibility,1,option,architecture,1,0.5,False
+deliverable not a future,2,HYBRID_SEMANTIC,S1,quadgrams,deliverable future,2,temporal_dynamics,1,future,,0,0.0,False
+time to implement detours,2,HYBRID_SEMANTIC,S1,quadgrams,time implement detours,3,practicality_and_feasibility,1,implement,,0,0.0,False
+to implement detours overrides,2,HYBRID_SEMANTIC,S1,quadgrams,implement detours overrides,3,practicality_and_feasibility,1,implement,,0,0.0,False
+detours corridor overrides priority,2,HYBRID_SEMANTIC,S1,quadgrams,detours corridor overrides priority,4,practicality_and_feasibility,1,priority,,0,0.0,False
+corridor overrides priority workflows,2,HYBRID_SEMANTIC,S1,quadgrams,corridor overrides priority workflows,4,practicality_and_feasibility,1,priority,,0,0.0,False
+trending toward civitas modular,2,HYBRID_SEMANTIC,S1,quadgrams,trending toward civitas modular,4,temporal_dynamics,1,trending,civitas|modular,2,0.5,False
+failover adding cost time,2,HYBRID_SEMANTIC,S1,quadgrams,failover adding cost time,4,practicality_and_feasibility,1,cost,failover,1,0.25,False
+documented formats exit transition,2,HYBRID_SEMANTIC,S1,quadgrams,documented formats exit transition,4,temporal_dynamics,1,transition,,0,0.0,False
+formats exit transition assistance,2,HYBRID_SEMANTIC,S1,quadgrams,formats exit transition assistance,4,temporal_dynamics,1,transition,,0,0.0,False
+exit transition assistance priced,2,HYBRID_SEMANTIC,S1,quadgrams,exit transition assistance priced,4,temporal_dynamics,1,transition,,0,0.0,False
+start with a pilot,2,HYBRID_SEMANTIC,S1,quadgrams,start pilot,2,imagination_and_possibility,1,pilot,,0,0.0,False
+a pilot corridor prove,2,HYBRID_SEMANTIC,S1,quadgrams,pilot corridor prove,3,imagination_and_possibility,1,pilot,,0,0.0,False
+pilot corridor prove stability,2,HYBRID_SEMANTIC,S1,quadgrams,pilot corridor prove stability,4,imagination_and_possibility,1,pilot,,0,0.0,False
+with a phased rollout,2,HYBRID_SEMANTIC,S1,quadgrams,phased rollout,2,temporal_dynamics,1,phased,rollout,1,0.5,False
+rollout pilot corridor first,2,HYBRID_SEMANTIC,S1,quadgrams,rollout pilot corridor first,4,imagination_and_possibility,1,pilot,rollout,1,0.25,False
+documented formats priced transition,2,HYBRID_SEMANTIC,S1,quadgrams,documented formats priced transition,4,temporal_dynamics,1,transition,,0,0.0,False
+formats priced transition assistance,2,HYBRID_SEMANTIC,S1,quadgrams,formats priced transition assistance,4,temporal_dynamics,1,transition,,0,0.0,False
+transition assistance incident operations,2,HYBRID_SEMANTIC,S1,quadgrams,transition assistance incident operations,4,temporal_dynamics,1,transition,,0,0.0,False
+scenarios must be implemented,2,HYBRID_SEMANTIC,S1,quadgrams,scenarios must implemented,3,temporal_dynamics,1,scenarios,,0,0.0,False
+a real schedule threat,2,HYBRID_SEMANTIC,S1,quadgrams,real schedule threat,3,practicality_and_feasibility,1,schedule,,0,0.0,False
+real schedule threat modular,2,HYBRID_SEMANTIC,S1,quadgrams,real schedule threat modular,4,practicality_and_feasibility,1,schedule,modular,1,0.25,False
+than their legacy integrated,2,HYBRID_SEMANTIC,S1,quadgrams,than legacy integrated,3,temporal_dynamics,1,legacy,integrated,1,0.3333333333333333,False

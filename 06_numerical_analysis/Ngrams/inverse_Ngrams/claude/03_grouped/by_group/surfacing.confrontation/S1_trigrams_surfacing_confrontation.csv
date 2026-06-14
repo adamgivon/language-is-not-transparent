@@ -1,0 +1,12 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+make us wrong,6,AC15,S1,trigrams,make wrong,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,wrong,False
+permissible and doesn,2,AC15,S1,trigrams,permissible doesn,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn,False
+the contract doesn,2,AC15,S1,trigrams,contract doesn,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn,False
+contract doesn t,2,AC15,S1,trigrams,contract doesn,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn|doesn t,False
+doesn t allow,2,AC15,S1,trigrams,doesn allow,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn|doesn t,False
+services isn t,4,CONTROL,S1,trigrams,services isn,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,isn t,False
+isn t hostage,4,HYBRID_3_5,S1,trigrams,isn hostage,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,isn t,False
+exit isn t,3,HYBRID_3_5,S1,trigrams,exit isn,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,isn t,False
+minor goes wrong,2,HYBRID_3_5,S1,trigrams,minor goes wrong,3,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,wrong,False
+s clearly wrong,5,HYBRID_SEMANTIC,S1,trigrams,clearly wrong,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,wrong,False
+clearly wrong you,3,HYBRID_SEMANTIC,S1,trigrams,clearly wrong,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,wrong,False

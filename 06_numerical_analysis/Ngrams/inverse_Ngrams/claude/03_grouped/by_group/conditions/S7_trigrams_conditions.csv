@@ -1,0 +1,15 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+whether her future,2,AC15,S7,trigrams,whether her future,3,temporal_dynamics,1,future,,0,0.0,False,conditions|temporal_projection,conditions|temporal_projection.past_present_future,2,2,1,1,temporal_projection,conditions,future|whether,False
+citizenship and whether,2,AC15,S7,trigrams,citizenship whether,2,,0,,citizenship,1,0.5,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+yours and whether,3,AC15P,S7,trigrams,yours whether,2,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+whether marriage children,2,AC15P,S7,trigrams,whether marriage children,3,,0,,marriage|children,2,0.6666666666666666,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+plus whether you,3,CONTROL,S7,trigrams,plus whether,2,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+country whether you,2,CONTROL,S7,trigrams,country whether,2,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+whether she expects,2,HYBRID_3_5,S7,trigrams,whether she expects,3,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+whether you feel,2,HYBRID_3_5,S7,trigrams,whether feel,2,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+testing whether the,2,HYBRID_SEMANTIC,S7,trigrams,testing whether,2,,0,,,0,0.0,False,conditions|truth,conditions|truth.verification,2,2,1,1,truth,conditions,testing|whether,False
+commitment depends on,2,HYBRID_SEMANTIC,S7,trigrams,commitment depends,2,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,depends|depends on,False
+paid help whether,2,HYBRID_SEMANTIC,S7,trigrams,paid help whether,3,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+country whether she,2,HYBRID_SEMANTIC,S7,trigrams,country whether she,3,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+care happens whether,2,HYBRID_SEMANTIC,S7,trigrams,care happens whether,3,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+happens whether either,2,HYBRID_SEMANTIC,S7,trigrams,happens whether either,3,,0,,,0,0.0,False,conditions|imagination_and_possibility,conditions|imagination_and_possibility.tension_as_fuel,2,2,1,1,imagination_and_possibility,conditions,either|whether,False

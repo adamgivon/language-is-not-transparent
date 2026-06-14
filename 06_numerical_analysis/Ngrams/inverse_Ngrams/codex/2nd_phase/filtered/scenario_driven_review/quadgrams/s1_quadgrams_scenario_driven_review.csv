@@ -1,0 +1,37 @@
+scenario,scenario_label,level,system,ngram,count,token_len,rank_within_system,system_sum_count,count_share_in_system,owner_count,owner_systems,global_ngram_count,content_token_count,content_token_ratio,scaffold_prefix,has_scaffold_prefix,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy
+S1,Scenario 1 - Quadgrams,quadgrams,AC15,controller lead time weeks,2,4,153,18022,0.000111,1,AC15,2,4,1.0,,False,,0,,controller;lead time,2,0.75,True
+S1,Scenario 1 - Quadgrams,quadgrams,AC15,tightly integrated proprietary controllers,2,4,313,18022,0.000111,1,AC15,2,4,1.0,,False,,0,,controllers;integrated;proprietary,3,0.75,True
+S1,Scenario 1 - Quadgrams,quadgrams,AC15,lead times for proprietary,2,4,228,18022,0.000111,1,AC15,2,3,0.75,,False,,0,,lead times;proprietary,2,1.0,True
+S1,Scenario 1 - Quadgrams,quadgrams,AC15,dot waiver it on,2,4,173,18022,0.000111,1,AC15,2,2,0.5,,False,,0,,dot;waiver,2,1.0,True
+S1,Scenario 1 - Quadgrams,quadgrams,AC15,it on prem failover,2,4,223,18022,0.000111,1,AC15,2,2,0.5,,False,,0,,failover;on prem,2,1.0,True
+S1,Scenario 1 - Quadgrams,quadgrams,AC15,waiver it on prem,2,4,323,18022,0.000111,1,AC15,2,2,0.5,,False,,0,,on prem;waiver,2,1.0,True
+S1,Scenario 1 - Quadgrams,quadgrams,AC15P,civitas modular as a,3,4,35,17948,0.000167,1,AC15P,3,2,0.5,,False,,0,,civitas;modular,2,1.0,True
+S1,Scenario 1 - Quadgrams,quadgrams,AC15P,supply chain and deployment,2,4,342,17948,0.000111,1,AC15P,2,3,0.75,,False,,0,,deployment;supply chain,2,1.0,True
+S1,Scenario 1 - Quadgrams,quadgrams,AC15P,the proprietary integrated controller,2,4,356,17948,0.000111,1,AC15P,2,3,0.75,,False,,0,,controller;integrated;proprietary,3,1.0,True
+S1,Scenario 1 - Quadgrams,quadgrams,AC15P,controllers not the proprietary,2,4,166,17948,0.000111,1,AC15P,2,2,0.5,,False,,0,,controllers;proprietary,2,1.0,True
+S1,Scenario 1 - Quadgrams,quadgrams,AC15P,for essential infrastructure we,2,4,193,17948,0.000111,1,AC15P,2,2,0.5,,False,,0,,essential infrastructure;infrastructure,2,1.0,True
+S1,Scenario 1 - Quadgrams,quadgrams,AC15P,from the signal vendor,2,4,194,17948,0.000111,1,AC15P,2,2,0.5,,False,,0,,signal;vendor,2,1.0,True
+S1,Scenario 1 - Quadgrams,quadgrams,AC15P,not the proprietary integrated,2,4,269,17948,0.000111,1,AC15P,2,2,0.5,,False,,0,,integrated;proprietary,2,1.0,True
+S1,Scenario 1 - Quadgrams,quadgrams,AC15P,on prem failover and,2,4,279,17948,0.000111,1,AC15P,2,2,0.5,,False,,0,,failover;on prem,2,1.0,True
+S1,Scenario 1 - Quadgrams,quadgrams,AC15P,the state dot s,2,4,358,17948,0.000111,1,AC15P,2,2,0.5,,False,,0,,dot;state dot,2,1.0,True
+S1,Scenario 1 - Quadgrams,quadgrams,CONTROL,state dot waiver week,4,4,29,14850,0.000269,1,CONTROL,4,4,1.0,,False,,0,,dot;state dot;waiver,3,0.75,True
+S1,Scenario 1 - Quadgrams,quadgrams,CONTROL,the controller lead time,4,4,32,14850,0.000269,1,CONTROL,4,3,0.75,,False,,0,,controller;lead time,2,1.0,True
+S1,Scenario 1 - Quadgrams,quadgrams,CONTROL,controller lead time that,3,4,56,14850,0.000202,1,CONTROL,3,3,0.75,,False,,0,,controller;lead time,2,1.0,True
+S1,Scenario 1 - Quadgrams,quadgrams,CONTROL,civitas maintenance support price,2,4,135,14850,0.000135,1,CONTROL,2,4,1.0,,False,,0,,civitas;maintenance support,2,0.75,True
+S1,Scenario 1 - Quadgrams,quadgrams,CONTROL,civitas standard integrated architecture,2,4,138,14850,0.000135,1,CONTROL,2,4,1.0,,False,,0,,architecture;civitas;integrated,3,0.75,True
+S1,Scenario 1 - Quadgrams,quadgrams,CONTROL,essential infrastructure cloud policy,2,4,169,14850,0.000135,1,CONTROL,2,4,1.0,,False,,0,,cloud;essential infrastructure;infrastructure,3,0.75,True
+S1,Scenario 1 - Quadgrams,quadgrams,CONTROL,preference essential infrastructure cloud,2,4,247,14850,0.000135,1,CONTROL,2,4,1.0,,False,,0,,cloud;essential infrastructure;infrastructure,3,0.75,True
+S1,Scenario 1 - Quadgrams,quadgrams,CONTROL,proprietary integrated controller architecture,2,4,252,14850,0.000135,1,CONTROL,2,4,1.0,,False,,0,,architecture;controller;integrated;proprietary,4,1.0,True
+S1,Scenario 1 - Quadgrams,quadgrams,CONTROL,essential infrastructure and cloud,2,4,168,14850,0.000135,1,CONTROL,2,3,0.75,,False,,0,,cloud;essential infrastructure;infrastructure,3,1.0,True
+S1,Scenario 1 - Quadgrams,quadgrams,CONTROL,s essential infrastructure cloud,2,4,263,14850,0.000135,1,CONTROL,2,3,0.75,,False,,0,,cloud;essential infrastructure;infrastructure,3,1.0,True
+S1,Scenario 1 - Quadgrams,quadgrams,CONTROL,infrastructure and cloud is,2,4,196,14850,0.000135,1,CONTROL,2,2,0.5,,False,,0,,cloud;infrastructure,2,1.0,True
+S1,Scenario 1 - Quadgrams,quadgrams,HYBRID_3_5,gate essential infrastructure cloud,2,4,169,16560,0.000121,1,HYBRID_3_5,2,4,1.0,,False,,0,,cloud;essential infrastructure;infrastructure,3,0.75,True
+S1,Scenario 1 - Quadgrams,quadgrams,HYBRID_3_5,infrastructure cloud approval novagrid,2,4,195,16560,0.000121,1,HYBRID_3_5,2,4,1.0,,False,,0,,cloud;infrastructure;novagrid,3,0.75,True
+S1,Scenario 1 - Quadgrams,quadgrams,HYBRID_3_5,with civitas modular as,2,4,349,16560,0.000121,1,HYBRID_3_5,2,2,0.5,,False,,0,,civitas;modular,2,1.0,True
+S1,Scenario 1 - Quadgrams,quadgrams,HYBRID_SEMANTIC,controller lead times modular,2,4,171,17186,0.000116,1,HYBRID_SEMANTIC,2,4,1.0,,False,,0,,controller;lead times;modular,3,1.0,True
+S1,Scenario 1 - Quadgrams,quadgrams,HYBRID_SEMANTIC,price lock novagrid has,2,4,304,17186,0.000116,1,HYBRID_SEMANTIC,2,4,1.0,,False,,0,,novagrid;price lock,2,0.75,True
+S1,Scenario 1 - Quadgrams,quadgrams,HYBRID_SEMANTIC,controller lead time is,2,4,168,17186,0.000116,1,HYBRID_SEMANTIC,2,3,0.75,,False,,0,,controller;lead time,2,1.0,True
+S1,Scenario 1 - Quadgrams,quadgrams,HYBRID_SEMANTIC,controller lead times are,2,4,170,17186,0.000116,1,HYBRID_SEMANTIC,2,3,0.75,,False,,0,,controller;lead times,2,1.0,True
+S1,Scenario 1 - Quadgrams,quadgrams,HYBRID_SEMANTIC,your essential infrastructure cloud,2,4,418,17186,0.000116,1,HYBRID_SEMANTIC,2,3,0.75,,False,,0,,cloud;essential infrastructure;infrastructure,3,1.0,True
+S1,Scenario 1 - Quadgrams,quadgrams,HYBRID_SEMANTIC,of your essential infrastructure,2,4,284,17186,0.000116,1,HYBRID_SEMANTIC,2,2,0.5,,False,,0,,essential infrastructure;infrastructure,2,1.0,True
+S1,Scenario 1 - Quadgrams,quadgrams,HYBRID_SEMANTIC,the dot waiver and,2,4,357,17186,0.000116,1,HYBRID_SEMANTIC,2,2,0.5,,False,,0,,dot;waiver,2,1.0,True

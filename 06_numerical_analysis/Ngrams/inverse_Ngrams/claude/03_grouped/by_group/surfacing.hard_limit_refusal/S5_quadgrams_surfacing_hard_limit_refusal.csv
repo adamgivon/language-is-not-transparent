@@ -1,0 +1,10 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+pii can t leave,2,AC15,S5,quadgrams,pii leave,2,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,can t,False
+can t leave region,2,AC15,S5,quadgrams,leave region,2,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,can t,False
+memory you can trust,2,AC15,S5,quadgrams,memory trust,2,,0,,memory,1,0.5,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,can t,False
+can t ship provenance,2,AC15P,S5,quadgrams,ship provenance,2,truth_and_fact,1,provenance,,0,0.0,False,practical_considerations_and_execution|surfacing|truth,practical_considerations_and_execution.action_and_execution|surfacing.hard_limit_refusal|truth.verification,3,3,2,1,practical_considerations_and_execution|truth,surfacing,can t|provenance|ship,False
+developer can t see,2,AC15P,S5,quadgrams,developer see,2,,0,,developer,1,0.5,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,can t,False
+users can t correct,2,HYBRID_3_5,S5,quadgrams,users correct,2,truth_and_fact,1,correct,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,can t,False
+these are non negotiable,2,HYBRID_SEMANTIC,S5,quadgrams,these non negotiable,3,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,non negotiable,False
+are non negotiable to,2,HYBRID_SEMANTIC,S5,quadgrams,non negotiable,2,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,non negotiable,False
+non negotiable to avoid,2,HYBRID_SEMANTIC,S5,quadgrams,non negotiable avoid,3,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,non negotiable,False

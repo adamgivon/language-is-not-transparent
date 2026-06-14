@@ -1,0 +1,5 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+either a no,2,AC15P,S3,trigrams,either no,2,,0,,,0,0.0,False,imagination_and_possibility,imagination_and_possibility.tension_as_fuel,1,1,1,0,imagination_and_possibility,,either,False
+you must either,2,AC15P,S3,trigrams,must either,2,,0,,,0,0.0,False,imagination_and_possibility,imagination_and_possibility.tension_as_fuel,1,1,1,0,imagination_and_possibility,,either,False
+neither is true,2,AC15P,S3,trigrams,neither true,2,,0,,,0,0.0,False,imagination_and_possibility,imagination_and_possibility.tension_as_fuel,1,1,1,0,imagination_and_possibility,,neither,False
+case you either,2,CONTROL,S3,trigrams,case either,2,,0,,,0,0.0,False,imagination_and_possibility,imagination_and_possibility.tension_as_fuel,1,1,1,0,imagination_and_possibility,,either,False

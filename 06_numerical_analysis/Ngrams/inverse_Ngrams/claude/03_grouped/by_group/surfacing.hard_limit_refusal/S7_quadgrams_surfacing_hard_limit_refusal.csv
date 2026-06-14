@@ -1,0 +1,7 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+your non negotiables write,2,AC15P,S7,quadgrams,non negotiables write,3,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,non negotiable,False
+non negotiables write them,2,AC15P,S7,quadgrams,non negotiables write,3,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,non negotiable,False
+can t know her,2,AC15P,S7,quadgrams,know her,2,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,can t,False
+are your non negotiables,2,CONTROL,S7,quadgrams,non negotiables,2,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,non negotiable,False
+we can talk about,2,CONTROL,S7,quadgrams,talk about,2,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,can t,False
+decision gate non negotiable,2,HYBRID_3_5,S7,quadgrams,decision gate non negotiable,4,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,non negotiable,False

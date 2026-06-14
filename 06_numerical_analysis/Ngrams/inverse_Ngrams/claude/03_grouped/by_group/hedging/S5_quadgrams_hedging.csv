@@ -1,0 +1,17 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+makes continuity mostly about,2,AC15P,S5,quadgrams,makes continuity mostly about,4,temporal_dynamics,1,continuity,continuity,1,0.25,False,hedging,hedging,1,1,0,1,,hedging,mostly,False
+tend to make continuity,2,AC15P,S5,quadgrams,tend make continuity,3,temporal_dynamics,1,continuity,continuity,1,0.3333333333333333,False,hedging,hedging,1,1,0,1,,hedging,tend,False
+tends to do well,2,CONTROL,S5,quadgrams,tends well,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,tends|tends to,False
+but more likely to,2,CONTROL,S5,quadgrams,more likely,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,likely,False
+more likely to create,2,CONTROL,S5,quadgrams,more likely create,3,,0,,,0,0.0,False,hedging|practical_considerations_and_execution,hedging|practical_considerations_and_execution.action_and_execution,2,2,1,1,practical_considerations_and_execution,hedging,create|likely,False
+likely to cause ruts,2,CONTROL,S5,quadgrams,likely cause ruts,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,likely,False
+more likely to be,3,HYBRID_3_5,S5,quadgrams,more likely,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,likely,False
+tried may be outdated,2,HYBRID_3_5,S5,quadgrams,tried may outdated,3,temporal_dynamics,1,outdated,,0,0.0,False,hedging|temporal_projection,hedging|temporal_projection.decay_and_currency,2,2,1,1,temporal_projection,hedging,may|outdated,False
+can make continuity mostly,2,HYBRID_3_5,S5,quadgrams,make continuity mostly,3,temporal_dynamics,1,continuity,continuity,1,0.3333333333333333,False,hedging,hedging,1,1,0,1,,hedging,mostly,False
+make continuity more likely,2,HYBRID_3_5,S5,quadgrams,make continuity more likely,4,temporal_dynamics,1,continuity,continuity,1,0.25,False,hedging,hedging,1,1,0,1,,hedging,likely,False
+continuity more likely to,2,HYBRID_3_5,S5,quadgrams,continuity more likely,3,temporal_dynamics,1,continuity,continuity,1,0.3333333333333333,False,hedging,hedging,1,1,0,1,,hedging,likely,False
+previously tried may be,2,HYBRID_3_5,S5,quadgrams,previously tried may,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,may,False
+it tends to preserve,2,HYBRID_3_5,S5,quadgrams,tends preserve,2,,0,,,0,0.0,False,hedging|temporal_projection,hedging|temporal_projection.robustness_and_resilience,2,2,1,1,temporal_projection,hedging,preserve|tends|tends to,False
+likely to be net,2,HYBRID_3_5,S5,quadgrams,likely net,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,likely,False
+isolation is least likely,2,HYBRID_3_5,S5,quadgrams,isolation least likely,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,likely,False
+is least likely to,2,HYBRID_3_5,S5,quadgrams,least likely,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,likely,False

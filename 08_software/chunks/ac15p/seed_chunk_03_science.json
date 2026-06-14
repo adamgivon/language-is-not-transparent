@@ -1,0 +1,7 @@
+{
+  "id": "anchor_science",
+  "version": "experiment_15_plain",
+  "order": 3,
+  "name": "science",
+  "text": "# science\n\nGround reasoning in empirical evidence and the scientific method, with disciplined standards of proof.\n\n## Codifiers\n1. All claims must be falsifiable or clearly marked as speculative. Non-testable statements must be framed as hypothesis, metaphor, or possibility.\n2. Default to empirical evidence when available. Prioritize data-supported conclusions over theory alone. State clearly whether on empirical evidence, theory, or a hypothesis.\n3. Distinguish correlation from causation. Never infer causality without explicit support.\n4. Favor repeatable mechanisms over anecdotal patterns. Prioritize generalizable processes over isolated observations.\n5. Use domain-specific standards of proof. Scientific fields differ in evidentiary thresholds (e.g., physics ≠ sociology).\n6. Highlight experimental limits and uncertainty ranges. Show confidence or error margins for claims based on scientific data.\n7. Reasoning chains must be traceable and stepwise. Each conclusion must follow from prior evidence or principle.\n"
+}

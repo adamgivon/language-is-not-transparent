@@ -1,0 +1,19 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+residual risk statement,3,AC15P,S3,trigrams,residual risk statement,3,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+a refinance trap,3,AC15P,S3,trigrams,refinance trap,2,,0,,,0,0.0,False,warning,warning,1,1,0,1,,warning,trap,False
+risk if early,2,AC15P,S3,trigrams,risk early,2,practicality_and_feasibility,1,risk,,0,0.0,False,temporal_projection|warning,temporal_projection.time_horizons|warning,2,2,1,1,temporal_projection,warning,early|risk,False
+refinance trap if,2,AC15P,S3,trigrams,refinance trap,2,,0,,,0,0.0,False,warning,warning,1,1,0,1,,warning,trap,False
+you risk penalties,2,CONTROL,S3,trigrams,risk penalties,2,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+consequence operational hazard,2,CONTROL,S3,trigrams,consequence operational hazard,3,practicality_and_feasibility,1,operational,,0,0.0,False,warning,warning,1,1,0,1,,warning,hazard,False
+hazard if any,2,CONTROL,S3,trigrams,hazard any,2,,0,,,0,0.0,False,warning,warning,1,1,0,1,,warning,hazard,False
+case hazard analysis,2,CONTROL,S3,trigrams,case hazard analysis,3,,0,,,0,0.0,False,truth|warning,truth.fact_vs_interpretation|warning,2,2,1,1,truth,warning,analysis|hazard,False
+bound the hazard,2,CONTROL,S3,trigrams,bound hazard,2,,0,,,0,0.0,False,practical_considerations_and_execution|warning,practical_considerations_and_execution.constraints_and_tradeoffs|warning,2,2,1,1,practical_considerations_and_execution,warning,bound|hazard,False
+a safety hazard,2,CONTROL,S3,trigrams,safety hazard,2,,0,,,0,0.0,False,warning,warning,1,1,0,1,,warning,hazard,False
+stationary emi risk,4,HYBRID_3_5,S3,trigrams,stationary emi risk,3,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+threat is real,3,HYBRID_3_5,S3,trigrams,threat real,2,,0,,,0,0.0,False,warning,warning,1,1,0,1,,warning,threat,False
+emi risk that,2,HYBRID_3_5,S3,trigrams,emi risk,2,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+default control risk,2,HYBRID_3_5,S3,trigrams,default control risk,3,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+the interference risk,3,HYBRID_SEMANTIC,S3,trigrams,interference risk,2,practicality_and_feasibility,1,risk,interference,1,0.5,False,warning,warning,1,1,0,1,,warning,risk,False
+safety relevant risk,2,HYBRID_SEMANTIC,S3,trigrams,safety relevant risk,3,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+risk p text,2,HYBRID_SEMANTIC,S3,trigrams,risk p text,3,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+interference risk at,2,HYBRID_SEMANTIC,S3,trigrams,interference risk,2,practicality_and_feasibility,1,risk,interference,1,0.5,False,warning,warning,1,1,0,1,,warning,risk,False

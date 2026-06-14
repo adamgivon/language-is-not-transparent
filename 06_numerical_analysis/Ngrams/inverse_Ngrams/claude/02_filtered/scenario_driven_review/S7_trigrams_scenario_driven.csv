@@ -1,0 +1,8 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy
+marriage children aging,2,AC15,S7,trigrams,marriage children aging,3,,0,,marriage|children|aging,3,1.0,True
+marriage and children,2,AC15,S7,trigrams,marriage children,2,,0,,marriage|children,2,1.0,True
+for last chance,2,AC15P,S7,trigrams,last chance,2,,0,,last chance,1,1.0,True
+to marriage visa,2,CONTROL,S7,trigrams,marriage visa,2,,0,,marriage|visa,2,1.0,True
+children vasectomy marriage,2,CONTROL,S7,trigrams,children vasectomy marriage,3,,0,,marriage|children|vasectomy,3,1.0,True
+aging health and,2,HYBRID_3_5,S7,trigrams,aging health,2,,0,,aging|health,2,1.0,True
+children marriage and,2,HYBRID_3_5,S7,trigrams,children marriage,2,,0,,marriage|children,2,1.0,True

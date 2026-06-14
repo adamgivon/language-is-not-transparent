@@ -1,0 +1,4 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+certainty and increase lifecycle,2,AC15P,S1,quadgrams,certainty increase lifecycle,3,temporal_dynamics,1,lifecycle,,0,0.0,False,temporal_projection,temporal_projection.decay_and_currency,1,1,1,0,temporal_projection,,lifecycle,False
+at end of life,2,AC15P,S1,quadgrams,end life,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.decay_and_currency,1,1,1,0,temporal_projection,,end of life,False
+no longer the safe,2,AC15P,S1,quadgrams,no longer safe,3,,0,,,0,0.0,False,temporal_projection,temporal_projection.decay_and_currency,1,1,1,0,temporal_projection,,no longer,False

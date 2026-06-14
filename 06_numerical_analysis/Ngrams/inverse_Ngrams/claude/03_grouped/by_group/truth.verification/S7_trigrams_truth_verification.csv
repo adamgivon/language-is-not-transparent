@@ -1,0 +1,14 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+time based evidence,2,AC15,S7,trigrams,time based evidence,3,truth_and_fact,1,evidence,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+real life test,2,CONTROL,S7,trigrams,real life test,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,test,False
+test the most,2,CONTROL,S7,trigrams,test most,2,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,test,False
+make sure to,2,CONTROL,S7,trigrams,make sure,2,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,make sure,False
+confirm visa type,2,HYBRID_3_5,S7,trigrams,confirm visa type,3,truth_and_fact,1,confirm,visa,1,0.3333333333333333,False,truth,truth.verification,1,1,1,0,truth,,confirm,False
+ve tested ordinary,2,HYBRID_3_5,S7,trigrams,tested ordinary,2,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,tested,False
+your risk checks,2,HYBRID_SEMANTIC,S7,trigrams,risk checks,2,practicality_and_feasibility,1,risk,,0,0.0,False,truth|warning,truth.verification|warning,2,2,1,1,truth,warning,checks|risk,False
+risk checks a,2,HYBRID_SEMANTIC,S7,trigrams,risk checks,2,practicality_and_feasibility,1,risk,,0,0.0,False,truth|warning,truth.verification|warning,2,2,1,1,truth,warning,checks|risk,False
+isn t proof,2,HYBRID_SEMANTIC,S7,trigrams,isn proof,2,truth_and_fact,1,proof,,0,0.0,False,surfacing|truth,surfacing.confrontation|truth.verification,2,2,1,1,truth,surfacing,isn t|proof,False
+generate real evidence,2,HYBRID_SEMANTIC,S7,trigrams,generate real evidence,3,truth_and_fact,1,evidence,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+testing whether the,2,HYBRID_SEMANTIC,S7,trigrams,testing whether,2,,0,,,0,0.0,False,conditions|truth,conditions|truth.verification,2,2,1,1,truth,conditions,testing|whether,False
+test does the,2,HYBRID_SEMANTIC,S7,trigrams,test does,2,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,test,False
+to check ask,2,HYBRID_SEMANTIC,S7,trigrams,check ask,2,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,check,False

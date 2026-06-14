@@ -1,0 +1,11 @@
+scenario,scenario_label,level,system,ngram,count,token_len,rank_within_system,system_sum_count,count_share_in_system,owner_count,owner_systems,global_ngram_count,content_token_count,content_token_ratio,scaffold_prefix,has_scaffold_prefix,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy
+S5,Scenario 5 - Trigrams,trigrams,AC15,a fresh eyes,2,3,90,11094,0.00018,1,AC15,2,2,0.6667,,False,,0,,fresh eyes,1,1.0,True
+S5,Scenario 5 - Trigrams,trigrams,AC15,fresh eyes this,2,3,185,11094,0.00018,1,AC15,2,2,0.6667,,False,,0,,fresh eyes,1,1.0,True
+S5,Scenario 5 - Trigrams,trigrams,AC15,project memory you,2,3,286,11094,0.00018,1,AC15,2,2,0.6667,,False,,0,,memory;project memory,2,1.0,True
+S5,Scenario 5 - Trigrams,trigrams,AC15P,fresh eyes continuum,2,3,239,12195,0.000164,1,AC15P,2,3,1.0,,False,,0,,continuum;fresh eyes,2,1.0,True
+S5,Scenario 5 - Trigrams,trigrams,CONTROL,devmate s enterprise,2,3,162,11900,0.000168,1,CONTROL,2,2,0.6667,,False,,0,,devmate;enterprise,2,1.0,True
+S5,Scenario 5 - Trigrams,trigrams,CONTROL,when project memory,2,3,391,11900,0.000168,1,CONTROL,2,2,0.6667,,False,,0,,memory;project memory,2,1.0,True
+S5,Scenario 5 - Trigrams,trigrams,HYBRID_SEMANTIC,a project memory,2,3,88,11654,0.000172,1,HYBRID_SEMANTIC,2,2,0.6667,,False,,0,,memory;project memory,2,1.0,True
+S5,Scenario 5 - Trigrams,trigrams,HYBRID_SEMANTIC,devmate memory is,2,3,180,11654,0.000172,1,HYBRID_SEMANTIC,2,2,0.6667,,False,,0,,devmate;memory,2,1.0,True
+S5,Scenario 5 - Trigrams,trigrams,HYBRID_SEMANTIC,if devmate memory,2,3,242,11654,0.000172,1,HYBRID_SEMANTIC,2,2,0.6667,,False,,0,,devmate;memory,2,1.0,True
+S5,Scenario 5 - Trigrams,trigrams,HYBRID_SEMANTIC,memory a memory,2,3,285,11654,0.000172,1,HYBRID_SEMANTIC,2,2,0.6667,,False,,0,,memory,1,1.0,True

@@ -1,0 +1,48 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy
+a long term partner,3,AC15,S7,quadgrams,long term partner,3,temporal_dynamics,1,long term,partner,1,0.3333333333333333,False
+from a long term,2,AC15,S7,quadgrams,long term,2,temporal_dynamics,1,long term,,0,0.0,False
+the honest answer is,2,AC15,S7,quadgrams,honest answer,2,truth_and_fact,1,honest,,0,0.0,False
+honest answer is you,2,AC15,S7,quadgrams,honest answer,2,truth_and_fact,1,honest,,0,0.0,False
+practical benefits are delayed,2,AC15,S7,quadgrams,practical benefits delayed,3,practicality_and_feasibility,1,practical,,0,0.0,False
+cost if you tell,2,AC15,S7,quadgrams,cost tell,2,practicality_and_feasibility,1,cost,,0,0.0,False
+to defeat sunk cost,2,AC15,S7,quadgrams,defeat sunk cost,3,practicality_and_feasibility,1,cost,,0,0.0,False
+with a phased plan,2,AC15P,S7,quadgrams,phased plan,2,temporal_dynamics,1,phased,,0,0.0,False
+phased plan that matches,2,AC15P,S7,quadgrams,phased plan matches,3,temporal_dynamics,1,phased,,0,0.0,False
+the cost of living,2,AC15P,S7,quadgrams,cost living,2,practicality_and_feasibility,1,cost,,0,0.0,False
+decision extend trial shift,2,AC15P,S7,quadgrams,decision extend trial shift,4,temporal_dynamics,1,shift,,0,0.0,False
+extend trial shift to,2,AC15P,S7,quadgrams,extend trial shift,3,temporal_dynamics,1,shift,,0,0.0,False
+trial shift to dual,2,AC15P,S7,quadgrams,trial shift dual,3,temporal_dynamics,1,shift,,0,0.0,False
+shift to dual base,2,AC15P,S7,quadgrams,shift dual base,3,temporal_dynamics,1,shift,,0,0.0,False
+the honest move is,2,AC15P,S7,quadgrams,honest move,2,truth_and_fact,1,honest,,0,0.0,False
+honest move is to,2,AC15P,S7,quadgrams,honest move,2,truth_and_fact,1,honest,,0,0.0,False
+keeping your exit options,2,CONTROL,S7,quadgrams,keeping exit options,3,imagination_and_possibility,1,options,,0,0.0,False
+your exit options intact,2,CONTROL,S7,quadgrams,exit options intact,3,imagination_and_possibility,1,options,,0,0.0,False
+healthcare and long term,2,CONTROL,S7,quadgrams,healthcare long term,3,temporal_dynamics,1,long term,healthcare|health,2,0.3333333333333333,False
+return to home option,2,CONTROL,S7,quadgrams,return home option,3,imagination_and_possibility,1,option,,0,0.0,False
+may be less reliable,2,CONTROL,S7,quadgrams,may less reliable,3,truth_and_fact,1,reliable,,0,0.0,False
+tail risk before permanence,2,CONTROL,S7,quadgrams,tail risk before permanence,4,practicality_and_feasibility,1,risk,,0,0.0,False
+timeline money and family,2,CONTROL,S7,quadgrams,timeline money family,3,practicality_and_feasibility,1,timeline,,0,0.0,False
+vasectomy and what options,2,CONTROL,S7,quadgrams,vasectomy options,2,imagination_and_possibility,1,options,vasectomy,1,0.5,False
+re at higher risk,2,HYBRID_3_5,S7,quadgrams,higher risk,2,practicality_and_feasibility,1,risk,,0,0.0,False
+at higher risk of,2,HYBRID_3_5,S7,quadgrams,higher risk,2,practicality_and_feasibility,1,risk,,0,0.0,False
+a good long term,2,HYBRID_3_5,S7,quadgrams,good long term,3,temporal_dynamics,1,long term,,0,0.0,False
+and long term compromise,2,HYBRID_3_5,S7,quadgrams,long term compromise,3,temporal_dynamics,1,long term,,0,0.0,False
+obligations and money boundaries,2,HYBRID_3_5,S7,quadgrams,obligations money boundaries,3,imagination_and_possibility,1,boundaries,,0,0.0,False
+to fake over time,2,HYBRID_3_5,S7,quadgrams,fake over time,3,temporal_dynamics,1,over time,,0,0.0,False
+your biggest structural risk,2,HYBRID_3_5,S7,quadgrams,biggest structural risk,3,practicality_and_feasibility,1,risk,,0,0.0,False
+biggest structural risk if,2,HYBRID_3_5,S7,quadgrams,biggest structural risk,3,practicality_and_feasibility,1,risk,,0,0.0,False
+structural risk if i,2,HYBRID_3_5,S7,quadgrams,structural risk i,3,practicality_and_feasibility,1,risk,,0,0.0,False
+risk if i have,2,HYBRID_3_5,S7,quadgrams,risk i have,3,practicality_and_feasibility,1,risk,,0,0.0,False
+your main risk is,2,HYBRID_3_5,S7,quadgrams,main risk,2,practicality_and_feasibility,1,risk,,0,0.0,False
+your risk checks a,2,HYBRID_SEMANTIC,S7,quadgrams,risk checks,2,practicality_and_feasibility,1,risk,,0,0.0,False
+timeline for you moving,2,HYBRID_SEMANTIC,S7,quadgrams,timeline moving,2,practicality_and_feasibility,1,timeline,,0,0.0,False
+you imagine our plan,2,HYBRID_SEMANTIC,S7,quadgrams,imagine our plan,3,imagination_and_possibility,1,imagine,,0,0.0,False
+imagine our plan is,2,HYBRID_SEMANTIC,S7,quadgrams,imagine our plan,3,imagination_and_possibility,1,imagine,,0,0.0,False
+boundaries would you want,2,HYBRID_SEMANTIC,S7,quadgrams,boundaries want,2,imagination_and_possibility,1,boundaries,,0,0.0,False
+home base option until,2,HYBRID_SEMANTIC,S7,quadgrams,home base option until,4,imagination_and_possibility,1,option,,0,0.0,False
+is a rare opportunity,2,HYBRID_SEMANTIC,S7,quadgrams,rare opportunity,2,imagination_and_possibility,1,opportunity,,0,0.0,False
+answer isn t proof,2,HYBRID_SEMANTIC,S7,quadgrams,answer isn proof,3,truth_and_fact,1,proof,,0,0.0,False
+isn t proof of,2,HYBRID_SEMANTIC,S7,quadgrams,isn proof,2,truth_and_fact,1,proof,,0,0.0,False
+timeline money family expectations,2,HYBRID_SEMANTIC,S7,quadgrams,timeline money family expectations,4,practicality_and_feasibility,1,timeline,,0,0.0,False
+willingness limits marriage timeline,2,HYBRID_SEMANTIC,S7,quadgrams,willingness limits marriage timeline,4,practicality_and_feasibility,1,timeline,marriage,1,0.25,False
+to generate real evidence,2,HYBRID_SEMANTIC,S7,quadgrams,generate real evidence,3,truth_and_fact,1,evidence,,0,0.0,False

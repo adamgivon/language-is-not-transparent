@@ -1,0 +1,74 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+conventions confirmed fixes,3,AC15,S5,trigrams,conventions confirmed fixes,3,truth_and_fact,1,confirmed,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,confirm|confirmed,False
+constraint convention confirmedfix,3,AC15,S5,trigrams,constraint convention confirmedfix,3,practicality_and_feasibility,1,constraint,,0,0.0,False,practical_considerations_and_execution|truth,practical_considerations_and_execution.constraints_and_tradeoffs|truth.verification,2,2,2,0,practical_considerations_and_execution|truth,,confirm|constrain|constraint,False
+decaying cited evidence,2,AC15,S5,trigrams,decaying cited evidence,3,truth_and_fact|temporal_dynamics,2,decaying|evidence,,0,0.0,False,temporal_projection|truth,temporal_projection.decay_and_currency|truth.verification,2,2,2,0,temporal_projection|truth,,decaying|evidence,False
+chat evidence ttl,2,AC15,S5,trigrams,chat evidence ttl,3,truth_and_fact,1,evidence,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+evidence with ttl,2,AC15,S5,trigrams,evidence ttl,2,truth_and_fact,1,evidence,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+t been confirmed,2,AC15,S5,trigrams,been confirmed,2,truth_and_fact,1,confirmed,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,confirm|confirmed,False
+been confirmed in,2,AC15,S5,trigrams,been confirmed,2,truth_and_fact,1,confirmed,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,confirm|confirmed,False
+confirmed in days,2,AC15,S5,trigrams,confirmed days,2,truth_and_fact,1,confirmed,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,confirm|confirmed,False
+evidence not authority,2,AC15,S5,trigrams,evidence authority,2,truth_and_fact,1,evidence,,0,0.0,False,autonomy_sovereignty|truth,autonomy_sovereignty|truth.verification,2,2,1,1,truth,autonomy_sovereignty,authority|evidence,False
+always show source,2,AC15,S5,trigrams,always show source,3,truth_and_fact,1,source,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,source,False
+show source date,2,AC15,S5,trigrams,show source date,3,truth_and_fact,1,source,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,source,False
+evidence index ei,2,AC15,S5,trigrams,evidence index ei,3,truth_and_fact,1,evidence,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+evidence lookup not,2,AC15,S5,trigrams,evidence lookup,2,truth_and_fact,1,evidence,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+decisions verified outcomes,6,AC15P,S5,trigrams,decisions verified outcomes,3,truth_and_fact,1,verified,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,verif|verified,False
+constraints verified outcomes,3,AC15P,S5,trigrams,constraints verified outcomes,3,truth_and_fact|practicality_and_feasibility,2,verified|constraints,,0,0.0,False,practical_considerations_and_execution|truth,practical_considerations_and_execution.constraints_and_tradeoffs|truth.verification,2,2,2,0,practical_considerations_and_execution|truth,,constrain|constraints|verif|verified,False
+verified outcomes runbook,3,AC15P,S5,trigrams,verified outcomes runbook,3,truth_and_fact,1,verified,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,verif|verified,False
+style decisions verified,3,AC15P,S5,trigrams,style decisions verified,3,truth_and_fact,1,verified,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,verif|verified,False
+repo validity checks,3,AC15P,S5,trigrams,repo validity checks,3,,0,,,0,0.0,False,temporal_projection|truth,temporal_projection.decay_and_currency|truth.verification,2,2,2,0,temporal_projection|truth,,checks|validity,False
+require user confirmation,3,AC15P,S5,trigrams,require user confirmation,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,confirm|confirmation,False
+decisions constraints verified,2,AC15P,S5,trigrams,decisions constraints verified,3,truth_and_fact|practicality_and_feasibility,2,verified|constraints,,0,0.0,False,practical_considerations_and_execution|truth,practical_considerations_and_execution.constraints_and_tradeoffs|truth.verification,2,2,2,0,practical_considerations_and_execution|truth,,constrain|constraints|verif|verified,False
+t ship provenance,2,AC15P,S5,trigrams,ship provenance,2,truth_and_fact,1,provenance,,0,0.0,False,practical_considerations_and_execution|truth,practical_considerations_and_execution.action_and_execution|truth.verification,2,2,2,0,practical_considerations_and_execution|truth,,provenance|ship,False
+evidence lookup with,2,AC15P,S5,trigrams,evidence lookup,2,truth_and_fact,1,evidence,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+checks when possible,2,AC15P,S5,trigrams,checks possible,2,imagination_and_possibility,1,possible,,0,0.0,False,imagination_and_possibility|truth,imagination_and_possibility.exploration_within_bounds|truth.verification,2,2,2,0,imagination_and_possibility|truth,,checks|possibl|possible,False
+cited evidence lookup,2,AC15P,S5,trigrams,cited evidence lookup,3,truth_and_fact,1,evidence,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+scoped to evidence,2,AC15P,S5,trigrams,scoped evidence,2,truth_and_fact,1,evidence,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+evidence lookup selective,2,AC15P,S5,trigrams,evidence lookup selective,3,truth_and_fact,1,evidence,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+unless filtered validated,2,AC15P,S5,trigrams,unless filtered validated,3,,0,,,0,0.0,False,conditions|truth,conditions|truth.verification,2,2,1,1,truth,conditions,unless|validat|validated,False
+and freshness checks,2,AC15P,S5,trigrams,freshness checks,2,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,checks,False
+control and audit,2,AC15P,S5,trigrams,control audit,2,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,audit,False
+access deletion audit,2,AC15P,S5,trigrams,access deletion audit,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,audit,False
+repo verification before,4,CONTROL,S5,trigrams,repo verification before,3,truth_and_fact,1,verification,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,verif|verification,False
+confirm to save,3,CONTROL,S5,trigrams,confirm save,2,truth_and_fact,1,confirm,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,confirm,False
+repo conflict checks,3,CONTROL,S5,trigrams,repo conflict checks,3,,0,,,0,0.0,False,surfacing|truth,surfacing.tension_exposure|truth.verification,2,2,1,1,truth,surfacing,checks|conflict,False
+opt in evidence,2,CONTROL,S5,trigrams,opt evidence,2,truth_and_fact,1,evidence,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+evidence index if,2,CONTROL,S5,trigrams,evidence index,2,truth_and_fact,1,evidence,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+provenance editability staleness,2,CONTROL,S5,trigrams,provenance editability staleness,3,truth_and_fact,1,provenance,staleness,1,0.3333333333333333,False,temporal_projection|truth,temporal_projection.decay_and_currency|truth.verification,2,2,2,0,temporal_projection|truth,,provenance|staleness,False
+repo notebook evidence,2,CONTROL,S5,trigrams,repo notebook evidence,3,truth_and_fact,1,evidence,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+the evidence index,2,CONTROL,S5,trigrams,evidence index,2,truth_and_fact,1,evidence,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+notebook gated evidence,2,CONTROL,S5,trigrams,notebook gated evidence,3,truth_and_fact,1,evidence,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+backed evidence index,2,CONTROL,S5,trigrams,backed evidence index,3,truth_and_fact,1,evidence,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+evidence index but,2,CONTROL,S5,trigrams,evidence index,2,truth_and_fact,1,evidence,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+as verified project,2,CONTROL,S5,trigrams,verified project,2,truth_and_fact,1,verified,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,verif|verified,False
+verification before recommending,2,CONTROL,S5,trigrams,verification before recommending,3,truth_and_fact,1,verification,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,verif|verification,False
+but user confirms,2,CONTROL,S5,trigrams,user confirms,2,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,confirm,False
+build test commands,2,CONTROL,S5,trigrams,build test commands,3,,0,,,0,0.0,False,practical_considerations_and_execution|truth,practical_considerations_and_execution.action_and_execution|truth.verification,2,2,2,0,practical_considerations_and_execution|truth,,build|test,False
+staleness conflict checks,2,CONTROL,S5,trigrams,staleness conflict checks,3,,0,,staleness,1,0.3333333333333333,False,surfacing|temporal_projection|truth,surfacing.tension_exposure|temporal_projection.decay_and_currency|truth.verification,3,3,2,1,temporal_projection|truth,surfacing,checks|conflict|staleness,False
+and repo validated,2,CONTROL,S5,trigrams,repo validated,2,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,validat|validated,False
+high signal sources,4,HYBRID_3_5,S5,trigrams,high signal sources,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,sources,False
+source date link,3,HYBRID_3_5,S5,trigrams,source date link,3,truth_and_fact,1,source,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,source,False
+compatibility checks against,3,HYBRID_3_5,S5,trigrams,compatibility checks against,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,checks,False
+blocks volatile evidence,2,HYBRID_3_5,S5,trigrams,blocks volatile evidence,3,truth_and_fact,1,evidence,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+volatile evidence retrieval,2,HYBRID_3_5,S5,trigrams,volatile evidence retrieval,3,truth_and_fact,1,evidence,retrieval,1,0.3333333333333333,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+evidence items influenced,2,HYBRID_3_5,S5,trigrams,evidence items influenced,3,truth_and_fact,1,evidence,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+provenance from day,2,HYBRID_3_5,S5,trigrams,provenance day,2,truth_and_fact,1,provenance,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,provenance,False
+status timestamps provenance,2,HYBRID_3_5,S5,trigrams,status timestamps provenance,3,truth_and_fact,1,provenance,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,provenance,False
+timestamps provenance links,2,HYBRID_3_5,S5,trigrams,timestamps provenance links,3,truth_and_fact,1,provenance,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,provenance,False
+recency version checks,2,HYBRID_3_5,S5,trigrams,recency version checks,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,checks,False
+proximity existence checks,2,HYBRID_3_5,S5,trigrams,proximity existence checks,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,checks,False
+demand evidence retrieval,4,HYBRID_SEMANTIC,S5,trigrams,demand evidence retrieval,3,truth_and_fact,1,evidence,retrieval,1,0.3333333333333333,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+provenance links derived,2,HYBRID_SEMANTIC,S5,trigrams,provenance links derived,3,truth_and_fact,1,provenance,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,provenance,False
+root cause confirmed,2,HYBRID_SEMANTIC,S5,trigrams,root cause confirmed,3,truth_and_fact,1,confirmed,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,confirm|confirmed,False
+confirmed root cause,2,HYBRID_SEMANTIC,S5,trigrams,confirmed root cause,3,truth_and_fact,1,confirmed,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,confirm|confirmed,False
+provenance tagged and,2,HYBRID_SEMANTIC,S5,trigrams,provenance tagged,2,truth_and_fact,1,provenance,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,provenance,False
+conventions glossary confirmed,2,HYBRID_SEMANTIC,S5,trigrams,conventions glossary confirmed,3,truth_and_fact,1,confirmed,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,confirm|confirmed,False
+last verified at,2,HYBRID_SEMANTIC,S5,trigrams,last verified,2,truth_and_fact,1,verified,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,verif|verified,False
+verified at sha,2,HYBRID_SEMANTIC,S5,trigrams,verified sha,2,truth_and_fact,1,verified,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,verif|verified,False
+source linked and,2,HYBRID_SEMANTIC,S5,trigrams,source linked,2,truth_and_fact,1,source,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,source,False
+evidence in b,2,HYBRID_SEMANTIC,S5,trigrams,evidence b,2,truth_and_fact,1,evidence,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+typed memory provenance,2,HYBRID_SEMANTIC,S5,trigrams,typed memory provenance,3,truth_and_fact,1,provenance,memory,1,0.3333333333333333,False,truth,truth.verification,1,1,1,0,truth,,provenance,False
+editable diffable source,2,HYBRID_SEMANTIC,S5,trigrams,editable diffable source,3,truth_and_fact,1,source,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,source,False
+diffable source linked,2,HYBRID_SEMANTIC,S5,trigrams,diffable source linked,3,truth_and_fact,1,source,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,source,False
+inspect edit disable,2,HYBRID_SEMANTIC,S5,trigrams,inspect edit disable,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,inspect,False
+higher authority sources,2,HYBRID_SEMANTIC,S5,trigrams,higher authority sources,3,,0,,,0,0.0,False,autonomy_sovereignty|truth,autonomy_sovereignty|truth.verification,2,2,1,1,truth,autonomy_sovereignty,authority|sources,False

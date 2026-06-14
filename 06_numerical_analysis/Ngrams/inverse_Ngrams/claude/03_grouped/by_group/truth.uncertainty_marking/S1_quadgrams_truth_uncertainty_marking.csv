@@ -1,0 +1,4 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+waiver week review uncertain,2,CONTROL,S1,quadgrams,waiver week review uncertain,4,truth_and_fact,1,uncertain,waiver,1,0.25,False,truth,truth.uncertainty_marking,1,1,1,0,truth,,uncertain,False
+week review uncertain outcome,2,CONTROL,S1,quadgrams,week review uncertain outcome,4,truth_and_fact,1,uncertain,,0,0.0,False,truth,truth.uncertainty_marking,1,1,1,0,truth,,uncertain,False
+avoids the most uncertain,2,HYBRID_3_5,S1,quadgrams,avoids most uncertain,3,truth_and_fact,1,uncertain,,0,0.0,False,truth,truth.uncertainty_marking,1,1,1,0,truth,,uncertain,False

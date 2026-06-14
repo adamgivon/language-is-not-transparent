@@ -1,0 +1,17 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+standard controllers typically mean,2,AC15,S1,quadgrams,standard controllers typically mean,4,,0,,controller|controllers,2,0.25,False,hedging,hedging,1,1,0,1,,hedging,typically,False
+it may be underestimated,7,AC15P,S1,quadgrams,may underestimated,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,may,False
+likely narrative if there,3,AC15P,S1,quadgrams,likely narrative,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,likely,False
+in short novagrid may,2,AC15P,S1,quadgrams,short novagrid may,3,,0,,novagrid,1,0.3333333333333333,False,hedging,hedging,1,1,0,1,,hedging,may,False
+that tends to favor,2,AC15P,S1,quadgrams,tends favor,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,tends|tends to,False
+how it could bite,6,CONTROL,S1,quadgrams,how could bite,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,could,False
+it could bite you,4,CONTROL,S1,quadgrams,could bite,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,could,False
+lead time that could,3,CONTROL,S1,quadgrams,lead time could,3,,0,,lead time,1,0.6666666666666666,False,hedging,hedging,1,1,0,1,,hedging,could,False
+time that could push,3,CONTROL,S1,quadgrams,time could push,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,could,False
+likely narrative if something,3,CONTROL,S1,quadgrams,likely narrative something,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,likely,False
+modular tends to win,2,CONTROL,S1,quadgrams,modular tends win,3,,0,,modular,1,0.3333333333333333,False,hedging,hedging,1,1,0,1,,hedging,tends|tends to,False
+could change the answer,2,CONTROL,S1,quadgrams,could change answer,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,could,False
+that could push the,2,CONTROL,S1,quadgrams,could push,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,could,False
+could push the integrated,2,CONTROL,S1,quadgrams,could push integrated,3,,0,,integrated,1,0.3333333333333333,False,hedging,hedging,1,1,0,1,,hedging,could,False
+it could bite year,2,CONTROL,S1,quadgrams,could bite year,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,could,False
+in a way council,2,HYBRID_SEMANTIC,S1,quadgrams,way council,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,in a way,False

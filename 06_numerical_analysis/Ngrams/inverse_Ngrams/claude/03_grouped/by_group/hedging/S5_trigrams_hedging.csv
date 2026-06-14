@@ -1,0 +1,19 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+makes continuity mostly,2,AC15P,S5,trigrams,makes continuity mostly,3,temporal_dynamics,1,continuity,continuity,1,0.3333333333333333,False,hedging,hedging,1,1,0,1,,hedging,mostly,False
+continuity mostly about,2,AC15P,S5,trigrams,continuity mostly about,3,temporal_dynamics,1,continuity,continuity,1,0.3333333333333333,False,hedging,hedging,1,1,0,1,,hedging,mostly,False
+adr accepted may,2,AC15P,S5,trigrams,adr accepted may,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,may,False
+tend to make,2,AC15P,S5,trigrams,tend make,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,tend,False
+s more likely,2,AC15P,S5,trigrams,more likely,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,likely,False
+continuity is usually,2,CONTROL,S5,trigrams,continuity usually,2,temporal_dynamics,1,continuity,continuity,1,0.5,False,hedging,hedging,1,1,0,1,,hedging,usually,False
+but more likely,2,CONTROL,S5,trigrams,more likely,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,likely,False
+likely to create,2,CONTROL,S5,trigrams,likely create,2,,0,,,0,0.0,False,hedging|practical_considerations_and_execution,hedging|practical_considerations_and_execution.action_and_execution,2,2,1,1,practical_considerations_and_execution,hedging,create|likely,False
+likely to cause,2,CONTROL,S5,trigrams,likely cause,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,likely,False
+tend to preserve,2,CONTROL,S5,trigrams,tend preserve,2,,0,,,0,0.0,False,hedging|temporal_projection,hedging|temporal_projection.robustness_and_resilience,2,2,1,1,temporal_projection,hedging,preserve|tend,False
+make continuity mostly,2,HYBRID_3_5,S5,trigrams,make continuity mostly,3,temporal_dynamics,1,continuity,continuity,1,0.3333333333333333,False,hedging,hedging,1,1,0,1,,hedging,mostly,False
+continuity more likely,2,HYBRID_3_5,S5,trigrams,continuity more likely,3,temporal_dynamics,1,continuity,continuity,1,0.3333333333333333,False,hedging,hedging,1,1,0,1,,hedging,likely,False
+previously tried may,2,HYBRID_3_5,S5,trigrams,previously tried may,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,may,False
+tried may be,2,HYBRID_3_5,S5,trigrams,tried may,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,may,False
+tends to preserve,2,HYBRID_3_5,S5,trigrams,tends preserve,2,,0,,,0,0.0,False,hedging|temporal_projection,hedging|temporal_projection.robustness_and_resilience,2,2,1,1,temporal_projection,hedging,preserve|tends|tends to,False
+is least likely,2,HYBRID_3_5,S5,trigrams,least likely,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,likely,False
+the assistant may,2,HYBRID_3_5,S5,trigrams,assistant may,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,may,False
+kind of information,2,HYBRID_SEMANTIC,S5,trigrams,kind information,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,kind of,False

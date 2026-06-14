@@ -1,0 +1,7 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+medical decision authority,2,AC15,S7,trigrams,medical decision authority,3,,0,,medical,1,0.3333333333333333,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,authority,False
+decision authority if,2,AC15,S7,trigrams,decision authority,2,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,authority,False
+choosing you because,2,CONTROL,S7,trigrams,choosing because,2,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,choosing,False
+or choosing relief,2,HYBRID_3_5,S7,trigrams,choosing relief,2,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,choosing,False
+choosing relief from,2,HYBRID_3_5,S7,trigrams,choosing relief,2,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,choosing,False
+decide one of,2,HYBRID_3_5,S7,trigrams,decide one,2,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,decide,False

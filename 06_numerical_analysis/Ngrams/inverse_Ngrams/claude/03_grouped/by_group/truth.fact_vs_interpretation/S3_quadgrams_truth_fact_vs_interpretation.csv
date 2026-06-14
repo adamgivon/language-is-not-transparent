@@ -1,0 +1,5 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+the claims are truthful,2,AC15,S3,quadgrams,claims truthful,2,truth_and_fact,1,claims,,0,0.0,False,truth,truth.fact_vs_interpretation,1,1,1,0,truth,,truthful,False
+claims are truthful and,2,AC15,S3,quadgrams,claims truthful,2,truth_and_fact,1,claims,,0,0.0,False,truth,truth.fact_vs_interpretation,1,1,1,0,truth,,truthful,False
+safety case hazard analysis,2,CONTROL,S3,quadgrams,safety case hazard analysis,4,,0,,,0,0.0,False,truth|warning,truth.fact_vs_interpretation|warning,2,2,1,1,truth,warning,analysis|hazard,False
+case hazard analysis fmea,2,CONTROL,S3,quadgrams,case hazard analysis fmea,4,,0,,,0,0.0,False,truth|warning,truth.fact_vs_interpretation|warning,2,2,1,1,truth,warning,analysis|hazard,False

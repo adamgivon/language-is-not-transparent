@@ -1,0 +1,144 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy
+click mark outdated,4,AC15,S5,trigrams,click mark outdated,3,temporal_dynamics,1,outdated,,0,0.0,False
+conventions confirmed fixes,3,AC15,S5,trigrams,conventions confirmed fixes,3,truth_and_fact,1,confirmed,,0,0.0,False
+superseded deprecated created_at,3,AC15,S5,trigrams,superseded deprecated created_at,3,temporal_dynamics,1,deprecat,deprecated,1,0.3333333333333333,False
+deprecated created_at last_confirmed_at,3,AC15,S5,trigrams,deprecated created_at last_confirmed_at,3,temporal_dynamics,1,deprecat,deprecated,1,0.3333333333333333,False
+constraint convention confirmedfix,3,AC15,S5,trigrams,constraint convention confirmedfix,3,practicality_and_feasibility,1,constraint,,0,0.0,False
+rationale constraints alternatives,2,AC15,S5,trigrams,rationale constraints alternatives,3,practicality_and_feasibility|imagination_and_possibility,2,alternatives|constraints,,0,0.0,False
+decaying cited evidence,2,AC15,S5,trigrams,decaying cited evidence,3,truth_and_fact|temporal_dynamics,2,decaying|evidence,,0,0.0,False
+senior colleague continuity,2,AC15,S5,trigrams,senior colleague continuity,3,temporal_dynamics,1,continuity,continuity,1,0.3333333333333333,False
+hard constraints from,2,AC15,S5,trigrams,hard constraints,2,practicality_and_feasibility,1,constraints,,0,0.0,False
+continuity default use,2,AC15,S5,trigrams,continuity default use,3,temporal_dynamics,1,continuity,continuity,1,0.3333333333333333,False
+memory type practical,2,AC15,S5,trigrams,memory type practical,3,practicality_and_feasibility,1,practical,memory,1,0.3333333333333333,False
+chat evidence ttl,2,AC15,S5,trigrams,chat evidence ttl,3,truth_and_fact,1,evidence,,0,0.0,False
+records decision constraint,2,AC15,S5,trigrams,records decision constraint,3,practicality_and_feasibility,1,constraint,,0,0.0,False
+approves low risk,2,AC15,S5,trigrams,approves low risk,3,practicality_and_feasibility,1,risk,,0,0.0,False
+evidence with ttl,2,AC15,S5,trigrams,evidence ttl,2,truth_and_fact,1,evidence,,0,0.0,False
+you implement memory,2,AC15,S5,trigrams,implement memory,2,practicality_and_feasibility,1,implement,memory,1,0.5,False
+implement memory as,2,AC15,S5,trigrams,implement memory,2,practicality_and_feasibility,1,implement,memory,1,0.5,False
+t been confirmed,2,AC15,S5,trigrams,been confirmed,2,truth_and_fact,1,confirmed,,0,0.0,False
+been confirmed in,2,AC15,S5,trigrams,been confirmed,2,truth_and_fact,1,confirmed,,0,0.0,False
+confirmed in days,2,AC15,S5,trigrams,confirmed days,2,truth_and_fact,1,confirmed,,0,0.0,False
+evidence not authority,2,AC15,S5,trigrams,evidence authority,2,truth_and_fact,1,evidence,,0,0.0,False
+continuity but make,2,AC15,S5,trigrams,continuity make,2,temporal_dynamics,1,continuity,continuity,1,0.5,False
+the continuity argument,2,AC15,S5,trigrams,continuity argument,2,temporal_dynamics,1,continuity,continuity,1,0.5,False
+as decaying cited,2,AC15,S5,trigrams,decaying cited,2,temporal_dynamics,1,decaying,,0,0.0,False
+always show source,2,AC15,S5,trigrams,always show source,3,truth_and_fact,1,source,,0,0.0,False
+show source date,2,AC15,S5,trigrams,show source date,3,truth_and_fact,1,source,,0,0.0,False
+we build continuity,2,AC15,S5,trigrams,build continuity,2,temporal_dynamics,1,continuity,continuity,1,0.5,False
+types decision constraint,2,AC15,S5,trigrams,types decision constraint,3,practicality_and_feasibility,1,constraint,,0,0.0,False
+evidence index ei,2,AC15,S5,trigrams,evidence index ei,3,truth_and_fact,1,evidence,,0,0.0,False
+code prompt constraints,2,AC15,S5,trigrams,code prompt constraints,3,practicality_and_feasibility,1,constraints,code,1,0.3333333333333333,False
+prompt constraints only,2,AC15,S5,trigrams,prompt constraints,2,practicality_and_feasibility,1,constraints,,0,0.0,False
+build continuity but,2,AC15,S5,trigrams,build continuity,2,temporal_dynamics,1,continuity,continuity,1,0.5,False
+evidence lookup not,2,AC15,S5,trigrams,evidence lookup,2,truth_and_fact,1,evidence,,0,0.0,False
+trust and cost,2,AC15,S5,trigrams,trust cost,2,practicality_and_feasibility,1,cost,,0,0.0,False
+brief decisions constraints,2,AC15,S5,trigrams,brief decisions constraints,3,practicality_and_feasibility,1,constraints,,0,0.0,False
+your own data,2,AC15,S5,trigrams,own data,2,truth_and_fact,1,data,,0,0.0,False
+accepted superseded deprecated,6,AC15P,S5,trigrams,accepted superseded deprecated,3,temporal_dynamics,1,deprecat,deprecated,1,0.3333333333333333,False
+decisions verified outcomes,6,AC15P,S5,trigrams,decisions verified outcomes,3,truth_and_fact,1,verified,,0,0.0,False
+constraints verified outcomes,3,AC15P,S5,trigrams,constraints verified outcomes,3,truth_and_fact|practicality_and_feasibility,2,verified|constraints,,0,0.0,False
+verified outcomes runbook,3,AC15P,S5,trigrams,verified outcomes runbook,3,truth_and_fact,1,verified,,0,0.0,False
+superseded deprecated needs,3,AC15P,S5,trigrams,superseded deprecated needs,3,temporal_dynamics,1,deprecat,deprecated,1,0.3333333333333333,False
+deprecated needs review,3,AC15P,S5,trigrams,deprecated needs review,3,temporal_dynamics,1,deprecat,deprecated,1,0.3333333333333333,False
+style decisions verified,3,AC15P,S5,trigrams,style decisions verified,3,truth_and_fact,1,verified,,0,0.0,False
+long term bias,2,AC15P,S5,trigrams,long term bias,3,truth_and_fact|temporal_dynamics,2,bias|long term,,0,0.0,False
+decisions constraints verified,2,AC15P,S5,trigrams,decisions constraints verified,3,truth_and_fact|practicality_and_feasibility,2,verified|constraints,,0,0.0,False
+bias the model,2,AC15P,S5,trigrams,bias model,2,truth_and_fact,1,bias,,0,0.0,False
+makes continuity mostly,2,AC15P,S5,trigrams,makes continuity mostly,3,temporal_dynamics,1,continuity,continuity,1,0.3333333333333333,False
+continuity mostly about,2,AC15P,S5,trigrams,continuity mostly about,3,temporal_dynamics,1,continuity,continuity,1,0.3333333333333333,False
+to de risk,2,AC15P,S5,trigrams,de risk,2,practicality_and_feasibility,1,risk,,0,0.0,False
+staleness risk is,2,AC15P,S5,trigrams,staleness risk,2,practicality_and_feasibility,1,risk,staleness,1,0.5,False
+constraint that steers,2,AC15P,S5,trigrams,constraint steers,2,practicality_and_feasibility,1,constraint,,0,0.0,False
+t ship provenance,2,AC15P,S5,trigrams,ship provenance,2,truth_and_fact,1,provenance,,0,0.0,False
+memory as claims,2,AC15P,S5,trigrams,memory claims,2,truth_and_fact,1,claims,memory,1,0.5,False
+window branch artifact,2,AC15P,S5,trigrams,window branch artifact,3,temporal_dynamics,1,window,,0,0.0,False
+a temporal failure,2,AC15P,S5,trigrams,temporal failure,2,temporal_dynamics,1,temporal,,0,0.0,False
+evidence lookup with,2,AC15P,S5,trigrams,evidence lookup,2,truth_and_fact,1,evidence,,0,0.0,False
+least misleading why,2,AC15P,S5,trigrams,least misleading,2,truth_and_fact,1,misleading,,0,0.0,False
+superseding deprecating items,2,AC15P,S5,trigrams,superseding deprecating items,3,temporal_dynamics,1,deprecat,,0,0.0,False
+checks when possible,2,AC15P,S5,trigrams,checks possible,2,imagination_and_possibility,1,possible,,0,0.0,False
+possible paths symbols,2,AC15P,S5,trigrams,possible paths symbols,3,imagination_and_possibility,1,possible,,0,0.0,False
+type time window,2,AC15P,S5,trigrams,type time window,3,temporal_dynamics,1,window,,0,0.0,False
+time window status,2,AC15P,S5,trigrams,time window status,3,temporal_dynamics,1,window,,0,0.0,False
+cited evidence lookup,2,AC15P,S5,trigrams,cited evidence lookup,3,truth_and_fact,1,evidence,,0,0.0,False
+scoped to evidence,2,AC15P,S5,trigrams,scoped evidence,2,truth_and_fact,1,evidence,,0,0.0,False
+evidence lookup selective,2,AC15P,S5,trigrams,evidence lookup selective,3,truth_and_fact,1,evidence,,0,0.0,False
+conventions constraints system,7,CONTROL,S5,trigrams,conventions constraints system,3,practicality_and_feasibility,1,constraints,,0,0.0,False
+constraints system map,7,CONTROL,S5,trigrams,constraints system map,3,practicality_and_feasibility,1,constraints,,0,0.0,False
+repo verification before,4,CONTROL,S5,trigrams,repo verification before,3,truth_and_fact,1,verification,,0,0.0,False
+confirm to save,3,CONTROL,S5,trigrams,confirm save,2,truth_and_fact,1,confirm,,0,0.0,False
+shift continuity toward,2,CONTROL,S5,trigrams,shift continuity toward,3,temporal_dynamics,2,continuity|shift,continuity,1,0.3333333333333333,False
+avoids rut bias,2,CONTROL,S5,trigrams,avoids rut bias,3,truth_and_fact,1,bias,,0,0.0,False
+opt in evidence,2,CONTROL,S5,trigrams,opt evidence,2,truth_and_fact,1,evidence,,0,0.0,False
+conventions constraints and,2,CONTROL,S5,trigrams,conventions constraints,2,practicality_and_feasibility,1,constraints,,0,0.0,False
+continuity is usually,2,CONTROL,S5,trigrams,continuity usually,2,temporal_dynamics,1,continuity,continuity,1,0.5,False
+evidence index if,2,CONTROL,S5,trigrams,evidence index,2,truth_and_fact,1,evidence,,0,0.0,False
+provenance editability staleness,2,CONTROL,S5,trigrams,provenance editability staleness,3,truth_and_fact,1,provenance,staleness,1,0.3333333333333333,False
+memory supports continuity,2,CONTROL,S5,trigrams,memory supports continuity,3,temporal_dynamics,1,continuity,memory|continuity,2,0.6666666666666666,False
+rut bias and,2,CONTROL,S5,trigrams,rut bias,2,truth_and_fact,1,bias,,0,0.0,False
+repo notebook evidence,2,CONTROL,S5,trigrams,repo notebook evidence,3,truth_and_fact,1,evidence,,0,0.0,False
+the evidence index,2,CONTROL,S5,trigrams,evidence index,2,truth_and_fact,1,evidence,,0,0.0,False
+tags recency window,2,CONTROL,S5,trigrams,tags recency window,3,temporal_dynamics,1,window,,0,0.0,False
+notebook gated evidence,2,CONTROL,S5,trigrams,notebook gated evidence,3,truth_and_fact,1,evidence,,0,0.0,False
+backed evidence index,2,CONTROL,S5,trigrams,backed evidence index,3,truth_and_fact,1,evidence,,0,0.0,False
+evidence index but,2,CONTROL,S5,trigrams,evidence index,2,truth_and_fact,1,evidence,,0,0.0,False
+architecture constraints conventions,2,CONTROL,S5,trigrams,architecture constraints conventions,3,practicality_and_feasibility,1,constraints,,0,0.0,False
+constraints conventions system,2,CONTROL,S5,trigrams,constraints conventions system,3,practicality_and_feasibility,1,constraints,,0,0.0,False
+as verified project,2,CONTROL,S5,trigrams,verified project,2,truth_and_fact,1,verified,,0,0.0,False
+verification before recommending,2,CONTROL,S5,trigrams,verification before recommending,3,truth_and_fact,1,verification,,0,0.0,False
+attempts speculative hypotheses,3,HYBRID_3_5,S5,trigrams,attempts speculative hypotheses,3,truth_and_fact|imagination_and_possibility,1,speculative,,0,0.0,False
+source date link,3,HYBRID_3_5,S5,trigrams,source date link,3,truth_and_fact,1,source,,0,0.0,False
+reliable project memory,3,HYBRID_3_5,S5,trigrams,reliable project memory,3,truth_and_fact,1,reliable,memory|project memory,2,0.6666666666666666,False
+debugging attempts speculative,2,HYBRID_3_5,S5,trigrams,debugging attempts speculative,3,truth_and_fact|imagination_and_possibility,1,speculative,,0,0.0,False
+risk unless governed,2,HYBRID_3_5,S5,trigrams,risk unless governed,3,practicality_and_feasibility,1,risk,,0,0.0,False
+can make continuity,2,HYBRID_3_5,S5,trigrams,make continuity,2,temporal_dynamics,1,continuity,continuity,1,0.5,False
+make continuity mostly,2,HYBRID_3_5,S5,trigrams,make continuity mostly,3,temporal_dynamics,1,continuity,continuity,1,0.3333333333333333,False
+staleness risk unless,2,HYBRID_3_5,S5,trigrams,staleness risk unless,3,practicality_and_feasibility,1,risk,staleness,1,0.3333333333333333,False
+architectures make continuity,2,HYBRID_3_5,S5,trigrams,architectures make continuity,3,temporal_dynamics,1,continuity,continuity,1,0.3333333333333333,False
+make continuity more,2,HYBRID_3_5,S5,trigrams,make continuity more,3,temporal_dynamics,1,continuity,continuity,1,0.3333333333333333,False
+continuity more likely,2,HYBRID_3_5,S5,trigrams,continuity more likely,3,temporal_dynamics,1,continuity,continuity,1,0.3333333333333333,False
+decay version proximity,2,HYBRID_3_5,S5,trigrams,decay version proximity,3,temporal_dynamics,1,decay,,0,0.0,False
+volatile history continuity,2,HYBRID_3_5,S5,trigrams,volatile history continuity,3,temporal_dynamics,1,continuity,continuity,1,0.3333333333333333,False
+for debugging exploration,2,HYBRID_3_5,S5,trigrams,debugging exploration,2,imagination_and_possibility,1,exploration,,0,0.0,False
+keep continuity from,2,HYBRID_3_5,S5,trigrams,keep continuity,2,temporal_dynamics,1,continuity,continuity,1,0.5,False
+continuity from becoming,2,HYBRID_3_5,S5,trigrams,continuity becoming,2,temporal_dynamics,1,continuity,continuity,1,0.5,False
+blocks volatile evidence,2,HYBRID_3_5,S5,trigrams,blocks volatile evidence,3,truth_and_fact,1,evidence,,0,0.0,False
+volatile evidence retrieval,2,HYBRID_3_5,S5,trigrams,volatile evidence retrieval,3,truth_and_fact,1,evidence,retrieval,1,0.3333333333333333,False
+evidence items influenced,2,HYBRID_3_5,S5,trigrams,evidence items influenced,3,truth_and_fact,1,evidence,,0,0.0,False
+provenance from day,2,HYBRID_3_5,S5,trigrams,provenance day,2,truth_and_fact,1,provenance,,0,0.0,False
+status timestamps provenance,2,HYBRID_3_5,S5,trigrams,status timestamps provenance,3,truth_and_fact,1,provenance,,0,0.0,False
+timestamps provenance links,2,HYBRID_3_5,S5,trigrams,timestamps provenance links,3,truth_and_fact,1,provenance,,0,0.0,False
+demand evidence retrieval,4,HYBRID_SEMANTIC,S5,trigrams,demand evidence retrieval,3,truth_and_fact,1,evidence,retrieval,1,0.3333333333333333,False
+irrelevant outdated never,3,HYBRID_SEMANTIC,S5,trigrams,irrelevant outdated never,3,temporal_dynamics,1,outdated,,0,0.0,False
+outdated never use,3,HYBRID_SEMANTIC,S5,trigrams,outdated never use,3,temporal_dynamics,1,outdated,,0,0.0,False
+truth from exploration,2,HYBRID_SEMANTIC,S5,trigrams,truth exploration,2,truth_and_fact|imagination_and_possibility,2,truth|exploration,,0,0.0,False
+high anchoring risk,2,HYBRID_SEMANTIC,S5,trigrams,high anchoring risk,3,practicality_and_feasibility,1,risk,,0,0.0,False
+attempts speculative debugging,2,HYBRID_SEMANTIC,S5,trigrams,attempts speculative debugging,3,truth_and_fact|imagination_and_possibility,1,speculative,,0,0.0,False
+can expire unless,2,HYBRID_SEMANTIC,S5,trigrams,expire unless,2,temporal_dynamics,1,expire,,0,0.0,False
+expire unless reaffirmed,2,HYBRID_SEMANTIC,S5,trigrams,expire unless reaffirmed,3,temporal_dynamics,1,expire,,0,0.0,False
+use constraints only,2,HYBRID_SEMANTIC,S5,trigrams,use constraints,2,practicality_and_feasibility,1,constraints,,0,0.0,False
+canonical decisions constraints,2,HYBRID_SEMANTIC,S5,trigrams,canonical decisions constraints,3,practicality_and_feasibility,1,constraints,,0,0.0,False
+provenance links derived,2,HYBRID_SEMANTIC,S5,trigrams,provenance links derived,3,truth_and_fact,1,provenance,,0,0.0,False
+root cause confirmed,2,HYBRID_SEMANTIC,S5,trigrams,root cause confirmed,3,truth_and_fact,1,confirmed,,0,0.0,False
+confirmed root cause,2,HYBRID_SEMANTIC,S5,trigrams,confirmed root cause,3,truth_and_fact,1,confirmed,,0,0.0,False
+fresh eyes constraints,2,HYBRID_SEMANTIC,S5,trigrams,fresh eyes constraints,3,practicality_and_feasibility,1,constraints,fresh eyes,1,0.6666666666666666,False
+eyes constraints only,2,HYBRID_SEMANTIC,S5,trigrams,eyes constraints,2,practicality_and_feasibility,1,constraints,,0,0.0,False
+provenance tagged and,2,HYBRID_SEMANTIC,S5,trigrams,provenance tagged,2,truth_and_fact,1,provenance,,0,0.0,False
+durable truth from,2,HYBRID_SEMANTIC,S5,trigrams,durable truth,2,truth_and_fact,1,truth,,0,0.0,False
+from exploration exhaust,2,HYBRID_SEMANTIC,S5,trigrams,exploration exhaust,2,imagination_and_possibility,1,exploration,,0,0.0,False
+default decisions constraints,2,HYBRID_SEMANTIC,S5,trigrams,default decisions constraints,3,practicality_and_feasibility,1,constraints,,0,0.0,False
+conventions glossary confirmed,2,HYBRID_SEMANTIC,S5,trigrams,conventions glossary confirmed,3,truth_and_fact,1,confirmed,,0,0.0,False
+risk frequent retrieval,2,HYBRID_SEMANTIC,S5,trigrams,risk frequent retrieval,3,practicality_and_feasibility,1,risk,retrieval,1,0.3333333333333333,False
+last verified at,2,HYBRID_SEMANTIC,S5,trigrams,last verified,2,truth_and_fact,1,verified,,0,0.0,False
+verified at sha,2,HYBRID_SEMANTIC,S5,trigrams,verified sha,2,truth_and_fact,1,verified,,0,0.0,False
+source linked and,2,HYBRID_SEMANTIC,S5,trigrams,source linked,2,truth_and_fact,1,source,,0,0.0,False
+you choose continuity,2,HYBRID_SEMANTIC,S5,trigrams,choose continuity,2,temporal_dynamics,1,continuity,continuity,1,0.5,False
+choose continuity via,2,HYBRID_SEMANTIC,S5,trigrams,choose continuity via,3,temporal_dynamics,1,continuity,continuity,1,0.3333333333333333,False
+helps continuity argument,2,HYBRID_SEMANTIC,S5,trigrams,helps continuity argument,3,temporal_dynamics,1,continuity,continuity,1,0.3333333333333333,False
+isolation argument risk,2,HYBRID_SEMANTIC,S5,trigrams,isolation argument risk,3,practicality_and_feasibility,1,risk,,0,0.0,False
+superseded links constraints,2,HYBRID_SEMANTIC,S5,trigrams,superseded links constraints,3,practicality_and_feasibility,1,constraints,,0,0.0,False
+evidence in b,2,HYBRID_SEMANTIC,S5,trigrams,evidence b,2,truth_and_fact,1,evidence,,0,0.0,False
+typed memory provenance,2,HYBRID_SEMANTIC,S5,trigrams,typed memory provenance,3,truth_and_fact,1,provenance,memory,1,0.3333333333333333,False
+editable diffable source,2,HYBRID_SEMANTIC,S5,trigrams,editable diffable source,3,truth_and_fact,1,source,,0,0.0,False
+diffable source linked,2,HYBRID_SEMANTIC,S5,trigrams,diffable source linked,3,truth_and_fact,1,source,,0,0.0,False

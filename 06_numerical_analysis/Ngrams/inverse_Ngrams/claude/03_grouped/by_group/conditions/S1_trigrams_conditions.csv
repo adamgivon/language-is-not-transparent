@@ -1,0 +1,6 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+contingent on passing,2,AC15,S1,trigrams,contingent passing,2,,0,,,0,0.0,False,conditions|practical_considerations_and_execution,conditions|practical_considerations_and_execution.resources_timing_conditions,2,2,1,1,practical_considerations_and_execution,conditions,contingen|contingent|contingent on,False
+unless you cap,2,AC15P,S1,trigrams,unless cap,2,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,unless,False
+recommendation unless novagrid,3,CONTROL,S1,trigrams,recommendation unless novagrid,3,,0,,novagrid,1,0.3333333333333333,False,conditions,conditions,1,1,0,1,,conditions,unless,False
+now depends on,2,CONTROL,S1,trigrams,now depends,2,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,depends|depends on,False
+unless novagrid s,2,HYBRID_3_5,S1,trigrams,unless novagrid,2,,0,,novagrid,1,0.5,False,conditions,conditions,1,1,0,1,,conditions,unless,False

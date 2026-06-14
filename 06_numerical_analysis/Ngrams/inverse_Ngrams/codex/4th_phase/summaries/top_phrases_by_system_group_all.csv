@@ -1,0 +1,1074 @@
+level,system,expression_group_layer,expression_group,ngram,total_count,row_occurrences,scenario_count,scenarios,matched_constraints,scenario_heavy_hits
+quadgrams,AC15,cross_cutting,autonomy_sovereignty,choosing you seriously and,2,1,1,S7,,0
+quadgrams,AC15,cross_cutting,conditions,citizenship and whether you,2,1,1,S7,,0
+quadgrams,AC15,cross_cutting,conditions,g days unless promoted,2,1,1,S5,,0
+quadgrams,AC15,cross_cutting,conditions,your citizenship and whether,2,1,1,S7,,0
+quadgrams,AC15,cross_cutting,hedging,motivations could be love,2,1,1,S7,,0
+quadgrams,AC15,cross_cutting,hedging,of these become likely,2,1,1,S3,,0
+quadgrams,AC15,cross_cutting,hedging,performers tend to stay,2,1,1,S7,,0
+quadgrams,AC15,cross_cutting,hedging,re statistically likely to,2,1,1,S3,,0
+quadgrams,AC15,cross_cutting,hedging,standard controllers typically mean,2,1,1,S1,,0
+quadgrams,AC15,cross_cutting,hedging,tends to sound like,2,1,1,S7,,0
+quadgrams,AC15,cross_cutting,hedging,this kind of urgency,2,1,1,S7,,0
+quadgrams,AC15,cross_cutting,hedging,you re statistically likely,2,1,1,S3,,0
+quadgrams,AC15,cross_cutting,hedging,your situation that typically,2,1,1,S7,,0
+quadgrams,AC15,constraint_aligned,imagination_and_possibility,plan so neither of,2,1,1,S7,,0
+quadgrams,AC15,constraint_aligned,imagination_and_possibility,prototype validated evt dvt,2,1,1,S3,imagination_and_possibility,0
+quadgrams,AC15,constraint_aligned,imagination_and_possibility,shielding prototype validated evt,2,1,1,S3,imagination_and_possibility,0
+quadgrams,AC15,constraint_aligned,practical_considerations_and_execution,active superseded deprecated created_at,3,1,1,S5,temporal_dynamics,0
+quadgrams,AC15,constraint_aligned,practical_considerations_and_execution,decision constraint convention confirmedfix,3,1,1,S5,practicality_and_feasibility,0
+quadgrams,AC15,constraint_aligned,practical_considerations_and_execution,deprecated created_at last_confirmed_at confidence,3,1,1,S5,temporal_dynamics;truth_and_fact,0
+quadgrams,AC15,constraint_aligned,practical_considerations_and_execution,superseded deprecated created_at last_confirmed_at,3,1,1,S5,temporal_dynamics;truth_and_fact,0
+quadgrams,AC15,constraint_aligned,practical_considerations_and_execution,timeline and required controls,3,1,1,S1,practicality_and_feasibility;temporal_dynamics,0
+quadgrams,AC15,constraint_aligned,practical_considerations_and_execution,a clearly bounded operating,2,1,1,S3,,0
+quadgrams,AC15,constraint_aligned,practical_considerations_and_execution,a phased start and,2,1,1,S1,temporal_dynamics,0
+quadgrams,AC15,constraint_aligned,practical_considerations_and_execution,aging health plan partner,2,1,1,S7,,1
+quadgrams,AC15,constraint_aligned,practical_considerations_and_execution,bound the failure mode,2,1,1,S3,,0
+quadgrams,AC15,constraint_aligned,practical_considerations_and_execution,bounded operating envelope with,2,1,1,S3,,0
+quadgrams,AC15,constraint_aligned,practical_considerations_and_execution,brief decisions constraints conventions,2,1,1,S5,practicality_and_feasibility,0
+quadgrams,AC15,constraint_aligned,practical_considerations_and_execution,can restructure the launch,2,1,1,S3,,0
+quadgrams,AC15,constraint_aligned,practical_considerations_and_execution,civitas modular mitigates the,2,1,1,S1,,0
+quadgrams,AC15,constraint_aligned,practical_considerations_and_execution,clearly bounded operating envelope,2,1,1,S3,,0
+quadgrams,AC15,constraint_aligned,practical_considerations_and_execution,code prompt constraints only,2,1,1,S5,practicality_and_feasibility,0
+quadgrams,AC15,cross_cutting,smoothing,don t merge finances,3,1,1,S7,,0
+quadgrams,AC15,cross_cutting,smoothing,advice on both sides,2,1,1,S7,,0
+quadgrams,AC15,cross_cutting,smoothing,don t merge accounts,2,1,1,S7,,0
+quadgrams,AC15,cross_cutting,smoothing,merge accounts don t,2,1,1,S7,,0
+quadgrams,AC15,cross_cutting,smoothing,no merged finances keep,2,1,1,S7,,0
+quadgrams,AC15,cross_cutting,smoothing,not buy no merged,2,1,1,S7,,0
+quadgrams,AC15,cross_cutting,smoothing,property don t merge,2,1,1,S7,,0
+quadgrams,AC15,cross_cutting,smoothing,t merge accounts don,2,1,1,S7,,0
+quadgrams,AC15,cross_cutting,surfacing,would make us wrong,6,1,1,S1,,0
+quadgrams,AC15,cross_cutting,surfacing,can t guarantee geofence,2,1,1,S3,,0
+quadgrams,AC15,cross_cutting,surfacing,can t leave region,2,1,1,S5,,0
+quadgrams,AC15,cross_cutting,surfacing,conflicts with apm or,2,1,1,S5,,0
+quadgrams,AC15,cross_cutting,surfacing,contract doesn t allow,2,1,1,S1,,0
+quadgrams,AC15,cross_cutting,surfacing,convention hasn t been,2,1,1,S5,,0
+quadgrams,AC15,cross_cutting,surfacing,fewest external blockers civitas,2,1,1,S1,practicality_and_feasibility,0
+quadgrams,AC15,cross_cutting,surfacing,hasn t been confirmed,2,1,1,S5,truth_and_fact,0
+quadgrams,AC15,cross_cutting,surfacing,is permissible and doesn,2,1,1,S1,,0
+quadgrams,AC15,cross_cutting,surfacing,make us wrong a,2,1,1,S1,,0
+quadgrams,AC15,cross_cutting,surfacing,make us wrong the,2,1,1,S1,,0
+quadgrams,AC15,cross_cutting,surfacing,permissible and doesn t,2,1,1,S1,,0
+quadgrams,AC15,cross_cutting,surfacing,pii can t leave,2,1,1,S5,,0
+quadgrams,AC15,cross_cutting,surfacing,the contract doesn t,2,1,1,S1,,0
+quadgrams,AC15,cross_cutting,surfacing,the danger isn t,2,1,1,S7,,0
+quadgrams,AC15,constraint_aligned,temporal_projection,data config portability transition,4,1,1,S1,temporal_dynamics;truth_and_fact,0
+quadgrams,AC15,constraint_aligned,temporal_projection,one click mark outdated,4,1,1,S5,temporal_dynamics,0
+quadgrams,AC15,constraint_aligned,temporal_projection,a long term partner,3,1,1,S7,temporal_dynamics,0
+quadgrams,AC15,constraint_aligned,temporal_projection,active superseded deprecated created_at,3,1,1,S5,temporal_dynamics,0
+quadgrams,AC15,constraint_aligned,temporal_projection,click mark outdated supersede,3,1,1,S5,temporal_dynamics,0
+quadgrams,AC15,constraint_aligned,temporal_projection,config portability transition assistance,3,1,1,S1,temporal_dynamics,0
+quadgrams,AC15,constraint_aligned,temporal_projection,deprecated created_at last_confirmed_at confidence,3,1,1,S5,temporal_dynamics;truth_and_fact,0
+quadgrams,AC15,constraint_aligned,temporal_projection,superseded deprecated created_at last_confirmed_at,3,1,1,S5,temporal_dynamics;truth_and_fact,0
+quadgrams,AC15,constraint_aligned,temporal_projection,a more robust nav,2,1,1,S3,temporal_dynamics,0
+quadgrams,AC15,constraint_aligned,temporal_projection,a phased notice to,2,1,1,S1,temporal_dynamics,0
+quadgrams,AC15,constraint_aligned,temporal_projection,a phased start and,2,1,1,S1,temporal_dynamics,0
+quadgrams,AC15,constraint_aligned,temporal_projection,a week selection window,2,1,1,S1,temporal_dynamics,0
+quadgrams,AC15,constraint_aligned,temporal_projection,about years from now,2,1,1,S7,,0
+quadgrams,AC15,constraint_aligned,temporal_projection,aging health plan partner,2,1,1,S7,,1
+quadgrams,AC15,constraint_aligned,temporal_projection,as decaying cited evidence,2,1,1,S5,temporal_dynamics;truth_and_fact,0
+quadgrams,AC15,constraint_aligned,truth,decision constraint convention confirmedfix,3,1,1,S5,practicality_and_feasibility,0
+quadgrams,AC15,constraint_aligned,truth,deprecated created_at last_confirmed_at confidence,3,1,1,S5,temporal_dynamics;truth_and_fact,0
+quadgrams,AC15,constraint_aligned,truth,superseded deprecated created_at last_confirmed_at,3,1,1,S5,temporal_dynamics;truth_and_fact,0
+quadgrams,AC15,constraint_aligned,truth,acceptance testing that includes,2,1,1,S1,,0
+quadgrams,AC15,constraint_aligned,truth,always show source date,2,1,1,S5,truth_and_fact,0
+quadgrams,AC15,constraint_aligned,truth,as decaying cited evidence,2,1,1,S5,temporal_dynamics;truth_and_fact,0
+quadgrams,AC15,constraint_aligned,truth,b evidence index ei,2,1,1,S5,truth_and_fact,0
+quadgrams,AC15,constraint_aligned,truth,been confirmed in days,2,1,1,S5,truth_and_fact,0
+quadgrams,AC15,constraint_aligned,truth,claims are truthful and,2,1,1,S3,truth_and_fact,0
+quadgrams,AC15,constraint_aligned,truth,confirm if you tell,2,1,1,S5,truth_and_fact,0
+quadgrams,AC15,constraint_aligned,truth,constraints conventions confirmed fixes,2,1,1,S5,practicality_and_feasibility;truth_and_fact,0
+quadgrams,AC15,constraint_aligned,truth,created_at last_confirmed_at confidence user,2,1,1,S5,truth_and_fact,0
+quadgrams,AC15,constraint_aligned,truth,documented formats transition assistance,2,1,1,S1,temporal_dynamics,0
+quadgrams,AC15,constraint_aligned,truth,evidence_refs pr commit doc,2,1,1,S5,truth_and_fact,0
+quadgrams,AC15,constraint_aligned,truth,hasn t been confirmed,2,1,1,S5,truth_and_fact,0
+quadgrams,AC15,cross_cutting,warning,and lock in risk,2,1,1,S1,practicality_and_feasibility,0
+quadgrams,AC15,cross_cutting,warning,auto approves low risk,2,1,1,S5,practicality_and_feasibility,0
+quadgrams,AC15,cross_cutting,warning,choosing you seriously and,2,1,1,S7,,0
+quadgrams,AC15,cross_cutting,warning,serious mean to you,2,1,1,S7,,0
+quadgrams,AC15,cross_cutting,warning,the danger isn t,2,1,1,S7,,0
+quadgrams,AC15,cross_cutting,warning,to pursue this seriously,2,1,1,S7,,0
+quadgrams,AC15P,cross_cutting,autonomy_sovereignty,help you choose between,2,1,1,S3,,0
+quadgrams,AC15P,cross_cutting,conditions,and b whether the,3,1,1,S3,,0
+quadgrams,AC15P,cross_cutting,conditions,and yours and whether,3,1,1,S7,,0
+quadgrams,AC15P,cross_cutting,conditions,b whether the mining,3,1,1,S3,,0
+quadgrams,AC15P,cross_cutting,conditions,whether you ll stay,3,1,1,S7,,0
+quadgrams,AC15P,cross_cutting,conditions,and whether marriage children,2,1,1,S7,,0
+quadgrams,AC15P,cross_cutting,conditions,days sprints unless reaffirmed,2,1,1,S5,,0
+quadgrams,AC15P,cross_cutting,conditions,depends on the architecture,2,1,1,S5,,0
+quadgrams,AC15P,cross_cutting,conditions,n days sprints unless,2,1,1,S5,,0
+quadgrams,AC15P,cross_cutting,conditions,sanity check whether the,2,1,1,S3,,0
+quadgrams,AC15P,cross_cutting,conditions,should we depends on,2,1,1,S5,,0
+quadgrams,AC15P,cross_cutting,conditions,whether marriage children are,2,1,1,S7,,0
+quadgrams,AC15P,cross_cutting,conditions,whether you can implement,2,1,1,S3,practicality_and_feasibility,0
+quadgrams,AC15P,cross_cutting,conditions,yours and whether children,2,1,1,S7,,0
+quadgrams,AC15P,cross_cutting,hedging,may not be seeing,8,1,1,S7,,0
+quadgrams,AC15P,cross_cutting,hedging,it may be underestimated,7,1,1,S1,,0
+quadgrams,AC15P,cross_cutting,hedging,likely narrative if there,3,1,1,S1,,0
+quadgrams,AC15P,cross_cutting,hedging,balance usually lies toward,2,1,1,S3,,0
+quadgrams,AC15P,cross_cutting,hedging,be seeing you might,2,1,1,S7,,0
+quadgrams,AC15P,cross_cutting,hedging,how often you feel,2,1,1,S7,,0
+quadgrams,AC15P,cross_cutting,hedging,i would treat as,2,1,1,S3,,0
+quadgrams,AC15P,cross_cutting,hedging,in short novagrid may,2,1,1,S1,,0
+quadgrams,AC15P,cross_cutting,hedging,likely caused it then,2,1,1,S7,,0
+quadgrams,AC15P,cross_cutting,hedging,makes continuity mostly about,2,1,1,S5,temporal_dynamics,0
+quadgrams,AC15P,cross_cutting,hedging,often you feel calm,2,1,1,S7,,0
+quadgrams,AC15P,cross_cutting,hedging,tend to make continuity,2,1,1,S5,temporal_dynamics,0
+quadgrams,AC15P,cross_cutting,hedging,that tends to favor,2,1,1,S1,,0
+quadgrams,AC15P,cross_cutting,hedging,the balance usually lies,2,1,1,S3,,0
+quadgrams,AC15P,cross_cutting,hedging,then the balance usually,2,1,1,S3,,0
+quadgrams,AC15P,constraint_aligned,imagination_and_possibility,draft accepted superseded deprecated,3,1,1,S5,temporal_dynamics,0
+quadgrams,AC15P,constraint_aligned,imagination_and_possibility,status draft accepted superseded,3,1,1,S5,,0
+quadgrams,AC15P,constraint_aligned,imagination_and_possibility,if neither is true,2,1,1,S3,,0
+quadgrams,AC15P,constraint_aligned,imagination_and_possibility,mining as paid pilot,2,1,1,S3,imagination_and_possibility,0
+quadgrams,AC15P,constraint_aligned,imagination_and_possibility,paid pilot limited availability,2,1,1,S3,imagination_and_possibility,0
+quadgrams,AC15P,constraint_aligned,imagination_and_possibility,path to start on,2,1,1,S1,,0
+quadgrams,AC15P,constraint_aligned,imagination_and_possibility,pilot la until rev,2,1,1,S3,imagination_and_possibility,0
+quadgrams,AC15P,constraint_aligned,imagination_and_possibility,possible iteration it required,2,1,1,S1,imagination_and_possibility,0
+quadgrams,AC15P,constraint_aligned,imagination_and_possibility,possible paths symbols exist,2,1,1,S5,imagination_and_possibility,0
+quadgrams,AC15P,constraint_aligned,imagination_and_possibility,table for either of,2,1,1,S7,,0
+quadgrams,AC15P,constraint_aligned,imagination_and_possibility,text status draft accepted,2,1,1,S5,,0
+quadgrams,AC15P,constraint_aligned,imagination_and_possibility,the table for either,2,1,1,S7,,0
+quadgrams,AC15P,constraint_aligned,imagination_and_possibility,type text status draft,2,1,1,S5,,0
+quadgrams,AC15P,constraint_aligned,practical_considerations_and_execution,care is plan a,4,1,1,S7,,0
+quadgrams,AC15P,constraint_aligned,practical_considerations_and_execution,limited availability early access,4,1,1,S3,,0
+quadgrams,AC15P,constraint_aligned,practical_considerations_and_execution,can t delay start,3,1,1,S1,,0
+quadgrams,AC15P,constraint_aligned,practical_considerations_and_execution,created_at last_validated_at repo branch,3,1,1,S5,,0
+quadgrams,AC15P,constraint_aligned,practical_considerations_and_execution,exit plan cash logistics,3,1,1,S7,,0
+quadgrams,AC15P,constraint_aligned,practical_considerations_and_execution,failure council budget chair,3,1,1,S1,practicality_and_feasibility,0
+quadgrams,AC15P,constraint_aligned,practical_considerations_and_execution,mitigation is not bounded,3,1,1,S3,practicality_and_feasibility,0
+quadgrams,AC15P,constraint_aligned,practical_considerations_and_execution,one failure council budget,3,1,1,S1,practicality_and_feasibility,0
+quadgrams,AC15P,constraint_aligned,practical_considerations_and_execution,timing plans controller configs,3,1,1,S1,,0
+quadgrams,AC15P,constraint_aligned,practical_considerations_and_execution,a launch definition that,2,1,1,S3,,0
+quadgrams,AC15P,constraint_aligned,practical_considerations_and_execution,a two track plan,2,1,1,S7,,0
+quadgrams,AC15P,constraint_aligned,practical_considerations_and_execution,adjustable cloud subscription costs,2,1,1,S1,,0
+quadgrams,AC15P,constraint_aligned,practical_considerations_and_execution,always show used context,2,1,1,S5,,0
+quadgrams,AC15P,constraint_aligned,practical_considerations_and_execution,and operating budgets are,2,1,1,S1,,0
+quadgrams,AC15P,constraint_aligned,practical_considerations_and_execution,availability early access launch,2,1,1,S3,,1
+quadgrams,AC15P,cross_cutting,smoothing,balance usually lies toward,2,1,1,S3,,0
+quadgrams,AC15P,cross_cutting,smoothing,the balance usually lies,2,1,1,S3,,0
+quadgrams,AC15P,cross_cutting,smoothing,then the balance usually,2,1,1,S3,,0
+quadgrams,AC15P,cross_cutting,surfacing,can t delay start,3,1,1,S1,,0
+quadgrams,AC15P,cross_cutting,surfacing,can canonize a wrong,2,1,1,S5,,0
+quadgrams,AC15P,cross_cutting,surfacing,can t know her,2,1,1,S7,,0
+quadgrams,AC15P,cross_cutting,surfacing,can t ship provenance,2,1,1,S5,truth_and_fact,0
+quadgrams,AC15P,cross_cutting,surfacing,developer can t see,2,1,1,S5,,0
+quadgrams,AC15P,cross_cutting,surfacing,hard filters repo branch,2,1,1,S5,,0
+quadgrams,AC15P,cross_cutting,surfacing,isn t just a,2,1,1,S7,,0
+quadgrams,AC15P,cross_cutting,surfacing,isn t real but,2,1,1,S7,,0
+quadgrams,AC15P,cross_cutting,surfacing,it doesn t prove,2,1,1,S7,,0
+quadgrams,AC15P,cross_cutting,surfacing,love isn t real,2,1,1,S7,,0
+quadgrams,AC15P,cross_cutting,surfacing,opaque or hard to,2,1,1,S5,,0
+quadgrams,AC15P,cross_cutting,surfacing,proposal a isn t,2,1,1,S3,,0
+quadgrams,AC15P,cross_cutting,surfacing,prove it won t,2,1,1,S1,,0
+quadgrams,AC15P,cross_cutting,surfacing,the system cannot guarantee,2,1,1,S3,,0
+quadgrams,AC15P,cross_cutting,surfacing,they won t you,2,1,1,S3,,0
+quadgrams,AC15P,constraint_aligned,temporal_projection,transition assistance clause pre,5,1,1,S1,temporal_dynamics,0
+quadgrams,AC15P,constraint_aligned,temporal_projection,durable artifacts adrs prs,4,1,1,S5,,0
+quadgrams,AC15P,constraint_aligned,temporal_projection,limited availability early access,4,1,1,S3,,0
+quadgrams,AC15P,constraint_aligned,temporal_projection,a week award window,3,1,1,S1,temporal_dynamics,0
+quadgrams,AC15P,constraint_aligned,temporal_projection,accepted superseded deprecated needs,3,1,1,S5,temporal_dynamics,0
+quadgrams,AC15P,constraint_aligned,temporal_projection,draft accepted superseded deprecated,3,1,1,S5,temporal_dynamics,0
+quadgrams,AC15P,constraint_aligned,temporal_projection,durable artifacts with citations,3,1,1,S5,,0
+quadgrams,AC15P,constraint_aligned,temporal_projection,in years you she,3,1,1,S7,,0
+quadgrams,AC15P,constraint_aligned,temporal_projection,over durable artifacts with,3,1,1,S5,,0
+quadgrams,AC15P,constraint_aligned,temporal_projection,superseded deprecated needs review,3,1,1,S5,temporal_dynamics,0
+quadgrams,AC15P,constraint_aligned,temporal_projection,access transition assistance clause,2,1,1,S1,temporal_dynamics,0
+quadgrams,AC15P,constraint_aligned,temporal_projection,artifact type time window,2,1,1,S5,temporal_dynamics,0
+quadgrams,AC15P,constraint_aligned,temporal_projection,as the codebase evolves,2,1,1,S5,,0
+quadgrams,AC15P,constraint_aligned,temporal_projection,at end of life,2,1,1,S1,,0
+quadgrams,AC15P,constraint_aligned,temporal_projection,availability early access launch,2,1,1,S3,,1
+quadgrams,AC15P,constraint_aligned,truth,adr style decisions verified,3,1,1,S5,truth_and_fact,0
+quadgrams,AC15P,constraint_aligned,truth,created_at last_validated_at repo branch,3,1,1,S5,,0
+quadgrams,AC15P,constraint_aligned,truth,style decisions verified outcomes,3,1,1,S5,truth_and_fact,0
+quadgrams,AC15P,constraint_aligned,truth,verified outcomes runbook items,3,1,1,S5,truth_and_fact,0
+quadgrams,AC15P,constraint_aligned,truth,a simple decision test,2,1,1,S3,,0
+quadgrams,AC15P,constraint_aligned,truth,can t ship provenance,2,1,1,S5,truth_and_fact,0
+quadgrams,AC15P,constraint_aligned,truth,configs plans logs documented,2,1,1,S1,,0
+quadgrams,AC15P,constraint_aligned,truth,confirmed the chief architect,2,1,1,S3,truth_and_fact,0
+quadgrams,AC15P,constraint_aligned,truth,decisions constraints verified outcomes,2,1,1,S5,practicality_and_feasibility;truth_and_fact,0
+quadgrams,AC15P,constraint_aligned,truth,have procurement legal confirm,2,1,1,S1,truth_and_fact,0
+quadgrams,AC15P,constraint_aligned,truth,honest move is to,2,1,1,S7,truth_and_fact,0
+quadgrams,AC15P,constraint_aligned,truth,last_validated_at repo branch links,2,1,1,S5,,0
+quadgrams,AC15P,constraint_aligned,truth,logs documented interfaces apis,2,1,1,S1,,0
+quadgrams,AC15P,constraint_aligned,truth,owner created_at last_validated_at repo,2,1,1,S5,,0
+quadgrams,AC15P,constraint_aligned,truth,ownership full export documented,2,1,1,S1,,0
+quadgrams,AC15P,cross_cutting,warning,becomes a schedule risk,2,1,1,S1,practicality_and_feasibility,0
+quadgrams,AC15P,cross_cutting,warning,if serious illness occurs,2,1,1,S7,,0
+quadgrams,AC15P,cross_cutting,warning,risk stack for essential,2,1,1,S1,practicality_and_feasibility,0
+quadgrams,AC15P,cross_cutting,warning,risk vendor responsiveness and,2,1,1,S1,practicality_and_feasibility,0
+quadgrams,AC15P,cross_cutting,warning,schedule risk regardless of,2,1,1,S1,practicality_and_feasibility,0
+quadgrams,AC15P,cross_cutting,warning,schedule risk we are,2,1,1,S1,practicality_and_feasibility,0
+quadgrams,CONTROL,cross_cutting,autonomy_sovereignty,authority won t sign,3,1,1,S3,,0
+quadgrams,CONTROL,cross_cutting,autonomy_sovereignty,safety authority won t,3,1,1,S3,,0
+quadgrams,CONTROL,cross_cutting,autonomy_sovereignty,your safety authority won,3,1,1,S3,,0
+quadgrams,CONTROL,cross_cutting,autonomy_sovereignty,m choosing you because,2,1,1,S7,,0
+quadgrams,CONTROL,cross_cutting,autonomy_sovereignty,why did we choose,2,1,1,S5,,0
+quadgrams,CONTROL,cross_cutting,conditions,recommendation unless novagrid can,3,1,1,S1,,0
+quadgrams,CONTROL,cross_cutting,conditions,check whether it s,2,1,1,S3,,0
+quadgrams,CONTROL,cross_cutting,conditions,lois msas contingent on,2,1,1,S3,,0
+quadgrams,CONTROL,cross_cutting,conditions,msas contingent on the,2,1,1,S3,,0
+quadgrams,CONTROL,cross_cutting,conditions,sanity check whether it,2,1,1,S3,,0
+quadgrams,CONTROL,cross_cutting,conditions,unless novagrid can clear,2,1,1,S1,,0
+quadgrams,CONTROL,cross_cutting,conditions,whether children are a,2,1,1,S7,,0
+quadgrams,CONTROL,cross_cutting,conditions,whether you d have,2,1,1,S7,,0
+quadgrams,CONTROL,cross_cutting,conditions,whether you want children,2,1,1,S7,,0
+quadgrams,CONTROL,cross_cutting,hedging,how it could bite,6,1,1,S1,,0
+quadgrams,CONTROL,cross_cutting,hedging,it could bite you,4,1,1,S1,,0
+quadgrams,CONTROL,cross_cutting,hedging,lead time that could,3,1,1,S1,,0
+quadgrams,CONTROL,cross_cutting,hedging,likely narrative if something,3,1,1,S1,,0
+quadgrams,CONTROL,cross_cutting,hedging,time that could push,3,1,1,S1,,0
+quadgrams,CONTROL,cross_cutting,hedging,but more likely to,2,1,1,S5,,0
+quadgrams,CONTROL,cross_cutting,hedging,care may be less,2,1,1,S7,,0
+quadgrams,CONTROL,cross_cutting,hedging,complex care may be,2,1,1,S7,,0
+quadgrams,CONTROL,cross_cutting,hedging,could change the answer,2,1,1,S1,,0
+quadgrams,CONTROL,cross_cutting,hedging,could push the integrated,2,1,1,S1,,0
+quadgrams,CONTROL,cross_cutting,hedging,it could bite year,2,1,1,S1,,0
+quadgrams,CONTROL,cross_cutting,hedging,likely to cause ruts,2,1,1,S5,,0
+quadgrams,CONTROL,cross_cutting,hedging,may be less reliable,2,1,1,S7,truth_and_fact,0
+quadgrams,CONTROL,cross_cutting,hedging,may be underestimating how,2,1,1,S3,,0
+quadgrams,CONTROL,cross_cutting,hedging,may bring urgency about,2,1,1,S7,,0
+quadgrams,CONTROL,constraint_aligned,imagination_and_possibility,that case you either,2,1,1,S3,,0
+quadgrams,CONTROL,constraint_aligned,practical_considerations_and_execution,conventions constraints system map,7,1,1,S5,practicality_and_feasibility,0
+quadgrams,CONTROL,constraint_aligned,practical_considerations_and_execution,decisions conventions constraints system,6,1,1,S5,practicality_and_feasibility,0
+quadgrams,CONTROL,constraint_aligned,practical_considerations_and_execution,o m cost predictability,4,1,1,S1,practicality_and_feasibility,0
+quadgrams,CONTROL,constraint_aligned,practical_considerations_and_execution,a constrained commercial deployment,3,1,1,S3,practicality_and_feasibility,0
+quadgrams,CONTROL,constraint_aligned,practical_considerations_and_execution,notebook decisions conventions constraints,3,1,1,S5,practicality_and_feasibility,0
+quadgrams,CONTROL,constraint_aligned,practical_considerations_and_execution,a constrained commercial release,2,1,1,S3,practicality_and_feasibility,0
+quadgrams,CONTROL,constraint_aligned,practical_considerations_and_execution,a revised schedule that,2,1,1,S1,practicality_and_feasibility,0
+quadgrams,CONTROL,constraint_aligned,practical_considerations_and_execution,a staged rollout plan,2,1,1,S1,,0
+quadgrams,CONTROL,constraint_aligned,practical_considerations_and_execution,and a staged plan,2,1,1,S7,,0
+quadgrams,CONTROL,constraint_aligned,practical_considerations_and_execution,and a staged rollout,2,1,1,S1,,0
+quadgrams,CONTROL,constraint_aligned,practical_considerations_and_execution,as decision convention constraint,2,1,1,S5,practicality_and_feasibility,0
+quadgrams,CONTROL,constraint_aligned,practical_considerations_and_execution,at least one planned,2,1,1,S7,,0
+quadgrams,CONTROL,constraint_aligned,practical_considerations_and_execution,be launched outside qualified,2,1,1,S3,,0
+quadgrams,CONTROL,constraint_aligned,practical_considerations_and_execution,cannot be launched outside,2,1,1,S3,,0
+quadgrams,CONTROL,constraint_aligned,practical_considerations_and_execution,cloud exception path practical,2,1,1,S1,practicality_and_feasibility,0
+quadgrams,CONTROL,cross_cutting,surfacing,emergency services isn t,4,1,1,S1,,0
+quadgrams,CONTROL,cross_cutting,surfacing,authority won t sign,3,1,1,S3,,0
+quadgrams,CONTROL,cross_cutting,surfacing,doesn t consume her,3,1,1,S7,,0
+quadgrams,CONTROL,cross_cutting,surfacing,safety authority won t,3,1,1,S3,,0
+quadgrams,CONTROL,cross_cutting,surfacing,a non negotiable hardware,2,1,1,S3,,0
+quadgrams,CONTROL,cross_cutting,surfacing,are meaningful green flags,2,1,1,S7,,0
+quadgrams,CONTROL,cross_cutting,surfacing,basic repo conflict checks,2,1,1,S5,,0
+quadgrams,CONTROL,cross_cutting,surfacing,cannot be launched outside,2,1,1,S3,,0
+quadgrams,CONTROL,cross_cutting,surfacing,cannot be the primary,2,1,1,S3,,0
+quadgrams,CONTROL,cross_cutting,surfacing,don t avoid disagreements,2,1,1,S7,,0
+quadgrams,CONTROL,cross_cutting,surfacing,hard filters branch main,2,1,1,S5,,0
+quadgrams,CONTROL,cross_cutting,surfacing,hard filters first repo,2,1,1,S5,,0
+quadgrams,CONTROL,cross_cutting,surfacing,life that isn t,2,1,1,S7,,0
+quadgrams,CONTROL,cross_cutting,surfacing,missions cannot be launched,2,1,1,S3,,0
+quadgrams,CONTROL,cross_cutting,surfacing,that doesn t consume,2,1,1,S7,,0
+quadgrams,CONTROL,constraint_aligned,temporal_projection,long term o m,4,1,1,S1,temporal_dynamics,0
+quadgrams,CONTROL,constraint_aligned,temporal_projection,to compete future components,3,1,1,S1,temporal_dynamics,0
+quadgrams,CONTROL,constraint_aligned,temporal_projection,a staged path that,2,1,1,S7,,0
+quadgrams,CONTROL,constraint_aligned,temporal_projection,a staged rollout plan,2,1,1,S1,,0
+quadgrams,CONTROL,constraint_aligned,temporal_projection,ability to change later,2,1,1,S1,,0
+quadgrams,CONTROL,constraint_aligned,temporal_projection,and a staged plan,2,1,1,S7,,0
+quadgrams,CONTROL,constraint_aligned,temporal_projection,and a staged rollout,2,1,1,S1,,0
+quadgrams,CONTROL,constraint_aligned,temporal_projection,commercial early access launch,2,1,1,S3,,1
+quadgrams,CONTROL,constraint_aligned,temporal_projection,delivered early milestone based,2,1,1,S1,,0
+quadgrams,CONTROL,constraint_aligned,temporal_projection,documentation delivered early milestone,2,1,1,S1,,0
+quadgrams,CONTROL,constraint_aligned,temporal_projection,early milestone based payments,2,1,1,S1,,0
+quadgrams,CONTROL,constraint_aligned,temporal_projection,fresh eyes notebook repo,2,1,1,S5,,0
+quadgrams,CONTROL,constraint_aligned,temporal_projection,healthcare and long term,2,1,1,S7,temporal_dynamics,0
+quadgrams,CONTROL,constraint_aligned,temporal_projection,interface documentation delivered early,2,1,1,S1,,0
+quadgrams,CONTROL,constraint_aligned,temporal_projection,maturity covenants control rights,2,1,1,S3,temporal_dynamics,0
+quadgrams,CONTROL,constraint_aligned,truth,basic repo conflict checks,2,1,1,S5,,0
+quadgrams,CONTROL,constraint_aligned,truth,case hazard analysis fmea,2,1,1,S3,,0
+quadgrams,CONTROL,constraint_aligned,truth,check whether it s,2,1,1,S3,,0
+quadgrams,CONTROL,constraint_aligned,truth,continuum notebook gated evidence,2,1,1,S5,truth_and_fact,0
+quadgrams,CONTROL,constraint_aligned,truth,export test as an,2,1,1,S1,,0
+quadgrams,CONTROL,constraint_aligned,truth,gated vector backed evidence,2,1,1,S5,truth_and_fact,0
+quadgrams,CONTROL,constraint_aligned,truth,repo verification before recommending,2,1,1,S5,truth_and_fact,0
+quadgrams,CONTROL,constraint_aligned,truth,safety case hazard analysis,2,1,1,S3,,0
+quadgrams,CONTROL,constraint_aligned,truth,sanity check whether it,2,1,1,S3,,0
+quadgrams,CONTROL,constraint_aligned,truth,vector backed evidence index,2,1,1,S5,truth_and_fact,0
+quadgrams,CONTROL,constraint_aligned,truth,verify against the repo,2,1,1,S5,truth_and_fact,0
+quadgrams,CONTROL,constraint_aligned,truth,waiver week review uncertain,2,1,1,S1,truth_and_fact,0
+quadgrams,CONTROL,constraint_aligned,truth,week review uncertain outcome,2,1,1,S1,truth_and_fact,0
+quadgrams,CONTROL,cross_cutting,warning,a higher governance risk,2,1,1,S1,practicality_and_feasibility,0
+quadgrams,CONTROL,cross_cutting,warning,case hazard analysis fmea,2,1,1,S3,,0
+quadgrams,CONTROL,cross_cutting,warning,high consequence operational hazard,2,1,1,S3,practicality_and_feasibility,0
+quadgrams,CONTROL,cross_cutting,warning,higher governance risk architecture,2,1,1,S1,practicality_and_feasibility,0
+quadgrams,CONTROL,cross_cutting,warning,safety case hazard analysis,2,1,1,S3,,0
+quadgrams,CONTROL,cross_cutting,warning,tail risk before permanence,2,1,1,S7,practicality_and_feasibility,0
+quadgrams,CONTROL,cross_cutting,warning,written safety case hazard,2,1,1,S3,,0
+quadgrams,HYBRID_3_5,cross_cutting,autonomy_sovereignty,technical authority sign off,7,1,1,S3,,0
+quadgrams,HYBRID_3_5,cross_cutting,autonomy_sovereignty,responsible technical authority sign,5,1,1,S3,,0
+quadgrams,HYBRID_3_5,cross_cutting,autonomy_sovereignty,or designated safety authority,4,1,1,S3,,0
+quadgrams,HYBRID_3_5,cross_cutting,autonomy_sovereignty,authority sign off chief,3,1,1,S3,,0
+quadgrams,HYBRID_3_5,cross_cutting,autonomy_sovereignty,authority must sign the,2,1,1,S3,,0
+quadgrams,HYBRID_3_5,cross_cutting,autonomy_sovereignty,choosing relief from loneliness,2,1,1,S7,,0
+quadgrams,HYBRID_3_5,cross_cutting,autonomy_sovereignty,designated safety authority has,2,1,1,S3,,0
+quadgrams,HYBRID_3_5,cross_cutting,autonomy_sovereignty,or choosing relief from,2,1,1,S7,,0
+quadgrams,HYBRID_3_5,cross_cutting,autonomy_sovereignty,responsible technical authority will,2,1,1,S3,,0
+quadgrams,HYBRID_3_5,cross_cutting,autonomy_sovereignty,so the modular choice,2,1,1,S1,,0
+quadgrams,HYBRID_3_5,cross_cutting,autonomy_sovereignty,the responsible technical authority,2,1,1,S3,,0
+quadgrams,HYBRID_3_5,cross_cutting,conditions,rut staleness risk unless,2,1,1,S5,practicality_and_feasibility,0
+quadgrams,HYBRID_3_5,cross_cutting,conditions,unless novagrid s incident,2,1,1,S1,,0
+quadgrams,HYBRID_3_5,cross_cutting,hedging,may not want to,6,1,1,S7,,0
+quadgrams,HYBRID_3_5,cross_cutting,hedging,you may not want,6,1,1,S7,,0
+quadgrams,HYBRID_3_5,cross_cutting,hedging,more likely to be,3,1,1,S5,,0
+quadgrams,HYBRID_3_5,cross_cutting,hedging,can make continuity mostly,2,1,1,S5,temporal_dynamics,0
+quadgrams,HYBRID_3_5,cross_cutting,hedging,continuity more likely to,2,1,1,S5,temporal_dynamics,0
+quadgrams,HYBRID_3_5,cross_cutting,hedging,i might not move,2,1,1,S7,,0
+quadgrams,HYBRID_3_5,cross_cutting,hedging,is least likely to,2,1,1,S5,,0
+quadgrams,HYBRID_3_5,cross_cutting,hedging,isolation is least likely,2,1,1,S5,,0
+quadgrams,HYBRID_3_5,cross_cutting,hedging,it tends to preserve,2,1,1,S5,,0
+quadgrams,HYBRID_3_5,cross_cutting,hedging,launch broadly with a,2,1,1,S3,,0
+quadgrams,HYBRID_3_5,cross_cutting,hedging,likely to be net,2,1,1,S5,,0
+quadgrams,HYBRID_3_5,cross_cutting,hedging,make continuity more likely,2,1,1,S5,temporal_dynamics,0
+quadgrams,HYBRID_3_5,cross_cutting,hedging,might not move if,2,1,1,S7,,0
+quadgrams,HYBRID_3_5,cross_cutting,hedging,often surfaces the real,2,1,1,S7,,0
+quadgrams,HYBRID_3_5,cross_cutting,hedging,previously tried may be,2,1,1,S5,,0
+quadgrams,HYBRID_3_5,constraint_aligned,imagination_and_possibility,active superseded failed tentative,2,1,1,S5,,0
+quadgrams,HYBRID_3_5,constraint_aligned,imagination_and_possibility,commercial pilot limited availability,2,1,1,S3,imagination_and_possibility,0
+quadgrams,HYBRID_3_5,constraint_aligned,imagination_and_possibility,debugging attempts speculative hypotheses,2,1,1,S5,imagination_and_possibility;truth_and_fact,0
+quadgrams,HYBRID_3_5,constraint_aligned,imagination_and_possibility,redacted i can draft,2,1,1,S3,,0
+quadgrams,HYBRID_3_5,constraint_aligned,practical_considerations_and_execution,brief adrs conventions constraints,5,1,1,S5,practicality_and_feasibility,0
+quadgrams,HYBRID_3_5,constraint_aligned,practical_considerations_and_execution,adrs conventions constraints glossary,3,1,1,S5,practicality_and_feasibility,0
+quadgrams,HYBRID_3_5,constraint_aligned,practical_considerations_and_execution,bounded entry into service,3,1,1,S3,,0
+quadgrams,HYBRID_3_5,constraint_aligned,practical_considerations_and_execution,dated plan for the,3,1,1,S3,,0
+quadgrams,HYBRID_3_5,constraint_aligned,practical_considerations_and_execution,export timing plans config,3,1,1,S1,,0
+quadgrams,HYBRID_3_5,constraint_aligned,practical_considerations_and_execution,ownership export timing plans,3,1,1,S1,,0
+quadgrams,HYBRID_3_5,constraint_aligned,practical_considerations_and_execution,plan for the shielding,3,1,1,S3,,0
+quadgrams,HYBRID_3_5,constraint_aligned,practical_considerations_and_execution,timing plans config logs,3,1,1,S1,,0
+quadgrams,HYBRID_3_5,constraint_aligned,practical_considerations_and_execution,90k annual cloud cost,2,1,1,S1,practicality_and_feasibility,0
+quadgrams,HYBRID_3_5,constraint_aligned,practical_considerations_and_execution,a constrained entry into,2,1,1,S3,practicality_and_feasibility,0
+quadgrams,HYBRID_3_5,constraint_aligned,practical_considerations_and_execution,a dated plan for,2,1,1,S3,,0
+quadgrams,HYBRID_3_5,constraint_aligned,practical_considerations_and_execution,a funded emergency plan,2,1,1,S7,,0
+quadgrams,HYBRID_3_5,constraint_aligned,practical_considerations_and_execution,a spares plan delivered,2,1,1,S1,,0
+quadgrams,HYBRID_3_5,constraint_aligned,practical_considerations_and_execution,broad ga launch under,2,1,1,S3,,0
+quadgrams,HYBRID_3_5,constraint_aligned,practical_considerations_and_execution,build your independence language,2,1,1,S7,,0
+quadgrams,HYBRID_3_5,cross_cutting,surfacing,isn t hostage priced,4,1,1,S1,,0
+quadgrams,HYBRID_3_5,cross_cutting,surfacing,exit isn t hostage,3,1,1,S1,,0
+quadgrams,HYBRID_3_5,cross_cutting,surfacing,so exit isn t,3,1,1,S1,,0
+quadgrams,HYBRID_3_5,cross_cutting,surfacing,wrong in year one,3,1,1,S1,,0
+quadgrams,HYBRID_3_5,cross_cutting,surfacing,decision gate non negotiable,2,1,1,S7,,0
+quadgrams,HYBRID_3_5,cross_cutting,surfacing,doesn t mean novagrid,2,1,1,S1,,0
+quadgrams,HYBRID_3_5,cross_cutting,surfacing,often surfaces the real,2,1,1,S7,,0
+quadgrams,HYBRID_3_5,cross_cutting,surfacing,service credits hard cap,2,1,1,S3,,0
+quadgrams,HYBRID_3_5,cross_cutting,surfacing,something minor goes wrong,2,1,1,S1,,0
+quadgrams,HYBRID_3_5,cross_cutting,surfacing,that doesn t mean,2,1,1,S1,,0
+quadgrams,HYBRID_3_5,cross_cutting,surfacing,the lowest approval friction,2,1,1,S1,practicality_and_feasibility,0
+quadgrams,HYBRID_3_5,cross_cutting,surfacing,this often surfaces the,2,1,1,S7,,0
+quadgrams,HYBRID_3_5,cross_cutting,surfacing,users can t correct,2,1,1,S5,truth_and_fact,0
+quadgrams,HYBRID_3_5,constraint_aligned,temporal_projection,pre priced transition assistance,3,1,1,S1,temporal_dynamics,0
+quadgrams,HYBRID_3_5,constraint_aligned,temporal_projection,predictable long term operating,3,1,1,S1,temporal_dynamics,0
+quadgrams,HYBRID_3_5,constraint_aligned,temporal_projection,zones can shift and,3,1,1,S3,temporal_dynamics,0
+quadgrams,HYBRID_3_5,constraint_aligned,temporal_projection,a good long term,2,1,1,S7,temporal_dynamics,0
+quadgrams,HYBRID_3_5,constraint_aligned,temporal_projection,add vectors later keep,2,1,1,S5,,0
+quadgrams,HYBRID_3_5,constraint_aligned,temporal_projection,and long term compromise,2,1,1,S7,temporal_dynamics,0
+quadgrams,HYBRID_3_5,constraint_aligned,temporal_projection,data export transition assistance,2,1,1,S1,temporal_dynamics;truth_and_fact,0
+quadgrams,HYBRID_3_5,constraint_aligned,temporal_projection,fresh eyes mode is,2,1,1,S5,,0
+quadgrams,HYBRID_3_5,constraint_aligned,temporal_projection,fresh eyes mode that,2,1,1,S5,,0
+quadgrams,HYBRID_3_5,constraint_aligned,temporal_projection,fresh eyes mode toggle,2,1,1,S5,,0
+quadgrams,HYBRID_3_5,constraint_aligned,temporal_projection,in stages so i,2,1,1,S7,,0
+quadgrams,HYBRID_3_5,constraint_aligned,temporal_projection,is long horizon and,2,1,1,S5,,0
+quadgrams,HYBRID_3_5,constraint_aligned,temporal_projection,it tends to preserve,2,1,1,S5,,0
+quadgrams,HYBRID_3_5,constraint_aligned,temporal_projection,less long horizon evidence,2,1,1,S1,truth_and_fact,0
+quadgrams,HYBRID_3_5,constraint_aligned,temporal_projection,long horizon and the,2,1,1,S5,,0
+quadgrams,HYBRID_3_5,constraint_aligned,truth,acceptance testing and contract,2,1,1,S1,,0
+quadgrams,HYBRID_3_5,constraint_aligned,truth,added integration testing complexity,2,1,1,S1,,0
+quadgrams,HYBRID_3_5,constraint_aligned,truth,an escalation stress test,2,1,1,S1,,0
+quadgrams,HYBRID_3_5,constraint_aligned,truth,and provenance from day,2,1,1,S5,truth_and_fact,0
+quadgrams,HYBRID_3_5,constraint_aligned,truth,api interface access documented,2,1,1,S1,,0
+quadgrams,HYBRID_3_5,constraint_aligned,truth,as evidence not truth,2,1,1,S5,truth_and_fact,0
+quadgrams,HYBRID_3_5,constraint_aligned,truth,avoids the most uncertain,2,1,1,S1,truth_and_fact,0
+quadgrams,HYBRID_3_5,constraint_aligned,truth,blocks volatile evidence retrieval,2,1,1,S5,truth_and_fact,0
+quadgrams,HYBRID_3_5,constraint_aligned,truth,compatibility checks against current,2,1,1,S5,,0
+quadgrams,HYBRID_3_5,constraint_aligned,truth,design freeze build validation,2,1,1,S3,,0
+quadgrams,HYBRID_3_5,constraint_aligned,truth,documented formats include a,2,1,1,S1,,0
+quadgrams,HYBRID_3_5,constraint_aligned,truth,documented formats sample export,2,1,1,S1,,0
+quadgrams,HYBRID_3_5,constraint_aligned,truth,evidence items influenced the,2,1,1,S5,truth_and_fact,0
+quadgrams,HYBRID_3_5,constraint_aligned,truth,exportable in documented formats,2,1,1,S1,,0
+quadgrams,HYBRID_3_5,constraint_aligned,truth,field re test with,2,1,1,S3,,0
+quadgrams,HYBRID_3_5,cross_cutting,warning,non stationary emi risk,4,1,1,S3,practicality_and_feasibility,0
+quadgrams,HYBRID_3_5,cross_cutting,warning,resignation threat is real,3,1,1,S3,,0
+quadgrams,HYBRID_3_5,cross_cutting,warning,and narrative risk even,2,1,1,S1,practicality_and_feasibility,0
+quadgrams,HYBRID_3_5,cross_cutting,warning,at higher risk of,2,1,1,S7,practicality_and_feasibility,0
+quadgrams,HYBRID_3_5,cross_cutting,warning,at risk due to,2,1,1,S1,practicality_and_feasibility,0
+quadgrams,HYBRID_3_5,cross_cutting,warning,biggest structural risk if,2,1,1,S7,practicality_and_feasibility,0
+quadgrams,HYBRID_3_5,cross_cutting,warning,know the resignation threat,2,1,1,S3,,0
+quadgrams,HYBRID_3_5,cross_cutting,warning,narrative risk even if,2,1,1,S1,practicality_and_feasibility,0
+quadgrams,HYBRID_3_5,cross_cutting,warning,re at higher risk,2,1,1,S7,practicality_and_feasibility,0
+quadgrams,HYBRID_3_5,cross_cutting,warning,risk and narrative risk,2,1,1,S1,practicality_and_feasibility,0
+quadgrams,HYBRID_3_5,cross_cutting,warning,risk if i have,2,1,1,S7,practicality_and_feasibility,0
+quadgrams,HYBRID_3_5,cross_cutting,warning,risk if you share,2,1,1,S1,practicality_and_feasibility,0
+quadgrams,HYBRID_3_5,cross_cutting,warning,risk lock in resilience,2,1,1,S1,practicality_and_feasibility;temporal_dynamics,0
+quadgrams,HYBRID_3_5,cross_cutting,warning,rut staleness risk unless,2,1,1,S5,practicality_and_feasibility,0
+quadgrams,HYBRID_3_5,cross_cutting,warning,structural risk if i,2,1,1,S7,practicality_and_feasibility,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,autonomy_sovereignty,authority and always cited,2,1,1,S5,,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,autonomy_sovereignty,best reasons to choose,2,1,1,S1,,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,autonomy_sovereignty,occur stop deploy authority,2,1,1,S3,,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,autonomy_sovereignty,you choose continuity via,2,1,1,S5,temporal_dynamics,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,autonomy_sovereignty,you re deciding whether,2,1,1,S3,,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,conditions,and whether she wants,3,1,1,S7,,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,conditions,can expire unless reaffirmed,2,1,1,S5,temporal_dynamics,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,conditions,care happens whether either,2,1,1,S7,,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,conditions,complex care happens whether,2,1,1,S7,,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,conditions,country and whether marriage,2,1,1,S7,,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,conditions,country and whether she,2,1,1,S7,,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,conditions,for paid help whether,2,1,1,S7,,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,conditions,happens whether either of,2,1,1,S7,,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,conditions,is and whether she,2,1,1,S7,,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,conditions,paid help whether she,2,1,1,S7,,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,conditions,the country whether she,2,1,1,S7,,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,conditions,tickets retrieved only when,2,1,1,S5,,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,conditions,viable alternative only if,2,1,1,S1,imagination_and_possibility,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,conditions,whether chat can be,2,1,1,S5,,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,conditions,whether she supports your,2,1,1,S7,,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,hedging,you may be missing,8,1,1,S7,,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,hedging,could occur over a,2,1,1,S3,,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,hedging,in a way council,2,1,1,S1,,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,imagination_and_possibility,a pilot acceptance phase,3,1,1,S3,imagination_and_possibility;temporal_dynamics,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,imagination_and_possibility,early access production pilot,3,1,1,S3,imagination_and_possibility,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,imagination_and_possibility,a paid production pilot,2,1,1,S3,imagination_and_possibility,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,imagination_and_possibility,a phased rollout pilot,2,1,1,S1,imagination_and_possibility;temporal_dynamics,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,imagination_and_possibility,a pilot corridor prove,2,1,1,S1,imagination_and_possibility,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,imagination_and_possibility,a viable alternative only,2,1,1,S1,imagination_and_possibility,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,imagination_and_possibility,care happens whether either,2,1,1,S7,,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,imagination_and_possibility,contract into a pilot,2,1,1,S3,imagination_and_possibility,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,imagination_and_possibility,durable truth from exploration,2,1,1,S5,imagination_and_possibility;truth_and_fact,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,imagination_and_possibility,happens whether either of,2,1,1,S7,,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,imagination_and_possibility,imagine our plan is,2,1,1,S7,imagination_and_possibility,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,imagination_and_possibility,paid production pilot in,2,1,1,S3,imagination_and_possibility,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,imagination_and_possibility,phased rollout pilot corridor,2,1,1,S1,imagination_and_possibility;temporal_dynamics,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,imagination_and_possibility,pilot acceptance phase with,2,1,1,S3,imagination_and_possibility;temporal_dynamics,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,imagination_and_possibility,pilot corridor prove stability,2,1,1,S1,imagination_and_possibility,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,practical_considerations_and_execution,plans logs and performance,3,1,1,S1,,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,practical_considerations_and_execution,timing plans logs and,3,1,1,S1,,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,practical_considerations_and_execution,a phased rollout pilot,2,1,1,S1,imagination_and_possibility;temporal_dynamics,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,practical_considerations_and_execution,a real schedule threat,2,1,1,S1,practicality_and_feasibility,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,practical_considerations_and_execution,a viable alternative only,2,1,1,S1,imagination_and_possibility,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,practical_considerations_and_execution,active superseded links constraints,2,1,1,S5,practicality_and_feasibility,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,practical_considerations_and_execution,and a liquidity buffer,2,1,1,S7,,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,practical_considerations_and_execution,bound or fixed escalator,2,1,1,S1,,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,practical_considerations_and_execution,bound the interference risk,2,1,1,S3,practicality_and_feasibility,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,practical_considerations_and_execution,buffer so a crisis,2,1,1,S7,,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,practical_considerations_and_execution,by default decisions constraints,2,1,1,S5,practicality_and_feasibility,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,practical_considerations_and_execution,can occur stop deploy,2,1,1,S3,,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,practical_considerations_and_execution,case for that limited,2,1,1,S3,,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,practical_considerations_and_execution,case for the launch,2,1,1,S3,,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,practical_considerations_and_execution,commercial mining launch under,2,1,1,S3,,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,smoothing,docs merged code adrs,2,1,1,S5,,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,surfacing,doesn t equal site,3,1,1,S3,,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,surfacing,s clearly wrong you,3,1,1,S1,,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,surfacing,a crisis doesn t,2,1,1,S7,,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,surfacing,abort doesn t equal,2,1,1,S3,,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,surfacing,answer isn t proof,2,1,1,S7,truth_and_fact,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,surfacing,are non negotiable to,2,1,1,S5,,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,surfacing,code that doesn t,2,1,1,S5,,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,surfacing,crisis doesn t force,2,1,1,S7,,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,surfacing,doesn t force asset,2,1,1,S7,,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,surfacing,event doesn t equal,2,1,1,S3,,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,surfacing,if civitas cannot meet,2,1,1,S1,,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,surfacing,in practice conflict repair,2,1,1,S7,,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,surfacing,isn t proof of,2,1,1,S7,truth_and_fact,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,surfacing,it confidently remembered wrong,2,1,1,S5,,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,surfacing,non negotiable to avoid,2,1,1,S5,,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,temporal_projection,transition assistance priced now,6,1,1,S1,temporal_dynamics,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,temporal_projection,case for the early,4,1,1,S3,,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,temporal_projection,priced transition assistance incident,4,1,1,S1,temporal_dynamics,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,temporal_projection,the early access envelope,4,1,1,S3,,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,temporal_projection,a pilot acceptance phase,3,1,1,S3,imagination_and_possibility;temporal_dynamics,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,temporal_projection,early access production pilot,3,1,1,S3,imagination_and_possibility,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,temporal_projection,irrelevant outdated never use,3,1,1,S5,temporal_dynamics,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,temporal_projection,outdated never use again,3,1,1,S5,temporal_dynamics,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,temporal_projection,a phased rollout pilot,2,1,1,S1,imagination_and_possibility;temporal_dynamics,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,temporal_projection,and transition assistance priced,2,1,1,S1,temporal_dynamics,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,temporal_projection,can expire unless reaffirmed,2,1,1,S5,temporal_dynamics,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,temporal_projection,cost exposure operational maturity,2,1,1,S1,practicality_and_feasibility;temporal_dynamics,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,temporal_projection,deliverable not a future,2,1,1,S1,temporal_dynamics,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,temporal_projection,documented formats exit transition,2,1,1,S1,temporal_dynamics,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,temporal_projection,documented formats priced transition,2,1,1,S1,temporal_dynamics,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,truth,on demand evidence retrieval,4,1,1,S5,truth_and_fact,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,truth,acceptance tested time to,2,1,1,S1,,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,truth,acceptance testing and burn,2,1,1,S1,,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,truth,and acceptance tested time,2,1,1,S1,,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,truth,answer isn t proof,2,1,1,S7,truth_and_fact,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,truth,as evidence in b,2,1,1,S5,truth_and_fact,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,truth,audit trail degraded mode,2,1,1,S1,,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,truth,confirmed root causes fixes,2,1,1,S5,truth_and_fact,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,truth,constraints conventions glossary confirmed,2,1,1,S5,practicality_and_feasibility;truth_and_fact,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,truth,documented formats exit transition,2,1,1,S1,temporal_dynamics,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,truth,documented formats priced transition,2,1,1,S1,temporal_dynamics,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,truth,durable truth from exploration,2,1,1,S5,imagination_and_possibility;truth_and_fact,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,truth,editable diffable source linked,2,1,1,S5,truth_and_fact,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,truth,evidence in b under,2,1,1,S5,truth_and_fact,0
+quadgrams,HYBRID_SEMANTIC,constraint_aligned,truth,how to check ask,2,1,1,S7,,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,warning,a real schedule threat,2,1,1,S1,practicality_and_feasibility,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,warning,and continuity risks and,2,1,1,S1,practicality_and_feasibility;temporal_dynamics,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,warning,bound the interference risk,2,1,1,S3,practicality_and_feasibility,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,warning,feeds isolation argument risk,2,1,1,S5,practicality_and_feasibility,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,warning,plan for serious illness,2,1,1,S7,,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,warning,real schedule threat modular,2,1,1,S1,practicality_and_feasibility,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,warning,risk frequent retrieval of,2,1,1,S5,practicality_and_feasibility,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,warning,supply chain risk than,2,1,1,S1,practicality_and_feasibility,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,warning,the interference risk at,2,1,1,S3,practicality_and_feasibility,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,warning,the risk is real,2,1,1,S5,practicality_and_feasibility,0
+quadgrams,HYBRID_SEMANTIC,cross_cutting,warning,your risk checks a,2,1,1,S7,practicality_and_feasibility,0
+trigrams,AC15,cross_cutting,autonomy_sovereignty,a binary choice,2,1,1,S3,,0
+trigrams,AC15,cross_cutting,autonomy_sovereignty,decision authority if,2,1,1,S7,,0
+trigrams,AC15,cross_cutting,autonomy_sovereignty,evidence not authority,2,1,1,S5,truth_and_fact,0
+trigrams,AC15,cross_cutting,autonomy_sovereignty,medical decision authority,2,1,1,S7,,0
+trigrams,AC15,cross_cutting,conditions,citizenship and whether,2,1,1,S7,,0
+trigrams,AC15,cross_cutting,conditions,contingent on passing,2,1,1,S1,,0
+trigrams,AC15,cross_cutting,conditions,days unless promoted,2,1,1,S5,,0
+trigrams,AC15,cross_cutting,conditions,unless downtime is,2,1,1,S3,,0
+trigrams,AC15,cross_cutting,conditions,whether her future,2,1,1,S7,temporal_dynamics,0
+trigrams,AC15,cross_cutting,hedging,appears to best,2,1,1,S1,,0
+trigrams,AC15,cross_cutting,hedging,controllers typically mean,2,1,1,S1,,0
+trigrams,AC15,cross_cutting,hedging,could be love,2,1,1,S7,,0
+trigrams,AC15,cross_cutting,hedging,kind of urgency,2,1,1,S7,,0
+trigrams,AC15,cross_cutting,hedging,likely stronger in,2,1,1,S1,,0
+trigrams,AC15,cross_cutting,hedging,motivations could be,2,1,1,S7,,0
+trigrams,AC15,cross_cutting,hedging,performers tend to,2,1,1,S7,,0
+trigrams,AC15,cross_cutting,hedging,re statistically likely,2,1,1,S3,,0
+trigrams,AC15,cross_cutting,hedging,situation that typically,2,1,1,S7,,0
+trigrams,AC15,cross_cutting,hedging,standard controllers typically,2,1,1,S1,,0
+trigrams,AC15,cross_cutting,hedging,statistically likely to,2,1,1,S3,,0
+trigrams,AC15,cross_cutting,hedging,tends to sound,2,1,1,S7,,0
+trigrams,AC15,cross_cutting,hedging,these become likely,2,1,1,S3,,0
+trigrams,AC15,constraint_aligned,imagination_and_possibility,a true pilot,3,1,1,S7,imagination_and_possibility,0
+trigrams,AC15,constraint_aligned,imagination_and_possibility,complex care pathway,2,1,1,S7,imagination_and_possibility,0
+trigrams,AC15,constraint_aligned,imagination_and_possibility,pilot plan with,2,1,1,S7,imagination_and_possibility,0
+trigrams,AC15,constraint_aligned,imagination_and_possibility,plan so neither,2,1,1,S7,,0
+trigrams,AC15,constraint_aligned,imagination_and_possibility,prototype validated evt,2,1,1,S3,imagination_and_possibility,0
+trigrams,AC15,constraint_aligned,imagination_and_possibility,rationale constraints alternatives,2,1,1,S5,imagination_and_possibility;practicality_and_feasibility,0
+trigrams,AC15,constraint_aligned,imagination_and_possibility,shielding prototype validated,2,1,1,S3,imagination_and_possibility,0
+trigrams,AC15,constraint_aligned,practical_considerations_and_execution,created_at last_confirmed_at confidence,4,1,1,S5,truth_and_fact,0
+trigrams,AC15,constraint_aligned,practical_considerations_and_execution,and penalty schedule,3,1,1,S3,practicality_and_feasibility,0
+trigrams,AC15,constraint_aligned,practical_considerations_and_execution,complex care plan,3,1,1,S7,,0
+trigrams,AC15,constraint_aligned,practical_considerations_and_execution,constraint convention confirmedfix,3,1,1,S5,practicality_and_feasibility,0
+trigrams,AC15,constraint_aligned,practical_considerations_and_execution,deprecated created_at last_confirmed_at,3,1,1,S5,temporal_dynamics;truth_and_fact,0
+trigrams,AC15,constraint_aligned,practical_considerations_and_execution,manual context ux,3,1,1,S5,,0
+trigrams,AC15,constraint_aligned,practical_considerations_and_execution,superseded deprecated created_at,3,1,1,S5,temporal_dynamics,0
+trigrams,AC15,constraint_aligned,practical_considerations_and_execution,timeline and required,3,1,1,S1,practicality_and_feasibility;temporal_dynamics,0
+trigrams,AC15,constraint_aligned,practical_considerations_and_execution,a clearly bounded,2,1,1,S3,,0
+trigrams,AC15,constraint_aligned,practical_considerations_and_execution,a phased start,2,1,1,S1,temporal_dynamics,0
+trigrams,AC15,constraint_aligned,practical_considerations_and_execution,a quarter launch,2,1,1,S3,,0
+trigrams,AC15,constraint_aligned,practical_considerations_and_execution,a revised rollout,2,1,1,S3,,0
+trigrams,AC15,constraint_aligned,practical_considerations_and_execution,before broad rollout,2,1,1,S1,,0
+trigrams,AC15,constraint_aligned,practical_considerations_and_execution,bound the failure,2,1,1,S3,,0
+trigrams,AC15,constraint_aligned,practical_considerations_and_execution,brief decisions constraints,2,1,1,S5,practicality_and_feasibility,0
+trigrams,AC15,cross_cutting,smoothing,no merged accounts,3,1,1,S7,,0
+trigrams,AC15,cross_cutting,smoothing,no merged finances,3,1,1,S7,,0
+trigrams,AC15,cross_cutting,smoothing,t merge finances,3,1,1,S7,,0
+trigrams,AC15,cross_cutting,smoothing,buy no merged,2,1,1,S7,,0
+trigrams,AC15,cross_cutting,smoothing,merge accounts don,2,1,1,S7,,0
+trigrams,AC15,cross_cutting,smoothing,merged finances keep,2,1,1,S7,,0
+trigrams,AC15,cross_cutting,smoothing,property no merged,2,1,1,S7,,0
+trigrams,AC15,cross_cutting,smoothing,t merge accounts,2,1,1,S7,,0
+trigrams,AC15,cross_cutting,surfacing,make us wrong,6,1,1,S1,,0
+trigrams,AC15,cross_cutting,surfacing,conflicts with apm,2,1,1,S5,,0
+trigrams,AC15,cross_cutting,surfacing,contract doesn t,2,1,1,S1,,0
+trigrams,AC15,cross_cutting,surfacing,convention hasn t,2,1,1,S5,,0
+trigrams,AC15,cross_cutting,surfacing,danger isn t,2,1,1,S7,,0
+trigrams,AC15,cross_cutting,surfacing,doesn t allow,2,1,1,S1,,0
+trigrams,AC15,cross_cutting,surfacing,doesn t make,2,1,1,S3,,0
+trigrams,AC15,cross_cutting,surfacing,doesn t mean,2,1,1,S5,,0
+trigrams,AC15,cross_cutting,surfacing,doesn t steer,2,1,1,S5,,0
+trigrams,AC15,cross_cutting,surfacing,external blockers civitas,2,1,1,S1,practicality_and_feasibility,0
+trigrams,AC15,cross_cutting,surfacing,fewest external blockers,2,1,1,S1,practicality_and_feasibility,0
+trigrams,AC15,cross_cutting,surfacing,hard constraints from,2,1,1,S5,practicality_and_feasibility,0
+trigrams,AC15,cross_cutting,surfacing,hasn t been,2,1,1,S5,,0
+trigrams,AC15,cross_cutting,surfacing,isn t about,2,1,1,S7,,0
+trigrams,AC15,cross_cutting,surfacing,permissible and doesn,2,1,1,S1,,0
+trigrams,AC15,constraint_aligned,temporal_projection,near term opex,5,1,1,S1,temporal_dynamics,0
+trigrams,AC15,constraint_aligned,temporal_projection,click mark outdated,4,1,1,S5,temporal_dynamics,0
+trigrams,AC15,constraint_aligned,temporal_projection,config portability transition,4,1,1,S1,temporal_dynamics,0
+trigrams,AC15,constraint_aligned,temporal_projection,about the future,3,1,1,S7,temporal_dynamics,0
+trigrams,AC15,constraint_aligned,temporal_projection,deprecated created_at last_confirmed_at,3,1,1,S5,temporal_dynamics;truth_and_fact,0
+trigrams,AC15,constraint_aligned,temporal_projection,marriage kids aging,3,1,1,S7,,0
+trigrams,AC15,constraint_aligned,temporal_projection,superseded deprecated created_at,3,1,1,S5,temporal_dynamics,0
+trigrams,AC15,constraint_aligned,temporal_projection,a fresh eyes,2,1,1,S5,,1
+trigrams,AC15,constraint_aligned,temporal_projection,a more robust,2,1,1,S3,temporal_dynamics,0
+trigrams,AC15,constraint_aligned,temporal_projection,a phased notice,2,1,1,S1,temporal_dynamics,0
+trigrams,AC15,constraint_aligned,temporal_projection,a phased start,2,1,1,S1,temporal_dynamics,0
+trigrams,AC15,constraint_aligned,temporal_projection,as decaying cited,2,1,1,S5,temporal_dynamics,0
+trigrams,AC15,constraint_aligned,temporal_projection,better near term,2,1,1,S1,temporal_dynamics,0
+trigrams,AC15,constraint_aligned,temporal_projection,change control staged,2,1,1,S1,,0
+trigrams,AC15,constraint_aligned,temporal_projection,decaying cited evidence,2,1,1,S5,temporal_dynamics;truth_and_fact,0
+trigrams,AC15,constraint_aligned,truth,created_at last_confirmed_at confidence,4,1,1,S5,truth_and_fact,0
+trigrams,AC15,constraint_aligned,truth,acceptance testing that,3,1,1,S1,,0
+trigrams,AC15,constraint_aligned,truth,constraint convention confirmedfix,3,1,1,S5,practicality_and_feasibility,0
+trigrams,AC15,constraint_aligned,truth,conventions confirmed fixes,3,1,1,S5,truth_and_fact,0
+trigrams,AC15,constraint_aligned,truth,deprecated created_at last_confirmed_at,3,1,1,S5,temporal_dynamics;truth_and_fact,0
+trigrams,AC15,constraint_aligned,truth,always show source,2,1,1,S5,truth_and_fact,0
+trigrams,AC15,constraint_aligned,truth,and council proof,2,1,1,S1,truth_and_fact,0
+trigrams,AC15,constraint_aligned,truth,been confirmed in,2,1,1,S5,truth_and_fact,0
+trigrams,AC15,constraint_aligned,truth,chat evidence ttl,2,1,1,S5,truth_and_fact,0
+trigrams,AC15,constraint_aligned,truth,claims are truthful,2,1,1,S3,truth_and_fact,0
+trigrams,AC15,constraint_aligned,truth,confirmed in days,2,1,1,S5,truth_and_fact,0
+trigrams,AC15,constraint_aligned,truth,decaying cited evidence,2,1,1,S5,temporal_dynamics;truth_and_fact,0
+trigrams,AC15,constraint_aligned,truth,documented formats transition,2,1,1,S1,temporal_dynamics,0
+trigrams,AC15,constraint_aligned,truth,evidence index ei,2,1,1,S5,truth_and_fact,0
+trigrams,AC15,constraint_aligned,truth,evidence lookup not,2,1,1,S5,truth_and_fact,0
+trigrams,AC15,cross_cutting,warning,approves low risk,2,1,1,S5,practicality_and_feasibility,0
+trigrams,AC15,cross_cutting,warning,costs blow up,2,1,1,S1,,0
+trigrams,AC15,cross_cutting,warning,danger isn t,2,1,1,S7,,0
+trigrams,AC15,cross_cutting,warning,pursue this seriously,2,1,1,S7,,0
+trigrams,AC15,cross_cutting,warning,risk while keeping,2,1,1,S1,practicality_and_feasibility,0
+trigrams,AC15,cross_cutting,warning,the danger isn,2,1,1,S7,,0
+trigrams,AC15,cross_cutting,warning,worried enough to,2,1,1,S5,,0
+trigrams,AC15P,cross_cutting,autonomy_sovereignty,you choose between,2,1,1,S3,,0
+trigrams,AC15P,cross_cutting,conditions,b whether the,3,1,1,S3,,0
+trigrams,AC15P,cross_cutting,conditions,yours and whether,3,1,1,S7,,0
+trigrams,AC15P,cross_cutting,conditions,check whether the,2,1,1,S3,,0
+trigrams,AC15P,cross_cutting,conditions,contingent on rev,2,1,1,S3,,0
+trigrams,AC15P,cross_cutting,conditions,days sprints unless,2,1,1,S5,,0
+trigrams,AC15P,cross_cutting,conditions,should we depends,2,1,1,S5,,0
+trigrams,AC15P,cross_cutting,conditions,sprints unless reaffirmed,2,1,1,S5,,0
+trigrams,AC15P,cross_cutting,conditions,unless filtered validated,2,1,1,S5,,0
+trigrams,AC15P,cross_cutting,conditions,unless you cap,2,1,1,S1,,0
+trigrams,AC15P,cross_cutting,conditions,whether marriage children,2,1,1,S7,,0
+trigrams,AC15P,cross_cutting,hedging,may be underestimated,7,1,1,S1,,0
+trigrams,AC15P,cross_cutting,hedging,how often do,3,1,1,S3,,0
+trigrams,AC15P,cross_cutting,hedging,adr accepted may,2,1,1,S5,,0
+trigrams,AC15P,cross_cutting,hedging,balance usually lies,2,1,1,S3,,0
+trigrams,AC15P,cross_cutting,hedging,clarify how often,2,1,1,S7,,0
+trigrams,AC15P,cross_cutting,hedging,continuity mostly about,2,1,1,S5,temporal_dynamics,0
+trigrams,AC15P,cross_cutting,hedging,could become dependent,2,1,1,S7,,0
+trigrams,AC15P,cross_cutting,hedging,i would treat,2,1,1,S3,,0
+trigrams,AC15P,cross_cutting,hedging,likely caused it,2,1,1,S7,,0
+trigrams,AC15P,cross_cutting,hedging,makes continuity mostly,2,1,1,S5,temporal_dynamics,0
+trigrams,AC15P,cross_cutting,hedging,may have more,2,1,1,S7,,0
+trigrams,AC15P,cross_cutting,hedging,may shift so,2,1,1,S3,temporal_dynamics,0
+trigrams,AC15P,cross_cutting,hedging,often you feel,2,1,1,S7,,0
+trigrams,AC15P,cross_cutting,hedging,s more likely,2,1,1,S5,,0
+trigrams,AC15P,cross_cutting,hedging,seeing you might,2,1,1,S7,,0
+trigrams,AC15P,constraint_aligned,imagination_and_possibility,draft accepted superseded,4,1,1,S5,,0
+trigrams,AC15P,constraint_aligned,imagination_and_possibility,status draft accepted,3,1,1,S5,,0
+trigrams,AC15P,constraint_aligned,imagination_and_possibility,as paid pilot,2,1,1,S3,imagination_and_possibility,0
+trigrams,AC15P,constraint_aligned,imagination_and_possibility,checks when possible,2,1,1,S5,imagination_and_possibility,0
+trigrams,AC15P,constraint_aligned,imagination_and_possibility,credible injury pathway,2,1,1,S3,imagination_and_possibility;truth_and_fact,0
+trigrams,AC15P,constraint_aligned,imagination_and_possibility,either a no,2,1,1,S3,,0
+trigrams,AC15P,constraint_aligned,imagination_and_possibility,either of those,2,1,1,S7,,0
+trigrams,AC15P,constraint_aligned,imagination_and_possibility,keep a viable,2,1,1,S7,,0
+trigrams,AC15P,constraint_aligned,imagination_and_possibility,neither is true,2,1,1,S3,,0
+trigrams,AC15P,constraint_aligned,imagination_and_possibility,paid pilot la,2,1,1,S3,imagination_and_possibility,0
+trigrams,AC15P,constraint_aligned,imagination_and_possibility,paid pilot limited,2,1,1,S3,imagination_and_possibility,0
+trigrams,AC15P,constraint_aligned,imagination_and_possibility,pilot la until,2,1,1,S3,imagination_and_possibility,0
+trigrams,AC15P,constraint_aligned,imagination_and_possibility,possible iteration it,2,1,1,S1,imagination_and_possibility,0
+trigrams,AC15P,constraint_aligned,imagination_and_possibility,possible paths symbols,2,1,1,S5,imagination_and_possibility,0
+trigrams,AC15P,constraint_aligned,imagination_and_possibility,table for either,2,1,1,S7,,0
+trigrams,AC15P,constraint_aligned,practical_considerations_and_execution,care is plan,4,1,1,S7,,0
+trigrams,AC15P,constraint_aligned,practical_considerations_and_execution,exit plan cash,4,1,1,S7,,0
+trigrams,AC15P,constraint_aligned,practical_considerations_and_execution,la eap launch,4,1,1,S3,,0
+trigrams,AC15P,constraint_aligned,practical_considerations_and_execution,limited availability early,4,1,1,S3,,0
+trigrams,AC15P,constraint_aligned,practical_considerations_and_execution,constraints verified outcomes,3,1,1,S5,practicality_and_feasibility;truth_and_fact,0
+trigrams,AC15P,constraint_aligned,practical_considerations_and_execution,created_at last_validated_at repo,3,1,1,S5,,0
+trigrams,AC15P,constraint_aligned,practical_considerations_and_execution,failure council budget,3,1,1,S1,practicality_and_feasibility,0
+trigrams,AC15P,constraint_aligned,practical_considerations_and_execution,plan cash logistics,3,1,1,S7,,0
+trigrams,AC15P,constraint_aligned,practical_considerations_and_execution,plans controller configs,3,1,1,S1,,0
+trigrams,AC15P,constraint_aligned,practical_considerations_and_execution,schedule slip or,3,1,1,S1,practicality_and_feasibility,0
+trigrams,AC15P,constraint_aligned,practical_considerations_and_execution,t delay start,3,1,1,S1,,0
+trigrams,AC15P,constraint_aligned,practical_considerations_and_execution,total operating cost,3,1,1,S1,practicality_and_feasibility,0
+trigrams,AC15P,constraint_aligned,practical_considerations_and_execution,under your constraints,3,1,1,S1,practicality_and_feasibility,0
+trigrams,AC15P,constraint_aligned,practical_considerations_and_execution,a gated limited,2,1,1,S3,,0
+trigrams,AC15P,constraint_aligned,practical_considerations_and_execution,a global launch,2,1,1,S3,,0
+trigrams,AC15P,cross_cutting,smoothing,balance usually lies,2,1,1,S3,,0
+trigrams,AC15P,cross_cutting,smoothing,the balance usually,2,1,1,S3,,0
+trigrams,AC15P,cross_cutting,smoothing,then the balance,2,1,1,S3,,0
+trigrams,AC15P,cross_cutting,surfacing,as non negotiable,4,2,2,S1;S3,,0
+trigrams,AC15P,cross_cutting,surfacing,with hard filters,4,1,1,S5,,0
+trigrams,AC15P,cross_cutting,surfacing,a wrong conclusion,2,1,1,S5,,0
+trigrams,AC15P,cross_cutting,surfacing,canonize a wrong,2,1,1,S5,,0
+trigrams,AC15P,cross_cutting,surfacing,claims we cannot,2,1,1,S3,truth_and_fact,0
+trigrams,AC15P,cross_cutting,surfacing,friction essential infrastructure,2,1,1,S1,practicality_and_feasibility,0
+trigrams,AC15P,cross_cutting,surfacing,hard no fly,2,1,1,S3,,0
+trigrams,AC15P,cross_cutting,surfacing,isn t catastrophic,2,1,1,S7,,0
+trigrams,AC15P,cross_cutting,surfacing,non negotiable reliability,2,1,1,S1,,0
+trigrams,AC15P,cross_cutting,surfacing,one hard conversation,2,1,1,S7,,0
+trigrams,AC15P,cross_cutting,surfacing,opaque or hard,2,1,1,S5,,0
+trigrams,AC15P,cross_cutting,surfacing,partner isn t,2,1,1,S7,,0
+trigrams,AC15P,cross_cutting,surfacing,replaying messy attempts,2,1,1,S5,,0
+trigrams,AC15P,cross_cutting,surfacing,system cannot guarantee,2,1,1,S3,,0
+trigrams,AC15P,cross_cutting,surfacing,those aren t,2,1,1,S3,,0
+trigrams,AC15P,constraint_aligned,temporal_projection,accepted superseded deprecated,6,1,1,S5,temporal_dynamics,0
+trigrams,AC15P,constraint_aligned,temporal_projection,over durable artifacts,6,1,1,S5,,0
+trigrams,AC15P,constraint_aligned,temporal_projection,availability early access,4,1,1,S3,,0
+trigrams,AC15P,constraint_aligned,temporal_projection,durable artifacts adrs,4,1,1,S5,,0
+trigrams,AC15P,constraint_aligned,temporal_projection,limited availability early,4,1,1,S3,,0
+trigrams,AC15P,constraint_aligned,temporal_projection,a qualification phase,3,1,1,S3,temporal_dynamics,0
+trigrams,AC15P,constraint_aligned,temporal_projection,deprecated needs review,3,1,1,S5,temporal_dynamics,0
+trigrams,AC15P,constraint_aligned,temporal_projection,durable artifacts with,3,1,1,S5,,0
+trigrams,AC15P,constraint_aligned,temporal_projection,repo validity checks,3,1,1,S5,,0
+trigrams,AC15P,constraint_aligned,temporal_projection,superseded deprecated needs,3,1,1,S5,temporal_dynamics,0
+trigrams,AC15P,constraint_aligned,temporal_projection,to durable artifacts,3,1,1,S5,,0
+trigrams,AC15P,constraint_aligned,temporal_projection,week award window,3,1,1,S1,temporal_dynamics,0
+trigrams,AC15P,constraint_aligned,temporal_projection,access transition assistance,2,1,1,S1,temporal_dynamics,0
+trigrams,AC15P,constraint_aligned,temporal_projection,aging sickness plan,2,1,1,S7,,0
+trigrams,AC15P,constraint_aligned,temporal_projection,and increase lifecycle,2,1,1,S1,temporal_dynamics,0
+trigrams,AC15P,constraint_aligned,truth,decisions verified outcomes,6,1,1,S5,truth_and_fact,0
+trigrams,AC15P,constraint_aligned,truth,constraints verified outcomes,3,1,1,S5,practicality_and_feasibility;truth_and_fact,0
+trigrams,AC15P,constraint_aligned,truth,created_at last_validated_at repo,3,1,1,S5,,0
+trigrams,AC15P,constraint_aligned,truth,last_validated_at repo branch,3,1,1,S5,,0
+trigrams,AC15P,constraint_aligned,truth,repo validity checks,3,1,1,S5,,0
+trigrams,AC15P,constraint_aligned,truth,require user confirmation,3,1,1,S5,,0
+trigrams,AC15P,constraint_aligned,truth,style decisions verified,3,1,1,S5,truth_and_fact,0
+trigrams,AC15P,constraint_aligned,truth,verified outcomes runbook,3,1,1,S5,truth_and_fact,0
+trigrams,AC15P,constraint_aligned,truth,access deletion audit,2,1,1,S5,,0
+trigrams,AC15P,constraint_aligned,truth,and freshness checks,2,1,1,S5,,0
+trigrams,AC15P,constraint_aligned,truth,check whether the,2,1,1,S3,,0
+trigrams,AC15P,constraint_aligned,truth,checks when possible,2,1,1,S5,imagination_and_possibility,0
+trigrams,AC15P,constraint_aligned,truth,cited evidence lookup,2,1,1,S5,truth_and_fact,0
+trigrams,AC15P,constraint_aligned,truth,confirmed the chief,2,1,1,S3,truth_and_fact,0
+trigrams,AC15P,constraint_aligned,truth,control and audit,2,1,1,S5,,0
+trigrams,AC15P,cross_cutting,warning,a refinance trap,3,1,1,S3,,0
+trigrams,AC15P,cross_cutting,warning,residual risk statement,3,1,1,S3,practicality_and_feasibility,0
+trigrams,AC15P,cross_cutting,warning,a risk managed,2,1,1,S1,practicality_and_feasibility,0
+trigrams,AC15P,cross_cutting,warning,avoidable schedule risk,2,1,1,S1,practicality_and_feasibility,0
+trigrams,AC15P,cross_cutting,warning,flexibility exit risk,2,1,1,S1,imagination_and_possibility;practicality_and_feasibility,0
+trigrams,AC15P,cross_cutting,warning,if serious illness,2,1,1,S7,,0
+trigrams,AC15P,cross_cutting,warning,isolation s concern,2,1,1,S5,,0
+trigrams,AC15P,cross_cutting,warning,refinance trap if,2,1,1,S3,,0
+trigrams,AC15P,cross_cutting,warning,risk if early,2,1,1,S3,practicality_and_feasibility,0
+trigrams,AC15P,cross_cutting,warning,risk stack for,2,1,1,S1,practicality_and_feasibility,0
+trigrams,AC15P,cross_cutting,warning,risk vendor responsiveness,2,1,1,S1,practicality_and_feasibility,0
+trigrams,AC15P,cross_cutting,warning,schedule risk regardless,2,1,1,S1,practicality_and_feasibility,0
+trigrams,AC15P,cross_cutting,warning,schedule risk we,2,1,1,S1,practicality_and_feasibility,0
+trigrams,AC15P,cross_cutting,warning,serious illness occurs,2,1,1,S7,,0
+trigrams,AC15P,cross_cutting,warning,staleness risk is,2,1,1,S5,practicality_and_feasibility,0
+trigrams,CONTROL,cross_cutting,autonomy_sovereignty,stop ops authority,4,1,1,S3,,0
+trigrams,CONTROL,cross_cutting,autonomy_sovereignty,authority won t,3,1,1,S3,,0
+trigrams,CONTROL,cross_cutting,autonomy_sovereignty,safety authority won,3,1,1,S3,,0
+trigrams,CONTROL,cross_cutting,autonomy_sovereignty,your safety authority,3,1,1,S3,,0
+trigrams,CONTROL,cross_cutting,autonomy_sovereignty,choosing you because,2,1,1,S7,,0
+trigrams,CONTROL,cross_cutting,autonomy_sovereignty,did we choose,2,1,1,S5,,0
+trigrams,CONTROL,cross_cutting,conditions,plus whether you,3,1,1,S7,,0
+trigrams,CONTROL,cross_cutting,conditions,recommendation unless novagrid,3,1,1,S1,,0
+trigrams,CONTROL,cross_cutting,conditions,check whether it,2,1,1,S3,,0
+trigrams,CONTROL,cross_cutting,conditions,country whether you,2,1,1,S7,,0
+trigrams,CONTROL,cross_cutting,conditions,lois msas contingent,2,1,1,S3,,0
+trigrams,CONTROL,cross_cutting,conditions,msas contingent on,2,1,1,S3,,0
+trigrams,CONTROL,cross_cutting,conditions,now depends on,2,1,1,S1,,0
+trigrams,CONTROL,cross_cutting,conditions,safety depends on,2,1,1,S3,,0
+trigrams,CONTROL,cross_cutting,hedging,how it could,6,1,1,S1,,0
+trigrams,CONTROL,cross_cutting,hedging,it could bite,6,1,1,S1,,0
+trigrams,CONTROL,cross_cutting,hedging,could bite you,4,1,1,S1,,0
+trigrams,CONTROL,cross_cutting,hedging,time that could,3,1,1,S1,,0
+trigrams,CONTROL,cross_cutting,hedging,but more likely,2,1,1,S5,,0
+trigrams,CONTROL,cross_cutting,hedging,complex care may,2,1,1,S7,,0
+trigrams,CONTROL,cross_cutting,hedging,continuity is usually,2,1,1,S5,temporal_dynamics,0
+trigrams,CONTROL,cross_cutting,hedging,could bite year,2,1,1,S1,,0
+trigrams,CONTROL,cross_cutting,hedging,could change the,2,1,1,S1,,0
+trigrams,CONTROL,cross_cutting,hedging,likely to cause,2,1,1,S5,,0
+trigrams,CONTROL,cross_cutting,hedging,likely to create,2,1,1,S5,,0
+trigrams,CONTROL,cross_cutting,hedging,may be less,2,1,1,S7,,0
+trigrams,CONTROL,cross_cutting,hedging,may be underestimating,2,1,1,S7,,0
+trigrams,CONTROL,cross_cutting,hedging,may bring urgency,2,1,1,S7,,0
+trigrams,CONTROL,cross_cutting,hedging,modular tends to,2,1,1,S1,,0
+trigrams,CONTROL,constraint_aligned,imagination_and_possibility,case you either,2,1,1,S3,,0
+trigrams,CONTROL,constraint_aligned,practical_considerations_and_execution,constraints system map,7,1,1,S5,practicality_and_feasibility,0
+trigrams,CONTROL,constraint_aligned,practical_considerations_and_execution,conventions constraints system,7,1,1,S5,practicality_and_feasibility,0
+trigrams,CONTROL,constraint_aligned,practical_considerations_and_execution,constrained commercial deployment,4,1,1,S3,practicality_and_feasibility,0
+trigrams,CONTROL,constraint_aligned,practical_considerations_and_execution,m cost predictability,4,1,1,S1,practicality_and_feasibility,0
+trigrams,CONTROL,constraint_aligned,practical_considerations_and_execution,o m cost,4,1,1,S1,practicality_and_feasibility,0
+trigrams,CONTROL,constraint_aligned,practical_considerations_and_execution,a staged rollout,3,1,1,S1,,0
+trigrams,CONTROL,constraint_aligned,practical_considerations_and_execution,as built documentation,3,1,1,S1,,0
+trigrams,CONTROL,constraint_aligned,practical_considerations_and_execution,constrained commercial availability,3,1,1,S3,practicality_and_feasibility,0
+trigrams,CONTROL,constraint_aligned,practical_considerations_and_execution,constrained commercial release,3,1,1,S3,practicality_and_feasibility,0
+trigrams,CONTROL,constraint_aligned,practical_considerations_and_execution,staged rollout plan,3,1,1,S1,,0
+trigrams,CONTROL,constraint_aligned,practical_considerations_and_execution,a funded plan,2,1,1,S7,,0
+trigrams,CONTROL,constraint_aligned,practical_considerations_and_execution,a phased launch,2,1,1,S3,temporal_dynamics,1
+trigrams,CONTROL,constraint_aligned,practical_considerations_and_execution,any commercial launch,2,1,1,S3,,0
+trigrams,CONTROL,constraint_aligned,practical_considerations_and_execution,architecture constraints conventions,2,1,1,S5,practicality_and_feasibility,0
+trigrams,CONTROL,constraint_aligned,practical_considerations_and_execution,as budgets tighten,2,1,1,S1,,0
+trigrams,CONTROL,cross_cutting,surfacing,services isn t,4,1,1,S1,,0
+trigrams,CONTROL,cross_cutting,surfacing,a non negotiable,3,1,1,S3,,0
+trigrams,CONTROL,cross_cutting,surfacing,apply hard filters,3,1,1,S5,,0
+trigrams,CONTROL,cross_cutting,surfacing,authority won t,3,1,1,S3,,0
+trigrams,CONTROL,cross_cutting,surfacing,doesn t consume,3,1,1,S7,,0
+trigrams,CONTROL,cross_cutting,surfacing,repo conflict checks,3,1,1,S5,,0
+trigrams,CONTROL,cross_cutting,surfacing,wrong and sticky,3,1,1,S5,,0
+trigrams,CONTROL,cross_cutting,surfacing,basic repo conflict,2,1,1,S5,,0
+trigrams,CONTROL,cross_cutting,surfacing,cannot be launched,2,1,1,S3,,0
+trigrams,CONTROL,cross_cutting,surfacing,hard filters branch,2,1,1,S5,,0
+trigrams,CONTROL,cross_cutting,surfacing,hard filters first,2,1,1,S5,,0
+trigrams,CONTROL,cross_cutting,surfacing,hard to defend,2,1,1,S3,,0
+trigrams,CONTROL,cross_cutting,surfacing,interference estimator inconsistency,2,1,1,S3,truth_and_fact,0
+trigrams,CONTROL,cross_cutting,surfacing,meaningful green flags,2,1,1,S7,,0
+trigrams,CONTROL,cross_cutting,surfacing,memory conflicts with,2,1,1,S5,,0
+trigrams,CONTROL,constraint_aligned,temporal_projection,long term o,4,1,1,S1,temporal_dynamics,0
+trigrams,CONTROL,constraint_aligned,temporal_projection,a staged path,3,1,1,S7,,0
+trigrams,CONTROL,constraint_aligned,temporal_projection,a staged rollout,3,1,1,S1,,0
+trigrams,CONTROL,constraint_aligned,temporal_projection,compete future components,3,1,1,S1,temporal_dynamics,0
+trigrams,CONTROL,constraint_aligned,temporal_projection,documentation delivered early,3,1,1,S1,,0
+trigrams,CONTROL,constraint_aligned,temporal_projection,preserve exit leverage,3,1,1,S1,,0
+trigrams,CONTROL,constraint_aligned,temporal_projection,staged rollout plan,3,1,1,S1,,0
+trigrams,CONTROL,constraint_aligned,temporal_projection,to compete future,3,1,1,S1,temporal_dynamics,0
+trigrams,CONTROL,constraint_aligned,temporal_projection,a phased launch,2,1,1,S3,temporal_dynamics,1
+trigrams,CONTROL,constraint_aligned,temporal_projection,a staged approach,2,1,1,S7,,0
+trigrams,CONTROL,constraint_aligned,temporal_projection,and staleness handling,2,1,1,S5,,0
+trigrams,CONTROL,constraint_aligned,temporal_projection,can shift static,2,1,1,S3,temporal_dynamics,0
+trigrams,CONTROL,constraint_aligned,temporal_projection,constrained early access,2,1,1,S3,practicality_and_feasibility,0
+trigrams,CONTROL,constraint_aligned,temporal_projection,delivered early milestone,2,1,1,S1,,0
+trigrams,CONTROL,constraint_aligned,temporal_projection,early milestone based,2,1,1,S1,,0
+trigrams,CONTROL,constraint_aligned,truth,repo verification before,4,1,1,S5,truth_and_fact,0
+trigrams,CONTROL,constraint_aligned,truth,confirm to save,3,1,1,S5,truth_and_fact,0
+trigrams,CONTROL,constraint_aligned,truth,export test as,3,1,1,S1,,0
+trigrams,CONTROL,constraint_aligned,truth,repo conflict checks,3,1,1,S5,,0
+trigrams,CONTROL,constraint_aligned,truth,and repo validated,2,1,1,S5,,0
+trigrams,CONTROL,constraint_aligned,truth,as verified project,2,1,1,S5,truth_and_fact,0
+trigrams,CONTROL,constraint_aligned,truth,backed evidence index,2,1,1,S5,truth_and_fact,0
+trigrams,CONTROL,constraint_aligned,truth,build test commands,2,1,1,S5,,0
+trigrams,CONTROL,constraint_aligned,truth,but user confirms,2,1,1,S5,,0
+trigrams,CONTROL,constraint_aligned,truth,case hazard analysis,2,1,1,S3,,0
+trigrams,CONTROL,constraint_aligned,truth,check whether it,2,1,1,S3,,0
+trigrams,CONTROL,constraint_aligned,truth,evidence index but,2,1,1,S5,truth_and_fact,0
+trigrams,CONTROL,constraint_aligned,truth,evidence index if,2,1,1,S5,truth_and_fact,0
+trigrams,CONTROL,constraint_aligned,truth,make sure to,2,1,1,S7,,0
+trigrams,CONTROL,constraint_aligned,truth,notebook gated evidence,2,1,1,S5,truth_and_fact,0
+trigrams,CONTROL,cross_cutting,warning,a safety hazard,2,1,1,S3,,0
+trigrams,CONTROL,cross_cutting,warning,and escalation risk,2,1,1,S1,practicality_and_feasibility,0
+trigrams,CONTROL,cross_cutting,warning,approval risk that,2,1,1,S1,practicality_and_feasibility,0
+trigrams,CONTROL,cross_cutting,warning,bound the hazard,2,1,1,S3,,0
+trigrams,CONTROL,cross_cutting,warning,case hazard analysis,2,1,1,S3,,0
+trigrams,CONTROL,cross_cutting,warning,consequence operational hazard,2,1,1,S3,practicality_and_feasibility,0
+trigrams,CONTROL,cross_cutting,warning,essential infrastructure risk,2,1,1,S1,practicality_and_feasibility,0
+trigrams,CONTROL,cross_cutting,warning,governance risk architecture,2,1,1,S1,practicality_and_feasibility,0
+trigrams,CONTROL,cross_cutting,warning,hazard if any,2,1,1,S3,,0
+trigrams,CONTROL,cross_cutting,warning,long term risk,2,1,1,S1,practicality_and_feasibility;temporal_dynamics,0
+trigrams,CONTROL,cross_cutting,warning,risk before permanence,2,1,1,S7,practicality_and_feasibility,0
+trigrams,CONTROL,cross_cutting,warning,risk while meeting,2,1,1,S1,practicality_and_feasibility,0
+trigrams,CONTROL,cross_cutting,warning,you risk penalties,2,1,1,S3,practicality_and_feasibility,0
+trigrams,CONTROL,cross_cutting,warning,your risk profile,2,1,1,S7,practicality_and_feasibility,0
+trigrams,HYBRID_3_5,cross_cutting,autonomy_sovereignty,responsible technical authority,10,1,1,S3,,0
+trigrams,HYBRID_3_5,cross_cutting,autonomy_sovereignty,authority sign off,7,1,1,S3,,0
+trigrams,HYBRID_3_5,cross_cutting,autonomy_sovereignty,technical authority sign,7,1,1,S3,,0
+trigrams,HYBRID_3_5,cross_cutting,autonomy_sovereignty,authority must sign,2,1,1,S3,,0
+trigrams,HYBRID_3_5,cross_cutting,autonomy_sovereignty,choosing relief from,2,1,1,S7,,0
+trigrams,HYBRID_3_5,cross_cutting,autonomy_sovereignty,council defensible choice,2,1,1,S1,,0
+trigrams,HYBRID_3_5,cross_cutting,autonomy_sovereignty,decide one of,2,1,1,S7,,0
+trigrams,HYBRID_3_5,cross_cutting,autonomy_sovereignty,defensible choice if,2,1,1,S1,,0
+trigrams,HYBRID_3_5,cross_cutting,autonomy_sovereignty,named technical authority,2,1,1,S3,,0
+trigrams,HYBRID_3_5,cross_cutting,autonomy_sovereignty,or choosing relief,2,1,1,S7,,0
+trigrams,HYBRID_3_5,cross_cutting,autonomy_sovereignty,safety authority has,2,1,1,S3,,0
+trigrams,HYBRID_3_5,cross_cutting,autonomy_sovereignty,technical authority will,2,1,1,S3,,0
+trigrams,HYBRID_3_5,cross_cutting,autonomy_sovereignty,the modular choice,2,1,1,S1,,0
+trigrams,HYBRID_3_5,cross_cutting,autonomy_sovereignty,you must choose,2,1,1,S3,,0
+trigrams,HYBRID_3_5,cross_cutting,conditions,risk unless governed,2,1,1,S5,practicality_and_feasibility,0
+trigrams,HYBRID_3_5,cross_cutting,conditions,staleness risk unless,2,1,1,S5,practicality_and_feasibility,0
+trigrams,HYBRID_3_5,cross_cutting,conditions,unless novagrid s,2,1,1,S1,,0
+trigrams,HYBRID_3_5,cross_cutting,conditions,whether she expects,2,1,1,S7,,0
+trigrams,HYBRID_3_5,cross_cutting,conditions,whether you feel,2,1,1,S7,,0
+trigrams,HYBRID_3_5,cross_cutting,hedging,may not want,6,1,1,S7,,0
+trigrams,HYBRID_3_5,cross_cutting,hedging,continuity more likely,2,1,1,S5,temporal_dynamics,0
+trigrams,HYBRID_3_5,cross_cutting,hedging,i might not,2,1,1,S7,,0
+trigrams,HYBRID_3_5,cross_cutting,hedging,is least likely,2,1,1,S5,,0
+trigrams,HYBRID_3_5,cross_cutting,hedging,launch broadly with,2,1,1,S3,,0
+trigrams,HYBRID_3_5,cross_cutting,hedging,love tends to,2,1,1,S7,,0
+trigrams,HYBRID_3_5,cross_cutting,hedging,make continuity mostly,2,1,1,S5,temporal_dynamics,0
+trigrams,HYBRID_3_5,cross_cutting,hedging,may avoid both,2,1,1,S3,,0
+trigrams,HYBRID_3_5,cross_cutting,hedging,might not move,2,1,1,S7,,0
+trigrams,HYBRID_3_5,cross_cutting,hedging,often correlates with,2,1,1,S7,,0
+trigrams,HYBRID_3_5,cross_cutting,hedging,often surfaces the,2,1,1,S7,,0
+trigrams,HYBRID_3_5,cross_cutting,hedging,previously tried may,2,1,1,S5,,0
+trigrams,HYBRID_3_5,cross_cutting,hedging,tends to preserve,2,1,1,S5,,0
+trigrams,HYBRID_3_5,cross_cutting,hedging,the assistant may,2,1,1,S5,,0
+trigrams,HYBRID_3_5,cross_cutting,hedging,think i might,2,1,1,S7,,0
+trigrams,HYBRID_3_5,constraint_aligned,imagination_and_possibility,attempts speculative hypotheses,3,1,1,S5,imagination_and_possibility;truth_and_fact,0
+trigrams,HYBRID_3_5,constraint_aligned,imagination_and_possibility,commercial pilot limited,2,1,1,S3,imagination_and_possibility,0
+trigrams,HYBRID_3_5,constraint_aligned,imagination_and_possibility,debugging attempts speculative,2,1,1,S5,imagination_and_possibility;truth_and_fact,0
+trigrams,HYBRID_3_5,constraint_aligned,imagination_and_possibility,for debugging exploration,2,1,1,S5,imagination_and_possibility,0
+trigrams,HYBRID_3_5,constraint_aligned,imagination_and_possibility,superseded failed tentative,2,1,1,S5,,0
+trigrams,HYBRID_3_5,constraint_aligned,imagination_and_possibility,waivers are possible,2,1,1,S1,imagination_and_possibility,0
+trigrams,HYBRID_3_5,constraint_aligned,practical_considerations_and_execution,operating cost stability,4,1,1,S1,practicality_and_feasibility,0
+trigrams,HYBRID_3_5,constraint_aligned,practical_considerations_and_execution,a dated plan,3,1,1,S3,,0
+trigrams,HYBRID_3_5,constraint_aligned,practical_considerations_and_execution,bounded entry into,3,1,1,S3,,0
+trigrams,HYBRID_3_5,constraint_aligned,practical_considerations_and_execution,dated plan for,3,1,1,S3,,0
+trigrams,HYBRID_3_5,constraint_aligned,practical_considerations_and_execution,funded emergency plan,3,1,1,S7,,0
+trigrams,HYBRID_3_5,constraint_aligned,practical_considerations_and_execution,plans config logs,3,1,1,S1,,0
+trigrams,HYBRID_3_5,constraint_aligned,practical_considerations_and_execution,timing plans config,3,1,1,S1,,0
+trigrams,HYBRID_3_5,constraint_aligned,practical_considerations_and_execution,a constrained entry,2,1,1,S3,practicality_and_feasibility,0
+trigrams,HYBRID_3_5,constraint_aligned,practical_considerations_and_execution,a ga launch,2,1,1,S3,,0
+trigrams,HYBRID_3_5,constraint_aligned,practical_considerations_and_execution,a monthly budget,2,1,1,S7,practicality_and_feasibility,0
+trigrams,HYBRID_3_5,constraint_aligned,practical_considerations_and_execution,a real timeline,2,1,1,S7,practicality_and_feasibility;temporal_dynamics,0
+trigrams,HYBRID_3_5,constraint_aligned,practical_considerations_and_execution,and budget stability,2,1,1,S1,practicality_and_feasibility,0
+trigrams,HYBRID_3_5,constraint_aligned,practical_considerations_and_execution,annual cloud cost,2,1,1,S1,practicality_and_feasibility,0
+trigrams,HYBRID_3_5,constraint_aligned,practical_considerations_and_execution,approval friction and,2,1,1,S1,practicality_and_feasibility,0
+trigrams,HYBRID_3_5,constraint_aligned,practical_considerations_and_execution,bounded envelope staged,2,1,1,S3,,0
+trigrams,HYBRID_3_5,cross_cutting,surfacing,isn t hostage,4,1,1,S1,,0
+trigrams,HYBRID_3_5,cross_cutting,surfacing,exit isn t,3,1,1,S1,,0
+trigrams,HYBRID_3_5,cross_cutting,surfacing,service credits hard,3,1,1,S3,,0
+trigrams,HYBRID_3_5,cross_cutting,surfacing,a non negotiable,2,1,1,S1,,0
+trigrams,HYBRID_3_5,cross_cutting,surfacing,approval friction and,2,1,1,S1,practicality_and_feasibility,0
+trigrams,HYBRID_3_5,cross_cutting,surfacing,brittle covenants and,2,1,1,S3,,0
+trigrams,HYBRID_3_5,cross_cutting,surfacing,credits hard cap,2,1,1,S3,,0
+trigrams,HYBRID_3_5,cross_cutting,surfacing,gate non negotiable,2,1,1,S7,,0
+trigrams,HYBRID_3_5,cross_cutting,surfacing,geofence patch cannot,2,1,1,S3,,0
+trigrams,HYBRID_3_5,cross_cutting,surfacing,gnss multipath denial,2,1,1,S3,,0
+trigrams,HYBRID_3_5,cross_cutting,surfacing,hard contract terms,2,1,1,S1,,0
+trigrams,HYBRID_3_5,cross_cutting,surfacing,minor goes wrong,2,1,1,S1,,0
+trigrams,HYBRID_3_5,cross_cutting,surfacing,often surfaces the,2,1,1,S7,,0
+trigrams,HYBRID_3_5,cross_cutting,surfacing,short maturity hard,2,1,1,S3,temporal_dynamics,0
+trigrams,HYBRID_3_5,cross_cutting,surfacing,surfaces the real,2,1,1,S7,,0
+trigrams,HYBRID_3_5,constraint_aligned,temporal_projection,transition assistance rates,5,1,1,S1,temporal_dynamics,0
+trigrams,HYBRID_3_5,constraint_aligned,temporal_projection,during early access,4,1,1,S3,,0
+trigrams,HYBRID_3_5,constraint_aligned,temporal_projection,operating cost stability,4,1,1,S1,practicality_and_feasibility,0
+trigrams,HYBRID_3_5,constraint_aligned,temporal_projection,data export transition,3,1,1,S1,temporal_dynamics;truth_and_fact,0
+trigrams,HYBRID_3_5,constraint_aligned,temporal_projection,long term compromise,3,1,1,S7,temporal_dynamics,0
+trigrams,HYBRID_3_5,constraint_aligned,temporal_projection,pre priced transition,3,1,1,S1,temporal_dynamics,0
+trigrams,HYBRID_3_5,constraint_aligned,temporal_projection,aging health and,2,1,1,S7,,1
+trigrams,HYBRID_3_5,constraint_aligned,temporal_projection,and budget stability,2,1,1,S1,practicality_and_feasibility,0
+trigrams,HYBRID_3_5,constraint_aligned,temporal_projection,bounded envelope staged,2,1,1,S3,,0
+trigrams,HYBRID_3_5,constraint_aligned,temporal_projection,brittle covenants and,2,1,1,S3,,0
+trigrams,HYBRID_3_5,constraint_aligned,temporal_projection,cost stability and,2,1,1,S1,practicality_and_feasibility,0
+trigrams,HYBRID_3_5,constraint_aligned,temporal_projection,cost stability civitas,2,1,1,S1,practicality_and_feasibility,0
+trigrams,HYBRID_3_5,constraint_aligned,temporal_projection,decay version proximity,2,1,1,S5,temporal_dynamics,0
+trigrams,HYBRID_3_5,constraint_aligned,temporal_projection,eis early access,2,1,1,S3,,0
+trigrams,HYBRID_3_5,constraint_aligned,temporal_projection,export transition assistance,2,1,1,S1,temporal_dynamics,0
+trigrams,HYBRID_3_5,constraint_aligned,truth,high signal sources,4,1,1,S5,,0
+trigrams,HYBRID_3_5,constraint_aligned,truth,compatibility checks against,3,1,1,S5,,0
+trigrams,HYBRID_3_5,constraint_aligned,truth,source date link,3,1,1,S5,truth_and_fact,0
+trigrams,HYBRID_3_5,constraint_aligned,truth,added integration testing,2,1,1,S1,,0
+trigrams,HYBRID_3_5,constraint_aligned,truth,blocks volatile evidence,2,1,1,S5,truth_and_fact,0
+trigrams,HYBRID_3_5,constraint_aligned,truth,confirm visa type,2,1,1,S7,truth_and_fact,0
+trigrams,HYBRID_3_5,constraint_aligned,truth,documented formats include,2,1,1,S1,,0
+trigrams,HYBRID_3_5,constraint_aligned,truth,documented formats sample,2,1,1,S1,,0
+trigrams,HYBRID_3_5,constraint_aligned,truth,escalation stress test,2,1,1,S1,,0
+trigrams,HYBRID_3_5,constraint_aligned,truth,evidence items influenced,2,1,1,S5,truth_and_fact,0
+trigrams,HYBRID_3_5,constraint_aligned,truth,exportable in documented,2,1,1,S1,,0
+trigrams,HYBRID_3_5,constraint_aligned,truth,field re test,2,1,1,S3,,0
+trigrams,HYBRID_3_5,constraint_aligned,truth,for controlled testing,2,1,1,S3,,0
+trigrams,HYBRID_3_5,constraint_aligned,truth,freeze build validation,2,1,1,S3,,0
+trigrams,HYBRID_3_5,constraint_aligned,truth,hardware fix validation,2,1,1,S3,,0
+trigrams,HYBRID_3_5,cross_cutting,warning,stationary emi risk,4,1,1,S3,practicality_and_feasibility,0
+trigrams,HYBRID_3_5,cross_cutting,warning,and narrative risk,3,1,1,S1,practicality_and_feasibility,0
+trigrams,HYBRID_3_5,cross_cutting,warning,threat is real,3,1,1,S3,,0
+trigrams,HYBRID_3_5,cross_cutting,warning,at higher risk,2,1,1,S7,practicality_and_feasibility,0
+trigrams,HYBRID_3_5,cross_cutting,warning,at risk due,2,1,1,S1,practicality_and_feasibility,0
+trigrams,HYBRID_3_5,cross_cutting,warning,biggest structural risk,2,1,1,S7,practicality_and_feasibility,0
+trigrams,HYBRID_3_5,cross_cutting,warning,default control risk,2,1,1,S3,practicality_and_feasibility,0
+trigrams,HYBRID_3_5,cross_cutting,warning,emi risk that,2,1,1,S3,practicality_and_feasibility,0
+trigrams,HYBRID_3_5,cross_cutting,warning,higher risk of,2,1,1,S7,practicality_and_feasibility,0
+trigrams,HYBRID_3_5,cross_cutting,warning,main risk is,2,1,1,S7,practicality_and_feasibility,0
+trigrams,HYBRID_3_5,cross_cutting,warning,narrative risk even,2,1,1,S1,practicality_and_feasibility,0
+trigrams,HYBRID_3_5,cross_cutting,warning,risk and narrative,2,1,1,S1,practicality_and_feasibility,0
+trigrams,HYBRID_3_5,cross_cutting,warning,risk dot preference,2,1,1,S1,practicality_and_feasibility,0
+trigrams,HYBRID_3_5,cross_cutting,warning,risk if i,2,1,1,S7,practicality_and_feasibility,0
+trigrams,HYBRID_3_5,cross_cutting,warning,risk unless governed,2,1,1,S5,practicality_and_feasibility,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,autonomy_sovereignty,authority and always,2,1,1,S5,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,autonomy_sovereignty,choose continuity via,2,1,1,S5,temporal_dynamics,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,autonomy_sovereignty,high authority always,2,1,1,S5,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,autonomy_sovereignty,higher authority sources,2,1,1,S5,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,autonomy_sovereignty,re deciding whether,2,1,1,S3,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,autonomy_sovereignty,reasons to choose,2,1,1,S1,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,autonomy_sovereignty,time and authority,2,1,1,S5,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,autonomy_sovereignty,you choose continuity,2,1,1,S5,temporal_dynamics,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,conditions,can expire unless,2,1,1,S5,temporal_dynamics,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,conditions,care happens whether,2,1,1,S7,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,conditions,commitment depends on,2,1,1,S7,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,conditions,country whether she,2,1,1,S7,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,conditions,expire unless reaffirmed,2,1,1,S5,temporal_dynamics,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,conditions,happens whether either,2,1,1,S7,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,conditions,paid help whether,2,1,1,S7,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,conditions,re deciding whether,2,1,1,S3,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,conditions,testing whether the,2,1,1,S7,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,conditions,whether chat can,2,1,1,S5,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,conditions,whether the architect,2,1,1,S3,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,hedging,may be missing,8,1,1,S7,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,hedging,where you may,3,1,1,S7,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,hedging,appearing to pick,2,1,1,S1,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,hedging,is more likely,2,1,1,S7,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,hedging,kind of information,2,1,1,S5,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,hedging,may want to,2,1,1,S7,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,hedging,zones might shift,2,1,1,S3,temporal_dynamics,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,imagination_and_possibility,a pilot acceptance,5,1,1,S3,imagination_and_possibility,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,imagination_and_possibility,pilot acceptance phase,4,1,1,S3,imagination_and_possibility;temporal_dynamics,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,imagination_and_possibility,pilot terms caps,4,1,1,S3,imagination_and_possibility,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,imagination_and_possibility,a structured pilot,3,1,1,S3,imagination_and_possibility,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,imagination_and_possibility,access production pilot,3,1,1,S3,imagination_and_possibility,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,imagination_and_possibility,paid production pilot,3,1,1,S3,imagination_and_possibility,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,imagination_and_possibility,production pilot with,3,1,1,S3,imagination_and_possibility,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,imagination_and_possibility,a pilot becomes,2,1,1,S3,imagination_and_possibility,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,imagination_and_possibility,a production pilot,2,1,1,S3,imagination_and_possibility,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,imagination_and_possibility,acceptance pilot phase,2,1,1,S3,imagination_and_possibility;temporal_dynamics,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,imagination_and_possibility,attempts speculative debugging,2,1,1,S5,imagination_and_possibility;truth_and_fact,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,imagination_and_possibility,conditional alternative novagrid,2,1,1,S1,imagination_and_possibility,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,imagination_and_possibility,draft a specific,2,1,1,S7,,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,imagination_and_possibility,from exploration exhaust,2,1,1,S5,imagination_and_possibility,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,imagination_and_possibility,happens whether either,2,1,1,S7,,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,practical_considerations_and_execution,the launch envelope,5,1,1,S3,,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,practical_considerations_and_execution,controlled commercial launch,4,1,1,S3,,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,practical_considerations_and_execution,a controlled launch,3,1,1,S3,,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,practical_considerations_and_execution,a phased rollout,3,1,1,S1,temporal_dynamics,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,practical_considerations_and_execution,commercial mining launch,3,1,1,S3,,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,practical_considerations_and_execution,implement detours overrides,3,1,1,S1,practicality_and_feasibility,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,practical_considerations_and_execution,plans logs and,3,1,1,S1,,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,practical_considerations_and_execution,the controlled launch,3,1,1,S3,,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,practical_considerations_and_execution,year cost exposure,3,1,1,S1,practicality_and_feasibility,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,practical_considerations_and_execution,a liquidity buffer,2,1,1,S7,,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,practical_considerations_and_execution,adding cost time,2,1,1,S1,practicality_and_feasibility,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,practical_considerations_and_execution,and remediation plan,2,1,1,S3,,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,practical_considerations_and_execution,at any cost,2,1,1,S3,practicality_and_feasibility,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,practical_considerations_and_execution,bound or fixed,2,1,1,S1,,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,practical_considerations_and_execution,bound the interference,2,1,1,S3,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,smoothing,adr merged pr,2,1,1,S5,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,smoothing,docs merged code,2,1,1,S5,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,smoothing,merged code docs,2,1,1,S5,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,smoothing,the balance moves,2,1,1,S3,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,surfacing,s clearly wrong,5,1,1,S1,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,surfacing,doesn t equal,4,1,1,S3,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,surfacing,clearly wrong you,3,1,1,S1,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,surfacing,doesn t force,3,1,1,S7,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,surfacing,a crisis doesn,2,1,1,S7,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,surfacing,abort doesn t,2,1,1,S3,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,surfacing,and conflict repair,2,1,1,S7,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,surfacing,certainty approval friction,2,1,1,S1,practicality_and_feasibility,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,surfacing,civitas cannot meet,2,1,1,S1,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,surfacing,code that doesn,2,1,1,S5,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,surfacing,confidently remembered wrong,2,1,1,S5,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,surfacing,crisis doesn t,2,1,1,S7,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,surfacing,customers won t,2,1,1,S3,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,surfacing,doesn t ask,2,1,1,S7,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,surfacing,doesn t compile,2,1,1,S5,,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,temporal_projection,early maintenance reduction,4,1,1,S1,,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,temporal_projection,pilot acceptance phase,4,1,1,S3,imagination_and_possibility;temporal_dynamics,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,temporal_projection,a phased rollout,3,1,1,S1,temporal_dynamics,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,temporal_projection,early access production,3,1,1,S3,,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,temporal_projection,exit and transition,3,1,1,S1,temporal_dynamics,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,temporal_projection,for early units,3,1,1,S3,,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,temporal_projection,future lock in,3,1,1,S1,temporal_dynamics,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,temporal_projection,irrelevant outdated never,3,1,1,S5,temporal_dynamics,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,temporal_projection,outdated never use,3,1,1,S5,temporal_dynamics,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,temporal_projection,a later phase,2,1,1,S1,temporal_dynamics,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,temporal_projection,acceptance phase with,2,1,1,S3,temporal_dynamics,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,temporal_projection,acceptance pilot phase,2,1,1,S3,imagination_and_possibility;temporal_dynamics,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,temporal_projection,accountability and early,2,1,1,S1,,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,temporal_projection,can expire unless,2,1,1,S5,temporal_dynamics,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,temporal_projection,click fresh eyes,2,1,1,S5,,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,truth,to ask verify,9,1,1,S1,truth_and_fact,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,truth,demand evidence retrieval,4,1,1,S5,truth_and_fact,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,truth,acceptance tested time,2,1,1,S1,,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,truth,and acceptance tested,2,1,1,S1,,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,truth,and less evidence,2,1,1,S1,truth_and_fact,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,truth,ask verify documented,2,1,1,S1,truth_and_fact,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,truth,audit trail degraded,2,1,1,S1,,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,truth,confirmed root cause,2,1,1,S5,truth_and_fact,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,truth,conventions glossary confirmed,2,1,1,S5,truth_and_fact,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,truth,diffable source linked,2,1,1,S5,truth_and_fact,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,truth,documented formats exit,2,1,1,S1,,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,truth,documented formats priced,2,1,1,S1,,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,truth,durable truth from,2,1,1,S5,truth_and_fact,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,truth,editable diffable source,2,1,1,S5,truth_and_fact,0
+trigrams,HYBRID_SEMANTIC,constraint_aligned,truth,evidence in b,2,1,1,S5,truth_and_fact,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,warning,the interference risk,3,1,1,S3,practicality_and_feasibility,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,warning,and continuity risks,2,1,1,S1,practicality_and_feasibility;temporal_dynamics,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,warning,catastrophic medical risk,2,1,1,S7,practicality_and_feasibility,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,warning,caution looks like,2,1,1,S7,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,warning,chain risk than,2,1,1,S1,practicality_and_feasibility,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,warning,complex care risk,2,1,1,S7,practicality_and_feasibility,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,warning,continuity risks and,2,1,1,S1,practicality_and_feasibility;temporal_dynamics,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,warning,for serious illness,2,1,1,S7,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,warning,high anchoring risk,2,1,1,S5,practicality_and_feasibility,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,warning,interference risk at,2,1,1,S3,practicality_and_feasibility,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,warning,isolation argument risk,2,1,1,S5,practicality_and_feasibility,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,warning,plan for serious,2,1,1,S7,,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,warning,real schedule threat,2,1,1,S1,practicality_and_feasibility,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,warning,risk checks a,2,1,1,S7,practicality_and_feasibility,0
+trigrams,HYBRID_SEMANTIC,cross_cutting,warning,risk frequent retrieval,2,1,1,S5,practicality_and_feasibility,0

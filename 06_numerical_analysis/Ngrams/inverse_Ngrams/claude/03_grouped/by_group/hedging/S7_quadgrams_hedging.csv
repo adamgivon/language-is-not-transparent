@@ -1,0 +1,30 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+motivations could be love,2,AC15,S7,quadgrams,motivations could love,3,,0,,love|motivations,2,0.6666666666666666,False,hedging,hedging,1,1,0,1,,hedging,could|could be,False
+performers tend to stay,2,AC15,S7,quadgrams,performers tend stay,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,tend,False
+tends to sound like,2,AC15,S7,quadgrams,tends sound like,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,tends|tends to,False
+this kind of urgency,2,AC15,S7,quadgrams,kind urgency,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,kind of,False
+your situation that typically,2,AC15,S7,quadgrams,situation typically,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,typically,False
+may not be seeing,8,AC15P,S7,quadgrams,may seeing,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,may,False
+track how often you,2,AC15P,S7,quadgrams,track how often,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,often,False
+how often you feel,2,AC15P,S7,quadgrams,how often feel,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,often,False
+often you feel calm,2,AC15P,S7,quadgrams,often feel calm,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,often,False
+i don t give,2,AC15P,S7,quadgrams,i give,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,i d,False
+likely caused it then,2,AC15P,S7,quadgrams,likely caused then,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,likely,False
+opener i don t,2,AC15P,S7,quadgrams,opener i,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,i d,False
+be seeing you might,2,AC15P,S7,quadgrams,seeing might,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,might,False
+you could become dependent,2,AC15P,S7,quadgrams,could become dependent,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,could|could be,False
+may be less reliable,2,CONTROL,S7,quadgrams,may less reliable,3,truth_and_fact,1,reliable,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,may,False
+may bring urgency about,2,CONTROL,S7,quadgrams,may bring urgency about,4,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,may,False
+complex care may be,2,CONTROL,S7,quadgrams,complex care may,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,may,False
+care may be less,2,CONTROL,S7,quadgrams,care may less,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,may,False
+you may be underestimating,2,CONTROL,S7,quadgrams,may underestimating,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,may,False
+you may not want,6,HYBRID_3_5,S7,quadgrams,may want,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,may,False
+may not want to,6,HYBRID_3_5,S7,quadgrams,may want,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,may,False
+you think i might,2,HYBRID_3_5,S7,quadgrams,think i might,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,might,False
+think i might not,2,HYBRID_3_5,S7,quadgrams,think i might,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,might,False
+i might not move,2,HYBRID_3_5,S7,quadgrams,i might move,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,might,False
+might not move if,2,HYBRID_3_5,S7,quadgrams,might move,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,might,False
+this often surfaces the,2,HYBRID_3_5,S7,quadgrams,often surfaces,2,,0,,,0,0.0,False,hedging|surfacing,hedging|surfacing.friction_exposed,2,2,0,2,,hedging|surfacing,often|surfaces,False
+often surfaces the real,2,HYBRID_3_5,S7,quadgrams,often surfaces real,3,,0,,,0,0.0,False,hedging|surfacing,hedging|surfacing.friction_exposed,2,2,0,2,,hedging|surfacing,often|surfaces,False
+stages so i don,2,HYBRID_3_5,S7,quadgrams,stages i,2,,0,,,0,0.0,False,hedging|temporal_projection,hedging|temporal_projection.change_and_rate,2,2,1,1,temporal_projection,hedging,i d|stages,False
+you may be missing,8,HYBRID_SEMANTIC,S7,quadgrams,may missing,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,may,False

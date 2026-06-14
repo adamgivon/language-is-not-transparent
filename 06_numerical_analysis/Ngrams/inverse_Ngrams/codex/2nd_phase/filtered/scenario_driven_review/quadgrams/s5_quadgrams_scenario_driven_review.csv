@@ -1,0 +1,3 @@
+scenario,scenario_label,level,system,ngram,count,token_len,rank_within_system,system_sum_count,count_share_in_system,owner_count,owner_systems,global_ngram_count,content_token_count,content_token_ratio,scaffold_prefix,has_scaffold_prefix,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy
+S5,Scenario 5 - Quadgrams,quadgrams,AC15,project memory you can,2,4,102,11093,0.00018,1,AC15,2,2,0.5,,False,,0,,memory;project memory,2,1.0,True
+S5,Scenario 5 - Quadgrams,quadgrams,HYBRID_SEMANTIC,if devmate memory is,2,4,72,11653,0.000172,1,HYBRID_SEMANTIC,2,2,0.5,,False,,0,,devmate;memory,2,1.0,True

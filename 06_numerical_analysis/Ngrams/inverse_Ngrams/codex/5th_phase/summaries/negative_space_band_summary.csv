@@ -1,0 +1,4 @@
+band,rows,sum_count,row_share,sum_share
+content_signature,15,221,0.283019,0.288889
+borderline,27,401,0.509434,0.524183
+function_residue,11,143,0.207547,0.186928

@@ -1,0 +1,15 @@
+system,band,rows,sum_count,row_share_within_system,sum_share_within_system
+AC15,borderline,7,96,0.538462,0.558140
+AC15,content_signature,3,30,0.230769,0.174419
+AC15,function_residue,3,46,0.230769,0.267442
+AC15P,borderline,8,150,0.571429,0.588235
+AC15P,content_signature,4,74,0.285714,0.290196
+AC15P,function_residue,2,31,0.142857,0.121569
+CONTROL,borderline,2,21,0.500000,0.500000
+CONTROL,function_residue,2,21,0.500000,0.500000
+HYBRID_3_5,borderline,5,60,0.454545,0.444444
+HYBRID_3_5,content_signature,3,41,0.272727,0.303704
+HYBRID_3_5,function_residue,3,34,0.272727,0.251852
+HYBRID_SEMANTIC,borderline,5,74,0.454545,0.459627
+HYBRID_SEMANTIC,content_signature,5,76,0.454545,0.472050
+HYBRID_SEMANTIC,function_residue,1,11,0.090909,0.068323

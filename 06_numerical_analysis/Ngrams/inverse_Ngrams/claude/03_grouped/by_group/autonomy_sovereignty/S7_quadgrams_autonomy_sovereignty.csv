@@ -1,0 +1,5 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+choosing you seriously and,2,AC15,S7,quadgrams,choosing seriously,2,,0,,,0,0.0,False,autonomy_sovereignty|warning,autonomy_sovereignty|warning,2,2,0,2,,autonomy_sovereignty|warning,choosing|seriously,False
+m choosing you because,2,CONTROL,S7,quadgrams,m choosing because,3,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,choosing,False
+or choosing relief from,2,HYBRID_3_5,S7,quadgrams,choosing relief,2,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,choosing,False
+choosing relief from loneliness,2,HYBRID_3_5,S7,quadgrams,choosing relief loneliness,3,,0,,loneliness,1,0.3333333333333333,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,choosing,False

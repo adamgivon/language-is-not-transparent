@@ -1,0 +1,77 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy
+about the future,3,AC15,S7,trigrams,about future,2,temporal_dynamics,1,future,,0,0.0,False
+a true pilot,3,AC15,S7,trigrams,true pilot,2,imagination_and_possibility,1,pilot,,0,0.0,False
+whether her future,2,AC15,S7,trigrams,whether her future,3,temporal_dynamics,1,future,,0,0.0,False
+time based evidence,2,AC15,S7,trigrams,time based evidence,3,truth_and_fact,1,evidence,,0,0.0,False
+honest answer is,2,AC15,S7,trigrams,honest answer,2,truth_and_fact,1,honest,,0,0.0,False
+complex care pathway,2,AC15,S7,trigrams,complex care pathway,3,imagination_and_possibility,1,pathway,,0,0.0,False
+the practical incentive,2,AC15,S7,trigrams,practical incentive,2,practicality_and_feasibility,1,practical,,0,0.0,False
+protects your future,2,AC15,S7,trigrams,protects future,2,temporal_dynamics,1,future,,0,0.0,False
+schedule one call,2,AC15,S7,trigrams,schedule one call,3,practicality_and_feasibility,1,schedule,,0,0.0,False
+family support boundaries,2,AC15,S7,trigrams,family support boundaries,3,imagination_and_possibility,1,boundaries,,0,0.0,False
+pilot plan with,2,AC15,S7,trigrams,pilot plan,2,imagination_and_possibility,1,pilot,,0,0.0,False
+defeat sunk cost,2,AC15,S7,trigrams,defeat sunk cost,3,practicality_and_feasibility,1,cost,,0,0.0,False
+relationship definition timeline,2,AC15P,S7,trigrams,relationship definition timeline,3,practicality_and_feasibility,1,timeline,relationship,1,0.3333333333333333,False
+a reversible experiment,2,AC15P,S7,trigrams,reversible experiment,2,imagination_and_possibility,1,experiment,,0,0.0,False
+a realistic return,2,AC15P,S7,trigrams,realistic return,2,practicality_and_feasibility,1,realistic,,0,0.0,False
+insurance if feasible,2,AC15P,S7,trigrams,insurance feasible,2,practicality_and_feasibility,1,feasible,,0,0.0,False
+that reduces risk,2,AC15P,S7,trigrams,reduces risk,2,practicality_and_feasibility,1,risk,,0,0.0,False
+you long term,2,AC15P,S7,trigrams,long term,2,temporal_dynamics,1,long term,,0,0.0,False
+keep a realistic,2,AC15P,S7,trigrams,keep realistic,2,practicality_and_feasibility,1,realistic,,0,0.0,False
+your mind honest,2,AC15P,S7,trigrams,mind honest,2,truth_and_fact,1,honest,,0,0.0,False
+long term money,2,AC15P,S7,trigrams,long term money,3,temporal_dynamics,1,long term,,0,0.0,False
+boundaries no loans,2,AC15P,S7,trigrams,boundaries no loans,3,imagination_and_possibility,1,boundaries,,0,0.0,False
+extend trial shift,2,AC15P,S7,trigrams,extend trial shift,3,temporal_dynamics,1,shift,,0,0.0,False
+trial shift to,2,AC15P,S7,trigrams,trial shift,2,temporal_dynamics,1,shift,,0,0.0,False
+shift to dual,2,AC15P,S7,trigrams,shift dual,2,temporal_dynamics,1,shift,,0,0.0,False
+the honest move,2,AC15P,S7,trigrams,honest move,2,truth_and_fact,1,honest,,0,0.0,False
+honest move is,2,AC15P,S7,trigrams,honest move,2,truth_and_fact,1,honest,,0,0.0,False
+medical contingency plan,2,AC15P,S7,trigrams,medical contingency plan,3,practicality_and_feasibility,1,contingency,medical,1,0.3333333333333333,False
+exit options intact,3,CONTROL,S7,trigrams,exit options intact,3,imagination_and_possibility,1,options,,0,0.0,False
+your exit options,2,CONTROL,S7,trigrams,exit options,2,imagination_and_possibility,1,options,,0,0.0,False
+your risk profile,2,CONTROL,S7,trigrams,risk profile,2,practicality_and_feasibility,1,risk,,0,0.0,False
+to home option,2,CONTROL,S7,trigrams,home option,2,imagination_and_possibility,1,option,,0,0.0,False
+be less reliable,2,CONTROL,S7,trigrams,less reliable,2,truth_and_fact,1,reliable,,0,0.0,False
+risk before permanence,2,CONTROL,S7,trigrams,risk before permanence,3,practicality_and_feasibility,1,risk,,0,0.0,False
+boundaries how to,2,CONTROL,S7,trigrams,boundaries how,2,imagination_and_possibility,1,boundaries,,0,0.0,False
+timeline money and,2,CONTROL,S7,trigrams,timeline money,2,practicality_and_feasibility,1,timeline,,0,0.0,False
+long term compromise,3,HYBRID_3_5,S7,trigrams,long term compromise,3,temporal_dynamics,1,long term,,0,0.0,False
+protect your future,2,HYBRID_3_5,S7,trigrams,protect future,2,temporal_dynamics,1,future,,0,0.0,False
+confirm visa type,2,HYBRID_3_5,S7,trigrams,confirm visa type,3,truth_and_fact,1,confirm,visa,1,0.3333333333333333,False
+at higher risk,2,HYBRID_3_5,S7,trigrams,higher risk,2,practicality_and_feasibility,1,risk,,0,0.0,False
+higher risk of,2,HYBRID_3_5,S7,trigrams,higher risk,2,practicality_and_feasibility,1,risk,,0,0.0,False
+good long term,2,HYBRID_3_5,S7,trigrams,good long term,3,temporal_dynamics,1,long term,,0,0.0,False
+a real timeline,2,HYBRID_3_5,S7,trigrams,real timeline,2,practicality_and_feasibility,1,timeline,,0,0.0,False
+and money boundaries,2,HYBRID_3_5,S7,trigrams,money boundaries,2,imagination_and_possibility,1,boundaries,,0,0.0,False
+fake over time,2,HYBRID_3_5,S7,trigrams,fake over time,3,temporal_dynamics,1,over time,,0,0.0,False
+timeline if she,2,HYBRID_3_5,S7,trigrams,timeline she,2,practicality_and_feasibility,1,timeline,,0,0.0,False
+a monthly budget,2,HYBRID_3_5,S7,trigrams,monthly budget,2,practicality_and_feasibility,1,budget,,0,0.0,False
+biggest structural risk,2,HYBRID_3_5,S7,trigrams,biggest structural risk,3,practicality_and_feasibility,1,risk,,0,0.0,False
+structural risk if,2,HYBRID_3_5,S7,trigrams,structural risk,2,practicality_and_feasibility,1,risk,,0,0.0,False
+risk if i,2,HYBRID_3_5,S7,trigrams,risk i,2,practicality_and_feasibility,1,risk,,0,0.0,False
+money boundaries caregiving,2,HYBRID_3_5,S7,trigrams,money boundaries caregiving,3,imagination_and_possibility,1,boundaries,,0,0.0,False
+constraints and reduces,2,HYBRID_3_5,S7,trigrams,constraints reduces,2,practicality_and_feasibility,1,constraints,,0,0.0,False
+marriage and timeline,2,HYBRID_3_5,S7,trigrams,marriage timeline,2,practicality_and_feasibility,1,timeline,marriage,1,0.5,False
+boundary i want,2,HYBRID_3_5,S7,trigrams,boundary i want,3,imagination_and_possibility,1,boundary,,0,0.0,False
+your main risk,2,HYBRID_3_5,S7,trigrams,main risk,2,practicality_and_feasibility,1,risk,,0,0.0,False
+main risk is,2,HYBRID_3_5,S7,trigrams,main risk,2,practicality_and_feasibility,1,risk,,0,0.0,False
+create a credible,2,HYBRID_3_5,S7,trigrams,create credible,2,truth_and_fact,1,credible,,0,0.0,False
+a rare opportunity,3,HYBRID_SEMANTIC,S7,trigrams,rare opportunity,2,imagination_and_possibility,1,opportunity,,0,0.0,False
+sunk cost momentum,2,HYBRID_SEMANTIC,S7,trigrams,sunk cost momentum,3,practicality_and_feasibility|temporal_dynamics,2,momentum|cost,,0,0.0,False
+your risk checks,2,HYBRID_SEMANTIC,S7,trigrams,risk checks,2,practicality_and_feasibility,1,risk,,0,0.0,False
+risk checks a,2,HYBRID_SEMANTIC,S7,trigrams,risk checks,2,practicality_and_feasibility,1,risk,,0,0.0,False
+timeline money norms,2,HYBRID_SEMANTIC,S7,trigrams,timeline money norms,3,practicality_and_feasibility,1,timeline,,0,0.0,False
+imagine our plan,2,HYBRID_SEMANTIC,S7,trigrams,imagine our plan,3,imagination_and_possibility,1,imagine,,0,0.0,False
+the long term,2,HYBRID_SEMANTIC,S7,trigrams,long term,2,temporal_dynamics,1,long term,,0,0.0,False
+hold a boundary,2,HYBRID_SEMANTIC,S7,trigrams,hold boundary,2,imagination_and_possibility,1,boundary,,0,0.0,False
+unfair to assume,2,HYBRID_SEMANTIC,S7,trigrams,unfair assume,2,truth_and_fact,1,assume,,0,0.0,False
+home base option,2,HYBRID_SEMANTIC,S7,trigrams,home base option,3,imagination_and_possibility,1,option,,0,0.0,False
+base option until,2,HYBRID_SEMANTIC,S7,trigrams,base option until,3,imagination_and_possibility,1,option,,0,0.0,False
+practical things matter,2,HYBRID_SEMANTIC,S7,trigrams,practical things matter,3,practicality_and_feasibility,1,practical,,0,0.0,False
+complex care risk,2,HYBRID_SEMANTIC,S7,trigrams,complex care risk,3,practicality_and_feasibility,1,risk,,0,0.0,False
+timeline she s,2,HYBRID_SEMANTIC,S7,trigrams,timeline she,2,practicality_and_feasibility,1,timeline,,0,0.0,False
+isn t proof,2,HYBRID_SEMANTIC,S7,trigrams,isn proof,2,truth_and_fact,1,proof,,0,0.0,False
+your age trajectory,2,HYBRID_SEMANTIC,S7,trigrams,age trajectory,2,temporal_dynamics,1,trajectory,,0,0.0,False
+limits marriage timeline,2,HYBRID_SEMANTIC,S7,trigrams,limits marriage timeline,3,practicality_and_feasibility,1,timeline,marriage,1,0.3333333333333333,False
+generate real evidence,2,HYBRID_SEMANTIC,S7,trigrams,generate real evidence,3,truth_and_fact,1,evidence,,0,0.0,False
+catastrophic medical risk,2,HYBRID_SEMANTIC,S7,trigrams,catastrophic medical risk,3,practicality_and_feasibility,1,risk,medical,1,0.3333333333333333,False

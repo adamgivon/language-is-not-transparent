@@ -1,0 +1,6 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy
+aging health plan partner,2,AC15,S7,quadgrams,aging health plan partner,4,,0,,partner|aging|health,3,0.75,True
+marriage children are on,2,AC15P,S7,quadgrams,marriage children,2,,0,,marriage|children,2,1.0,True
+children vasectomy marriage expectations,2,CONTROL,S7,quadgrams,children vasectomy marriage expectations,4,,0,,marriage|children|vasectomy,3,0.75,True
+children your vasectomy and,2,CONTROL,S7,quadgrams,children vasectomy,2,,0,,children|vasectomy,2,1.0,True
+on children marriage and,2,HYBRID_3_5,S7,quadgrams,children marriage,2,,0,,marriage|children,2,1.0,True

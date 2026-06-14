@@ -1,0 +1,56 @@
+/* >>> BEGIN FILE: components/RightControls.module.css */
+.rightControls {
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.section {
+  border: 1px solid #333;
+  background: #000;
+  border-radius: 8px;
+  padding: 12px;
+}
+
+.section h3 {
+  margin: 0 0 8px;
+  font-size: 14px;
+  font-weight: 600;
+  color: #eee;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.grid2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+}
+
+.input,
+.textarea {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #333;
+  border-radius: 6px;
+  background: #111;
+  color: #eee;
+  font-size: 14px;
+}
+
+.textarea {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 12px;
+}
+
+.label {
+  font-size: 12px;
+  color: #aaa;
+  margin-bottom: 4px;
+}
+/* <<< END FILE */

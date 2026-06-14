@@ -1,0 +1,99 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy
+an exit fund,11,AC15,S7,trigrams,exit fund,2,,0,,,0,0.0,False
+keep an exit,8,AC15,S7,trigrams,keep exit,2,,0,,,0,0.0,False
+ordinary life stay,7,AC15,S7,trigrams,ordinary life stay,3,,0,,,0,0.0,False
+week ordinary life,6,AC15,S7,trigrams,week ordinary life,3,,0,,,0,0.0,False
+partner not nurse,6,AC15,S7,trigrams,partner nurse,2,,0,,partner,1,0.5,False
+exit fund don,5,AC15,S7,trigrams,exit fund,2,,0,,,0,0.0,False
+exit fund and,5,AC15,S7,trigrams,exit fund,2,,0,,,0,0.0,False
+ordinary life trial,4,AC15,S7,trigrams,ordinary life trial,3,,0,,,0,0.0,False
+what i m,4,AC15,S7,trigrams,i m,2,,0,,,0,0.0,False
+activity without her,4,AC15,S7,trigrams,activity without her,3,,0,,,0,0.0,False
+family expect from,3,AC15,S7,trigrams,family expect,2,,0,,,0,0.0,False
+longer ordinary life,3,AC15,S7,trigrams,longer ordinary life,3,,0,,,0,0.0,False
+normal hours handle,3,AC15,S7,trigrams,normal hours handle,3,,0,,,0,0.0,False
+t merge finances,3,AC15,S7,trigrams,merge finances,2,,0,,,0,0.0,False
+get independent legal,3,AC15,S7,trigrams,get independent legal,3,,0,,,0,0.0,False
+independent legal advice,3,AC15,S7,trigrams,independent legal advice,3,,0,,,0,0.0,False
+no merged accounts,3,AC15,S7,trigrams,no merged accounts,3,,0,,,0,0.0,False
+marriage kids family,3,AC15,S7,trigrams,marriage kids family,3,,0,,marriage,1,0.3333333333333333,False
+no merged finances,3,AC15,S7,trigrams,no merged finances,3,,0,,,0,0.0,False
+your citizenship i,3,AC15,S7,trigrams,citizenship i,2,,0,,citizenship,1,0.5,False
+citizenship i can,3,AC15,S7,trigrams,citizenship i,2,,0,,citizenship,1,0.5,False
+your own cognitive,3,AC15,S7,trigrams,own cognitive,2,,0,,,0,0.0,False
+an week ordinary,3,AC15,S7,trigrams,week ordinary,2,,0,,,0,0.0,False
+maintain an exit,3,AC15,S7,trigrams,maintain exit,2,,0,,,0,0.0,False
+two home model,3,AC15,S7,trigrams,two home model,3,,0,,,0,0.0,False
+complex care plan,3,AC15,S7,trigrams,complex care plan,3,,0,,,0,0.0,False
+a longer stay,3,AC15,S7,trigrams,longer stay,2,,0,,,0,0.0,False
+marriage kids aging,3,AC15,S7,trigrams,marriage kids aging,3,,0,,marriage|aging,2,0.6666666666666666,False
+weekly activity without,3,AC15,S7,trigrams,weekly activity without,3,,0,,,0,0.0,False
+afford alone in,4,AC15P,S7,trigrams,afford alone,2,,0,,alone,1,0.5,False
+care is plan,4,AC15P,S7,trigrams,care plan,2,,0,,,0,0.0,False
+exit plan cash,4,AC15P,S7,trigrams,exit plan cash,3,,0,,,0,0.0,False
+stay with her,4,AC15P,S7,trigrams,stay her,2,,0,,,0,0.0,False
+you ll stay,4,AC15P,S7,trigrams,ll stay,2,,0,,,0,0.0,False
+end of week,4,AC15P,S7,trigrams,end week,2,,0,,,0,0.0,False
+family obligations expectations,3,AC15P,S7,trigrams,family obligations expectations,3,,0,,,0,0.0,False
+a clear exit,3,AC15P,S7,trigrams,clear exit,2,,0,,,0,0.0,False
+your name separate,3,AC15P,S7,trigrams,name separate,2,,0,,,0,0.0,False
+name separate finances,3,AC15P,S7,trigrams,name separate finances,3,,0,,,0,0.0,False
+yours and whether,3,AC15P,S7,trigrams,yours whether,2,,0,,,0,0.0,False
+visa work healthcare,3,AC15P,S7,trigrams,visa work healthcare,3,,0,,healthcare|visa|health,3,0.6666666666666666,False
+for parents siblings,3,AC15P,S7,trigrams,parents siblings,2,,0,,,0,0.0,False
+time money housing,3,AC15P,S7,trigrams,time money housing,3,,0,,,0,0.0,False
+support is expected,3,AC15P,S7,trigrams,support expected,2,,0,,,0,0.0,False
+years you she,3,AC15P,S7,trigrams,years she,2,,0,,,0,0.0,False
+country and hers,3,AC15P,S7,trigrams,country hers,2,,0,,,0,0.0,False
+activities not centered,3,AC15P,S7,trigrams,activities centered,2,,0,,,0,0.0,False
+local private hospital,3,AC15P,S7,trigrams,local private hospital,3,,0,,,0,0.0,False
+vs too much,3,AC15P,S7,trigrams,vs too much,3,,0,,,0,0.0,False
+marriage money model,3,AC15P,S7,trigrams,marriage money model,3,,0,,marriage,1,0.3333333333333333,False
+money model family,3,AC15P,S7,trigrams,money model family,3,,0,,,0,0.0,False
+model family obligations,3,AC15P,S7,trigrams,model family obligations,3,,0,,,0,0.0,False
+in work mode,3,AC15P,S7,trigrams,work mode,2,,0,,,0,0.0,False
+dual base or,3,AC15P,S7,trigrams,dual base,2,,0,,,0,0.0,False
+chance pressure is,3,AC15P,S7,trigrams,chance pressure,2,,0,,,0,0.0,False
+finances no loans,3,AC15P,S7,trigrams,finances no loans,3,,0,,,0,0.0,False
+plan cash logistics,3,AC15P,S7,trigrams,plan cash logistics,3,,0,,,0,0.0,False
+where home is,3,AC15P,S7,trigrams,where home,2,,0,,,0,0.0,False
+to clarify how,3,AC15P,S7,trigrams,clarify how,2,,0,,,0,0.0,False
+two weekly activities,3,AC15P,S7,trigrams,two weekly activities,3,,0,,,0,0.0,False
+your country eventually,3,AC15P,S7,trigrams,country eventually,2,,0,,,0,0.0,False
+own place and,3,AC15P,S7,trigrams,own place,2,,0,,,0,0.0,False
+logistics to leave,3,AC15P,S7,trigrams,logistics leave,2,,0,,,0,0.0,False
+week minimum outcomes,3,AC15P,S7,trigrams,week minimum outcomes,3,,0,,,0,0.0,False
+doesn t consume,3,CONTROL,S7,trigrams,doesn consume,2,,0,,,0,0.0,False
+t consume her,3,CONTROL,S7,trigrams,consume her,2,,0,,,0,0.0,False
+consume her life,3,CONTROL,S7,trigrams,consume her life,3,,0,,,0,0.0,False
+a new country,3,CONTROL,S7,trigrams,new country,2,,0,,,0,0.0,False
+plus whether you,3,CONTROL,S7,trigrams,plus whether,2,,0,,,0,0.0,False
+kids marriage family,3,CONTROL,S7,trigrams,kids marriage family,3,,0,,marriage,1,0.3333333333333333,False
+keeping my home,3,CONTROL,S7,trigrams,keeping my home,3,,0,,,0,0.0,False
+a staged path,3,CONTROL,S7,trigrams,staged path,2,,0,,,0,0.0,False
+a midpoint review,3,CONTROL,S7,trigrams,midpoint review,2,,0,,,0,0.0,False
+may not want,6,HYBRID_3_5,S7,trigrams,may want,2,,0,,,0,0.0,False
+relocation months with,3,HYBRID_3_5,S7,trigrams,relocation months,2,,0,,relocat|relocation,2,0.5,False
+e g week,3,HYBRID_3_5,S7,trigrams,e g week,3,,0,,,0,0.0,False
+g week and,3,HYBRID_3_5,S7,trigrams,g week,2,,0,,,0,0.0,False
+you feel respected,3,HYBRID_3_5,S7,trigrams,feel respected,2,,0,,,0,0.0,False
+the relationship has,3,HYBRID_3_5,S7,trigrams,relationship has,2,,0,,relationship,1,0.5,False
+at least two,3,HYBRID_3_5,S7,trigrams,least two,2,,0,,,0,0.0,False
+you attend without,3,HYBRID_3_5,S7,trigrams,attend without,2,,0,,,0,0.0,False
+attend without her,3,HYBRID_3_5,S7,trigrams,attend without her,3,,0,,,0,0.0,False
+stance on children,3,HYBRID_3_5,S7,trigrams,stance children,2,,0,,children,1,0.5,False
+before you arrive,3,HYBRID_3_5,S7,trigrams,before arrive,2,,0,,,0,0.0,False
+at least recurring,3,HYBRID_3_5,S7,trigrams,least recurring,2,,0,,,0,0.0,False
+funded emergency plan,3,HYBRID_3_5,S7,trigrams,funded emergency plan,3,,0,,,0,0.0,False
+may be missing,8,HYBRID_SEMANTIC,S7,trigrams,may missing,2,,0,,,0,0.0,False
+money norms family,5,HYBRID_SEMANTIC,S7,trigrams,money norms family,3,,0,,,0,0.0,False
+round trip ticket,4,HYBRID_SEMANTIC,S7,trigrams,round trip ticket,3,,0,,,0,0.0,False
+where you may,3,HYBRID_SEMANTIC,S7,trigrams,where may,2,,0,,,0,0.0,False
+shared expense method,3,HYBRID_SEMANTIC,S7,trigrams,shared expense method,3,,0,,,0,0.0,False
+t renegotiate under,3,HYBRID_SEMANTIC,S7,trigrams,renegotiate under,2,,0,,,0,0.0,False
+irreversible steps yet,3,HYBRID_SEMANTIC,S7,trigrams,irreversible steps yet,3,,0,,,0,0.0,False
+doesn t force,3,HYBRID_SEMANTIC,S7,trigrams,doesn force,2,,0,,,0,0.0,False
+norms family obligations,3,HYBRID_SEMANTIC,S7,trigrams,norms family obligations,3,,0,,,0,0.0,False
+no not yet,3,HYBRID_SEMANTIC,S7,trigrams,no yet,2,,0,,,0,0.0,False
+avoided because you,3,HYBRID_SEMANTIC,S7,trigrams,avoided because,2,,0,,,0,0.0,False
+another trial split,3,HYBRID_SEMANTIC,S7,trigrams,another trial split,3,,0,,,0,0.0,False

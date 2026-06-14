@@ -1,0 +1,39 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+less long run evidence,2,AC15,S1,quadgrams,less long run evidence,4,truth_and_fact,1,evidence,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+in documented formats transition,2,AC15,S1,quadgrams,documented formats transition,3,temporal_dynamics,1,transition,,0,0.0,False,temporal_projection|truth,temporal_projection.change_and_rate|truth.verification,2,2,2,0,temporal_projection|truth,,documented|transit|transition,False
+documented formats transition assistance,2,AC15,S1,quadgrams,documented formats transition assistance,4,temporal_dynamics,1,transition,,0,0.0,False,temporal_projection|truth,temporal_projection.change_and_rate|truth.verification,2,2,2,0,temporal_projection|truth,,documented|transit|transition,False
+acceptance testing that includes,2,AC15,S1,quadgrams,acceptance testing includes,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,testing,False
+have procurement legal confirm,2,AC15P,S1,quadgrams,have procurement legal confirm,4,truth_and_fact,1,confirm,procurement,1,0.25,False,truth,truth.verification,1,1,1,0,truth,,confirm,False
+ownership full export documented,2,AC15P,S1,quadgrams,ownership full export documented,4,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,documented,False
+configs plans logs documented,2,AC15P,S1,quadgrams,configs plans logs documented,4,,0,,,0,0.0,False,practical_considerations_and_execution|truth,practical_considerations_and_execution.action_and_execution|truth.verification,2,2,2,0,practical_considerations_and_execution|truth,,documented|plans,False
+plans logs documented interfaces,2,AC15P,S1,quadgrams,plans logs documented interfaces,4,,0,,,0,0.0,False,practical_considerations_and_execution|truth,practical_considerations_and_execution.action_and_execution|truth.verification,2,2,2,0,practical_considerations_and_execution|truth,,documented|plans,False
+logs documented interfaces apis,2,AC15P,S1,quadgrams,logs documented interfaces apis,4,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,documented,False
+export test as an,2,CONTROL,S1,quadgrams,export test,2,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,test,False
+standards models multi source,2,HYBRID_3_5,S1,quadgrams,standards models multi source,4,truth_and_fact,1,source,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,source,False
+less long horizon evidence,2,HYBRID_3_5,S1,quadgrams,less long horizon evidence,4,truth_and_fact,1,evidence,,0,0.0,False,temporal_projection|truth,temporal_projection.time_horizons|truth.verification,2,2,2,0,temporal_projection|truth,,evidence|horizon,False
+multi source procurement city,2,HYBRID_3_5,S1,quadgrams,multi source procurement city,4,truth_and_fact,1,source,procurement,1,0.25,False,truth,truth.verification,1,1,1,0,truth,,source,False
+source procurement city ownership,2,HYBRID_3_5,S1,quadgrams,source procurement city ownership,4,truth_and_fact,1,source,procurement,1,0.25,False,truth,truth.verification,1,1,1,0,truth,,source,False
+an escalation stress test,2,HYBRID_3_5,S1,quadgrams,escalation stress test,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,test,False
+acceptance testing and contract,2,HYBRID_3_5,S1,quadgrams,acceptance testing contract,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,testing,False
+added integration testing complexity,2,HYBRID_3_5,S1,quadgrams,added integration testing complexity,4,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,testing,False
+in documented formats include,2,HYBRID_3_5,S1,quadgrams,documented formats include,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,documented,False
+documented formats include a,2,HYBRID_3_5,S1,quadgrams,documented formats include,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,documented,False
+logs exportable in documented,2,HYBRID_3_5,S1,quadgrams,logs exportable documented,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,documented,False
+exportable in documented formats,2,HYBRID_3_5,S1,quadgrams,exportable documented formats,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,documented,False
+api interface access documented,2,HYBRID_3_5,S1,quadgrams,api interface access documented,4,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,documented,False
+in documented formats sample,2,HYBRID_3_5,S1,quadgrams,documented formats sample,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,documented,False
+documented formats sample export,2,HYBRID_3_5,S1,quadgrams,documented formats sample export,4,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,documented,False
+to ask verify documented,2,HYBRID_SEMANTIC,S1,quadgrams,ask verify documented,3,truth_and_fact,1,verify,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,documented|verif|verify,False
+documented formats exit transition,2,HYBRID_SEMANTIC,S1,quadgrams,documented formats exit transition,4,temporal_dynamics,1,transition,,0,0.0,False,temporal_projection|truth,temporal_projection.change_and_rate|truth.verification,2,2,2,0,temporal_projection|truth,,documented|transit|transition,False
+documented formats priced transition,2,HYBRID_SEMANTIC,S1,quadgrams,documented formats priced transition,4,temporal_dynamics,1,transition,,0,0.0,False,temporal_projection|truth,temporal_projection.change_and_rate|truth.verification,2,2,2,0,temporal_projection|truth,,documented|transit|transition,False
+acceptance testing and burn,2,HYBRID_SEMANTIC,S1,quadgrams,acceptance testing burn,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,testing,False
+testing and burn in,2,HYBRID_SEMANTIC,S1,quadgrams,testing burn,2,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,testing,False
+in documented formats exit,2,HYBRID_SEMANTIC,S1,quadgrams,documented formats exit,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,documented,False
+rollback audit trail degraded,2,HYBRID_SEMANTIC,S1,quadgrams,rollback audit trail degraded,4,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,audit,False
+audit trail degraded mode,2,HYBRID_SEMANTIC,S1,quadgrams,audit trail degraded mode,4,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,audit,False
+in documented formats priced,2,HYBRID_SEMANTIC,S1,quadgrams,documented formats priced,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,documented,False
+trained and acceptance tested,2,HYBRID_SEMANTIC,S1,quadgrams,trained acceptance tested,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,tested,False
+and acceptance tested time,2,HYBRID_SEMANTIC,S1,quadgrams,acceptance tested time,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,tested,False
+acceptance tested time to,2,HYBRID_SEMANTIC,S1,quadgrams,acceptance tested time,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,tested,False
+tested time to deploy,2,HYBRID_SEMANTIC,S1,quadgrams,tested time deploy,3,,0,,,0,0.0,False,practical_considerations_and_execution|truth,practical_considerations_and_execution.action_and_execution|truth.verification,2,2,2,0,practical_considerations_and_execution|truth,,deploy|tested,False
+pressure test require a,2,HYBRID_SEMANTIC,S1,quadgrams,pressure test require,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,test,False

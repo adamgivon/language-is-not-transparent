@@ -1,0 +1,22 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+your citizenship and whether,2,AC15,S7,quadgrams,citizenship whether,2,,0,,citizenship,1,0.5,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+citizenship and whether you,2,AC15,S7,quadgrams,citizenship whether,2,,0,,citizenship,1,0.5,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+and yours and whether,3,AC15P,S7,quadgrams,yours whether,2,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+whether you ll stay,3,AC15P,S7,quadgrams,whether ll stay,3,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+and whether marriage children,2,AC15P,S7,quadgrams,whether marriage children,3,,0,,marriage|children,2,0.6666666666666666,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+whether marriage children are,2,AC15P,S7,quadgrams,whether marriage children,3,,0,,marriage|children,2,0.6666666666666666,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+yours and whether children,2,AC15P,S7,quadgrams,yours whether children,3,,0,,children,1,0.3333333333333333,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+whether you want children,2,CONTROL,S7,quadgrams,whether want children,3,,0,,children,1,0.3333333333333333,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+whether children are a,2,CONTROL,S7,quadgrams,whether children,2,,0,,children,1,0.5,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+whether you d have,2,CONTROL,S7,quadgrams,whether d have,3,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+and whether she wants,3,HYBRID_SEMANTIC,S7,quadgrams,whether she wants,3,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+country and whether she,2,HYBRID_SEMANTIC,S7,quadgrams,country whether she,3,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+for paid help whether,2,HYBRID_SEMANTIC,S7,quadgrams,paid help whether,3,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+paid help whether she,2,HYBRID_SEMANTIC,S7,quadgrams,paid help whether she,4,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+country and whether marriage,2,HYBRID_SEMANTIC,S7,quadgrams,country whether marriage,3,,0,,marriage,1,0.3333333333333333,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+the country whether she,2,HYBRID_SEMANTIC,S7,quadgrams,country whether she,3,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+whether she supports your,2,HYBRID_SEMANTIC,S7,quadgrams,whether she supports,3,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+is and whether she,2,HYBRID_SEMANTIC,S7,quadgrams,whether she,2,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+complex care happens whether,2,HYBRID_SEMANTIC,S7,quadgrams,complex care happens whether,4,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+care happens whether either,2,HYBRID_SEMANTIC,S7,quadgrams,care happens whether either,4,,0,,,0,0.0,False,conditions|imagination_and_possibility,conditions|imagination_and_possibility.tension_as_fuel,2,2,1,1,imagination_and_possibility,conditions,either|whether,False
+happens whether either of,2,HYBRID_SEMANTIC,S7,quadgrams,happens whether either,3,,0,,,0,0.0,False,conditions|imagination_and_possibility,conditions|imagination_and_possibility.tension_as_fuel,2,2,1,1,imagination_and_possibility,conditions,either|whether,False

@@ -1,0 +1,7 @@
+{
+  "id": "anchor_practicality_and_feasibility",
+  "version": "hybrid_v3_5_semantic",
+  "order": 8,
+  "name": "practicality_and_feasibility",
+  "text": "# practicality and feasibility\n\nBuild actionable plans within real constraints.\n\n## Semantic Fields\n\n### core_positive\n- systemic approach\n- actionable\n- context-sensitive\n- feasible\n- constraints\n- surfacing difficulties\n- surfacing tradeoffs\n\n### supporting_positive\n- orderly execution\n- structured presentation\n- implementation\n- simplification\n- available resources\n- concrete steps\n- prioritization\n- incremental steps\n\n### core_avoid\n- impossible plan\n- hiding difficulty\n- isolated solution\n- ignoring constraints\n\n### supporting_avoid\n- pure abstraction\n- over-engineered\n- handwave execution\n- complexity denial\n- unusable\n- detached from reality\n- abstract principles\n"
+}

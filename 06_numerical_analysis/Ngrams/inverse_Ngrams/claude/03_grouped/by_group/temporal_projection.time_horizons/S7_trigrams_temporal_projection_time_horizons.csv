@@ -1,0 +1,13 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+health changes later,2,AC15,S7,trigrams,health changes later,3,,0,,health,1,0.3333333333333333,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,later,False
+you long term,2,AC15P,S7,trigrams,long term,2,temporal_dynamics,1,long term,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,long term,False
+long term money,2,AC15P,S7,trigrams,long term money,3,temporal_dynamics,1,long term,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,long term,False
+buy property early,2,AC15P,S7,trigrams,buy property early,3,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,early,False
+she in years,2,AC15P,S7,trigrams,she years,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,in years,False
+talks early and,2,AC15P,S7,trigrams,talks early,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,early,False
+still early for,2,CONTROL,S7,trigrams,still early,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,early,False
+long term compromise,3,HYBRID_3_5,S7,trigrams,long term compromise,3,temporal_dynamics,1,long term,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,long term,False
+good long term,2,HYBRID_3_5,S7,trigrams,good long term,3,temporal_dynamics,1,long term,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,long term,False
+fake over time,2,HYBRID_3_5,S7,trigrams,fake over time,3,temporal_dynamics,1,over time,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,over time,False
+the long term,2,HYBRID_SEMANTIC,S7,trigrams,long term,2,temporal_dynamics,1,long term,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,long term,False
+regret in years,2,HYBRID_SEMANTIC,S7,trigrams,regret years,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,in years,False

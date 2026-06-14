@@ -1,0 +1,1253 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+for interference triggered,5,AC15,S3,trigrams,interference triggered,2,,0,,interference,1,0.5,False,,,0,0,0,0,,,,True
+hardware rev b,5,AC15,S3,trigrams,hardware rev b,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+commissioning period exclusions,5,AC15,S3,trigrams,commissioning period exclusions,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+interference triggered safety,4,AC15,S3,trigrams,interference triggered safety,3,,0,,interference,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+within a certified,4,AC15,S3,trigrams,within certified,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+certified operating envelope,4,AC15,S3,trigrams,certified operating envelope,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+operating envelope v1,4,AC15,S3,trigrams,operating envelope v1,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+and penalty schedule,3,AC15,S3,trigrams,penalty schedule,2,practicality_and_feasibility,1,schedule,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,schedule,False
+operationally non disruptive,3,AC15,S3,trigrams,operationally non disruptive,3,temporal_dynamics,1,disruptive,,0,0.0,False,,,0,0,0,0,,,,True
+a supported operating,3,AC15,S3,trigrams,supported operating,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+interest fees warrants,3,AC15,S3,trigrams,interest fees warrants,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+redundancy such that,3,AC15,S3,trigrams,redundancy such,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+triggered safety landings,3,AC15,S3,trigrams,triggered safety landings,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+commissioning stabilization period,3,AC15,S3,trigrams,commissioning stabilization period,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+hot spares fast,3,AC15,S3,trigrams,hot spares fast,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+downtime definition or,3,AC15,S3,trigrams,downtime definition,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+over critical corridors,3,AC15,S3,trigrams,over critical corridors,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+traffic control procedure,3,AC15,S3,trigrams,traffic control procedure,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+roads decks work,3,AC15,S3,trigrams,roads decks work,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+decks work faces,3,AC15,S3,trigrams,decks work faces,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+keep out volumes,3,AC15,S3,trigrams,keep out volumes,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+you provide redundancy,3,AC15,S3,trigrams,provide redundancy,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+max time to,3,AC15,S3,trigrams,max time,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+series b condition,3,AC15,S3,trigrams,series b condition,3,,0,,series b,1,0.6666666666666666,False,,,0,0,0,0,,,,True
+shielding prototype validated,2,AC15,S3,trigrams,shielding prototype validated,3,imagination_and_possibility,1,prototype,shielding,1,0.3333333333333333,False,imagination_and_possibility|truth,imagination_and_possibility.exploration_within_bounds|imagination_and_possibility.path_toward_feasibility|truth.verification,2,3,2,0,imagination_and_possibility|truth,,prototype|validat|validated,False
+prototype validated evt,2,AC15,S3,trigrams,prototype validated evt,3,imagination_and_possibility,1,prototype,,0,0.0,False,imagination_and_possibility|truth,imagination_and_possibility.exploration_within_bounds|imagination_and_possibility.path_toward_feasibility|truth.verification,2,3,2,0,imagination_and_possibility|truth,,prototype|validat|validated,False
+constrained launch parallel,2,AC15,S3,trigrams,constrained launch parallel,3,practicality_and_feasibility,1,constrained,launch,1,0.3333333333333333,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution|practical_considerations_and_execution.constraints_and_tradeoffs,1,2,1,0,practical_considerations_and_execution,,constrain|constrained|launch,False
+constrained launch path,2,AC15,S3,trigrams,constrained launch path,3,practicality_and_feasibility,1,constrained,launch,1,0.3333333333333333,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution|practical_considerations_and_execution.constraints_and_tradeoffs,1,2,1,0,practical_considerations_and_execution,,constrain|constrained|launch,False
+cost of disruption,2,AC15,S3,trigrams,cost disruption,2,practicality_and_feasibility|temporal_dynamics,2,cost|disruption,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,cost,False
+reliable detection mitigation,2,AC15,S3,trigrams,reliable detection mitigation,3,truth_and_fact|practicality_and_feasibility,2,reliable|mitigation,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,mitigat|mitigation,False
+a more robust,2,AC15,S3,trigrams,more robust,2,temporal_dynamics,1,robust,,0,0.0,False,temporal_projection,temporal_projection.robustness_and_resilience,1,1,1,0,temporal_projection,,robust,False
+more robust nav,2,AC15,S3,trigrams,more robust nav,3,temporal_dynamics,1,robust,,0,0.0,False,temporal_projection,temporal_projection.robustness_and_resilience,1,1,1,0,temporal_projection,,robust,False
+robust nav mode,2,AC15,S3,trigrams,robust nav mode,3,temporal_dynamics,1,robust,,0,0.0,False,temporal_projection,temporal_projection.robustness_and_resilience,1,1,1,0,temporal_projection,,robust,False
+de risked execution,2,AC15,S3,trigrams,de risked execution,3,practicality_and_feasibility,1,execution,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,execution,False
+risked execution not,2,AC15,S3,trigrams,risked execution,2,practicality_and_feasibility,1,execution,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,execution,False
+sla commissioning phase,2,AC15,S3,trigrams,sla commissioning phase,3,temporal_dynamics,1,phase,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,phas|phase,False
+detection proactive mitigation,2,AC15,S3,trigrams,detection proactive mitigation,3,practicality_and_feasibility,1,mitigation,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,mitigat|mitigation,False
+the near term,2,AC15,S3,trigrams,near term,2,temporal_dynamics,1,near term,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,near term,False
+if zones shift,2,AC15,S3,trigrams,zones shift,2,temporal_dynamics,1,shift,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,shift,False
+claims are truthful,2,AC15,S3,trigrams,claims truthful,2,truth_and_fact,1,claims,,0,0.0,False,truth,truth.fact_vs_interpretation,1,1,1,0,truth,,truthful,False
+rev b timeline,2,AC15,S3,trigrams,rev b timeline,3,practicality_and_feasibility,1,timeline,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,timeline,False
+penalty schedule expected,2,AC15,S3,trigrams,penalty schedule expected,3,practicality_and_feasibility,1,schedule,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,schedule,False
+market window without,2,AC15,S3,trigrams,market window without,3,temporal_dynamics,1,window,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,window,False
+window without sacrificing,2,AC15,S3,trigrams,window without sacrificing,3,temporal_dynamics,1,window,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,window,False
+controls software constraints,2,AC15,S3,trigrams,controls software constraints,3,practicality_and_feasibility,1,constraints,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,constrain|constraints,False
+nav uncertainty and,2,AC15,S3,trigrams,nav uncertainty,2,truth_and_fact,1,uncertainty,,0,0.0,False,truth,truth.uncertainty_marking,1,1,1,0,truth,,uncertainty,False
+rev b execution,2,AC15,S3,trigrams,rev b execution,3,practicality_and_feasibility,1,execution,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,execution,False
+verification bench emi,2,AC15,S3,trigrams,verification bench emi,3,truth_and_fact,1,verification,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,verif|verification,False
+a clearly bounded,2,AC15,S3,trigrams,clearly bounded,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,bounded,False
+clearly bounded operating,2,AC15,S3,trigrams,clearly bounded operating,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,bounded,False
+launch parallel hardware,2,AC15,S3,trigrams,launch parallel hardware,3,,0,,launch,1,0.3333333333333333,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launch,False
+you ship within,2,AC15,S3,trigrams,ship within,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,ship,False
+ship within an,2,AC15,S3,trigrams,ship within,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,ship,False
+restructure the launch,2,AC15,S3,trigrams,restructure launch,2,,0,,launch,1,0.5,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launch,False
+these become likely,2,AC15,S3,trigrams,these become likely,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,likely,False
+validated evt dvt,2,AC15,S3,trigrams,validated evt dvt,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,validat|validated,False
+bound the failure,2,AC15,S3,trigrams,bound failure,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,bound,False
+detect early enough,2,AC15,S3,trigrams,detect early enough,3,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,early,False
+won t amend,2,AC15,S3,trigrams,won amend,2,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,won t,False
+while launching elsewhere,2,AC15,S3,trigrams,while launching elsewhere,3,,0,,launch,1,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launching,False
+doesn t make,2,AC15,S3,trigrams,doesn make,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn|doesn t,False
+unless downtime is,2,AC15,S3,trigrams,unless downtime,2,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,unless,False
+a quarter launch,2,AC15,S3,trigrams,quarter launch,2,,0,,launch,1,0.5,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launch,False
+you launch now,2,AC15,S3,trigrams,launch now,2,,0,,launch,1,0.5,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launch,False
+no longer the,2,AC15,S3,trigrams,no longer,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.decay_and_currency,1,1,1,0,temporal_projection,,no longer,False
+re statistically likely,2,AC15,S3,trigrams,statistically likely,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,likely,False
+statistically likely to,2,AC15,S3,trigrams,statistically likely,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,likely,False
+for known limitations,2,AC15,S3,trigrams,known limitations,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,limitations,False
+a binary choice,2,AC15,S3,trigrams,binary choice,2,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,choice,False
+a revised rollout,2,AC15,S3,trigrams,revised rollout,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,rollout,False
+unreliable before you,2,AC15,S3,trigrams,unreliable before,2,truth_and_fact,1,unreliable,,0,0.0,False,,,0,0,0,0,,,,True
+credible worst case,2,AC15,S3,trigrams,credible worst case,3,truth_and_fact,1,credible,,0,0.0,False,,,0,0,0,0,,,,True
+public claims no,2,AC15,S3,trigrams,public claims no,3,truth_and_fact,1,claims,,0,0.0,False,,,0,0,0,0,,,,True
+envelope that makes,2,AC15,S3,trigrams,envelope makes,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+flights day in,2,AC15,S3,trigrams,flights day,2,,0,,flight,1,0.0,False,,,0,0,0,0,,,,True
+magnetic interference conditions,2,AC15,S3,trigrams,magnetic interference conditions,3,,0,,interference|magnetic,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+landing loiter footprint,2,AC15,S3,trigrams,landing loiter footprint,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the next years,2,AC15,S3,trigrams,next years,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+flights in supported,2,AC15,S3,trigrams,flights supported,2,,0,,flight,1,0.0,False,,,0,0,0,0,,,,True
+in supported environments,2,AC15,S3,trigrams,supported environments,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+tied to hardware,2,AC15,S3,trigrams,tied hardware,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+enforce a supported,2,AC15,S3,trigrams,enforce supported,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+measured event rate,2,AC15,S3,trigrams,measured event rate,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+press release vs,2,AC15,S3,trigrams,press release vs,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+supported envelope not,2,AC15,S3,trigrams,supported envelope,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+for mission disrupting,2,AC15,S3,trigrams,mission disrupting,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+mission disrupting events,2,AC15,S3,trigrams,mission disrupting events,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+events recovery time,2,AC15,S3,trigrams,events recovery time,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+recovery time distribution,2,AC15,S3,trigrams,recovery time distribution,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+time distribution p50,2,AC15,S3,trigrams,time distribution p50,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+distribution p50 p95,2,AC15,S3,trigrams,distribution p50 p95,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+zones comms procedures,2,AC15,S3,trigrams,zones comms procedures,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+accountable technical owners,2,AC15,S3,trigrams,accountable technical owners,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+delay bridge loan,2,AC15,S3,trigrams,delay bridge loan,3,,0,,bridge loan,1,0.6666666666666666,False,,,0,0,0,0,,,,True
+ruin ruin happens,2,AC15,S3,trigrams,ruin ruin happens,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+ruin happens if,2,AC15,S3,trigrams,ruin happens,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+happens if any,2,AC15,S3,trigrams,happens any,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+of these become,2,AC15,S3,trigrams,these become,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+supply chain delays,2,AC15,S3,trigrams,supply chain delays,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+roadmap slip you,2,AC15,S3,trigrams,roadmap slip,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+even without crashes,2,AC15,S3,trigrams,even without crashes,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+probability weighted ruin,2,AC15,S3,trigrams,probability weighted ruin,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+forced sale or,2,AC15,S3,trigrams,forced sale,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+loss of control,2,AC15,S3,trigrams,loss control,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+control loss default,2,AC15,S3,trigrams,control loss default,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+board control rights,2,AC15,S3,trigrams,board control rights,3,,0,,board,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+supply chain slips,2,AC15,S3,trigrams,supply chain slips,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+can become reckless,2,AC15,S3,trigrams,become reckless,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+enough to avoid,2,AC15,S3,trigrams,enough avoid,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a financing strategy,2,AC15,S3,trigrams,financing strategy,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+financing strategy that,2,AC15,S3,trigrams,financing strategy,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+becomes reckless when,2,AC15,S3,trigrams,becomes reckless,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+which single term,2,AC15,S3,trigrams,single term,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+and site specific,2,AC15,S3,trigrams,site specific,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+high interference exposure,2,AC15,S3,trigrams,high interference exposure,3,,0,,interference,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+severity based on,2,AC15,S3,trigrams,severity based,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+safety hover slow,2,AC15,S3,trigrams,safety hover slow,3,,0,,hover|safety hover,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+known safe landing,2,AC15,S3,trigrams,known safe landing,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+where any landing,2,AC15,S3,trigrams,where any landing,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the engineering team,2,AC15,S3,trigrams,engineering team,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a page model,2,AC15,S3,trigrams,page model,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+and p ruin,2,AC15,S3,trigrams,p ruin,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+p ruin via,2,AC15,S3,trigrams,p ruin via,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+if they leave,2,AC15,S3,trigrams,they leave,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+or forced sale,2,AC15,S3,trigrams,forced sale,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+i ll map,2,AC15,S3,trigrams,i ll map,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+reference customer failure,2,AC15,S3,trigrams,reference customer failure,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the exact sla,2,AC15,S3,trigrams,exact sla,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+day mttr if,2,AC15,S3,trigrams,day mttr,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+such that service,2,AC15,S3,trigrams,such service,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+service level uptime,2,AC15,S3,trigrams,service level uptime,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+uptime is met,2,AC15,S3,trigrams,uptime met,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a penalty sla,2,AC15,S3,trigrams,penalty sla,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+explicit emi magnetic,2,AC15,S3,trigrams,explicit emi magnetic,3,,0,,magnetic,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+emi magnetic exclusions,2,AC15,S3,trigrams,emi magnetic exclusions,3,,0,,magnetic,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+while kpis are,2,AC15,S3,trigrams,while kpis,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+fleet availability not,2,AC15,S3,trigrams,fleet availability,2,,0,,fleet,1,0.5,False,,,0,0,0,0,,,,True
+mission completion if,2,AC15,S3,trigrams,mission completion,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+cheaper than penalties,2,AC15,S3,trigrams,cheaper than penalties,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+than penalties reputational,2,AC15,S3,trigrams,than penalties reputational,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+originally described geofence,2,AC15,S3,trigrams,originally described geofence,3,,0,,geofence,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+a high visibility,2,AC15,S3,trigrams,high visibility,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+compute expected penalty,2,AC15,S3,trigrams,compute expected penalty,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+sorties day and,2,AC15,S3,trigrams,sorties day,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+day and mttr,2,AC15,S3,trigrams,day mttr,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+to hardware rev,2,AC15,S3,trigrams,hardware rev,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the sla uptime,2,AC15,S3,trigrams,sla uptime,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+sla uptime definition,2,AC15,S3,trigrams,sla uptime definition,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+uptime definition and,2,AC15,S3,trigrams,uptime definition,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+definition and penalty,2,AC15,S3,trigrams,definition penalty,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+expected sorties day,2,AC15,S3,trigrams,expected sorties day,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a commissioning stabilization,2,AC15,S3,trigrams,commissioning stabilization,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+stabilization period with,2,AC15,S3,trigrams,stabilization period,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+safety landings until,2,AC15,S3,trigrams,safety landings until,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+landings until rev,2,AC15,S3,trigrams,landings until rev,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+sla measured on,2,AC15,S3,trigrams,sla measured,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+deliver service by,2,AC15,S3,trigrams,deliver service,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+spares fast swap,2,AC15,S3,trigrams,spares fast swap,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+safety landing is,2,AC15,S3,trigrams,safety landing,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+number is nontrivial,2,AC15,S3,trigrams,number nontrivial,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+t guarantee geofence,2,AC15,S3,trigrams,guarantee geofence,2,,0,,geofence,1,0.5,False,,,0,0,0,0,,,,True
+guarantee geofence coverage,2,AC15,S3,trigrams,guarantee geofence coverage,3,,0,,geofence,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+runtime detection proactive,2,AC15,S3,trigrams,runtime detection proactive,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+monitor that triggers,2,AC15,S3,trigrams,monitor triggers,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the aircraft must,2,AC15,S3,trigrams,aircraft must,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+n aircraft hot,2,AC15,S3,trigrams,n aircraft hot,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+aircraft hot spares,2,AC15,S3,trigrams,aircraft hot spares,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+fast swap recovery,2,AC15,S3,trigrams,fast swap recovery,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+throughput fleet availability,2,AC15,S3,trigrams,throughput fleet availability,3,,0,,fleet,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+enter safety hover,2,AC15,S3,trigrams,enter safety hover,3,,0,,hover|safety hover,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+guaranteed because interference,2,AC15,S3,trigrams,guaranteed because interference,3,,0,,interference,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+direct contractual liability,2,AC15,S3,trigrams,direct contractual liability,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+contractual liability and,2,AC15,S3,trigrams,contractual liability,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+delay as autonomy,2,AC15,S3,trigrams,delay autonomy,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+sla definition of,2,AC15,S3,trigrams,sla definition,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+you deliver redundancy,2,AC15,S3,trigrams,deliver redundancy,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+an enforceable envelope,2,AC15,S3,trigrams,enforceable envelope,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+operating envelope not,2,AC15,S3,trigrams,operating envelope,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+reduced zero penalties,2,AC15,S3,trigrams,reduced zero penalties,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+redundancy to meet,2,AC15,S3,trigrams,redundancy meet,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the critical path,2,AC15,S3,trigrams,critical path,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+sla is amended,2,AC15,S3,trigrams,sla amended,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+expanding envelope with,2,AC15,S3,trigrams,expanding envelope,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+envelope with rev,2,AC15,S3,trigrams,envelope rev,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+rev b with,2,AC15,S3,trigrams,rev b,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+s exact uptime,2,AC15,S3,trigrams,exact uptime,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+exact uptime downtime,2,AC15,S3,trigrams,exact uptime downtime,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+managed service with,2,AC15,S3,trigrams,managed service,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+service with redundancy,2,AC15,S3,trigrams,service redundancy,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+projected gross profit,2,AC15,S3,trigrams,projected gross profit,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+per month if,2,AC15,S3,trigrams,per month,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+is being first,2,AC15,S3,trigrams,being first,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+mining partner contract,2,AC15,S3,trigrams,mining partner contract,3,,0,,mining,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+reality commissioning period,2,AC15,S3,trigrams,reality commissioning period,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+period exclusions downtime,2,AC15,S3,trigrams,period exclusions downtime,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+exclusions downtime definition,2,AC15,S3,trigrams,exclusions downtime definition,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+without sacrificing the,2,AC15,S3,trigrams,without sacrificing,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+to remove default,2,AC15,S3,trigrams,remove default,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+remove default control,2,AC15,S3,trigrams,remove default control,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+default control cliffs,2,AC15,S3,trigrams,default control cliffs,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+per service throughput,2,AC15,S3,trigrams,per service throughput,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+deployment until rev,2,AC15,S3,trigrams,deployment until rev,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+flight hour kpis,2,AC15,S3,trigrams,flight hour kpis,3,,0,,flight,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+definition and i,2,AC15,S3,trigrams,definition i,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the few ways,2,AC15,S3,trigrams,few ways,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+procedural controls software,2,AC15,S3,trigrams,procedural controls software,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+signs the eap,2,AC15,S3,trigrams,signs eap,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+to certified zones,2,AC15,S3,trigrams,certified zones,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+with reduced zero,2,AC15,S3,trigrams,reduced zero,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+expected behavior safety,2,AC15,S3,trigrams,expected behavior safety,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+behavior safety hover,2,AC15,S3,trigrams,behavior safety hover,3,,0,,hover|safety hover,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+joint incident review,2,AC15,S3,trigrams,joint incident review,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+in supported envelope,2,AC15,S3,trigrams,supported envelope,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+architect has veto,2,AC15,S3,trigrams,architect has veto,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+has veto over,2,AC15,S3,trigrams,has veto over,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+solve the structural,2,AC15,S3,trigrams,solve structural,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+optics only eap,2,AC15,S3,trigrams,optics eap,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+only eap fails,2,AC15,S3,trigrams,eap fails,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+eap fails because,2,AC15,S3,trigrams,eap fails because,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+structural eap can,2,AC15,S3,trigrams,structural eap,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+eap can work,2,AC15,S3,trigrams,eap work,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+interference exposure classes,2,AC15,S3,trigrams,interference exposure classes,3,,0,,interference,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+the sla definition,2,AC15,S3,trigrams,sla definition,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+exclusions for known,2,AC15,S3,trigrams,exclusions known,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+redundancy so incidents,2,AC15,S3,trigrams,redundancy incidents,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+t become downtime,2,AC15,S3,trigrams,become downtime,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+stop rollback criteria,2,AC15,S3,trigrams,stop rollback criteria,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+must change for,2,AC15,S3,trigrams,must change,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+corridor exclusions with,2,AC15,S3,trigrams,corridor exclusions,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+loiter landing zones,2,AC15,S3,trigrams,loiter landing zones,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+site traffic control,2,AC15,S3,trigrams,site traffic control,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+under a reliability,2,AC15,S3,trigrams,under reliability,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+certified landing polygon,2,AC15,S3,trigrams,certified landing polygon,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+can prove containment,2,AC15,S3,trigrams,prove containment,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+prove containment and,2,AC15,S3,trigrams,prove containment,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a commissioning period,2,AC15,S3,trigrams,commissioning period,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+period exclusions or,2,AC15,S3,trigrams,period exclusions,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+landing over active,2,AC15,S3,trigrams,landing over active,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+haul road critical,2,AC15,S3,trigrams,haul road critical,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+road critical corridor,2,AC15,S3,trigrams,road critical corridor,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+clear the road,2,AC15,S3,trigrams,clear road,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+traffic control protocol,2,AC15,S3,trigrams,traffic control protocol,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+overflight occupancy of,2,AC15,S3,trigrams,overflight occupancy,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+terms for any,2,AC15,S3,trigrams,terms any,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+for any penalized,2,AC15,S3,trigrams,any penalized,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+downtime definition exclusions,2,AC15,S3,trigrams,downtime definition exclusions,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a dated rev,2,AC15,S3,trigrams,dated rev,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+dated rev b,2,AC15,S3,trigrams,dated rev b,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+probability of penalties,2,AC15,S3,trigrams,probability penalties,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+of penalties reputational,2,AC15,S3,trigrams,penalties reputational,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+fund against this,2,AC15,S3,trigrams,fund against,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+an engineer signed,2,AC15,S3,trigrams,engineer signed,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+engineer signed operating,2,AC15,S3,trigrams,engineer signed operating,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+signed operating envelope,2,AC15,S3,trigrams,signed operating envelope,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+haul road adjacency,2,AC15,S3,trigrams,haul road adjacency,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a critical corridor,2,AC15,S3,trigrams,critical corridor,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+event rate above,2,AC15,S3,trigrams,event rate above,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+rate above x,2,AC15,S3,trigrams,rate above x,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+mttr above y,2,AC15,S3,trigrams,mttr above y,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+rev b team,2,AC15,S3,trigrams,rev b team,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+prevent scope creep,2,AC15,S3,trigrams,prevent scope creep,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+volumes for haul,2,AC15,S3,trigrams,volumes haul,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+for haul roads,2,AC15,S3,trigrams,haul roads,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+critical corridors inflated,2,AC15,S3,trigrams,critical corridors inflated,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+corridors inflated by,2,AC15,S3,trigrams,corridors inflated,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+no overflight loiter,2,AC15,S3,trigrams,no overflight loiter,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+overflight loiter landing,2,AC15,S3,trigrams,overflight loiter landing,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+containment and recovery,2,AC15,S3,trigrams,containment recovery,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+and recovery bounds,2,AC15,S3,trigrams,recovery bounds,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+for any partner,2,AC15,S3,trigrams,any partner,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+any partner with,2,AC15,S3,trigrams,any partner,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+or explicit exclusions,2,AC15,S3,trigrams,explicit exclusions,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+measured at service,2,AC15,S3,trigrams,measured service,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+at service throughput,2,AC15,S3,trigrams,service throughput,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+service throughput level,2,AC15,S3,trigrams,service throughput level,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+certification checklist including,2,AC15,S3,trigrams,certification checklist including,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+checklist including interference,2,AC15,S3,trigrams,checklist including interference,3,,0,,interference,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+eap site telemetry,2,AC15,S3,trigrams,eap site telemetry,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+stop rollback triggers,2,AC15,S3,trigrams,stop rollback triggers,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+rev b work,2,AC15,S3,trigrams,rev b work,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+rev b emi,2,AC15,S3,trigrams,rev b emi,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+b emi hardening,2,AC15,S3,trigrams,b emi hardening,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+rev b gates,2,AC15,S3,trigrams,rev b gates,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+low emi sites,6,AC15P,S3,trigrams,low emi sites,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+corridors over haul,6,AC15P,S3,trigrams,corridors over haul,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+will accept a,5,AC15P,S3,trigrams,will accept,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the next round,5,AC15P,S3,trigrams,next round,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+b shielding or,5,AC15P,S3,trigrams,b shielding,2,,0,,shielding,1,0.5,False,,,0,0,0,0,,,,True
+limited availability early,4,AC15P,S3,trigrams,limited availability early,3,,0,,,0,0.0,False,practical_considerations_and_execution|temporal_projection,practical_considerations_and_execution.constraints_and_tradeoffs|temporal_projection.time_horizons,2,2,2,0,practical_considerations_and_execution|temporal_projection,,early|limited,False
+availability early access,4,AC15P,S3,trigrams,availability early access,3,,0,,early access,1,0.6666666666666666,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,early,False
+la eap launch,4,AC15P,S3,trigrams,la eap launch,3,,0,,launch,1,0.3333333333333333,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launch,False
+within the supported,4,AC15P,S3,trigrams,within supported,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+no or capped,4,AC15P,S3,trigrams,no capped,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+high emi mining,4,AC15P,S3,trigrams,high emi mining,3,,0,,mining,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+penalty slas in,4,AC15P,S3,trigrams,penalty slas,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+de scope mining,4,AC15P,S3,trigrams,de scope mining,3,,0,,mining,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+predefined safe loiter,4,AC15P,S3,trigrams,predefined safe loiter,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+qualified low emi,4,AC15P,S3,trigrams,qualified low emi,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+residual risk statement,3,AC15P,S3,trigrams,residual risk statement,3,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+a qualification phase,3,AC15P,S3,trigrams,qualification phase,2,temporal_dynamics,1,phase,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,phas|phase,False
+a refinance trap,3,AC15P,S3,trigrams,refinance trap,2,,0,,,0,0.0,False,warning,warning,1,1,0,1,,warning,trap,False
+b whether the,3,AC15P,S3,trigrams,b whether,2,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+how often do,3,AC15P,S3,trigrams,how often,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,often,False
+written sign off,3,AC15P,S3,trigrams,written sign off,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+discount cap warrants,3,AC15P,S3,trigrams,discount cap warrants,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+in high emi,3,AC15P,S3,trigrams,high emi,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+or capped downtime,3,AC15P,S3,trigrams,capped downtime,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+capped downtime penalties,3,AC15P,S3,trigrams,capped downtime penalties,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+emi site qualification,3,AC15P,S3,trigrams,emi site qualification,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+on penalties now,3,AC15P,S3,trigrams,penalties now,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+mutually agreed acceptance,3,AC15P,S3,trigrams,mutually agreed acceptance,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+agreed acceptance metrics,3,AC15P,S3,trigrams,agreed acceptance metrics,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+no penalty slas,3,AC15P,S3,trigrams,no penalty slas,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+with capped no,3,AC15P,S3,trigrams,capped no,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+capped no penalties,3,AC15P,S3,trigrams,capped no penalties,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+under remote supervision,3,AC15P,S3,trigrams,under remote supervision,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+within qualified operating,3,AC15P,S3,trigrams,within qualified operating,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+within qualified zones,3,AC15P,S3,trigrams,within qualified zones,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+qualified zones under,3,AC15P,S3,trigrams,qualified zones under,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+sla after rev,3,AC15P,S3,trigrams,sla after rev,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+reliability case for,3,AC15P,S3,trigrams,reliability case,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+in unbounded emi,3,AC15P,S3,trigrams,unbounded emi,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+unbounded emi environments,3,AC15P,S3,trigrams,unbounded emi environments,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a penalty free,3,AC15P,S3,trigrams,penalty free,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+for high emi,3,AC15P,S3,trigrams,high emi,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+health emi indicators,3,AC15P,S3,trigrams,health emi indicators,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+envelope stop criteria,3,AC15P,S3,trigrams,envelope stop criteria,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+sign off stop,3,AC15P,S3,trigrams,sign off stop,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+mining production sla,3,AC15P,S3,trigrams,mining production sla,3,,0,,mining,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+no hover corridors,3,AC15P,S3,trigrams,no hover corridors,3,,0,,hover,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+our ability to,3,AC15P,S3,trigrams,our ability,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+during eap qualification,3,AC15P,S3,trigrams,during eap qualification,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+no fly corridors,3,AC15P,S3,trigrams,no fly corridors,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+paid pilot limited,2,AC15P,S3,trigrams,paid pilot limited,3,imagination_and_possibility,1,pilot,,0,0.0,False,imagination_and_possibility|practical_considerations_and_execution,imagination_and_possibility.path_toward_feasibility|practical_considerations_and_execution.constraints_and_tradeoffs,2,2,2,0,imagination_and_possibility|practical_considerations_and_execution,,limited|pilot,False
+may shift so,2,AC15P,S3,trigrams,may shift,2,temporal_dynamics,1,shift,,0,0.0,False,hedging|temporal_projection,hedging|temporal_projection.change_and_rate,2,2,1,1,temporal_projection,hedging,may|shift,False
+risk if early,2,AC15P,S3,trigrams,risk early,2,practicality_and_feasibility,1,risk,,0,0.0,False,temporal_projection|warning,temporal_projection.time_horizons|warning,2,2,1,1,temporal_projection,warning,early|risk,False
+bounded mitigation is,2,AC15P,S3,trigrams,bounded mitigation,2,practicality_and_feasibility,1,mitigation,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs|practical_considerations_and_execution.resources_timing_conditions,1,2,1,0,practical_considerations_and_execution,,bounded|mitigat|mitigation,False
+bounded commercial launch,2,AC15P,S3,trigrams,bounded commercial launch,3,,0,,launch,1,0.3333333333333333,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution|practical_considerations_and_execution.constraints_and_tradeoffs,1,2,1,0,practical_considerations_and_execution,,bounded|launch,False
+contingent on rev,2,AC15P,S3,trigrams,contingent rev,2,,0,,,0,0.0,False,conditions|practical_considerations_and_execution,conditions|practical_considerations_and_execution.resources_timing_conditions,2,2,1,1,practical_considerations_and_execution,conditions,contingen|contingent|contingent on,False
+check whether the,2,AC15P,S3,trigrams,check whether,2,,0,,,0,0.0,False,conditions|truth,conditions|truth.verification,2,2,1,1,truth,conditions,check|whether,False
+the balance usually,2,AC15P,S3,trigrams,balance usually,2,,0,,,0,0.0,False,hedging|smoothing,hedging|smoothing,2,2,0,2,,hedging|smoothing,balance|usually,False
+balance usually lies,2,AC15P,S3,trigrams,balance usually lies,3,,0,,,0,0.0,False,hedging|smoothing,hedging|smoothing,2,2,0,2,,hedging|smoothing,balance|usually,False
+signable bounded launch,2,AC15P,S3,trigrams,signable bounded launch,3,,0,,launch,1,0.3333333333333333,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution|practical_considerations_and_execution.constraints_and_tradeoffs,1,2,1,0,practical_considerations_and_execution,,bounded|launch,False
+hard no fly,2,AC15P,S3,trigrams,hard no fly,3,,0,,,0,0.0,False,surfacing,surfacing.friction_exposed|surfacing.hard_limit_refusal,1,2,0,1,,surfacing,hard|hard no,False
+credible injury pathway,2,AC15P,S3,trigrams,credible injury pathway,3,truth_and_fact|imagination_and_possibility,2,pathway|credible,,0,0.0,False,imagination_and_possibility,imagination_and_possibility.path_toward_feasibility,1,1,1,0,imagination_and_possibility,,pathway,False
+landing zone constraints,2,AC15P,S3,trigrams,landing zone constraints,3,practicality_and_feasibility,1,constraints,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,constrain|constraints,False
+economic control cost,2,AC15P,S3,trigrams,economic control cost,3,practicality_and_feasibility,1,cost,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,cost,False
+expected cost of,2,AC15P,S3,trigrams,expected cost,2,practicality_and_feasibility,1,cost,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,cost,False
+cost of delaying,2,AC15P,S3,trigrams,cost delaying,2,practicality_and_feasibility,1,cost,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,cost,False
+pilot la until,2,AC15P,S3,trigrams,pilot la until,3,imagination_and_possibility,1,pilot,,0,0.0,False,imagination_and_possibility,imagination_and_possibility.path_toward_feasibility,1,1,1,0,imagination_and_possibility,,pilot,False
+an unbounded mitigation,2,AC15P,S3,trigrams,unbounded mitigation,2,practicality_and_feasibility,1,mitigation,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,mitigat|mitigation,False
+as paid pilot,2,AC15P,S3,trigrams,paid pilot,2,imagination_and_possibility,1,pilot,,0,0.0,False,imagination_and_possibility,imagination_and_possibility.path_toward_feasibility,1,1,1,0,imagination_and_possibility,,pilot,False
+in shifting emi,2,AC15P,S3,trigrams,shifting emi,2,temporal_dynamics,1,shifting,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,shifting,False
+short term but,2,AC15P,S3,trigrams,short term,2,temporal_dynamics,1,short term,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,short term,False
+paid pilot la,2,AC15P,S3,trigrams,paid pilot la,3,imagination_and_possibility,1,pilot,,0,0.0,False,imagination_and_possibility,imagination_and_possibility.path_toward_feasibility,1,1,1,0,imagination_and_possibility,,pilot,False
+free qualification phase,2,AC15P,S3,trigrams,free qualification phase,3,temporal_dynamics,1,phase,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,phas|phase,False
+qualification phase i,2,AC15P,S3,trigrams,qualification phase i,3,temporal_dynamics,1,phase,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,phas|phase,False
+phase i can,2,AC15P,S3,trigrams,phase i,2,temporal_dynamics,1,phase,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,phas|phase,False
+confirmed the chief,2,AC15P,S3,trigrams,confirmed chief,2,truth_and_fact,1,confirmed,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,confirm|confirmed,False
+claims we cannot,2,AC15P,S3,trigrams,claims cannot,2,truth_and_fact,1,claims,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,cannot,False
+mission planner constraints,2,AC15P,S3,trigrams,mission planner constraints,3,practicality_and_feasibility,1,constraints,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,constrain|constraints,False
+gated limited availability,2,AC15P,S3,trigrams,gated limited availability,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,limited,False
+global launch messaging,2,AC15P,S3,trigrams,global launch messaging,3,,0,,launch,1,0.3333333333333333,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launch,False
+launch messaging if,2,AC15P,S3,trigrams,launch messaging,2,,0,,launch,1,0.5,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launch,False
+as limited availability,2,AC15P,S3,trigrams,limited availability,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,limited,False
+limited availability shipments,2,AC15P,S3,trigrams,limited availability shipments,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,limited,False
+c gated launch,2,AC15P,S3,trigrams,c gated launch,3,,0,,launch,1,0.3333333333333333,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launch,False
+gated launch partial,2,AC15P,S3,trigrams,gated launch partial,3,,0,,launch,1,0.3333333333333333,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launch,False
+retrofit plan if,2,AC15P,S3,trigrams,retrofit plan,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+simple decision test,2,AC15P,S3,trigrams,simple decision test,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,test,False
+system cannot guarantee,2,AC15P,S3,trigrams,system cannot guarantee,3,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,cannot,False
+series b later,2,AC15P,S3,trigrams,series b later,3,,0,,series b,1,0.6666666666666666,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,later,False
+i would treat,2,AC15P,S3,trigrams,i treat,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,i would,False
+then the balance,2,AC15P,S3,trigrams,then balance,2,,0,,,0,0.0,False,smoothing,smoothing,1,1,0,1,,smoothing,balance,False
+usually lies toward,2,AC15P,S3,trigrams,usually lies toward,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,usually,False
+refinance trap if,2,AC15P,S3,trigrams,refinance trap,2,,0,,,0,0.0,False,warning,warning,1,1,0,1,,warning,trap,False
+launch scope they,2,AC15P,S3,trigrams,launch scope they,3,,0,,launch,1,0.3333333333333333,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launch,False
+a gated limited,2,AC15P,S3,trigrams,gated limited,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,limited,False
+won t protect,2,AC15P,S3,trigrams,won protect,2,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,won t,False
+either a no,2,AC15P,S3,trigrams,either no,2,,0,,,0,0.0,False,imagination_and_possibility,imagination_and_possibility.tension_as_fuel,1,1,1,0,imagination_and_possibility,,either,False
+bound on event,2,AC15P,S3,trigrams,bound event,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,bound,False
+you must either,2,AC15P,S3,trigrams,must either,2,,0,,,0,0.0,False,imagination_and_possibility,imagination_and_possibility.tension_as_fuel,1,1,1,0,imagination_and_possibility,,either,False
+you choose between,2,AC15P,S3,trigrams,choose between,2,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,choose|you choose,False
+a global launch,2,AC15P,S3,trigrams,global launch,2,,0,,launch,1,0.5,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launch,False
+refuse phasing exclusions,2,AC15P,S3,trigrams,refuse phasing exclusions,3,,0,,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,phas,False
+limited availability if,2,AC15P,S3,trigrams,limited availability,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,limited,False
+time launch only,2,AC15P,S3,trigrams,time launch,2,,0,,launch,1,0.5,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launch,False
+the early failure,2,AC15P,S3,trigrams,early failure,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,early,False
+early failure tax,2,AC15P,S3,trigrams,early failure tax,3,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,early,False
+mitigations survey detection,2,AC15P,S3,trigrams,mitigations survey detection,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,mitigat|mitigations,False
+will launch only,2,AC15P,S3,trigrams,will launch,2,,0,,launch,1,0.5,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launch,False
+the bounded envelope,2,AC15P,S3,trigrams,bounded envelope,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,bounded,False
+a prohibited context,2,AC15P,S3,trigrams,prohibited context,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,context,False
+global launch in,2,AC15P,S3,trigrams,global launch,2,,0,,launch,1,0.5,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launch,False
+those aren t,2,AC15P,S3,trigrams,those aren,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,aren t,False
+launch definition what,2,AC15P,S3,trigrams,launch definition,2,,0,,launch,1,0.5,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launch,False
+a launch definition,2,AC15P,S3,trigrams,launch definition,2,,0,,launch,1,0.5,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launch,False
+validated dynamic detection,2,AC15P,S3,trigrams,validated dynamic detection,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,validat|validated,False
+bounded la eap,2,AC15P,S3,trigrams,bounded la eap,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,bounded,False
+eap launch this,2,AC15P,S3,trigrams,eap launch,2,,0,,launch,1,0.5,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launch,False
+as non negotiable,2,AC15P,S3,trigrams,non negotiable,2,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,non negotiable,False
+stable and mappable,2,AC15P,S3,trigrams,stable mappable,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.robustness_and_resilience,1,1,1,0,temporal_projection,,stable,False
+neither is true,2,AC15P,S3,trigrams,neither true,2,,0,,,0,0.0,False,imagination_and_possibility,imagination_and_possibility.tension_as_fuel,1,1,1,0,imagination_and_possibility,,neither,False
+on safety claims,2,AC15P,S3,trigrams,safety claims,2,truth_and_fact,1,claims,,0,0.0,False,,,0,0,0,0,,,,True
+momentum while keeping,2,AC15P,S3,trigrams,momentum while keeping,3,temporal_dynamics,1,momentum,,0,0.0,False,,,0,0,0,0,,,,True
+with objective criteria,2,AC15P,S3,trigrams,objective criteria,2,truth_and_fact,1,objective,,0,0.0,False,,,0,0,0,0,,,,True
+exposure a quick,2,AC15P,S3,trigrams,exposure quick,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+let p_hi fraction,2,AC15P,S3,trigrams,let p_hi fraction,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+p_hi fraction of,2,AC15P,S3,trigrams,p_hi fraction,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+flights day p_event_total,2,AC15P,S3,trigrams,flights day p_event_total,3,,0,,flight,1,0.0,False,,,0,0,0,0,,,,True
+flights day p_hi,2,AC15P,S3,trigrams,flights day p_hi,3,,0,,flight,1,0.0,False,,,0,0,0,0,,,,True
+p_hi p_event_total incidents,2,AC15P,S3,trigrams,p_hi p_event_total incidents,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+p_event_total incidents day,2,AC15P,S3,trigrams,p_event_total incidents day,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+incidents day every,2,AC15P,S3,trigrams,incidents day every,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+days not weeks,2,AC15P,S3,trigrams,days weeks,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the geofence patch,2,AC15P,S3,trigrams,geofence patch,2,,0,,geofence,1,0.5,False,,,0,0,0,0,,,,True
+architect two lead,2,AC15P,S3,trigrams,architect two lead,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+two lead engineers,2,AC15P,S3,trigrams,two lead engineers,3,,0,,lead engineer,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+sign off required,2,AC15P,S3,trigrams,sign off required,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the systems architect,2,AC15P,S3,trigrams,systems architect,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+proposal a isn,2,AC15P,S3,trigrams,proposal isn,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a published rev,2,AC15P,S3,trigrams,published rev,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+customers flights day,2,AC15P,S3,trigrams,customers flights day,3,,0,,flight,1,0.0,False,,,0,0,0,0,,,,True
+you answer those,2,AC15P,S3,trigrams,answer those,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+red line if,2,AC15P,S3,trigrams,red line,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+reliability targets slos,2,AC15P,S3,trigrams,reliability targets slos,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+on representative sites,2,AC15P,S3,trigrams,representative sites,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+acceptance criteria and,2,AC15P,S3,trigrams,acceptance criteria,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the ghost case,2,AC15P,S3,trigrams,ghost case,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+telemetry on call,2,AC15P,S3,trigrams,telemetry call,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+bridge outcomes probability,2,AC15P,S3,trigrams,bridge outcomes probability,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+survival probability and,2,AC15P,S3,trigrams,survival probability,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+make rev b,2,AC15P,S3,trigrams,make rev b,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+at worse terms,2,AC15P,S3,trigrams,worse terms,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+dilution at conversion,2,AC15P,S3,trigrams,dilution conversion,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+predatory bridge as,2,AC15P,S3,trigrams,predatory bridge,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+paid pilots signed,2,AC15P,S3,trigrams,paid pilots signed,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+burn immediately temporary,2,AC15P,S3,trigrams,burn immediately temporary,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+milestone based draws,2,AC15P,S3,trigrams,milestone based draws,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+to reduce single,2,AC15P,S3,trigrams,reduce single,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+reduce single lender,2,AC15P,S3,trigrams,reduce single lender,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+single lender control,2,AC15P,S3,trigrams,single lender control,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a controlled hover,2,AC15P,S3,trigrams,controlled hover,2,,0,,hover,1,0.5,False,,,0,0,0,0,,,,True
+guarantee a safe,2,AC15P,S3,trigrams,guarantee safe,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+per exposed flight,2,AC15P,S3,trigrams,per exposed flight,3,,0,,flight,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+in low emi,2,AC15P,S3,trigrams,low emi,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+because it forces,2,AC15P,S3,trigrams,because forces,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+flights day i,2,AC15P,S3,trigrams,flights day i,3,,0,,flight,1,0.0,False,,,0,0,0,0,,,,True
+day i can,2,AC15P,S3,trigrams,day i,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+even with series,2,AC15P,S3,trigrams,even series,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+with series b,2,AC15P,S3,trigrams,series b,2,,0,,series b,1,1.0,True,,,0,0,0,0,,,,True
+reduce the probability,2,AC15P,S3,trigrams,reduce probability,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a successful series,2,AC15P,S3,trigrams,successful series,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+cap warrants fees,2,AC15P,S3,trigrams,cap warrants fees,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+increased probability of,2,AC15P,S3,trigrams,increased probability,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+they ll sign,2,AC15P,S3,trigrams,they ll sign,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+downtime penalties explicit,2,AC15P,S3,trigrams,downtime penalties explicit,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+penalties explicit emi,2,AC15P,S3,trigrams,penalties explicit emi,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+or after measured,2,AC15P,S3,trigrams,after measured,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+this mining partner,2,AC15P,S3,trigrams,mining partner,2,,0,,mining,1,0.5,False,,,0,0,0,0,,,,True
+measured targets if,2,AC15P,S3,trigrams,measured targets,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+site emi survey,2,AC15P,S3,trigrams,site emi survey,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+to production sla,2,AC15P,S3,trigrams,production sla,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a low emi,2,AC15P,S3,trigrams,low emi,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+tied to mutually,2,AC15P,S3,trigrams,tied mutually,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+to mutually agreed,2,AC15P,S3,trigrams,mutually agreed,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+abort rate mttr,2,AC15P,S3,trigrams,abort rate mttr,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+willing to accept,2,AC15P,S3,trigrams,willing accept,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+la until rev,2,AC15P,S3,trigrams,la until rev,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+on event rate,2,AC15P,S3,trigrams,event rate,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+avoidance not just,2,AC15P,S3,trigrams,avoidance just,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+safe zone over,2,AC15P,S3,trigrams,safe zone over,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+no penalties or,2,AC15P,S3,trigrams,no penalties,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+or capped penalties,2,AC15P,S3,trigrams,capped penalties,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+to low emi,2,AC15P,S3,trigrams,low emi,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+keep mining as,2,AC15P,S3,trigrams,keep mining,2,,0,,mining,1,0.5,False,,,0,0,0,0,,,,True
+mining as paid,2,AC15P,S3,trigrams,mining paid,2,,0,,mining,1,0.5,False,,,0,0,0,0,,,,True
+penalties i can,2,AC15P,S3,trigrams,penalties i,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+qualified operating zones,2,AC15P,S3,trigrams,qualified operating zones,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+zones under supervision,2,AC15P,S3,trigrams,zones under supervision,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+safety hover events,2,AC15P,S3,trigrams,safety hover events,3,,0,,hover|safety hover,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+slas otherwise delay,2,AC15P,S3,trigrams,slas otherwise delay,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+otherwise delay for,2,AC15P,S3,trigrams,otherwise delay,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+require a broad,2,AC15P,S3,trigrams,require broad,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+shielding or after,2,AC15P,S3,trigrams,shielding after,2,,0,,shielding,1,0.5,False,,,0,0,0,0,,,,True
+rate mttr thresholds,2,AC15P,S3,trigrams,rate mttr thresholds,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+can enforce site,2,AC15P,S3,trigrams,enforce site,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+dynamic detection avoidance,2,AC15P,S3,trigrams,dynamic detection avoidance,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+contract alignment no,2,AC15P,S3,trigrams,contract alignment no,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the safety reliability,2,AC15P,S3,trigrams,safety reliability,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+competitor delay is,2,AC15P,S3,trigrams,competitor delay,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+propose a milestone,2,AC15P,S3,trigrams,propose milestone,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+penalties until rev,2,AC15P,S3,trigrams,penalties until rev,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+high emi environments,2,AC15P,S3,trigrams,high emi environments,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+stabilize the platform,2,AC15P,S3,trigrams,stabilize platform,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+they will sign,2,AC15P,S3,trigrams,they will sign,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+something this quarter,2,AC15P,S3,trigrams,something quarter,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+penalties in unbounded,2,AC15P,S3,trigrams,penalties unbounded,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+core capability and,2,AC15P,S3,trigrams,core capability,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+or de scope,2,AC15P,S3,trigrams,de scope,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+insists on penalties,2,AC15P,S3,trigrams,insists penalties,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+not sign unbounded,2,AC15P,S3,trigrams,sign unbounded,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+accept a penalty,2,AC15P,S3,trigrams,accept penalty,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+penalty free qualification,2,AC15P,S3,trigrams,penalty free qualification,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+high emi unqualified,2,AC15P,S3,trigrams,high emi unqualified,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+emi unqualified areas,2,AC15P,S3,trigrams,emi unqualified areas,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+downtime penalties or,2,AC15P,S3,trigrams,downtime penalties,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+tightly capped liability,2,AC15P,S3,trigrams,tightly capped liability,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+clear acceptance criteria,2,AC15P,S3,trigrams,clear acceptance criteria,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+production sla after,2,AC15P,S3,trigrams,production sla after,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+zones under remote,2,AC15P,S3,trigrams,zones under remote,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a required signatory,2,AC15P,S3,trigrams,required signatory,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+criteria e g,2,AC15P,S3,trigrams,criteria e g,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+any contract breach,2,AC15P,S3,trigrams,any contract breach,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+rev b but,2,AC15P,S3,trigrams,rev b,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+off stop criteria,2,AC15P,S3,trigrams,off stop criteria,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+stop criteria if,2,AC15P,S3,trigrams,stop criteria,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+what actually changes,2,AC15P,S3,trigrams,actually changes,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+stop criteria chief,2,AC15P,S3,trigrams,stop criteria chief,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+criteria chief architect,2,AC15P,S3,trigrams,criteria chief architect,3,,0,,chief architect,1,0.6666666666666666,False,,,0,0,0,0,,,,True
+any production sla,2,AC15P,S3,trigrams,any production sla,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+site safety exposure,2,AC15P,S3,trigrams,site safety exposure,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+result in hover,2,AC15P,S3,trigrams,result hover,2,,0,,hover,1,0.5,False,,,0,0,0,0,,,,True
+in hover descend,2,AC15P,S3,trigrams,hover descend,2,,0,,hover,1,0.5,False,,,0,0,0,0,,,,True
+to de scope,2,AC15P,S3,trigrams,de scope,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+abort hover rate,2,AC15P,S3,trigrams,abort hover rate,3,,0,,hover,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+architect will leave,2,AC15P,S3,trigrams,architect will leave,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+will leave if,2,AC15P,S3,trigrams,will leave,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+loiter boxes emergency,2,AC15P,S3,trigrams,loiter boxes emergency,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+boxes emergency landing,2,AC15P,S3,trigrams,boxes emergency landing,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+divert return to,2,AC15P,S3,trigrams,divert return,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+e g clear,2,AC15P,S3,trigrams,e g clear,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+corridor within x,2,AC15P,S3,trigrams,corridor within x,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+within x minutes,2,AC15P,S3,trigrams,within x minutes,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+to safe loiter,2,AC15P,S3,trigrams,safe loiter,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+cross haul roads,2,AC15P,S3,trigrams,cross haul roads,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+showstopper for mining,2,AC15P,S3,trigrams,showstopper mining,2,,0,,mining,1,0.5,False,,,0,0,0,0,,,,True
+hover corridors over,2,AC15P,S3,trigrams,hover corridors over,3,,0,,hover,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+under these conditions,2,AC15P,S3,trigrams,under these conditions,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+mine haul road,2,AC15P,S3,trigrams,mine haul road,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+that kills gen,2,AC15P,S3,trigrams,kills gen,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+time boxed rev,2,AC15P,S3,trigrams,time boxed rev,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+boxed rev b,2,AC15P,S3,trigrams,boxed rev b,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+what they actually,2,AC15P,S3,trigrams,they actually,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+in qualified envelope,2,AC15P,S3,trigrams,qualified envelope,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+envelope y paid,2,AC15P,S3,trigrams,envelope y paid,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+first article date,2,AC15P,S3,trigrams,first article date,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+with paid deployments,2,AC15P,S3,trigrams,paid deployments,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+have a real,2,AC15P,S3,trigrams,have real,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+is both investor,2,AC15P,S3,trigrams,both investor,2,,0,,investor,1,0.5,False,,,0,0,0,0,,,,True
+both investor legible,2,AC15P,S3,trigrams,both investor legible,3,,0,,investor,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+investor legible and,2,AC15P,S3,trigrams,investor legible,2,,0,,investor,1,0.5,False,,,0,0,0,0,,,,True
+exclusions high emi,2,AC15P,S3,trigrams,exclusions high emi,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+you need something,2,AC15P,S3,trigrams,need something,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+readiness certificate that,2,AC15P,S3,trigrams,readiness certificate,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+stop criteria automatic,2,AC15P,S3,trigrams,stop criteria automatic,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+criteria automatic pause,2,AC15P,S3,trigrams,criteria automatic pause,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a signable la,2,AC15P,S3,trigrams,signable la,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+signable la eap,2,AC15P,S3,trigrams,signable la eap,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+b hardware fix,2,AC15P,S3,trigrams,b hardware fix,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+signs the la,2,AC15P,S3,trigrams,signs la,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the la eap,2,AC15P,S3,trigrams,la eap,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+parallel line up,2,AC15P,S3,trigrams,parallel line up,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+line up a,2,AC15P,S3,trigrams,line up,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+tranche based facility,2,AC15P,S3,trigrams,tranche based facility,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+envelope odd exclusions,2,AC15P,S3,trigrams,envelope odd exclusions,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+hover no fly,2,AC15P,S3,trigrams,hover no fly,3,,0,,hover,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+fly corridors over,2,AC15P,S3,trigrams,fly corridors over,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+envelope interference is,2,AC15P,S3,trigrams,envelope interference,2,,0,,interference,1,0.5,False,,,0,0,0,0,,,,True
+nav health emi,2,AC15P,S3,trigrams,nav health emi,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+writing that la,2,AC15P,S3,trigrams,writing la,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+that la eap,2,AC15P,S3,trigrams,la eap,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+la eap with,2,AC15P,S3,trigrams,la eap,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+la eap flight,2,AC15P,S3,trigrams,la eap flight,3,,0,,flight,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+eap flight readiness,2,AC15P,S3,trigrams,eap flight readiness,3,,0,,flight|flight readiness,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+no go because,2,AC15P,S3,trigrams,no go because,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+no go for,2,AC15P,S3,trigrams,no go,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+site qualification program,2,AC15P,S3,trigrams,site qualification program,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+on rev b,2,AC15P,S3,trigrams,rev b,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+convert mining to,2,AC15P,S3,trigrams,convert mining,2,,0,,mining,1,0.5,False,,,0,0,0,0,,,,True
+rev b critical,2,AC15P,S3,trigrams,rev b critical,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+b critical path,2,AC15P,S3,trigrams,b critical path,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+b shielding program,2,AC15P,S3,trigrams,b shielding program,3,,0,,shielding,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+spares hot swap,7,CONTROL,S3,trigrams,spares hot swap,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+constrained commercial deployment,4,CONTROL,S3,trigrams,constrained commercial deployment,3,practicality_and_feasibility,1,constrained,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,constrain|constrained,False
+stop ops authority,4,CONTROL,S3,trigrams,stop ops authority,3,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,authority,False
+fail safe behavior,4,CONTROL,S3,trigrams,fail safe behavior,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+service led ops,4,CONTROL,S3,trigrams,service led ops,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+qualified zones corridors,4,CONTROL,S3,trigrams,qualified zones corridors,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+redundancy spares hot,4,CONTROL,S3,trigrams,redundancy spares hot,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a high consequence,4,CONTROL,S3,trigrams,high consequence,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+authority won t,3,CONTROL,S3,trigrams,authority won,2,,0,,,0,0.0,False,autonomy_sovereignty|surfacing,autonomy_sovereignty|surfacing.hard_limit_refusal,2,2,0,2,,autonomy_sovereignty|surfacing,authority|won t,False
+constrained commercial availability,3,CONTROL,S3,trigrams,constrained commercial availability,3,practicality_and_feasibility,1,constrained,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,constrain|constrained,False
+constrained commercial release,3,CONTROL,S3,trigrams,constrained commercial release,3,practicality_and_feasibility,1,constrained,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,constrain|constrained,False
+a non negotiable,3,CONTROL,S3,trigrams,non negotiable,2,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,non negotiable,False
+your safety authority,3,CONTROL,S3,trigrams,safety authority,2,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,authority,False
+safety authority won,3,CONTROL,S3,trigrams,safety authority won,3,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,authority,False
+high consequence operational,3,CONTROL,S3,trigrams,high consequence operational,3,practicality_and_feasibility,1,operational,,0,0.0,False,,,0,0,0,0,,,,True
+enforced by design,3,CONTROL,S3,trigrams,enforced design,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+tranche based series,3,CONTROL,S3,trigrams,tranche based series,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+based series b,3,CONTROL,S3,trigrams,based series b,3,,0,,series b,1,0.6666666666666666,False,,,0,0,0,0,,,,True
+hot swap to,3,CONTROL,S3,trigrams,hot swap,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+insists on unconditional,3,CONTROL,S3,trigrams,insists unconditional,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+caps cure periods,3,CONTROL,S3,trigrams,caps cure periods,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+across the full,3,CONTROL,S3,trigrams,across full,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the full site,3,CONTROL,S3,trigrams,full site,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+delta ev approx,3,CONTROL,S3,trigrams,delta ev approx,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+outside the qualified,3,CONTROL,S3,trigrams,outside qualified,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the qualified odd,3,CONTROL,S3,trigrams,qualified odd,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+hover descend where,3,CONTROL,S3,trigrams,hover descend where,3,,0,,hover,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+a phased launch,2,CONTROL,S3,trigrams,phased launch,2,temporal_dynamics,1,phased,launch|phased launch,2,1.0,True,practical_considerations_and_execution|temporal_projection,practical_considerations_and_execution.action_and_execution|temporal_projection.change_and_rate,2,2,2,0,practical_considerations_and_execution|temporal_projection,,launch|phas|phased,False
+constrained early access,2,CONTROL,S3,trigrams,constrained early access,3,practicality_and_feasibility,1,constrained,early access,1,0.6666666666666666,False,practical_considerations_and_execution|temporal_projection,practical_considerations_and_execution.constraints_and_tradeoffs|temporal_projection.time_horizons,2,2,2,0,practical_considerations_and_execution|temporal_projection,,constrain|constrained|early,False
+case hazard analysis,2,CONTROL,S3,trigrams,case hazard analysis,3,,0,,,0,0.0,False,truth|warning,truth.fact_vs_interpretation|warning,2,2,1,1,truth,warning,analysis|hazard,False
+bound the hazard,2,CONTROL,S3,trigrams,bound hazard,2,,0,,,0,0.0,False,practical_considerations_and_execution|warning,practical_considerations_and_execution.constraints_and_tradeoffs|warning,2,2,1,1,practical_considerations_and_execution,warning,bound|hazard,False
+check whether it,2,CONTROL,S3,trigrams,check whether,2,,0,,,0,0.0,False,conditions|truth,conditions|truth.verification,2,2,1,1,truth,conditions,check|whether,False
+cannot be launched,2,CONTROL,S3,trigrams,cannot launched,2,,0,,launch,1,0.0,False,practical_considerations_and_execution|surfacing,practical_considerations_and_execution.action_and_execution|surfacing.hard_limit_refusal,2,2,1,1,practical_considerations_and_execution,surfacing,cannot|launched,False
+lois msas contingent,2,CONTROL,S3,trigrams,lois msas contingent,3,,0,,,0,0.0,False,conditions|practical_considerations_and_execution,conditions|practical_considerations_and_execution.resources_timing_conditions,2,2,1,1,practical_considerations_and_execution,conditions,contingen|contingent,False
+msas contingent on,2,CONTROL,S3,trigrams,msas contingent,2,,0,,,0,0.0,False,conditions|practical_considerations_and_execution,conditions|practical_considerations_and_execution.resources_timing_conditions,2,2,1,1,practical_considerations_and_execution,conditions,contingen|contingent|contingent on,False
+interference estimator inconsistency,2,CONTROL,S3,trigrams,interference estimator inconsistency,3,truth_and_fact,1,inconsistency,interference,1,0.3333333333333333,False,surfacing,surfacing.tension_exposure,1,1,0,1,,surfacing,inconsistency,False
+terms rate maturity,2,CONTROL,S3,trigrams,terms rate maturity,3,temporal_dynamics,1,maturity,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,maturity,False
+rate maturity covenants,2,CONTROL,S3,trigrams,rate maturity covenants,3,temporal_dynamics,1,maturity,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,maturity,False
+constraints by design,2,CONTROL,S3,trigrams,constraints design,2,practicality_and_feasibility,1,constraints,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,constrain|constraints,False
+you risk penalties,2,CONTROL,S3,trigrams,risk penalties,2,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+can shift static,2,CONTROL,S3,trigrams,shift static,2,temporal_dynamics,1,shift,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,shift,False
+consequence operational hazard,2,CONTROL,S3,trigrams,consequence operational hazard,3,practicality_and_feasibility,1,operational,,0,0.0,False,warning,warning,1,1,0,1,,warning,hazard,False
+hazard if any,2,CONTROL,S3,trigrams,hazard any,2,,0,,,0,0.0,False,warning,warning,1,1,0,1,,warning,hazard,False
+non negotiable hardware,2,CONTROL,S3,trigrams,non negotiable hardware,3,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,non negotiable,False
+continuing the hardware,2,CONTROL,S3,trigrams,continuing hardware,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.friction_and_blockers,1,1,1,0,practical_considerations_and_execution,,the hard,False
+hard to defend,2,CONTROL,S3,trigrams,hard defend,2,,0,,,0,0.0,False,surfacing,surfacing.friction_exposed,1,1,0,1,,surfacing,hard,False
+a safety hazard,2,CONTROL,S3,trigrams,safety hazard,2,,0,,,0,0.0,False,warning,warning,1,1,0,1,,warning,hazard,False
+safety depends on,2,CONTROL,S3,trigrams,safety depends,2,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,depends|depends on,False
+t create site,2,CONTROL,S3,trigrams,create site,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,create,False
+case you either,2,CONTROL,S3,trigrams,case either,2,,0,,,0,0.0,False,imagination_and_possibility,imagination_and_possibility.tension_as_fuel,1,1,1,0,imagination_and_possibility,,either,False
+bounded e g,2,CONTROL,S3,trigrams,bounded e g,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,bounded,False
+any commercial launch,2,CONTROL,S3,trigrams,any commercial launch,3,,0,,launch,1,0.3333333333333333,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launch,False
+create site hazards,2,CONTROL,S3,trigrams,create site hazards,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,create,False
+remediation retrofit plan,2,CONTROL,S3,trigrams,remediation retrofit plan,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+missions cannot be,2,CONTROL,S3,trigrams,missions cannot,2,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,cannot,False
+be launched outside,2,CONTROL,S3,trigrams,launched outside,2,,0,,launch,1,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launched,False
+launched outside qualified,2,CONTROL,S3,trigrams,launched outside qualified,3,,0,,launch,1,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launched,False
+any credible scenario,2,CONTROL,S3,trigrams,any credible scenario,3,truth_and_fact|temporal_dynamics|imagination_and_possibility,2,scenario|credible,,0,0.0,False,,,0,0,0,0,,,,True
+any lateral drift,2,CONTROL,S3,trigrams,any lateral drift,3,imagination_and_possibility,1,lateral,,0,0.0,False,,,0,0,0,0,,,,True
+if field data,2,CONTROL,S3,trigrams,field data,2,truth_and_fact,1,data,,0,0.0,False,,,0,0,0,0,,,,True
+field data violates,2,CONTROL,S3,trigrams,field data violates,3,truth_and_fact,1,data,,0,0.0,False,,,0,0,0,0,,,,True
+data violates assumptions,2,CONTROL,S3,trigrams,data violates assumptions,3,truth_and_fact,1,data,,0,0.0,False,,,0,0,0,0,,,,True
+tied to objective,2,CONTROL,S3,trigrams,tied objective,2,truth_and_fact,1,objective,,0,0.0,False,,,0,0,0,0,,,,True
+case scenario you,2,CONTROL,S3,trigrams,case scenario,2,temporal_dynamics|imagination_and_possibility,1,scenario,,0,0.0,False,,,0,0,0,0,,,,True
+systems architect can,2,CONTROL,S3,trigrams,systems architect,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+not broad ga,2,CONTROL,S3,trigrams,broad ga,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+until hardware rev,2,CONTROL,S3,trigrams,until hardware rev,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+service led deployments,2,CONTROL,S3,trigrams,service led deployments,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+and technically defensible,2,CONTROL,S3,trigrams,technically defensible,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+consequence severity in,2,CONTROL,S3,trigrams,consequence severity,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+with suspended loads,2,CONTROL,S3,trigrams,suspended loads,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+while continuing the,2,CONTROL,S3,trigrams,while continuing,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+i ll tell,2,CONTROL,S3,trigrams,i ll tell,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+ll tell you,2,CONTROL,S3,trigrams,ll tell,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+during lock loss,2,CONTROL,S3,trigrams,during lock loss,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+safety critical autonomy,2,CONTROL,S3,trigrams,safety critical autonomy,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+within the stated,2,CONTROL,S3,trigrams,within stated,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+known failure modes,2,CONTROL,S3,trigrams,known failure modes,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+commercial deployment but,2,CONTROL,S3,trigrams,commercial deployment,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+series b strategic,2,CONTROL,S3,trigrams,series b strategic,3,,0,,series b,1,0.6666666666666666,False,,,0,0,0,0,,,,True
+customer prepay smaller,2,CONTROL,S3,trigrams,customer prepay smaller,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+prepay smaller bridge,2,CONTROL,S3,trigrams,prepay smaller bridge,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+if engineering leadership,2,CONTROL,S3,trigrams,engineering leadership,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+smaller bridge burn,2,CONTROL,S3,trigrams,smaller bridge burn,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+duty of care,2,CONTROL,S3,trigrams,duty care,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the company anyway,2,CONTROL,S3,trigrams,company anyway,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+just a technical,2,CONTROL,S3,trigrams,just technical,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+mission abort recovery,2,CONTROL,S3,trigrams,mission abort recovery,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+interference unqualified zones,2,CONTROL,S3,trigrams,interference unqualified zones,3,,0,,interference,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+within qualified corridors,2,CONTROL,S3,trigrams,within qualified corridors,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+interference zones until,2,CONTROL,S3,trigrams,interference zones until,3,,0,,interference,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+zones until hardware,2,CONTROL,S3,trigrams,zones until hardware,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+response times spares,2,CONTROL,S3,trigrams,response times spares,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+to make any,2,CONTROL,S3,trigrams,make any,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+even if one,2,CONTROL,S3,trigrams,even one,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+on unconditional reliability,2,CONTROL,S3,trigrams,unconditional reliability,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+unconditional reliability with,2,CONTROL,S3,trigrams,unconditional reliability,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+until hardware revision,2,CONTROL,S3,trigrams,until hardware revision,3,,0,,hardware revision,1,0.6666666666666666,False,,,0,0,0,0,,,,True
+cure periods exclusions,2,CONTROL,S3,trigrams,cure periods exclusions,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+service led operations,2,CONTROL,S3,trigrams,service led operations,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+before penalties attach,2,CONTROL,S3,trigrams,before penalties attach,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+with penalties across,2,CONTROL,S3,trigrams,penalties across,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+penalties across the,2,CONTROL,S3,trigrams,penalties across,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a geofence beta,2,CONTROL,S3,trigrams,geofence beta,2,,0,,geofence|beta,2,1.0,True,,,0,0,0,0,,,,True
+defensible you need,2,CONTROL,S3,trigrams,defensible need,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+if nav confidence,2,CONTROL,S3,trigrams,nav confidence,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+nav confidence drops,2,CONTROL,S3,trigrams,nav confidence drops,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+not land wherever,2,CONTROL,S3,trigrams,land wherever,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+an enforceable operating,2,CONTROL,S3,trigrams,enforceable operating,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+contract carve outs,2,CONTROL,S3,trigrams,contract carve outs,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+what lock loss,2,CONTROL,S3,trigrams,lock loss,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+operating design domain,2,CONTROL,S3,trigrams,operating design domain,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+on confidence loss,2,CONTROL,S3,trigrams,confidence loss,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+controlled descent land,2,CONTROL,S3,trigrams,controlled descent land,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+with enforceable odd,2,CONTROL,S3,trigrams,enforceable odd,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+penalty clauses and,2,CONTROL,S3,trigrams,penalty clauses,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+swap to meet,2,CONTROL,S3,trigrams,swap meet,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+ramp acceptance period,2,CONTROL,S3,trigrams,ramp acceptance period,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+penalty caps cure,2,CONTROL,S3,trigrams,penalty caps cure,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+delta arr times,2,CONTROL,S3,trigrams,delta arr times,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+lets you lock,2,CONTROL,S3,trigrams,lets lock,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+lock sites at,2,CONTROL,S3,trigrams,lock sites,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+at arr delta,2,CONTROL,S3,trigrams,arr delta,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+arr delta ev,2,CONTROL,S3,trigrams,arr delta ev,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+safety case odd,2,CONTROL,S3,trigrams,safety case odd,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+for any commercial,2,CONTROL,S3,trigrams,any commercial,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+into unqualified areas,2,CONTROL,S3,trigrams,unqualified areas,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+odd exclusions penalty,2,CONTROL,S3,trigrams,odd exclusions penalty,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+exclusions penalty caps,2,CONTROL,S3,trigrams,exclusions penalty caps,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+onboard detection health,2,CONTROL,S3,trigrams,onboard detection health,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+detection health gating,2,CONTROL,S3,trigrams,detection health gating,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+no unconditional reliability,2,CONTROL,S3,trigrams,no unconditional reliability,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+unconditional reliability across,2,CONTROL,S3,trigrams,unconditional reliability across,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+reliability across the,2,CONTROL,S3,trigrams,reliability across,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the whole site,2,CONTROL,S3,trigrams,whole site,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+operating outside the,2,CONTROL,S3,trigrams,operating outside,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+qualified odd not,2,CONTROL,S3,trigrams,qualified odd,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+what actually fixes,2,CONTROL,S3,trigrams,actually fixes,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+actually fixes it,2,CONTROL,S3,trigrams,actually fixes,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+operation outside the,2,CONTROL,S3,trigrams,operation outside,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+revised sla penalties,2,CONTROL,S3,trigrams,revised sla penalties,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+fail safe hover,2,CONTROL,S3,trigrams,fail safe hover,3,,0,,hover,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+rather than land,2,CONTROL,S3,trigrams,rather than land,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a defined odd,2,CONTROL,S3,trigrams,defined odd,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+can prove safe,2,CONTROL,S3,trigrams,prove safe,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+prove safe behavior,2,CONTROL,S3,trigrams,prove safe behavior,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+safe behavior that,2,CONTROL,S3,trigrams,safe behavior,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+enforced operating envelope,2,CONTROL,S3,trigrams,enforced operating envelope,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+enforced by dispatch,2,CONTROL,S3,trigrams,enforced dispatch,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+on nav confidence,2,CONTROL,S3,trigrams,nav confidence,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+acceptance ramp exclusions,2,CONTROL,S3,trigrams,acceptance ramp exclusions,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+ramp exclusions caps,2,CONTROL,S3,trigrams,ramp exclusions caps,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+paid eap deployments,2,CONTROL,S3,trigrams,paid eap deployments,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+an eap milestone,2,CONTROL,S3,trigrams,eap milestone,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a formal board,2,CONTROL,S3,trigrams,formal board,2,,0,,board,1,0.5,False,,,0,0,0,0,,,,True
+the safety owner,2,CONTROL,S3,trigrams,safety owner,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+dated hardware remediation,2,CONTROL,S3,trigrams,dated hardware remediation,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+hardware remediation retrofit,2,CONTROL,S3,trigrams,hardware remediation retrofit,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+be underestimating how,2,CONTROL,S3,trigrams,underestimating how,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+months turns into,2,CONTROL,S3,trigrams,months turns,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+just this one,2,CONTROL,S3,trigrams,just one,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+over critical infrastructure,2,CONTROL,S3,trigrams,over critical infrastructure,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+formal board process,2,CONTROL,S3,trigrams,formal board process,3,,0,,board,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+outside qualified zones,2,CONTROL,S3,trigrams,outside qualified zones,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+safe behavior must,2,CONTROL,S3,trigrams,safe behavior must,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+climb hold in,2,CONTROL,S3,trigrams,climb hold,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+designated safe volume,2,CONTROL,S3,trigrams,designated safe volume,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+safe volume and,2,CONTROL,S3,trigrams,safe volume,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+safe corridor landing,2,CONTROL,S3,trigrams,safe corridor landing,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+corridor landing pad,2,CONTROL,S3,trigrams,corridor landing pad,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+must match reality,2,CONTROL,S3,trigrams,must match reality,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+penalty caps and,2,CONTROL,S3,trigrams,penalty caps,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+preferably service credits,2,CONTROL,S3,trigrams,preferably service credits,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+credits not cash,2,CONTROL,S3,trigrams,credits cash,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+not cash explicit,2,CONTROL,S3,trigrams,cash explicit,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+cash explicit exclusions,2,CONTROL,S3,trigrams,cash explicit exclusions,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+interference conditions until,2,CONTROL,S3,trigrams,interference conditions until,3,,0,,interference,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+conditions until the,2,CONTROL,S3,trigrams,conditions until,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+acceptable this quarter,2,CONTROL,S3,trigrams,acceptable quarter,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+entry into service,14,HYBRID_3_5,S3,trigrams,entry service,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+responsible technical authority,10,HYBRID_3_5,S3,trigrams,responsible technical authority,3,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,authority,False
+technical authority sign,7,HYBRID_3_5,S3,trigrams,technical authority sign,3,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,authority,False
+authority sign off,7,HYBRID_3_5,S3,trigrams,authority sign off,3,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,authority,False
+non stationary emi,5,HYBRID_3_5,S3,trigrams,non stationary emi,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+stationary emi risk,4,HYBRID_3_5,S3,trigrams,stationary emi risk,3,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+during early access,4,HYBRID_3_5,S3,trigrams,during early access,3,,0,,early access,1,0.6666666666666666,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,early,False
+service credits hard,3,HYBRID_3_5,S3,trigrams,service credits hard,3,,0,,,0,0.0,False,surfacing,surfacing.friction_exposed,1,1,0,1,,surfacing,hard,False
+bounded entry into,3,HYBRID_3_5,S3,trigrams,bounded entry,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,bounded,False
+a dated plan,3,HYBRID_3_5,S3,trigrams,dated plan,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+dated plan for,3,HYBRID_3_5,S3,trigrams,dated plan,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan|plan for,False
+threat is real,3,HYBRID_3_5,S3,trigrams,threat real,2,,0,,,0,0.0,False,warning,warning,1,1,0,1,,warning,threat,False
+forced landing hover,3,HYBRID_3_5,S3,trigrams,forced landing hover,3,,0,,hover,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+a milestone rewrite,3,HYBRID_3_5,S3,trigrams,milestone rewrite,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+production loss pass,3,HYBRID_3_5,S3,trigrams,production loss pass,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+loss pass through,3,HYBRID_3_5,S3,trigrams,loss pass through,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+penalty clause redacted,3,HYBRID_3_5,S3,trigrams,penalty clause redacted,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+or equivalent root,3,HYBRID_3_5,S3,trigrams,equivalent root,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+equivalent root cause,3,HYBRID_3_5,S3,trigrams,equivalent root cause,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+envelope with remote,3,HYBRID_3_5,S3,trigrams,envelope remote,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+with remote support,3,HYBRID_3_5,S3,trigrams,remote support,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+penalties begin only,3,HYBRID_3_5,S3,trigrams,penalties begin,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+begin only after,3,HYBRID_3_5,S3,trigrams,begin after,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+into service eis,3,HYBRID_3_5,S3,trigrams,service eis,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+downtime definitions and,3,HYBRID_3_5,S3,trigrams,downtime definitions,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+like haul roads,3,HYBRID_3_5,S3,trigrams,like haul roads,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+penalty bearing uptime,3,HYBRID_3_5,S3,trigrams,penalty bearing uptime,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+brittle covenants and,2,HYBRID_3_5,S3,trigrams,brittle covenants,2,,0,,,0,0.0,False,practical_considerations_and_execution|surfacing|temporal_projection,practical_considerations_and_execution.friction_and_blockers|surfacing.friction_exposed|temporal_projection.robustness_and_resilience,3,3,2,1,practical_considerations_and_execution|temporal_projection,surfacing,brittle,False
+near term mitigation,2,HYBRID_3_5,S3,trigrams,near term mitigation,3,practicality_and_feasibility|temporal_dynamics,2,near term|mitigation,,0,0.0,False,practical_considerations_and_execution|temporal_projection,practical_considerations_and_execution.resources_timing_conditions|temporal_projection.time_horizons,2,2,2,0,practical_considerations_and_execution|temporal_projection,,mitigat|mitigation|near term,False
+commercial pilot limited,2,HYBRID_3_5,S3,trigrams,commercial pilot limited,3,imagination_and_possibility,1,pilot,,0,0.0,False,imagination_and_possibility|practical_considerations_and_execution,imagination_and_possibility.path_toward_feasibility|practical_considerations_and_execution.constraints_and_tradeoffs,2,2,2,0,imagination_and_possibility|practical_considerations_and_execution,,limited|pilot,False
+short maturity hard,2,HYBRID_3_5,S3,trigrams,short maturity hard,3,temporal_dynamics,1,maturity,,0,0.0,False,surfacing|temporal_projection,surfacing.friction_exposed|temporal_projection.change_and_rate,2,2,1,1,temporal_projection,surfacing,hard|maturity,False
+launch broadly with,2,HYBRID_3_5,S3,trigrams,launch broadly,2,,0,,launch,1,0.5,False,hedging|practical_considerations_and_execution,hedging|practical_considerations_and_execution.action_and_execution,2,2,1,1,practical_considerations_and_execution,hedging,broadly|launch,False
+bounded envelope staged,2,HYBRID_3_5,S3,trigrams,bounded envelope staged,3,,0,,,0,0.0,False,practical_considerations_and_execution|temporal_projection,practical_considerations_and_execution.constraints_and_tradeoffs|temporal_projection.change_and_rate,2,2,2,0,practical_considerations_and_execution|temporal_projection,,bounded|staged,False
+your test plan,2,HYBRID_3_5,S3,trigrams,test plan,2,,0,,,0,0.0,False,practical_considerations_and_execution|truth,practical_considerations_and_execution.action_and_execution|truth.verification,2,2,2,0,practical_considerations_and_execution|truth,,plan|test,False
+freeze build validation,2,HYBRID_3_5,S3,trigrams,freeze build validation,3,,0,,,0,0.0,False,practical_considerations_and_execution|truth,practical_considerations_and_execution.action_and_execution|truth.verification,2,2,2,0,practical_considerations_and_execution|truth,,build|validat|validation,False
+root cause mitigation,2,HYBRID_3_5,S3,trigrams,root cause mitigation,3,practicality_and_feasibility,1,mitigation,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,mitigat|mitigation,False
+your current fallback,2,HYBRID_3_5,S3,trigrams,current fallback,2,practicality_and_feasibility,1,fallback,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,fallback,False
+current fallback is,2,HYBRID_3_5,S3,trigrams,current fallback,2,practicality_and_feasibility,1,fallback,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,fallback,False
+a constrained entry,2,HYBRID_3_5,S3,trigrams,constrained entry,2,practicality_and_feasibility,1,constrained,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,constrain|constrained,False
+constrained entry into,2,HYBRID_3_5,S3,trigrams,constrained entry,2,practicality_and_feasibility,1,constrained,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,constrain|constrained,False
+the most realistic,2,HYBRID_3_5,S3,trigrams,most realistic,2,practicality_and_feasibility,1,realistic,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,realistic,False
+emi risk that,2,HYBRID_3_5,S3,trigrams,emi risk,2,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+mitigation geofence patch,2,HYBRID_3_5,S3,trigrams,mitigation geofence patch,3,practicality_and_feasibility,1,mitigation,geofence,1,0.3333333333333333,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,mitigat|mitigation,False
+default control risk,2,HYBRID_3_5,S3,trigrams,default control risk,3,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+gnss multipath denial,2,HYBRID_3_5,S3,trigrams,gnss multipath denial,3,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,denial,False
+for early deployments,2,HYBRID_3_5,S3,trigrams,early deployments,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,early,False
+you must choose,2,HYBRID_3_5,S3,trigrams,must choose,2,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,choose,False
+your stated facts,2,HYBRID_3_5,S3,trigrams,stated facts,2,,0,,,0,0.0,False,truth,truth.fact_vs_interpretation,1,1,1,0,truth,,facts,False
+conditions with margin,2,HYBRID_3_5,S3,trigrams,conditions margin,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,margin,False
+may avoid both,2,HYBRID_3_5,S3,trigrams,may avoid both,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,may,False
+you ship proposal,2,HYBRID_3_5,S3,trigrams,ship proposal,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,ship,False
+ship proposal a,2,HYBRID_3_5,S3,trigrams,ship proposal,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,ship,False
+into service limited,2,HYBRID_3_5,S3,trigrams,service limited,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,limited,False
+hardware fix validation,2,HYBRID_3_5,S3,trigrams,hardware fix validation,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,validat|validation,False
+credits hard cap,2,HYBRID_3_5,S3,trigrams,credits hard cap,3,,0,,,0,0.0,False,surfacing,surfacing.friction_exposed,1,1,0,1,,surfacing,hard,False
+geofence patch cannot,2,HYBRID_3_5,S3,trigrams,geofence patch cannot,3,,0,,geofence,1,0.3333333333333333,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,cannot,False
+ga launch under,2,HYBRID_3_5,S3,trigrams,ga launch under,3,,0,,launch,1,0.3333333333333333,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launch,False
+launch under proposal,2,HYBRID_3_5,S3,trigrams,launch under proposal,3,,0,,launch,1,0.3333333333333333,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launch,False
+limited availability counts,2,HYBRID_3_5,S3,trigrams,limited availability counts,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,limited,False
+strengthens the ship,2,HYBRID_3_5,S3,trigrams,strengthens ship,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,ship,False
+the ship countercase,2,HYBRID_3_5,S3,trigrams,ship countercase,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,ship,False
+in weeks then,2,HYBRID_3_5,S3,trigrams,weeks then,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,in weeks,False
+a ga launch,2,HYBRID_3_5,S3,trigrams,ga launch,2,,0,,launch,1,0.5,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launch,False
+sign in weeks,2,HYBRID_3_5,S3,trigrams,sign weeks,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,in weeks,False
+technical authority will,2,HYBRID_3_5,S3,trigrams,technical authority will,3,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,authority,False
+authority must sign,2,HYBRID_3_5,S3,trigrams,authority must sign,3,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,authority,False
+safety authority has,2,HYBRID_3_5,S3,trigrams,safety authority has,3,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,authority,False
+for controlled testing,2,HYBRID_3_5,S3,trigrams,controlled testing,2,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,testing,False
+launch posture that,2,HYBRID_3_5,S3,trigrams,launch posture,2,,0,,launch,1,0.5,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launch,False
+named technical authority,2,HYBRID_3_5,S3,trigrams,named technical authority,3,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,authority,False
+launch you should,2,HYBRID_3_5,S3,trigrams,launch should,2,,0,,launch,1,0.5,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launch,False
+eis early access,2,HYBRID_3_5,S3,trigrams,eis early access,3,,0,,early access,1,0.6666666666666666,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,early,False
+commercial ga launch,2,HYBRID_3_5,S3,trigrams,commercial ga launch,3,,0,,launch,1,0.3333333333333333,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launch,False
+design freeze build,2,HYBRID_3_5,S3,trigrams,design freeze build,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,build,False
+field re test,2,HYBRID_3_5,S3,trigrams,field test,2,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,test,False
+test with weekly,2,HYBRID_3_5,S3,trigrams,test weekly,2,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,test,False
+you have credible,2,HYBRID_3_5,S3,trigrams,have credible,2,truth_and_fact,1,credible,,0,0.0,False,,,0,0,0,0,,,,True
+only after objective,2,HYBRID_3_5,S3,trigrams,after objective,2,truth_and_fact,1,objective,,0,0.0,False,,,0,0,0,0,,,,True
+after objective reliability,2,HYBRID_3_5,S3,trigrams,after objective reliability,3,truth_and_fact,1,objective,,0,0.0,False,,,0,0,0,0,,,,True
+objective reliability qualification,2,HYBRID_3_5,S3,trigrams,objective reliability qualification,3,truth_and_fact,1,objective,,0,0.0,False,,,0,0,0,0,,,,True
+external claims if,2,HYBRID_3_5,S3,trigrams,external claims,2,truth_and_fact,1,claims,,0,0.0,False,,,0,0,0,0,,,,True
+you have three,2,HYBRID_3_5,S3,trigrams,have three,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+per flight in,2,HYBRID_3_5,S3,trigrams,per flight,2,,0,,flight,1,0.5,False,,,0,0,0,0,,,,True
+phi fraction of,2,HYBRID_3_5,S3,trigrams,phi fraction,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+fleet grounding sla,2,HYBRID_3_5,S3,trigrams,fleet grounding sla,3,,0,,fleet,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+a root cause,2,HYBRID_3_5,S3,trigrams,root cause,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+riskier delay than,2,HYBRID_3_5,S3,trigrams,riskier delay than,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+just with worse,2,HYBRID_3_5,S3,trigrams,just worse,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+sign a safety,2,HYBRID_3_5,S3,trigrams,sign safety,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+mandatory telemetry event,2,HYBRID_3_5,S3,trigrams,mandatory telemetry event,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+telemetry event logging,2,HYBRID_3_5,S3,trigrams,telemetry event logging,3,,0,,logging,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+deployments live or,2,HYBRID_3_5,S3,trigrams,deployments live,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+live or x,2,HYBRID_3_5,S3,trigrams,live x,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+defense in depth,2,HYBRID_3_5,S3,trigrams,defense depth,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+sign off with,2,HYBRID_3_5,S3,trigrams,sign off,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+explicit go no,2,HYBRID_3_5,S3,trigrams,explicit go no,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+to people vehicles,2,HYBRID_3_5,S3,trigrams,people vehicles,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+triggering conditions with,2,HYBRID_3_5,S3,trigrams,triggering conditions,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+telemetry health monitoring,2,HYBRID_3_5,S3,trigrams,telemetry health monitoring,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+safety architecture sign,2,HYBRID_3_5,S3,trigrams,safety architecture sign,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+architecture sign off,2,HYBRID_3_5,S3,trigrams,architecture sign off,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+raises the chance,2,HYBRID_3_5,S3,trigrams,raises chance,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+chance of failure,2,HYBRID_3_5,S3,trigrams,chance failure,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+bridge terms can,2,HYBRID_3_5,S3,trigrams,bridge terms,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+after repeated anomalies,2,HYBRID_3_5,S3,trigrams,after repeated anomalies,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+freeze non critical,2,HYBRID_3_5,S3,trigrams,freeze non critical,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+of customer grounding,2,HYBRID_3_5,S3,trigrams,customer grounding,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+covenant brittleness and,2,HYBRID_3_5,S3,trigrams,covenant brittleness,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+not nuisance hover,2,HYBRID_3_5,S3,trigrams,nuisance hover,2,,0,,hover,1,0.5,False,,,0,0,0,0,,,,True
+sla penalty exposure,2,HYBRID_3_5,S3,trigrams,sla penalty exposure,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+quarter or b,2,HYBRID_3_5,S3,trigrams,quarter b,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the least lethal,2,HYBRID_3_5,S3,trigrams,least lethal,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+least lethal financing,2,HYBRID_3_5,S3,trigrams,least lethal financing,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+real veto sign,2,HYBRID_3_5,S3,trigrams,real veto sign,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+veto sign off,2,HYBRID_3_5,S3,trigrams,veto sign off,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+monthly burn and,2,HYBRID_3_5,S3,trigrams,monthly burn,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+burn and runway,2,HYBRID_3_5,S3,trigrams,burn runway,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+contractually and operationally,2,HYBRID_3_5,S3,trigrams,contractually operationally,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+customer caused access,2,HYBRID_3_5,S3,trigrams,customer caused access,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+caused access limits,2,HYBRID_3_5,S3,trigrams,caused access limits,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+tied to production,2,HYBRID_3_5,S3,trigrams,tied production,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+should not accept,2,HYBRID_3_5,S3,trigrams,should accept,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+exclusions emi zones,2,HYBRID_3_5,S3,trigrams,exclusions emi zones,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+n flight hours,2,HYBRID_3_5,S3,trigrams,n flight hours,3,,0,,flight,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+should not use,2,HYBRID_3_5,S3,trigrams,should use,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+availability with renegotiated,2,HYBRID_3_5,S3,trigrams,availability renegotiated,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+with renegotiated sla,2,HYBRID_3_5,S3,trigrams,renegotiated sla,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+uptime penalty clause,2,HYBRID_3_5,S3,trigrams,uptime penalty clause,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+events into direct,2,HYBRID_3_5,S3,trigrams,events direct,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+liability service credits,2,HYBRID_3_5,S3,trigrams,liability service credits,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+into service addendum,2,HYBRID_3_5,S3,trigrams,service addendum,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+corridors and exclusion,2,HYBRID_3_5,S3,trigrams,corridors exclusion,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the trigger class,2,HYBRID_3_5,S3,trigrams,trigger class,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+shielding revision that,2,HYBRID_3_5,S3,trigrams,shielding revision,2,,0,,shielding,1,0.5,False,,,0,0,0,0,,,,True
+suggest the most,2,HYBRID_3_5,S3,trigrams,suggest most,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+mining sites with,2,HYBRID_3_5,S3,trigrams,mining sites,2,,0,,mining,1,0.5,False,,,0,0,0,0,,,,True
+how many require,2,HYBRID_3_5,S3,trigrams,how many require,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the declared envelope,2,HYBRID_3_5,S3,trigrams,declared envelope,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+say autonomous but,2,HYBRID_3_5,S3,trigrams,say autonomous,2,,0,,autonomous,1,0.5,False,,,0,0,0,0,,,,True
+can demonstrate low,2,HYBRID_3_5,S3,trigrams,demonstrate low,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+failure mode in,2,HYBRID_3_5,S3,trigrams,failure mode,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+unplanned mission termination,2,HYBRID_3_5,S3,trigrams,unplanned mission termination,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+mining partner expects,2,HYBRID_3_5,S3,trigrams,mining partner expects,3,,0,,mining,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+trigger class shielding,2,HYBRID_3_5,S3,trigrams,trigger class shielding,3,,0,,shielding,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+availability counts as,2,HYBRID_3_5,S3,trigrams,availability counts,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a board memo,2,HYBRID_3_5,S3,trigrams,board memo,2,,0,,board,1,0.5,False,,,0,0,0,0,,,,True
+board memo and,2,HYBRID_3_5,S3,trigrams,board memo,2,,0,,board,1,0.5,False,,,0,0,0,0,,,,True
+can defend reliability,2,HYBRID_3_5,S3,trigrams,defend reliability,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+g x flight,2,HYBRID_3_5,S3,trigrams,g x flight,3,,0,,flight,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+flight hours y,2,HYBRID_3_5,S3,trigrams,flight hours y,3,,0,,flight,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+hours y forced,2,HYBRID_3_5,S3,trigrams,hours y forced,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+y forced landings,2,HYBRID_3_5,S3,trigrams,y forced landings,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+corridors safe landing,2,HYBRID_3_5,S3,trigrams,corridors safe landing,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+paid deployments delivered,2,HYBRID_3_5,S3,trigrams,paid deployments delivered,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+delivered units reliability,2,HYBRID_3_5,S3,trigrams,delivered units reliability,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+and exclusion zones,2,HYBRID_3_5,S3,trigrams,exclusion zones,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+internal sign off,2,HYBRID_3_5,S3,trigrams,internal sign off,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+sign off meeting,2,HYBRID_3_5,S3,trigrams,sign off meeting,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+has veto power,2,HYBRID_3_5,S3,trigrams,has veto power,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+b milestone wording,2,HYBRID_3_5,S3,trigrams,b milestone wording,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+first mover value,2,HYBRID_3_5,S3,trigrams,first mover value,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+n_ text win,2,HYBRID_3_5,S3,trigrams,n_ text win,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+v_ text site,2,HYBRID_3_5,S3,trigrams,v_ text site,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+c_ text impact,2,HYBRID_3_5,S3,trigrams,c_ text impact,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a formal go,2,HYBRID_3_5,S3,trigrams,formal go,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+formal go no,2,HYBRID_3_5,S3,trigrams,formal go no,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+commercial scope expansion,2,HYBRID_3_5,S3,trigrams,commercial scope expansion,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+defer cap penalties,2,HYBRID_3_5,S3,trigrams,defer cap penalties,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+detonates the team,2,HYBRID_3_5,S3,trigrams,detonates team,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+site pre fix,2,HYBRID_3_5,S3,trigrams,site pre fix,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+penalties while you,2,HYBRID_3_5,S3,trigrams,penalties while,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the responsible technical,2,HYBRID_3_5,S3,trigrams,responsible technical,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+aligns incentives without,2,HYBRID_3_5,S3,trigrams,aligns incentives without,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+named sites areas,2,HYBRID_3_5,S3,trigrams,named sites areas,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+sites areas corridors,2,HYBRID_3_5,S3,trigrams,sites areas corridors,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+areas corridors payload,2,HYBRID_3_5,S3,trigrams,areas corridors payload,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+avoid known zones,2,HYBRID_3_5,S3,trigrams,avoid known zones,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+sign off make,2,HYBRID_3_5,S3,trigrams,sign off make,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+must sign the,2,HYBRID_3_5,S3,trigrams,must sign,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+definitions and exclusions,2,HYBRID_3_5,S3,trigrams,definitions exclusions,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+exclusions aligned to,2,HYBRID_3_5,S3,trigrams,exclusions aligned,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+revision or equivalent,2,HYBRID_3_5,S3,trigrams,revision equivalent,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+root cause elimination,2,HYBRID_3_5,S3,trigrams,root cause elimination,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+envelope and exclusions,2,HYBRID_3_5,S3,trigrams,envelope exclusions,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the emi triggered,2,HYBRID_3_5,S3,trigrams,emi triggered,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a envelope b,2,HYBRID_3_5,S3,trigrams,envelope b,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+envelope b customer,2,HYBRID_3_5,S3,trigrams,envelope b customer,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+veto power on,2,HYBRID_3_5,S3,trigrams,veto power,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+you should expect,2,HYBRID_3_5,S3,trigrams,should expect,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a downtime penalty,2,HYBRID_3_5,S3,trigrams,downtime penalty,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+zones haul roads,2,HYBRID_3_5,S3,trigrams,zones haul roads,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+safe landing pad,2,HYBRID_3_5,S3,trigrams,safe landing pad,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+no descend zones,2,HYBRID_3_5,S3,trigrams,no descend zones,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+under degraded nav,2,HYBRID_3_5,S3,trigrams,under degraded nav,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+until reliability is,2,HYBRID_3_5,S3,trigrams,until reliability,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+fail to safe,2,HYBRID_3_5,S3,trigrams,fail safe,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+had haul road,2,HYBRID_3_5,S3,trigrams,had haul road,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+in critical consequence,2,HYBRID_3_5,S3,trigrams,critical consequence,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+critical consequence zones,2,HYBRID_3_5,S3,trigrams,critical consequence zones,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+downtime penalties and,2,HYBRID_3_5,S3,trigrams,downtime penalties,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+penalties and reliability,2,HYBRID_3_5,S3,trigrams,penalties reliability,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+and reliability expectations,2,HYBRID_3_5,S3,trigrams,reliability expectations,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+bearing uptime commitments,2,HYBRID_3_5,S3,trigrams,bearing uptime commitments,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+penalties until reliability,2,HYBRID_3_5,S3,trigrams,penalties until reliability,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+envelope that prevents,2,HYBRID_3_5,S3,trigrams,envelope prevents,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+know the resignation,2,HYBRID_3_5,S3,trigrams,know resignation,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+outside the envelope,2,HYBRID_3_5,S3,trigrams,outside envelope,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+penalties during eis,2,HYBRID_3_5,S3,trigrams,penalties during eis,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+an eis addendum,2,HYBRID_3_5,S3,trigrams,eis addendum,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+counterproposal that preserves,2,HYBRID_3_5,S3,trigrams,counterproposal preserves,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+no overflight of,2,HYBRID_3_5,S3,trigrams,no overflight,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+chief architect on,2,HYBRID_3_5,S3,trigrams,chief architect,2,,0,,chief architect,1,1.0,True,,,0,0,0,0,,,,True
+case and external,2,HYBRID_3_5,S3,trigrams,case external,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+not provably sufficient,2,HYBRID_3_5,S3,trigrams,provably sufficient,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+side letter amended,2,HYBRID_3_5,S3,trigrams,side letter amended,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+letter amended milestone,2,HYBRID_3_5,S3,trigrams,letter amended milestone,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+consequence based exclusions,2,HYBRID_3_5,S3,trigrams,consequence based exclusions,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+no overflight hover,2,HYBRID_3_5,S3,trigrams,no overflight hover,3,,0,,hover,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+descend over an,2,HYBRID_3_5,S3,trigrams,descend over,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+with weekly gates,2,HYBRID_3_5,S3,trigrams,weekly gates,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+post fix acceptance,2,HYBRID_3_5,S3,trigrams,post fix acceptance,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+runtime integrity monitoring,7,HYBRID_SEMANTIC,S3,trigrams,runtime integrity monitoring,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a pilot acceptance,5,HYBRID_SEMANTIC,S3,trigrams,pilot acceptance,2,imagination_and_possibility,1,pilot,,0,0.0,False,imagination_and_possibility,imagination_and_possibility.path_toward_feasibility,1,1,1,0,imagination_and_possibility,,pilot,False
+the launch envelope,5,HYBRID_SEMANTIC,S3,trigrams,launch envelope,2,,0,,launch,1,0.5,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launch,False
+pilot acceptance phase,4,HYBRID_SEMANTIC,S3,trigrams,pilot acceptance phase,3,temporal_dynamics|imagination_and_possibility,2,phase|pilot,,0,0.0,False,imagination_and_possibility|temporal_projection,imagination_and_possibility.path_toward_feasibility|temporal_projection.change_and_rate,2,2,2,0,imagination_and_possibility|temporal_projection,,phas|phase|pilot,False
+pilot terms caps,4,HYBRID_SEMANTIC,S3,trigrams,pilot terms caps,3,imagination_and_possibility,1,pilot,,0,0.0,False,imagination_and_possibility,imagination_and_possibility.path_toward_feasibility,1,1,1,0,imagination_and_possibility,,pilot,False
+controlled commercial launch,4,HYBRID_SEMANTIC,S3,trigrams,controlled commercial launch,3,,0,,launch,1,0.3333333333333333,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launch,False
+doesn t equal,4,HYBRID_SEMANTIC,S3,trigrams,doesn equal,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn|doesn t,False
+environments where the,4,HYBRID_SEMANTIC,S3,trigrams,environments where,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+in qualified corridors,4,HYBRID_SEMANTIC,S3,trigrams,qualified corridors,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+over critical zones,4,HYBRID_SEMANTIC,S3,trigrams,over critical zones,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the interference risk,3,HYBRID_SEMANTIC,S3,trigrams,interference risk,2,practicality_and_feasibility,1,risk,interference,1,0.5,False,warning,warning,1,1,0,1,,warning,risk,False
+a structured pilot,3,HYBRID_SEMANTIC,S3,trigrams,structured pilot,2,imagination_and_possibility,1,pilot,,0,0.0,False,imagination_and_possibility,imagination_and_possibility.path_toward_feasibility,1,1,1,0,imagination_and_possibility,,pilot,False
+paid production pilot,3,HYBRID_SEMANTIC,S3,trigrams,paid production pilot,3,imagination_and_possibility,1,pilot,,0,0.0,False,imagination_and_possibility,imagination_and_possibility.path_toward_feasibility,1,1,1,0,imagination_and_possibility,,pilot,False
+production pilot with,3,HYBRID_SEMANTIC,S3,trigrams,production pilot,2,imagination_and_possibility,1,pilot,,0,0.0,False,imagination_and_possibility,imagination_and_possibility.path_toward_feasibility,1,1,1,0,imagination_and_possibility,,pilot,False
+access production pilot,3,HYBRID_SEMANTIC,S3,trigrams,access production pilot,3,imagination_and_possibility,1,pilot,,0,0.0,False,imagination_and_possibility,imagination_and_possibility.path_toward_feasibility,1,1,1,0,imagination_and_possibility,,pilot,False
+for early units,3,HYBRID_SEMANTIC,S3,trigrams,early units,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,early,False
+a controlled launch,3,HYBRID_SEMANTIC,S3,trigrams,controlled launch,2,,0,,launch,1,0.5,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launch,False
+commercial mining launch,3,HYBRID_SEMANTIC,S3,trigrams,commercial mining launch,3,,0,,launch|mining,2,0.6666666666666666,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launch,False
+early access production,3,HYBRID_SEMANTIC,S3,trigrams,early access production,3,,0,,early access,1,0.6666666666666666,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,early,False
+the controlled launch,3,HYBRID_SEMANTIC,S3,trigrams,controlled launch,2,,0,,launch,1,0.5,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launch,False
+covenants default triggers,3,HYBRID_SEMANTIC,S3,trigrams,covenants default triggers,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+safe corridors landing,3,HYBRID_SEMANTIC,S3,trigrams,safe corridors landing,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+outside designated safe,3,HYBRID_SEMANTIC,S3,trigrams,outside designated safe,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+will you stay,3,HYBRID_SEMANTIC,S3,trigrams,will stay,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+service credits and,3,HYBRID_SEMANTIC,S3,trigrams,service credits,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+penalty backed uptime,3,HYBRID_SEMANTIC,S3,trigrams,penalty backed uptime,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+caps exclusions and,3,HYBRID_SEMANTIC,S3,trigrams,caps exclusions,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+t equal site,3,HYBRID_SEMANTIC,S3,trigrams,equal site,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+and capped remedies,3,HYBRID_SEMANTIC,S3,trigrams,capped remedies,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+runtime navigation integrity,3,HYBRID_SEMANTIC,S3,trigrams,runtime navigation integrity,3,,0,,navigation,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+yes you have,3,HYBRID_SEMANTIC,S3,trigrams,yes have,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+and contract structure,3,HYBRID_SEMANTIC,S3,trigrams,contract structure,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+where the edge,3,HYBRID_SEMANTIC,S3,trigrams,where edge,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+edge case can,3,HYBRID_SEMANTIC,S3,trigrams,edge case,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+case can occur,3,HYBRID_SEMANTIC,S3,trigrams,case occur,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+capped convert customer,3,HYBRID_SEMANTIC,S3,trigrams,capped convert customer,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+convert customer prepay,3,HYBRID_SEMANTIC,S3,trigrams,convert customer prepay,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a defensible safety,3,HYBRID_SEMANTIC,S3,trigrams,defensible safety,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+defensible safety reliability,3,HYBRID_SEMANTIC,S3,trigrams,defensible safety reliability,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the eap must,3,HYBRID_SEMANTIC,S3,trigrams,eap must,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+only after acceptance,3,HYBRID_SEMANTIC,S3,trigrams,after acceptance,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+before entering critical,3,HYBRID_SEMANTIC,S3,trigrams,before entering critical,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+acceptance pilot phase,2,HYBRID_SEMANTIC,S3,trigrams,acceptance pilot phase,3,temporal_dynamics|imagination_and_possibility,2,phase|pilot,,0,0.0,False,imagination_and_possibility|temporal_projection,imagination_and_possibility.path_toward_feasibility|temporal_projection.change_and_rate,2,2,2,0,imagination_and_possibility|temporal_projection,,phas|phase|pilot,False
+zones might shift,2,HYBRID_SEMANTIC,S3,trigrams,zones might shift,3,temporal_dynamics,1,shift,,0,0.0,False,hedging|temporal_projection,hedging|temporal_projection.change_and_rate,2,2,1,1,temporal_projection,hedging,might|shift,False
+constrained launch disqualified,2,HYBRID_SEMANTIC,S3,trigrams,constrained launch disqualified,3,practicality_and_feasibility,1,constrained,launch,1,0.3333333333333333,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution|practical_considerations_and_execution.constraints_and_tradeoffs,1,2,1,0,practical_considerations_and_execution,,constrain|constrained|launch,False
+re deciding whether,2,HYBRID_SEMANTIC,S3,trigrams,deciding whether,2,,0,,,0,0.0,False,autonomy_sovereignty|conditions,autonomy_sovereignty|conditions,2,2,0,2,,autonomy_sovereignty|conditions,deciding|whether,False
+have a viable,2,HYBRID_SEMANTIC,S3,trigrams,have viable,2,,0,,,0,0.0,False,imagination_and_possibility|practical_considerations_and_execution,imagination_and_possibility.path_toward_feasibility|practical_considerations_and_execution.constraints_and_tradeoffs,2,2,2,0,imagination_and_possibility|practical_considerations_and_execution,,viable,False
+safety relevant risk,2,HYBRID_SEMANTIC,S3,trigrams,safety relevant risk,3,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+hardware fix schedule,2,HYBRID_SEMANTIC,S3,trigrams,hardware fix schedule,3,practicality_and_feasibility,1,schedule,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,schedule,False
+fix schedule is,2,HYBRID_SEMANTIC,S3,trigrams,fix schedule,2,practicality_and_feasibility,1,schedule,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,schedule,False
+the very execution,2,HYBRID_SEMANTIC,S3,trigrams,very execution,2,practicality_and_feasibility,1,execution,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,execution,False
+cost actions to,2,HYBRID_SEMANTIC,S3,trigrams,cost actions,2,practicality_and_feasibility,1,cost,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,cost,False
+risk p text,2,HYBRID_SEMANTIC,S3,trigrams,risk p text,3,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+a production pilot,2,HYBRID_SEMANTIC,S3,trigrams,production pilot,2,imagination_and_possibility,1,pilot,,0,0.0,False,imagination_and_possibility,imagination_and_possibility.path_toward_feasibility,1,1,1,0,imagination_and_possibility,,pilot,False
+phase with defined,2,HYBRID_SEMANTIC,S3,trigrams,phase defined,2,temporal_dynamics,1,phase,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,phas|phase,False
+interference risk at,2,HYBRID_SEMANTIC,S3,trigrams,interference risk,2,practicality_and_feasibility,1,risk,interference,1,0.5,False,warning,warning,1,1,0,1,,warning,risk,False
+pilot structure and,2,HYBRID_SEMANTIC,S3,trigrams,pilot structure,2,imagination_and_possibility,1,pilot,,0,0.0,False,imagination_and_possibility,imagination_and_possibility.path_toward_feasibility,1,1,1,0,imagination_and_possibility,,pilot,False
+pilot acceptance period,2,HYBRID_SEMANTIC,S3,trigrams,pilot acceptance period,3,imagination_and_possibility,1,pilot,,0,0.0,False,imagination_and_possibility,imagination_and_possibility.path_toward_feasibility,1,1,1,0,imagination_and_possibility,,pilot,False
+production pilot in,2,HYBRID_SEMANTIC,S3,trigrams,production pilot,2,imagination_and_possibility,1,pilot,,0,0.0,False,imagination_and_possibility,imagination_and_possibility.path_toward_feasibility,1,1,1,0,imagination_and_possibility,,pilot,False
+pilot in qualified,2,HYBRID_SEMANTIC,S3,trigrams,pilot qualified,2,imagination_and_possibility,1,pilot,,0,0.0,False,imagination_and_possibility,imagination_and_possibility.path_toward_feasibility,1,1,1,0,imagination_and_possibility,,pilot,False
+monitoring if feasible,2,HYBRID_SEMANTIC,S3,trigrams,monitoring feasible,2,practicality_and_feasibility,1,feasible,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,feasible,False
+future win rate,2,HYBRID_SEMANTIC,S3,trigrams,future win rate,3,temporal_dynamics,1,future,,0,0.0,False,temporal_projection,temporal_projection.past_present_future,1,1,1,0,temporal_projection,,future,False
+at any cost,2,HYBRID_SEMANTIC,S3,trigrams,any cost,2,practicality_and_feasibility,1,cost,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,cost,False
+acceptance phase with,2,HYBRID_SEMANTIC,S3,trigrams,acceptance phase,2,temporal_dynamics,1,phase,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,phas|phase,False
+phase with reduced,2,HYBRID_SEMANTIC,S3,trigrams,phase reduced,2,temporal_dynamics,1,phase,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,phas|phase,False
+timeline retrofit policy,2,HYBRID_SEMANTIC,S3,trigrams,timeline retrofit policy,3,practicality_and_feasibility,1,timeline,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,timeline,False
+pilot acceptance framework,2,HYBRID_SEMANTIC,S3,trigrams,pilot acceptance framework,3,imagination_and_possibility,1,pilot,,0,0.0,False,imagination_and_possibility,imagination_and_possibility.path_toward_feasibility,1,1,1,0,imagination_and_possibility,,pilot,False
+a pilot becomes,2,HYBRID_SEMANTIC,S3,trigrams,pilot becomes,2,imagination_and_possibility,1,pilot,,0,0.0,False,imagination_and_possibility,imagination_and_possibility.path_toward_feasibility,1,1,1,0,imagination_and_possibility,,pilot,False
+stress test proposal,2,HYBRID_SEMANTIC,S3,trigrams,stress test proposal,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,test,False
+true the hardware,2,HYBRID_SEMANTIC,S3,trigrams,true hardware,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.friction_and_blockers,1,1,1,0,practical_considerations_and_execution,,the hard,False
+launch safety case,2,HYBRID_SEMANTIC,S3,trigrams,launch safety case,3,,0,,launch,1,0.3333333333333333,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launch,False
+customers won t,2,HYBRID_SEMANTIC,S3,trigrams,customers won,2,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,won t,False
+ship where it,2,HYBRID_SEMANTIC,S3,trigrams,ship where,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,ship,False
+hard to recover,2,HYBRID_SEMANTIC,S3,trigrams,hard recover,2,,0,,,0,0.0,False,surfacing,surfacing.friction_exposed,1,1,0,1,,surfacing,hard,False
+c controlled launch,2,HYBRID_SEMANTIC,S3,trigrams,c controlled launch,3,,0,,launch,1,0.3333333333333333,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launch,False
+the hardware delay,2,HYBRID_SEMANTIC,S3,trigrams,hardware delay,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.friction_and_blockers,1,1,1,0,practical_considerations_and_execution,,the hard,False
+retrofit plan will,2,HYBRID_SEMANTIC,S3,trigrams,retrofit plan will,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+plan will you,2,HYBRID_SEMANTIC,S3,trigrams,plan will,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+the balance moves,2,HYBRID_SEMANTIC,S3,trigrams,balance moves,2,,0,,,0,0.0,False,smoothing,smoothing,1,1,0,1,,smoothing,balance,False
+whether the architect,2,HYBRID_SEMANTIC,S3,trigrams,whether architect,2,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+restricted zones planned,2,HYBRID_SEMANTIC,S3,trigrams,restricted zones planned,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,planned,False
+zones planned maintenance,2,HYBRID_SEMANTIC,S3,trigrams,zones planned maintenance,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,planned,False
+bound the interference,2,HYBRID_SEMANTIC,S3,trigrams,bound interference,2,,0,,interference,1,0.5,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,bound,False
+abort doesn t,2,HYBRID_SEMANTIC,S3,trigrams,abort doesn,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn|doesn t,False
+that limited envelope,2,HYBRID_SEMANTIC,S3,trigrams,limited envelope,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,limited,False
+launch disqualified if,2,HYBRID_SEMANTIC,S3,trigrams,launch disqualified,2,,0,,launch,1,0.5,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launch,False
+contract safe launch,2,HYBRID_SEMANTIC,S3,trigrams,contract safe launch,3,,0,,launch,1,0.3333333333333333,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launch,False
+by shipping before,2,HYBRID_SEMANTIC,S3,trigrams,shipping before,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,shipping,False
+shipped and caused,2,HYBRID_SEMANTIC,S3,trigrams,shipped caused,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,shipped,False
+launch now vs,2,HYBRID_SEMANTIC,S3,trigrams,launch now vs,3,,0,,launch,1,0.3333333333333333,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launch,False
+per deployed site,2,HYBRID_SEMANTIC,S3,trigrams,per deployed site,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,deployed,False
+for launch now,2,HYBRID_SEMANTIC,S3,trigrams,launch now,2,,0,,launch,1,0.5,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launch,False
+policy for early,2,HYBRID_SEMANTIC,S3,trigrams,policy early,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,early,False
+shielding retrofit plan,2,HYBRID_SEMANTIC,S3,trigrams,shielding retrofit plan,3,,0,,shielding,1,0.3333333333333333,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+mining launch under,2,HYBRID_SEMANTIC,S3,trigrams,mining launch under,3,,0,,launch|mining,2,0.6666666666666666,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launch,False
+launch envelope signed,2,HYBRID_SEMANTIC,S3,trigrams,launch envelope signed,3,,0,,launch,1,0.3333333333333333,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launch,False
+launch milestone language,2,HYBRID_SEMANTIC,S3,trigrams,launch milestone language,3,,0,,launch,1,0.3333333333333333,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,launch,False
+occur stop deploy,2,HYBRID_SEMANTIC,S3,trigrams,occur stop deploy,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,deploy,False
+non negotiable you,2,HYBRID_SEMANTIC,S3,trigrams,non negotiable,2,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,non negotiable,False
+controlled early access,2,HYBRID_SEMANTIC,S3,trigrams,controlled early access,3,,0,,early access,1,0.6666666666666666,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,early,False
+and remediation plan,2,HYBRID_SEMANTIC,S3,trigrams,remediation plan,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+option c controlled,2,HYBRID_SEMANTIC,S3,trigrams,option c controlled,3,imagination_and_possibility,1,option,,0,0.0,False,,,0,0,0,0,,,,True
+will almost certainly,2,HYBRID_SEMANTIC,S3,trigrams,will almost certainly,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+almost certainly see,2,HYBRID_SEMANTIC,S3,trigrams,almost certainly see,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+certainly see it,2,HYBRID_SEMANTIC,S3,trigrams,certainly see,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+geofence beta for,2,HYBRID_SEMANTIC,S3,trigrams,geofence beta,2,,0,,geofence|beta,2,1.0,True,,,0,0,0,0,,,,True
+is local temporary,2,HYBRID_SEMANTIC,S3,trigrams,local temporary,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+zones the current,2,HYBRID_SEMANTIC,S3,trigrams,zones current,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+specific mine areas,2,HYBRID_SEMANTIC,S3,trigrams,specific mine areas,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+only site qualification,2,HYBRID_SEMANTIC,S3,trigrams,site qualification,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+predefined safe zone,2,HYBRID_SEMANTIC,S3,trigrams,predefined safe zone,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+sign off conditions,2,HYBRID_SEMANTIC,S3,trigrams,sign off conditions,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+immediately engage the,2,HYBRID_SEMANTIC,S3,trigrams,immediately engage,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+engage the lead,2,HYBRID_SEMANTIC,S3,trigrams,engage lead,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+paid deployments with,2,HYBRID_SEMANTIC,S3,trigrams,paid deployments,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+deployments with controlled,2,HYBRID_SEMANTIC,S3,trigrams,deployments controlled,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+with controlled availability,2,HYBRID_SEMANTIC,S3,trigrams,controlled availability,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+customer visible failures,2,HYBRID_SEMANTIC,S3,trigrams,customer visible failures,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+and still end,2,HYBRID_SEMANTIC,S3,trigrams,still end,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+nav integrity metric,2,HYBRID_SEMANTIC,S3,trigrams,nav integrity metric,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+needed to make,2,HYBRID_SEMANTIC,S3,trigrams,needed make,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+must be explicit,2,HYBRID_SEMANTIC,S3,trigrams,must explicit,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+integrity monitoring can,2,HYBRID_SEMANTIC,S3,trigrams,integrity monitoring,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+required site setup,2,HYBRID_SEMANTIC,S3,trigrams,required site setup,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+site qualification runtime,2,HYBRID_SEMANTIC,S3,trigrams,site qualification runtime,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+qualification runtime integrity,2,HYBRID_SEMANTIC,S3,trigrams,qualification runtime integrity,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+runtime integrity gating,2,HYBRID_SEMANTIC,S3,trigrams,runtime integrity gating,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+potentially reckless if,2,HYBRID_SEMANTIC,S3,trigrams,potentially reckless,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+blocks series b,2,HYBRID_SEMANTIC,S3,trigrams,blocks series b,3,,0,,series b,1,0.6666666666666666,False,,,0,0,0,0,,,,True
+to avoid delay,2,HYBRID_SEMANTIC,S3,trigrams,avoid delay,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the top bridge,2,HYBRID_SEMANTIC,S3,trigrams,top bridge,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+top bridge terms,2,HYBRID_SEMANTIC,S3,trigrams,top bridge terms,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+security covenants default,2,HYBRID_SEMANTIC,S3,trigrams,security covenants default,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+default triggers warrants,2,HYBRID_SEMANTIC,S3,trigrams,default triggers warrants,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+triggers warrants dilution,2,HYBRID_SEMANTIC,S3,trigrams,triggers warrants dilution,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+classify the bridge,2,HYBRID_SEMANTIC,S3,trigrams,classify bridge,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+designated safe corridors,2,HYBRID_SEMANTIC,S3,trigrams,designated safe corridors,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+designated safe zones,2,HYBRID_SEMANTIC,S3,trigrams,designated safe zones,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a defensible operating,2,HYBRID_SEMANTIC,S3,trigrams,defensible operating,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+defensible operating envelope,2,HYBRID_SEMANTIC,S3,trigrams,defensible operating envelope,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+kill the round,2,HYBRID_SEMANTIC,S3,trigrams,kill round,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+if p text,2,HYBRID_SEMANTIC,S3,trigrams,p text,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+p text resignations,2,HYBRID_SEMANTIC,S3,trigrams,p text resignations,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+text resignations gtrsim,2,HYBRID_SEMANTIC,S3,trigrams,text resignations gtrsim,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+committed hardware retrofit,2,HYBRID_SEMANTIC,S3,trigrams,committed hardware retrofit,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+bottom line given,2,HYBRID_SEMANTIC,S3,trigrams,bottom line given,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+line given your,2,HYBRID_SEMANTIC,S3,trigrams,line given,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+way that triggers,2,HYBRID_SEMANTIC,S3,trigrams,way triggers,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+predatory bridge with,2,HYBRID_SEMANTIC,S3,trigrams,predatory bridge,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+safety aborts under,2,HYBRID_SEMANTIC,S3,trigrams,safety aborts under,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+aborts under defined,2,HYBRID_SEMANTIC,S3,trigrams,aborts under defined,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+under defined conditions,2,HYBRID_SEMANTIC,S3,trigrams,under defined conditions,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+n missions day,2,HYBRID_SEMANTIC,S3,trigrams,n missions day,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+missions day t,2,HYBRID_SEMANTIC,S3,trigrams,missions day,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+recovery time per,2,HYBRID_SEMANTIC,S3,trigrams,recovery time per,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+time per event,2,HYBRID_SEMANTIC,S3,trigrams,time per event,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the mine environment,2,HYBRID_SEMANTIC,S3,trigrams,mine environment,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+with defined acceptance,2,HYBRID_SEMANTIC,S3,trigrams,defined acceptance,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+defined acceptance metrics,2,HYBRID_SEMANTIC,S3,trigrams,defined acceptance metrics,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+conditions restricted zones,2,HYBRID_SEMANTIC,S3,trigrams,conditions restricted zones,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+telemetry as arbiter,2,HYBRID_SEMANTIC,S3,trigrams,telemetry arbiter,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+even with occasional,2,HYBRID_SEMANTIC,S3,trigrams,even occasional,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+with occasional aborts,2,HYBRID_SEMANTIC,S3,trigrams,occasional aborts,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+backed uptime a,2,HYBRID_SEMANTIC,S3,trigrams,backed uptime,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+runtime nav integrity,2,HYBRID_SEMANTIC,S3,trigrams,runtime nav integrity,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+nav integrity gating,2,HYBRID_SEMANTIC,S3,trigrams,nav integrity gating,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+landings in operationally,2,HYBRID_SEMANTIC,S3,trigrams,landings operationally,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+in operationally catastrophic,2,HYBRID_SEMANTIC,S3,trigrams,operationally catastrophic,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+operationally catastrophic areas,2,HYBRID_SEMANTIC,S3,trigrams,operationally catastrophic areas,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+pushes you toward,2,HYBRID_SEMANTIC,S3,trigrams,pushes toward,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+you toward delay,2,HYBRID_SEMANTIC,S3,trigrams,toward delay,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+ask the partner,2,HYBRID_SEMANTIC,S3,trigrams,ask partner,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+your expected missions,2,HYBRID_SEMANTIC,S3,trigrams,expected missions,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+exposure and propose,2,HYBRID_SEMANTIC,S3,trigrams,exposure propose,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+with reduced waived,2,HYBRID_SEMANTIC,S3,trigrams,reduced waived,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+reduced waived penalties,2,HYBRID_SEMANTIC,S3,trigrams,reduced waived penalties,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+caps on liability,2,HYBRID_SEMANTIC,S3,trigrams,caps liability,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+equal site downtime,2,HYBRID_SEMANTIC,S3,trigrams,equal site downtime,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+required you need,2,HYBRID_SEMANTIC,S3,trigrams,required need,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+liability service level,2,HYBRID_SEMANTIC,S3,trigrams,liability service level,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+redundancy proposal a,2,HYBRID_SEMANTIC,S3,trigrams,redundancy proposal,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+metrics and capped,2,HYBRID_SEMANTIC,S3,trigrams,metrics capped,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+uptime penalties and,2,HYBRID_SEMANTIC,S3,trigrams,uptime penalties,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+onsite support during,2,HYBRID_SEMANTIC,S3,trigrams,onsite support during,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the difference between,2,HYBRID_SEMANTIC,S3,trigrams,difference between,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+qualified corridors with,2,HYBRID_SEMANTIC,S3,trigrams,qualified corridors,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+on strict uptime,2,HYBRID_SEMANTIC,S3,trigrams,strict uptime,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+without a human,2,HYBRID_SEMANTIC,S3,trigrams,without human,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+autonomous within odd,2,HYBRID_SEMANTIC,S3,trigrams,autonomous within odd,3,,0,,autonomous,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+named partner production,2,HYBRID_SEMANTIC,S3,trigrams,named partner production,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+you end up,2,HYBRID_SEMANTIC,S3,trigrams,end up,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+qualification corridor enforcement,2,HYBRID_SEMANTIC,S3,trigrams,qualification corridor enforcement,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+on call response,2,HYBRID_SEMANTIC,S3,trigrams,call response,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+in mines offshore,2,HYBRID_SEMANTIC,S3,trigrams,mines offshore,2,,0,,offshore,1,0.5,False,,,0,0,0,0,,,,True
+still need the,2,HYBRID_SEMANTIC,S3,trigrams,still need,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+broad mining sla,2,HYBRID_SEMANTIC,S3,trigrams,broad mining sla,3,,0,,mining,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+in industrial markets,2,HYBRID_SEMANTIC,S3,trigrams,industrial markets,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+root cause is,2,HYBRID_SEMANTIC,S3,trigrams,root cause,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+cause is eliminated,2,HYBRID_SEMANTIC,S3,trigrams,cause eliminated,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+terms caps exclusions,2,HYBRID_SEMANTIC,S3,trigrams,terms caps exclusions,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a paid production,2,HYBRID_SEMANTIC,S3,trigrams,paid production,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+integrity monitoring if,2,HYBRID_SEMANTIC,S3,trigrams,integrity monitoring,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+burn the reference,2,HYBRID_SEMANTIC,S3,trigrams,burn reference,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+and caused downtime,2,HYBRID_SEMANTIC,S3,trigrams,caused downtime,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+now vs delay,2,HYBRID_SEMANTIC,S3,trigrams,now vs delay,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+and key talent,2,HYBRID_SEMANTIC,S3,trigrams,key talent,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+if being first,2,HYBRID_SEMANTIC,S3,trigrams,being first,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+lose the roadmap,2,HYBRID_SEMANTIC,S3,trigrams,lose roadmap,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+will sign and,2,HYBRID_SEMANTIC,S3,trigrams,will sign,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+sign and stay,2,HYBRID_SEMANTIC,S3,trigrams,sign stay,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+site classes corridors,2,HYBRID_SEMANTIC,S3,trigrams,site classes corridors,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a committed hardware,2,HYBRID_SEMANTIC,S3,trigrams,committed hardware,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+company s core,2,HYBRID_SEMANTIC,S3,trigrams,company core,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+so one aircraft,2,HYBRID_SEMANTIC,S3,trigrams,one aircraft,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+bridge capped convert,2,HYBRID_SEMANTIC,S3,trigrams,bridge capped convert,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+and retrofit policy,2,HYBRID_SEMANTIC,S3,trigrams,retrofit policy,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+off and retention,2,HYBRID_SEMANTIC,S3,trigrams,off retention,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+safety reliability envelope,2,HYBRID_SEMANTIC,S3,trigrams,safety reliability envelope,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+reliability envelope and,2,HYBRID_SEMANTIC,S3,trigrams,reliability envelope,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+geofence is allowed,2,HYBRID_SEMANTIC,S3,trigrams,geofence allowed,2,,0,,geofence,1,0.5,False,,,0,0,0,0,,,,True
+over y flight,2,HYBRID_SEMANTIC,S3,trigrams,over y flight,3,,0,,flight,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+retrofit policy for,2,HYBRID_SEMANTIC,S3,trigrams,retrofit policy,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+if they say,2,HYBRID_SEMANTIC,S3,trigrams,they say,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+qualified sites corridors,2,HYBRID_SEMANTIC,S3,trigrams,qualified sites corridors,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+waived or converted,2,HYBRID_SEMANTIC,S3,trigrams,waived converted,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+converted to capped,2,HYBRID_SEMANTIC,S3,trigrams,converted capped,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+to capped service,2,HYBRID_SEMANTIC,S3,trigrams,capped service,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+over near critical,2,HYBRID_SEMANTIC,S3,trigrams,over near critical,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+occur over a,2,HYBRID_SEMANTIC,S3,trigrams,occur over,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+haul roads intersections,2,HYBRID_SEMANTIC,S3,trigrams,haul roads intersections,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+roads intersections loading,2,HYBRID_SEMANTIC,S3,trigrams,roads intersections loading,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+predefined safe box,2,HYBRID_SEMANTIC,S3,trigrams,predefined safe box,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+fail safe for,2,HYBRID_SEMANTIC,S3,trigrams,fail safe,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+until the root,2,HYBRID_SEMANTIC,S3,trigrams,until root,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+question to answer,2,HYBRID_SEMANTIC,S3,trigrams,question answer,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a safe box,2,HYBRID_SEMANTIC,S3,trigrams,safe box,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+max obstruction time,2,HYBRID_SEMANTIC,S3,trigrams,max obstruction time,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+production mining operations,2,HYBRID_SEMANTIC,S3,trigrams,production mining operations,3,,0,,mining,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+a state where,2,HYBRID_SEMANTIC,S3,trigrams,state where,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+production mining sla,2,HYBRID_SEMANTIC,S3,trigrams,production mining sla,3,,0,,mining,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+sla until acceptance,2,HYBRID_SEMANTIC,S3,trigrams,sla until acceptance,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+committed hardware shielding,2,HYBRID_SEMANTIC,S3,trigrams,committed hardware shielding,3,,0,,shielding,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+chief architect leaves,2,HYBRID_SEMANTIC,S3,trigrams,chief architect leaves,3,,0,,chief architect,1,0.6666666666666666,False,,,0,0,0,0,,,,True
+still qualifies as,2,HYBRID_SEMANTIC,S3,trigrams,still qualifies,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+no penalty backed,2,HYBRID_SEMANTIC,S3,trigrams,no penalty backed,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+penalty backed sla,2,HYBRID_SEMANTIC,S3,trigrams,penalty backed sla,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+acceptance criteria are,2,HYBRID_SEMANTIC,S3,trigrams,acceptance criteria,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+can occur stop,2,HYBRID_SEMANTIC,S3,trigrams,occur stop,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+expectations and downtime,2,HYBRID_SEMANTIC,S3,trigrams,expectations downtime,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+buffers around haul,2,HYBRID_SEMANTIC,S3,trigrams,buffers around haul,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+loiter landing areas,2,HYBRID_SEMANTIC,S3,trigrams,loiter landing areas,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+shielding fix gen,2,HYBRID_SEMANTIC,S3,trigrams,shielding fix gen,3,,0,,shielding,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+protected engineering lane,2,HYBRID_SEMANTIC,S3,trigrams,protected engineering lane,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+engineering lane for,2,HYBRID_SEMANTIC,S3,trigrams,engineering lane,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+people time so,2,HYBRID_SEMANTIC,S3,trigrams,people time,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+time so field,2,HYBRID_SEMANTIC,S3,trigrams,time field,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+critical zone exclusion,2,HYBRID_SEMANTIC,S3,trigrams,critical zone exclusion,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+entering critical zones,2,HYBRID_SEMANTIC,S3,trigrams,entering critical zones,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+downtime definitions exclusions,2,HYBRID_SEMANTIC,S3,trigrams,downtime definitions exclusions,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+precautionary hover landing,2,HYBRID_SEMANTIC,S3,trigrams,precautionary hover landing,3,,0,,hover,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+near critical zones,2,HYBRID_SEMANTIC,S3,trigrams,near critical zones,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+can halt flights,2,HYBRID_SEMANTIC,S3,trigrams,halt flights,2,,0,,flight,1,0.0,False,,,0,0,0,0,,,,True
+so field operations,2,HYBRID_SEMANTIC,S3,trigrams,field operations,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+field operations do,2,HYBRID_SEMANTIC,S3,trigrams,field operations,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+especially contract caps,2,HYBRID_SEMANTIC,S3,trigrams,especially contract caps,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+sign off then,2,HYBRID_SEMANTIC,S3,trigrams,sign off then,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+off then the,2,HYBRID_SEMANTIC,S3,trigrams,off then,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+if all gates,2,HYBRID_SEMANTIC,S3,trigrams,all gates,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+and shielding work,2,HYBRID_SEMANTIC,S3,trigrams,shielding work,2,,0,,shielding,1,0.5,False,,,0,0,0,0,,,,True

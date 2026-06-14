@@ -1,0 +1,6 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+one hard conversation,2,AC15P,S7,trigrams,one hard conversation,3,,0,,,0,0.0,False,surfacing,surfacing.friction_exposed,1,1,0,1,,surfacing,hard,False
+meaningful green flags,2,CONTROL,S7,trigrams,meaningful green flags,3,,0,,,0,0.0,False,surfacing,surfacing.friction_exposed,1,1,0,1,,surfacing,flags,False
+this often surfaces,2,HYBRID_3_5,S7,trigrams,often surfaces,2,,0,,,0,0.0,False,hedging|surfacing,hedging|surfacing.friction_exposed,2,2,0,2,,hedging|surfacing,often|surfaces,False
+often surfaces the,2,HYBRID_3_5,S7,trigrams,often surfaces,2,,0,,,0,0.0,False,hedging|surfacing,hedging|surfacing.friction_exposed,2,2,0,2,,hedging|surfacing,often|surfaces,False
+surfaces the real,2,HYBRID_3_5,S7,trigrams,surfaces real,2,,0,,,0,0.0,False,surfacing,surfacing.friction_exposed,1,1,0,1,,surfacing,surfaces,False

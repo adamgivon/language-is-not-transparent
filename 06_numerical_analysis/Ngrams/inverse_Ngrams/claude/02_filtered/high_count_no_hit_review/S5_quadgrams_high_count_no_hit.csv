@@ -1,0 +1,40 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy
+layer a authoritative project,3,AC15,S5,quadgrams,layer authoritative project,3,,0,,,0,0.0,False
+a authoritative project memory,3,AC15,S5,quadgrams,authoritative project memory,3,,0,,memory|project memory,2,0.6666666666666666,False
+confidence user approved vs,3,AC15,S5,quadgrams,confidence user approved vs,4,,0,,,0,0.0,False
+ttl e g days,3,AC15,S5,quadgrams,ttl e g days,4,,0,,,0,0.0,False
+approval for high impact,3,AC15,S5,quadgrams,approval high impact,3,,0,,,0,0.0,False
+for high impact items,3,AC15,S5,quadgrams,high impact items,3,,0,,,0,0.0,False
+link to adr pr,3,AC15,S5,quadgrams,link adr pr,3,,0,,,0,0.0,False
+authoritative project memory apm,3,AC15,S5,quadgrams,authoritative project memory apm,4,,0,,memory|project memory,2,0.5,False
+adrs prs issues runbooks,6,AC15P,S5,quadgrams,adrs prs issues runbooks,4,,0,,,0,0.0,False
+prs issues runbooks postmortems,5,AC15P,S5,quadgrams,prs issues runbooks postmortems,4,,0,,,0,0.0,False
+artifacts adrs prs issues,5,AC15P,S5,quadgrams,artifacts adrs prs issues,4,,0,,,0,0.0,False
+runbooks postmortems selected logs,4,AC15P,S5,quadgrams,runbooks postmortems selected logs,4,,0,,,0,0.0,False
+durable artifacts adrs prs,4,AC15P,S5,quadgrams,durable artifacts adrs prs,4,,0,,,0,0.0,False
+project brief adr style,4,AC15P,S5,quadgrams,project brief adr style,4,,0,,,0,0.0,False
+brief adr style decisions,4,AC15P,S5,quadgrams,brief adr style decisions,4,,0,,,0,0.0,False
+id type text status,4,AC15P,S5,quadgrams,id type text status,4,,0,,,0,0.0,False
+what influenced the answer,3,AC15P,S5,quadgrams,influenced answer,2,,0,,,0,0.0,False
+project brief accepted decisions,3,AC15P,S5,quadgrams,project brief accepted decisions,4,,0,,,0,0.0,False
+filters repo branch time,3,AC15P,S5,quadgrams,filters repo branch time,4,,0,,,0,0.0,False
+over durable artifacts with,3,AC15P,S5,quadgrams,over durable artifacts,3,,0,,,0,0.0,False
+durable artifacts with citations,3,AC15P,S5,quadgrams,durable artifacts citations,3,,0,,,0,0.0,False
+status draft accepted superseded,3,AC15P,S5,quadgrams,status draft accepted superseded,4,,0,,,0,0.0,False
+created_at last_validated_at repo branch,3,AC15P,S5,quadgrams,created_at last_validated_at repo branch,4,,0,,,0,0.0,False
+after n days sprints,3,AC15P,S5,quadgrams,after n days sprints,4,,0,,,0,0.0,False
+scope tags service module,3,CONTROL,S5,quadgrams,scope tags service module,4,,0,,,0,0.0,False
+project brief adrs conventions,7,HYBRID_3_5,S5,quadgrams,project brief adrs conventions,4,,0,,,0,0.0,False
+exclude pin mark superseded,4,HYBRID_3_5,S5,quadgrams,exclude pin mark superseded,4,,0,,,0,0.0,False
+only current repo spine,3,HYBRID_3_5,S5,quadgrams,current repo spine,3,,0,,,0,0.0,False
+more likely to be,3,HYBRID_3_5,S5,quadgrams,more likely,2,,0,,,0,0.0,False
+re briefing tax is,3,HYBRID_3_5,S5,quadgrams,briefing tax,2,,0,,re briefing,1,0.5,False
+briefing tax is real,3,HYBRID_3_5,S5,quadgrams,briefing tax real,3,,0,,,0,0.0,False
+assert we decided x,3,HYBRID_3_5,S5,quadgrams,assert decided x,3,,0,,,0,0.0,False
+brief only deep recall,4,HYBRID_SEMANTIC,S5,quadgrams,brief deep recall,3,,0,,,0,0.0,False
+only deep recall no,4,HYBRID_SEMANTIC,S5,quadgrams,deep recall no,3,,0,,,0,0.0,False
+deep recall no memory,4,HYBRID_SEMANTIC,S5,quadgrams,deep recall no memory,4,,0,,memory,1,0.25,False
+the re brief tax,3,HYBRID_SEMANTIC,S5,quadgrams,brief tax,2,,0,,,0,0.0,False
+default off on demand,3,HYBRID_SEMANTIC,S5,quadgrams,default off demand,3,,0,,,0,0.0,False
+pasted logs stack traces,3,HYBRID_SEMANTIC,S5,quadgrams,pasted logs stack traces,4,,0,,,0,0.0,False
+logs stack traces referenced,3,HYBRID_SEMANTIC,S5,quadgrams,logs stack traces referenced,4,,0,,,0,0.0,False

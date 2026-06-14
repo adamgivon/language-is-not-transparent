@@ -1,0 +1,9 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+t merge finances,3,AC15,S7,trigrams,merge finances,2,,0,,,0,0.0,False,smoothing,smoothing,1,1,0,1,,smoothing,merge,False
+no merged accounts,3,AC15,S7,trigrams,no merged accounts,3,,0,,,0,0.0,False,smoothing,smoothing,1,1,0,1,,smoothing,merged,False
+no merged finances,3,AC15,S7,trigrams,no merged finances,3,,0,,,0,0.0,False,smoothing,smoothing,1,1,0,1,,smoothing,merged,False
+property no merged,2,AC15,S7,trigrams,property no merged,3,,0,,,0,0.0,False,smoothing,smoothing,1,1,0,1,,smoothing,merged,False
+merged finances keep,2,AC15,S7,trigrams,merged finances keep,3,,0,,,0,0.0,False,smoothing,smoothing,1,1,0,1,,smoothing,merged,False
+t merge accounts,2,AC15,S7,trigrams,merge accounts,2,,0,,,0,0.0,False,smoothing,smoothing,1,1,0,1,,smoothing,merge,False
+merge accounts don,2,AC15,S7,trigrams,merge accounts,2,,0,,,0,0.0,False,smoothing,smoothing,1,1,0,1,,smoothing,merge,False
+buy no merged,2,AC15,S7,trigrams,buy no merged,3,,0,,,0,0.0,False,smoothing,smoothing,1,1,0,1,,smoothing,merged,False

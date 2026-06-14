@@ -1,0 +1,151 @@
+system,scenario,level,ngram,count,fully_scenario,scenario_term_count
+CONTROL,S3,trigrams,spares hot swap,7,False,0
+CONTROL,S1,trigrams,underestimated assumption that,6,False,0
+CONTROL,S1,quadgrams,dot threshold automatically and,6,False,1
+CONTROL,S1,trigrams,it cloud exception,5,False,1
+CONTROL,S1,trigrams,civitas standard integrated,4,False,2
+CONTROL,S1,trigrams,mandatory cloud hosting,4,False,1
+CONTROL,S1,trigrams,emergency services isn,4,False,0
+CONTROL,S1,trigrams,lead time that,4,False,0
+CONTROL,S1,trigrams,an established vendor,4,False,1
+CONTROL,S1,trigrams,the controller lead,4,False,1
+CONTROL,S3,trigrams,fail safe behavior,4,False,0
+CONTROL,S3,trigrams,service led ops,4,False,0
+CONTROL,S3,trigrams,qualified zones corridors,4,False,1
+CONTROL,S3,trigrams,redundancy spares hot,4,False,0
+CONTROL,S3,trigrams,a high consequence,4,False,0
+CONTROL,S5,trigrams,resume last session,4,False,1
+CONTROL,S5,trigrams,against the repo,4,False,1
+CONTROL,S5,trigrams,adr pr file,4,False,0
+CONTROL,S1,quadgrams,state dot waiver week,4,False,2
+CONTROL,S1,quadgrams,the controller lead time,4,False,1
+CONTROL,S3,quadgrams,redundancy spares hot swap,4,False,0
+CONTROL,S1,trigrams,lock in heavy,3,False,1
+CONTROL,S1,trigrams,right to compete,3,False,0
+CONTROL,S1,trigrams,most defensible recommendation,3,False,0
+CONTROL,S1,trigrams,o m volatility,3,False,0
+CONTROL,S1,trigrams,m volatility and,3,False,0
+CONTROL,S1,trigrams,lower maintenance burden,3,False,1
+CONTROL,S1,trigrams,incident responsiveness and,3,False,0
+CONTROL,S1,trigrams,controllers named models,3,False,1
+CONTROL,S1,trigrams,right to procure,3,False,0
+AC15,S7,trigrams,an exit fund,11,False,0
+AC15,S7,trigrams,keep an exit,8,False,0
+AC15,S7,trigrams,ordinary life stay,7,False,0
+AC15,S7,quadgrams,keep an exit fund,7,False,0
+AC15,S7,trigrams,week ordinary life,6,False,1
+AC15,S7,trigrams,partner not nurse,6,False,1
+AC15,S1,trigrams,controller substitution rights,5,False,1
+AC15,S3,trigrams,for interference triggered,5,False,1
+AC15,S3,trigrams,hardware rev b,5,False,2
+AC15,S3,trigrams,commissioning period exclusions,5,False,0
+AC15,S5,trigrams,authoritative project memory,5,False,1
+AC15,S5,trigrams,project brief decisions,5,False,0
+AC15,S7,trigrams,exit fund don,5,False,0
+AC15,S7,trigrams,exit fund and,5,False,0
+AC15,S3,quadgrams,exclusions for interference triggered,5,False,1
+AC15,S7,quadgrams,an exit fund don,5,False,0
+AC15,S7,quadgrams,exit fund don t,5,False,0
+AC15,S7,quadgrams,week ordinary life stay,5,False,1
+AC15,S7,quadgrams,an exit fund and,5,False,0
+AC15,S1,trigrams,pre approved equivalents,4,False,0
+AC15,S1,trigrams,proprietary central components,4,False,1
+AC15,S1,trigrams,those i can,4,False,0
+AC15,S3,trigrams,interference triggered safety,4,False,1
+AC15,S3,trigrams,within a certified,4,False,0
+AC15,S3,trigrams,certified operating envelope,4,False,1
+AC15,S3,trigrams,operating envelope v1,4,False,1
+AC15,S5,trigrams,created_at last_confirmed_at confidence,4,False,0
+AC15,S5,trigrams,high impact types,4,False,0
+AC15,S5,trigrams,pr commit doc,4,False,0
+AC15,S7,trigrams,ordinary life trial,4,False,0
+AC15P,S5,trigrams,adrs prs issues,8,False,0
+AC15P,S1,trigrams,data ownership full,7,False,0
+AC15P,S1,quadgrams,data ownership full export,7,False,0
+AC15P,S7,quadgrams,your home country and,7,False,1
+AC15P,S3,trigrams,low emi sites,6,False,0
+AC15P,S3,trigrams,corridors over haul,6,False,0
+AC15P,S5,trigrams,issues runbooks postmortems,6,False,0
+AC15P,S5,trigrams,filters repo branch,6,False,2
+AC15P,S3,quadgrams,corridors over haul roads,6,False,0
+AC15P,S5,quadgrams,adrs prs issues runbooks,6,False,0
+AC15P,S1,trigrams,assistance clause pre,5,False,0
+AC15P,S1,trigrams,clause pre priced,5,False,0
+AC15P,S1,trigrams,pre priced support,5,False,1
+AC15P,S1,trigrams,modular standard controller,5,False,2
+AC15P,S3,trigrams,will accept a,5,False,0
+AC15P,S3,trigrams,the next round,5,False,0
+AC15P,S3,trigrams,b shielding or,5,False,1
+AC15P,S5,trigrams,adr style decisions,5,False,0
+AC15P,S5,trigrams,artifacts adrs prs,5,False,0
+AC15P,S5,trigrams,branch artifact type,5,False,1
+AC15P,S1,quadgrams,assistance clause pre priced,5,False,0
+AC15P,S1,quadgrams,clause pre priced support,5,False,1
+AC15P,S3,quadgrams,rev b shielding or,5,False,2
+AC15P,S5,quadgrams,prs issues runbooks postmortems,5,False,0
+AC15P,S5,quadgrams,artifacts adrs prs issues,5,False,0
+AC15P,S1,trigrams,city it security,4,False,1
+AC15P,S1,trigrams,remain safe and,4,False,0
+AC15P,S3,trigrams,within the supported,4,False,0
+AC15P,S3,trigrams,no or capped,4,False,0
+AC15P,S3,trigrams,high emi mining,4,False,1
+HYBRID_3_5,S3,trigrams,entry into service,14,False,0
+HYBRID_3_5,S5,trigrams,brief adrs conventions,9,False,0
+HYBRID_3_5,S1,trigrams,end of support,8,False,1
+HYBRID_3_5,S5,quadgrams,project brief adrs conventions,7,False,0
+HYBRID_3_5,S7,quadgrams,not want to see,6,False,0
+HYBRID_3_5,S1,trigrams,the modular open,5,False,1
+HYBRID_3_5,S1,trigrams,modular open controller,5,False,2
+HYBRID_3_5,S1,trigrams,month end of,5,False,0
+HYBRID_3_5,S3,trigrams,non stationary emi,5,False,0
+HYBRID_3_5,S1,quadgrams,the modular open controller,5,False,2
+HYBRID_3_5,S1,quadgrams,month end of support,5,False,1
+HYBRID_3_5,S1,trigrams,open controller option,4,False,1
+HYBRID_3_5,S1,trigrams,t hostage priced,4,False,0
+HYBRID_3_5,S1,trigrams,incident modes evp,4,False,0
+HYBRID_3_5,S1,trigrams,a sample export,4,False,0
+HYBRID_3_5,S1,trigrams,incident corridor modes,4,False,0
+HYBRID_3_5,S5,trigrams,uses only current,4,False,0
+HYBRID_3_5,S5,trigrams,recency version scoring,4,False,0
+HYBRID_3_5,S5,trigrams,summaries structured docs,4,False,1
+HYBRID_3_5,S5,trigrams,assert we decided,4,False,0
+HYBRID_3_5,S5,trigrams,exclude pin mark,4,False,0
+HYBRID_3_5,S5,trigrams,pin mark superseded,4,False,0
+HYBRID_3_5,S1,quadgrams,modular open controller option,4,False,2
+HYBRID_3_5,S3,quadgrams,an entry into service,4,False,0
+HYBRID_3_5,S5,quadgrams,exclude pin mark superseded,4,False,0
+HYBRID_3_5,S1,trigrams,package evp priority,3,False,0
+HYBRID_3_5,S1,trigrams,change request process,3,False,0
+HYBRID_3_5,S1,trigrams,dot waiver comfort,3,False,2
+HYBRID_3_5,S1,trigrams,in modular deployments,3,False,1
+HYBRID_3_5,S1,trigrams,the most predictable,3,False,0
+HYBRID_SEMANTIC,S3,trigrams,runtime integrity monitoring,7,False,0
+HYBRID_SEMANTIC,S1,trigrams,assistance priced now,6,False,0
+HYBRID_SEMANTIC,S5,trigrams,re brief tax,6,False,0
+HYBRID_SEMANTIC,S5,trigrams,canonical project brief,6,False,0
+HYBRID_SEMANTIC,S1,trigrams,overrides priority workflows,5,False,0
+HYBRID_SEMANTIC,S1,trigrams,outage degraded mode,5,False,0
+HYBRID_SEMANTIC,S7,trigrams,money norms family,5,False,1
+HYBRID_SEMANTIC,S1,trigrams,no proprietary substitution,4,False,1
+HYBRID_SEMANTIC,S1,trigrams,proprietary substitution without,4,False,1
+HYBRID_SEMANTIC,S1,trigrams,integration is day,4,False,0
+HYBRID_SEMANTIC,S1,trigrams,is day one,4,False,0
+HYBRID_SEMANTIC,S1,trigrams,controller models standards,4,False,1
+HYBRID_SEMANTIC,S3,trigrams,environments where the,4,False,0
+HYBRID_SEMANTIC,S3,trigrams,in qualified corridors,4,False,0
+HYBRID_SEMANTIC,S3,trigrams,over critical zones,4,False,1
+HYBRID_SEMANTIC,S5,trigrams,repo sha branch,4,False,2
+HYBRID_SEMANTIC,S5,trigrams,brief only deep,4,False,0
+HYBRID_SEMANTIC,S5,trigrams,only deep recall,4,False,0
+HYBRID_SEMANTIC,S5,trigrams,deep recall no,4,False,0
+HYBRID_SEMANTIC,S5,trigrams,recall no memory,4,False,1
+HYBRID_SEMANTIC,S7,trigrams,round trip ticket,4,False,0
+HYBRID_SEMANTIC,S1,quadgrams,no proprietary substitution without,4,False,1
+HYBRID_SEMANTIC,S1,quadgrams,highway integration is day,4,False,1
+HYBRID_SEMANTIC,S1,quadgrams,integration is day one,4,False,0
+HYBRID_SEMANTIC,S3,quadgrams,must be true you,4,False,0
+HYBRID_SEMANTIC,S5,quadgrams,brief only deep recall,4,False,0
+HYBRID_SEMANTIC,S5,quadgrams,only deep recall no,4,False,0
+HYBRID_SEMANTIC,S5,quadgrams,deep recall no memory,4,False,1
+HYBRID_SEMANTIC,S7,quadgrams,avoided because it can,4,False,0
+HYBRID_SEMANTIC,S1,trigrams,than their legacy,3,False,0

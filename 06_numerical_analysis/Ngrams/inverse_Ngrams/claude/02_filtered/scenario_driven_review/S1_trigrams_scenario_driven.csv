@@ -1,0 +1,31 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy
+and controller procurement,3,AC15,S1,trigrams,controller procurement,2,,0,,controller|procurement,2,1.0,True
+for proprietary controllers,2,AC15,S1,trigrams,proprietary controllers,2,,0,,controller|controllers|proprietary,3,1.0,True
+lock in modular,2,AC15P,S1,trigrams,lock modular,2,,0,,modular|lock in,2,1.0,True
+essential infrastructure we,2,AC15P,S1,trigrams,essential infrastructure,2,,0,,infrastructure|essential infrastructure,2,1.0,True
+the proprietary integrated,2,AC15P,S1,trigrams,proprietary integrated,2,,0,,proprietary|integrated,2,1.0,True
+lead time that,4,CONTROL,S1,trigrams,lead time,2,,0,,lead time,1,1.0,True
+lead times vendor,2,CONTROL,S1,trigrams,lead times vendor,3,,0,,vendor|lead time|lead times,3,1.0,True
+on maintenance support,2,CONTROL,S1,trigrams,maintenance support,2,,0,,maintenance support,1,1.0,True
+infrastructure and cloud,2,CONTROL,S1,trigrams,infrastructure cloud,2,,0,,cloud|infrastructure,2,1.0,True
+proprietary controllers for,2,CONTROL,S1,trigrams,proprietary controllers,2,,0,,controller|controllers|proprietary,3,1.0,True
+civitas maintenance support,2,CONTROL,S1,trigrams,civitas maintenance support,3,,0,,civitas|maintenance support,2,1.0,True
+their integrated architecture,2,CONTROL,S1,trigrams,integrated architecture,2,,0,,architecture|integrated,2,1.0,True
+novagrid novagrid s,2,CONTROL,S1,trigrams,novagrid novagrid,2,,0,,novagrid,1,1.0,True
+integrated controller architecture,2,CONTROL,S1,trigrams,integrated controller architecture,3,,0,,controller|architecture|integrated,3,1.0,True
+the integrated civitas,2,CONTROL,S1,trigrams,integrated civitas,2,,0,,civitas|integrated,2,1.0,True
+civitas s modular,3,HYBRID_3_5,S1,trigrams,civitas modular,2,,0,,civitas|modular,2,1.0,True
+civitas integrated controller,2,HYBRID_3_5,S1,trigrams,civitas integrated controller,3,,0,,civitas|controller|integrated,3,1.0,True
+cloud recurring fees,2,HYBRID_3_5,S1,trigrams,cloud recurring fees,3,,0,,cloud|recurring fee|recurring fees,3,1.0,True
+essential infrastructure not,2,HYBRID_3_5,S1,trigrams,essential infrastructure,2,,0,,infrastructure|essential infrastructure,2,1.0,True
+modular controllers are,2,HYBRID_3_5,S1,trigrams,modular controllers,2,,0,,controller|controllers|modular,3,1.0,True
+the cloud failover,2,HYBRID_3_5,S1,trigrams,cloud failover,2,,0,,cloud|failover,2,1.0,True
+essential infrastructure an,2,HYBRID_3_5,S1,trigrams,essential infrastructure,2,,0,,infrastructure|essential infrastructure,2,1.0,True
+a waiver cloud,2,HYBRID_3_5,S1,trigrams,waiver cloud,2,,0,,cloud|waiver,2,1.0,True
+the integrated architecture,2,HYBRID_3_5,S1,trigrams,integrated architecture,2,,0,,architecture|integrated,2,1.0,True
+a lead time,2,HYBRID_3_5,S1,trigrams,lead time,2,,0,,lead time,1,1.0,True
+is highway signal,2,HYBRID_SEMANTIC,S1,trigrams,highway signal,2,,0,,signal|highway,2,1.0,True
+lead times modular,2,HYBRID_SEMANTIC,S1,trigrams,lead times modular,3,,0,,modular|lead time|lead times,3,1.0,True
+lead time is,2,HYBRID_SEMANTIC,S1,trigrams,lead time,2,,0,,lead time,1,1.0,True
+a cloud failover,2,HYBRID_SEMANTIC,S1,trigrams,cloud failover,2,,0,,cloud|failover,2,1.0,True
+can civitas modular,2,HYBRID_SEMANTIC,S1,trigrams,civitas modular,2,,0,,civitas|modular,2,1.0,True

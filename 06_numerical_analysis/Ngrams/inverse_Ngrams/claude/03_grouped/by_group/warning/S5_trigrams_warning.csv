@@ -1,0 +1,11 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+approves low risk,2,AC15,S5,trigrams,approves low risk,3,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+worried enough to,2,AC15,S5,trigrams,worried enough,2,,0,,,0,0.0,False,warning,warning,1,1,0,1,,warning,worried,False
+to de risk,2,AC15P,S5,trigrams,de risk,2,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+staleness risk is,2,AC15P,S5,trigrams,staleness risk,2,practicality_and_feasibility,1,risk,staleness,1,0.5,False,temporal_projection|warning,temporal_projection.decay_and_currency|warning,2,2,1,1,temporal_projection,warning,risk|staleness,False
+isolation s concern,2,AC15P,S5,trigrams,isolation concern,2,,0,,,0,0.0,False,warning,warning,1,1,0,1,,warning,concern,False
+risk unless governed,2,HYBRID_3_5,S5,trigrams,risk unless governed,3,practicality_and_feasibility,1,risk,,0,0.0,False,conditions|warning,conditions|warning,2,2,0,2,,conditions|warning,risk|unless,False
+staleness risk unless,2,HYBRID_3_5,S5,trigrams,staleness risk unless,3,practicality_and_feasibility,1,risk,staleness,1,0.3333333333333333,False,conditions|temporal_projection|warning,conditions|temporal_projection.decay_and_currency|warning,3,3,1,2,temporal_projection,conditions|warning,risk|staleness|unless,False
+high anchoring risk,2,HYBRID_SEMANTIC,S5,trigrams,high anchoring risk,3,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+risk frequent retrieval,2,HYBRID_SEMANTIC,S5,trigrams,risk frequent retrieval,3,practicality_and_feasibility,1,risk,retrieval,1,0.3333333333333333,False,warning,warning,1,1,0,1,,warning,risk,False
+isolation argument risk,2,HYBRID_SEMANTIC,S5,trigrams,isolation argument risk,3,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False

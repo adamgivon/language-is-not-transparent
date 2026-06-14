@@ -1,0 +1,13 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+of these become likely,2,AC15,S3,quadgrams,these become likely,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,likely,False
+you re statistically likely,2,AC15,S3,quadgrams,statistically likely,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,likely,False
+re statistically likely to,2,AC15,S3,quadgrams,statistically likely,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,likely,False
+zones may shift so,2,AC15P,S3,quadgrams,zones may shift,3,temporal_dynamics,1,shift,,0,0.0,False,hedging|temporal_projection,hedging|temporal_projection.change_and_rate,2,2,1,1,temporal_projection,hedging,may|shift,False
+i would treat as,2,AC15P,S3,quadgrams,i treat,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,i would,False
+then the balance usually,2,AC15P,S3,quadgrams,then balance usually,3,,0,,,0,0.0,False,hedging|smoothing,hedging|smoothing,2,2,0,2,,hedging|smoothing,balance|usually,False
+the balance usually lies,2,AC15P,S3,quadgrams,balance usually lies,3,,0,,,0,0.0,False,hedging|smoothing,hedging|smoothing,2,2,0,2,,hedging|smoothing,balance|usually,False
+balance usually lies toward,2,AC15P,S3,quadgrams,balance usually lies toward,4,,0,,,0,0.0,False,hedging|smoothing,hedging|smoothing,2,2,0,2,,hedging|smoothing,balance|usually,False
+may be underestimating how,2,CONTROL,S3,quadgrams,may underestimating how,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,may,False
+you may avoid both,2,HYBRID_3_5,S3,quadgrams,may avoid both,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,may,False
+launch broadly with a,2,HYBRID_3_5,S3,quadgrams,launch broadly,2,,0,,launch,1,0.5,False,hedging|practical_considerations_and_execution,hedging|practical_considerations_and_execution.action_and_execution,2,2,1,1,practical_considerations_and_execution,hedging,broadly|launch,False
+could occur over a,2,HYBRID_SEMANTIC,S3,quadgrams,could occur over,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,could,False

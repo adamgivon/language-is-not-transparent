@@ -1,0 +1,12 @@
+system,word,scenarios_present,scenarios,total_count_in_system,is_scenario_term,band,technical_artifact
+AC15,i,3,S1|S3|S7,24,False,function_residue,False
+AC15,how,3,S1|S5|S7,14,False,function_residue,False
+AC15,like,3,S1|S5|S7,8,False,function_residue,False
+AC15P,i,4,S1|S3|S5|S7,22,False,function_residue,False
+AC15P,ll,3,S1|S3|S7,9,False,function_residue,False
+CONTROL,i,3,S3|S5|S7,13,False,function_residue,False
+CONTROL,just,3,S1|S3|S5,8,False,function_residue,False
+HYBRID_3_5,like,3,S1|S3|S7,13,False,function_residue,False
+HYBRID_3_5,i,3,S1|S3|S7,11,False,function_residue,False
+HYBRID_3_5,make,3,S1|S3|S5,10,False,function_residue,False
+HYBRID_SEMANTIC,how,3,S1|S5|S7,11,False,function_residue,False

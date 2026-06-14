@@ -1,0 +1,7 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+you ve tested ordinary,2,HYBRID_3_5,S7,quadgrams,tested ordinary,2,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,tested,False
+your risk checks a,2,HYBRID_SEMANTIC,S7,quadgrams,risk checks,2,practicality_and_feasibility,1,risk,,0,0.0,False,truth|warning,truth.verification|warning,2,2,1,1,truth,warning,checks|risk,False
+answer isn t proof,2,HYBRID_SEMANTIC,S7,quadgrams,answer isn proof,3,truth_and_fact,1,proof,,0,0.0,False,surfacing|truth,surfacing.confrontation|truth.verification,2,2,1,1,truth,surfacing,isn t|proof,False
+isn t proof of,2,HYBRID_SEMANTIC,S7,quadgrams,isn proof,2,truth_and_fact,1,proof,,0,0.0,False,surfacing|truth,surfacing.confrontation|truth.verification,2,2,1,1,truth,surfacing,isn t|proof,False
+to generate real evidence,2,HYBRID_SEMANTIC,S7,quadgrams,generate real evidence,3,truth_and_fact,1,evidence,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+how to check ask,2,HYBRID_SEMANTIC,S7,quadgrams,how check ask,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,check,False

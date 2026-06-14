@@ -1,0 +1,15 @@
+system,band,rows,sum_count,sum_share_within_recurring_word_table,share_of_total_tokens,rate_per_10k_tokens
+AC15,borderline,7,96,0.558140,0.000790,7.897
+AC15,content_signature,3,30,0.174419,0.000247,2.468
+AC15,function_residue,3,46,0.267442,0.000378,3.784
+AC15P,borderline,8,150,0.588235,0.001197,11.966
+AC15P,content_signature,4,74,0.290196,0.000590,5.903
+AC15P,function_residue,2,31,0.121569,0.000247,2.473
+CONTROL,borderline,2,21,0.500000,0.000201,2.012
+CONTROL,function_residue,2,21,0.500000,0.000201,2.012
+HYBRID_3_5,borderline,5,60,0.444444,0.000527,5.269
+HYBRID_3_5,content_signature,3,41,0.303704,0.000360,3.601
+HYBRID_3_5,function_residue,3,34,0.251852,0.000299,2.986
+HYBRID_SEMANTIC,borderline,5,74,0.459627,0.000615,6.148
+HYBRID_SEMANTIC,content_signature,5,76,0.472050,0.000631,6.315
+HYBRID_SEMANTIC,function_residue,1,11,0.068323,0.000091,0.914

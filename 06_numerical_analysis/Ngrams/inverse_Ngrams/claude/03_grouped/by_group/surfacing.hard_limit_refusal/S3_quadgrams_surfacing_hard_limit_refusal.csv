@@ -1,0 +1,14 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+can t guarantee geofence,2,AC15,S3,quadgrams,guarantee geofence,2,,0,,geofence,1,0.5,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,can t,False
+the system cannot guarantee,2,AC15P,S3,quadgrams,system cannot guarantee,3,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,cannot,False
+won t protect you,2,AC15P,S3,quadgrams,won protect,2,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,won t,False
+will not sign unbounded,2,AC15P,S3,quadgrams,will sign unbounded,3,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,will not,False
+they won t you,2,AC15P,S3,quadgrams,they won,2,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,won t,False
+safety authority won t,3,CONTROL,S3,quadgrams,safety authority won,3,,0,,,0,0.0,False,autonomy_sovereignty|surfacing,autonomy_sovereignty|surfacing.hard_limit_refusal,2,2,0,2,,autonomy_sovereignty|surfacing,authority|won t,False
+authority won t sign,3,CONTROL,S3,quadgrams,authority won sign,3,,0,,,0,0.0,False,autonomy_sovereignty|surfacing,autonomy_sovereignty|surfacing.hard_limit_refusal,2,2,0,2,,autonomy_sovereignty|surfacing,authority|won t,False
+a non negotiable hardware,2,CONTROL,S3,quadgrams,non negotiable hardware,3,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,non negotiable,False
+cannot be the primary,2,CONTROL,S3,quadgrams,cannot primary,2,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,cannot,False
+missions cannot be launched,2,CONTROL,S3,quadgrams,missions cannot launched,3,,0,,launch,1,0.0,False,practical_considerations_and_execution|surfacing,practical_considerations_and_execution.action_and_execution|surfacing.hard_limit_refusal,2,2,1,1,practical_considerations_and_execution,surfacing,cannot|launched,False
+cannot be launched outside,2,CONTROL,S3,quadgrams,cannot launched outside,3,,0,,launch,1,0.0,False,practical_considerations_and_execution|surfacing,practical_considerations_and_execution.action_and_execution|surfacing.hard_limit_refusal,2,2,1,1,practical_considerations_and_execution,surfacing,cannot|launched,False
+partner won t accept,2,HYBRID_SEMANTIC,S3,quadgrams,partner won accept,3,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,won t,False
+won t sign you,2,HYBRID_SEMANTIC,S3,quadgrams,won sign,2,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,won t,False

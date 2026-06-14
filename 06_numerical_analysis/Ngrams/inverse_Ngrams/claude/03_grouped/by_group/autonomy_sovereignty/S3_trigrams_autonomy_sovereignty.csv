@@ -1,0 +1,16 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+a binary choice,2,AC15,S3,trigrams,binary choice,2,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,choice,False
+you choose between,2,AC15P,S3,trigrams,choose between,2,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,choose|you choose,False
+stop ops authority,4,CONTROL,S3,trigrams,stop ops authority,3,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,authority,False
+your safety authority,3,CONTROL,S3,trigrams,safety authority,2,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,authority,False
+safety authority won,3,CONTROL,S3,trigrams,safety authority won,3,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,authority,False
+authority won t,3,CONTROL,S3,trigrams,authority won,2,,0,,,0,0.0,False,autonomy_sovereignty|surfacing,autonomy_sovereignty|surfacing.hard_limit_refusal,2,2,0,2,,autonomy_sovereignty|surfacing,authority|won t,False
+responsible technical authority,10,HYBRID_3_5,S3,trigrams,responsible technical authority,3,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,authority,False
+technical authority sign,7,HYBRID_3_5,S3,trigrams,technical authority sign,3,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,authority,False
+authority sign off,7,HYBRID_3_5,S3,trigrams,authority sign off,3,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,authority,False
+you must choose,2,HYBRID_3_5,S3,trigrams,must choose,2,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,choose,False
+technical authority will,2,HYBRID_3_5,S3,trigrams,technical authority will,3,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,authority,False
+authority must sign,2,HYBRID_3_5,S3,trigrams,authority must sign,3,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,authority,False
+safety authority has,2,HYBRID_3_5,S3,trigrams,safety authority has,3,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,authority,False
+named technical authority,2,HYBRID_3_5,S3,trigrams,named technical authority,3,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,authority,False
+re deciding whether,2,HYBRID_SEMANTIC,S3,trigrams,deciding whether,2,,0,,,0,0.0,False,autonomy_sovereignty|conditions,autonomy_sovereignty|conditions,2,2,0,2,,autonomy_sovereignty|conditions,deciding|whether,False

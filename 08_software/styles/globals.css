@@ -1,0 +1,58 @@
+/* globals.css */
+
+body {
+  background-color: #000;
+  color: #fff;
+  font-size: 14px;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+textarea,
+input,
+button {
+  color: white;
+  background-color: #111;
+  border: 1px solid #444;
+}
+
+aside {
+  background-color: #000;
+  color: #fff;
+}
+
+main {
+  background-color: #000;
+  color: #fff;
+}
+
+::placeholder {
+  color: #888;
+}
+
+/* >>> BEGIN layout additions */
+.app-root {
+  display: grid;
+  grid-template-columns: 280px 1fr 340px; /* left, center, right */
+  height: 100vh;
+}
+
+.left {
+  border-right: 1px solid #333;
+  overflow: auto;
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.right {
+  border-left: 1px solid #333;
+  overflow: auto;
+  background: #111;
+}
+/* <<< END layout additions */
+

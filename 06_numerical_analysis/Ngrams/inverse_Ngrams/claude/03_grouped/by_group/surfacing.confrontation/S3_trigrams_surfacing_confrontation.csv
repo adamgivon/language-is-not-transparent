@@ -1,0 +1,6 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+doesn t make,2,AC15,S3,trigrams,doesn make,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn|doesn t,False
+those aren t,2,AC15P,S3,trigrams,those aren,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,aren t,False
+gnss multipath denial,2,HYBRID_3_5,S3,trigrams,gnss multipath denial,3,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,denial,False
+doesn t equal,4,HYBRID_SEMANTIC,S3,trigrams,doesn equal,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn|doesn t,False
+abort doesn t,2,HYBRID_SEMANTIC,S3,trigrams,abort doesn,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn|doesn t,False

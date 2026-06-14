@@ -1,0 +1,15 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+won t amend,2,AC15,S3,trigrams,won amend,2,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,won t,False
+claims we cannot,2,AC15P,S3,trigrams,claims cannot,2,truth_and_fact,1,claims,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,cannot,False
+system cannot guarantee,2,AC15P,S3,trigrams,system cannot guarantee,3,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,cannot,False
+won t protect,2,AC15P,S3,trigrams,won protect,2,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,won t,False
+hard no fly,2,AC15P,S3,trigrams,hard no fly,3,,0,,,0,0.0,False,surfacing,surfacing.friction_exposed|surfacing.hard_limit_refusal,1,2,0,1,,surfacing,hard|hard no,False
+as non negotiable,2,AC15P,S3,trigrams,non negotiable,2,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,non negotiable,False
+a non negotiable,3,CONTROL,S3,trigrams,non negotiable,2,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,non negotiable,False
+authority won t,3,CONTROL,S3,trigrams,authority won,2,,0,,,0,0.0,False,autonomy_sovereignty|surfacing,autonomy_sovereignty|surfacing.hard_limit_refusal,2,2,0,2,,autonomy_sovereignty|surfacing,authority|won t,False
+non negotiable hardware,2,CONTROL,S3,trigrams,non negotiable hardware,3,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,non negotiable,False
+missions cannot be,2,CONTROL,S3,trigrams,missions cannot,2,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,cannot,False
+cannot be launched,2,CONTROL,S3,trigrams,cannot launched,2,,0,,launch,1,0.0,False,practical_considerations_and_execution|surfacing,practical_considerations_and_execution.action_and_execution|surfacing.hard_limit_refusal,2,2,1,1,practical_considerations_and_execution,surfacing,cannot|launched,False
+geofence patch cannot,2,HYBRID_3_5,S3,trigrams,geofence patch cannot,3,,0,,geofence,1,0.3333333333333333,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,cannot,False
+customers won t,2,HYBRID_SEMANTIC,S3,trigrams,customers won,2,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,won t,False
+non negotiable you,2,HYBRID_SEMANTIC,S3,trigrams,non negotiable,2,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,non negotiable,False

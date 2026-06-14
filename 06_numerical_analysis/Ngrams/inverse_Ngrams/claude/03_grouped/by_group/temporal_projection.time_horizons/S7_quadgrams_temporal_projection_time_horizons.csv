@@ -1,0 +1,17 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+a long term partner,3,AC15,S7,quadgrams,long term partner,3,temporal_dynamics,1,long term,partner,1,0.3333333333333333,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,long term,False
+from a long term,2,AC15,S7,quadgrams,long term,2,temporal_dynamics,1,long term,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,long term,False
+about years from now,2,AC15,S7,quadgrams,about years now,3,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,years from now,False
+years from now what,2,AC15,S7,quadgrams,years now,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,years from now,False
+my health changes later,2,AC15,S7,quadgrams,my health changes later,4,,0,,health,1,0.25,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,later,False
+early in the trial,2,AC15,S7,quadgrams,early trial,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,early,False
+in years you she,3,AC15P,S7,quadgrams,years she,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,in years,False
+or buy property early,2,AC15P,S7,quadgrams,buy property early,3,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,early,False
+you she in years,2,AC15P,S7,quadgrams,she years,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,in years,False
+she in years you,2,AC15P,S7,quadgrams,she years,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,in years,False
+healthcare and long term,2,CONTROL,S7,quadgrams,healthcare long term,3,temporal_dynamics,1,long term,healthcare|health,2,0.3333333333333333,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,long term,False
+a good long term,2,HYBRID_3_5,S7,quadgrams,good long term,3,temporal_dynamics,1,long term,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,long term,False
+and long term compromise,2,HYBRID_3_5,S7,quadgrams,long term compromise,3,temporal_dynamics,1,long term,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,long term,False
+to fake over time,2,HYBRID_3_5,S7,quadgrams,fake over time,3,temporal_dynamics,1,over time,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,over time,False
+most regret in years,2,HYBRID_SEMANTIC,S7,quadgrams,most regret years,3,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,in years,False
+parents now and later,2,HYBRID_SEMANTIC,S7,quadgrams,parents now later,3,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,later,False

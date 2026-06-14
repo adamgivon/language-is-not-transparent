@@ -1,0 +1,9 @@
+scenario,level,raw_inverse,core_filtered,constraint_candidates,high_count_no_hit,scenario_driven
+S1,trigrams,62482,1270,208,151,30
+S3,trigrams,56034,1252,126,153,4
+S5,trigrams,47724,891,143,124,10
+S7,trigrams,57152,960,76,98,7
+S1,quadgrams,75137,832,163,80,37
+S3,quadgrams,65861,724,68,69,9
+S5,quadgrams,54294,462,101,39,2
+S7,quadgrams,69226,700,47,62,5

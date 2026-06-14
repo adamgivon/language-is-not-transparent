@@ -1,0 +1,48 @@
+scenario,scenario_label,level,system,ngram,count,token_len,rank_within_system,system_sum_count,count_share_in_system,owner_count,owner_systems,global_ngram_count,content_token_count,content_token_ratio,scaffold_prefix,has_scaffold_prefix,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy
+S7,Scenario 7 - Quadgrams,quadgrams,AC15,a long term partner,3,4,27,15787,0.00019,1,AC15,3,3,0.75,,False,temporal_dynamics,1,long term,partner,1,0.333333,False
+S7,Scenario 7 - Quadgrams,quadgrams,AC15,practical benefits are delayed,2,4,252,15787,0.000127,1,AC15,2,3,0.75,,False,practicality_and_feasibility,1,practical,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,AC15,to defeat sunk cost,2,4,311,15787,0.000127,1,AC15,2,3,0.75,,False,practicality_and_feasibility,1,cost,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,AC15,cost if you tell,2,4,109,15787,0.000127,1,AC15,2,2,0.5,,False,practicality_and_feasibility,1,cost,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,AC15,from a long term,2,4,145,15787,0.000127,1,AC15,2,2,0.5,,False,temporal_dynamics,1,long term,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,AC15,honest answer is you,2,4,161,15787,0.000127,1,AC15,2,2,0.5,,False,truth_and_fact,1,honest,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,AC15,the honest answer is,2,4,301,15787,0.000127,1,AC15,2,2,0.5,,False,truth_and_fact,1,honest,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,AC15P,decision extend trial shift,2,4,130,16661,0.00012,1,AC15P,2,4,1.0,,False,temporal_dynamics,1,shift,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,AC15P,extend trial shift to,2,4,145,16661,0.00012,1,AC15P,2,3,0.75,,False,temporal_dynamics,1,shift,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,AC15P,phased plan that matches,2,4,256,16661,0.00012,1,AC15P,2,3,0.75,,False,temporal_dynamics,1,phased,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,AC15P,shift to dual base,2,4,282,16661,0.00012,1,AC15P,2,3,0.75,,False,temporal_dynamics,1,shift,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,AC15P,trial shift to dual,2,4,327,16661,0.00012,1,AC15P,2,3,0.75,,False,temporal_dynamics,1,shift,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,AC15P,honest move is to,2,4,173,16661,0.00012,1,AC15P,2,2,0.5,,False,truth_and_fact,1,honest,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,AC15P,the cost of living,2,4,309,16661,0.00012,1,AC15P,2,2,0.5,,False,practicality_and_feasibility,1,cost,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,AC15P,the honest move is,2,4,312,16661,0.00012,1,AC15P,2,2,0.5,,False,truth_and_fact,1,honest,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,AC15P,with a phased plan,2,4,357,16661,0.00012,1,AC15P,2,2,0.5,,False,temporal_dynamics,1,phased,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,CONTROL,tail risk before permanence,2,4,219,15174,0.000132,1,CONTROL,2,4,1.0,,False,practicality_and_feasibility,1,risk,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,CONTROL,healthcare and long term,2,4,128,15174,0.000132,1,CONTROL,2,3,0.75,,False,temporal_dynamics,1,long term,healthcare,1,0.333333,False
+S7,Scenario 7 - Quadgrams,quadgrams,CONTROL,keeping your exit options,2,4,165,15174,0.000132,1,CONTROL,2,3,0.75,,False,imagination_and_possibility,1,options,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,CONTROL,may be less reliable,2,4,179,15174,0.000132,1,CONTROL,2,3,0.75,,False,truth_and_fact,1,reliable,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,CONTROL,return to home option,2,4,207,15174,0.000132,1,CONTROL,2,3,0.75,,False,imagination_and_possibility,1,option,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,CONTROL,timeline money and family,2,4,238,15174,0.000132,1,CONTROL,2,3,0.75,,False,practicality_and_feasibility;temporal_dynamics,1,timeline,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,CONTROL,your exit options intact,2,4,305,15174,0.000132,1,CONTROL,2,3,0.75,,False,imagination_and_possibility,1,options,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,CONTROL,vasectomy and what options,2,4,246,15174,0.000132,1,CONTROL,2,2,0.5,,False,imagination_and_possibility,1,options,vasectomy,1,0.5,False
+S7,Scenario 7 - Quadgrams,quadgrams,HYBRID_3_5,a good long term,2,4,61,15205,0.000132,1,HYBRID_3_5,2,3,0.75,,False,temporal_dynamics,1,long term,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,HYBRID_3_5,and long term compromise,2,4,68,15205,0.000132,1,HYBRID_3_5,2,3,0.75,,False,temporal_dynamics,1,long term,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,HYBRID_3_5,biggest structural risk if,2,4,81,15205,0.000132,1,HYBRID_3_5,2,3,0.75,,False,practicality_and_feasibility,1,risk,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,HYBRID_3_5,obligations and money boundaries,2,4,183,15205,0.000132,1,HYBRID_3_5,2,3,0.75,,False,imagination_and_possibility,1,boundaries,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,HYBRID_3_5,risk if i have,2,4,202,15205,0.000132,1,HYBRID_3_5,2,3,0.75,,False,practicality_and_feasibility,1,risk,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,HYBRID_3_5,structural risk if i,2,4,220,15205,0.000132,1,HYBRID_3_5,2,3,0.75,,False,practicality_and_feasibility,1,risk,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,HYBRID_3_5,to fake over time,2,4,240,15205,0.000132,1,HYBRID_3_5,2,3,0.75,,False,temporal_dynamics,1,over time,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,HYBRID_3_5,your biggest structural risk,2,4,294,15205,0.000132,1,HYBRID_3_5,2,3,0.75,,False,practicality_and_feasibility,1,risk,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,HYBRID_3_5,at higher risk of,2,4,76,15205,0.000132,1,HYBRID_3_5,2,2,0.5,,False,practicality_and_feasibility,1,risk,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,HYBRID_3_5,re at higher risk,2,4,197,15205,0.000132,1,HYBRID_3_5,2,2,0.5,,False,practicality_and_feasibility,1,risk,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,HYBRID_3_5,your main risk is,2,4,296,15205,0.000132,1,HYBRID_3_5,2,2,0.5,,False,practicality_and_feasibility,1,risk,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,HYBRID_SEMANTIC,home base option until,2,4,163,15662,0.000128,1,HYBRID_SEMANTIC,2,4,1.0,,False,imagination_and_possibility,1,option,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,HYBRID_SEMANTIC,timeline money family expectations,2,4,288,15662,0.000128,1,HYBRID_SEMANTIC,2,4,1.0,,False,practicality_and_feasibility;temporal_dynamics,1,timeline,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,HYBRID_SEMANTIC,willingness limits marriage timeline,2,4,329,15662,0.000128,1,HYBRID_SEMANTIC,2,4,1.0,,False,practicality_and_feasibility;temporal_dynamics,1,timeline,marriage,1,0.25,False
+S7,Scenario 7 - Quadgrams,quadgrams,HYBRID_SEMANTIC,answer isn t proof,2,4,90,15662,0.000128,1,HYBRID_SEMANTIC,2,3,0.75,,False,truth_and_fact,1,proof,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,HYBRID_SEMANTIC,imagine our plan is,2,4,188,15662,0.000128,1,HYBRID_SEMANTIC,2,3,0.75,,False,imagination_and_possibility,1,imagine,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,HYBRID_SEMANTIC,to generate real evidence,2,4,291,15662,0.000128,1,HYBRID_SEMANTIC,2,3,0.75,,False,truth_and_fact,1,evidence,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,HYBRID_SEMANTIC,you imagine our plan,2,4,353,15662,0.000128,1,HYBRID_SEMANTIC,2,3,0.75,,False,imagination_and_possibility,1,imagine,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,HYBRID_SEMANTIC,boundaries would you want,2,4,102,15662,0.000128,1,HYBRID_SEMANTIC,2,2,0.5,,False,imagination_and_possibility,1,boundaries,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,HYBRID_SEMANTIC,is a rare opportunity,2,4,194,15662,0.000128,1,HYBRID_SEMANTIC,2,2,0.5,,False,imagination_and_possibility,1,opportunity,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,HYBRID_SEMANTIC,isn t proof of,2,4,197,15662,0.000128,1,HYBRID_SEMANTIC,2,2,0.5,,False,truth_and_fact,1,proof,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,HYBRID_SEMANTIC,timeline for you moving,2,4,287,15662,0.000128,1,HYBRID_SEMANTIC,2,2,0.5,,False,practicality_and_feasibility;temporal_dynamics,1,timeline,,0,0.0,False
+S7,Scenario 7 - Quadgrams,quadgrams,HYBRID_SEMANTIC,your risk checks a,2,4,364,15662,0.000128,1,HYBRID_SEMANTIC,2,2,0.5,,False,practicality_and_feasibility,1,risk,,0,0.0,False

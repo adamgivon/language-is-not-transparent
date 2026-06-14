@@ -1,0 +1,6 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+honest answer is,2,AC15,S7,trigrams,honest answer,2,truth_and_fact,1,honest,,0,0.0,False,truth,truth.plain_statement,1,1,1,0,truth,,honest,False
+your mind honest,2,AC15P,S7,trigrams,mind honest,2,truth_and_fact,1,honest,,0,0.0,False,truth,truth.plain_statement,1,1,1,0,truth,,honest,False
+the honest move,2,AC15P,S7,trigrams,honest move,2,truth_and_fact,1,honest,,0,0.0,False,truth,truth.plain_statement,1,1,1,0,truth,,honest,False
+honest move is,2,AC15P,S7,trigrams,honest move,2,truth_and_fact,1,honest,,0,0.0,False,truth,truth.plain_statement,1,1,1,0,truth,,honest,False
+said it plainly,2,CONTROL,S7,trigrams,said plainly,2,,0,,,0,0.0,False,surfacing|truth,surfacing.confrontation|truth.plain_statement,2,2,1,1,truth,surfacing,plainly,False

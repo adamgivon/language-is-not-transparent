@@ -1,0 +1,2 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+docs merged code adrs,2,HYBRID_SEMANTIC,S5,quadgrams,docs merged code adrs,4,,0,,code,1,0.25,False,smoothing,smoothing,1,1,0,1,,smoothing,merged,False

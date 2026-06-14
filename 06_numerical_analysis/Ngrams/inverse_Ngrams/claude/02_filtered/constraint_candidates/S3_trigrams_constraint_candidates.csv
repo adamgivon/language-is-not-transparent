@@ -1,0 +1,127 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy
+operationally non disruptive,3,AC15,S3,trigrams,operationally non disruptive,3,temporal_dynamics,1,disruptive,,0,0.0,False
+and penalty schedule,3,AC15,S3,trigrams,penalty schedule,2,practicality_and_feasibility,1,schedule,,0,0.0,False
+cost of disruption,2,AC15,S3,trigrams,cost disruption,2,practicality_and_feasibility|temporal_dynamics,2,cost|disruption,,0,0.0,False
+reliable detection mitigation,2,AC15,S3,trigrams,reliable detection mitigation,3,truth_and_fact|practicality_and_feasibility,2,reliable|mitigation,,0,0.0,False
+unreliable before you,2,AC15,S3,trigrams,unreliable before,2,truth_and_fact,1,unreliable,,0,0.0,False
+a more robust,2,AC15,S3,trigrams,more robust,2,temporal_dynamics,1,robust,,0,0.0,False
+more robust nav,2,AC15,S3,trigrams,more robust nav,3,temporal_dynamics,1,robust,,0,0.0,False
+robust nav mode,2,AC15,S3,trigrams,robust nav mode,3,temporal_dynamics,1,robust,,0,0.0,False
+constrained launch parallel,2,AC15,S3,trigrams,constrained launch parallel,3,practicality_and_feasibility,1,constrained,launch,1,0.3333333333333333,False
+de risked execution,2,AC15,S3,trigrams,de risked execution,3,practicality_and_feasibility,1,execution,,0,0.0,False
+risked execution not,2,AC15,S3,trigrams,risked execution,2,practicality_and_feasibility,1,execution,,0,0.0,False
+shielding prototype validated,2,AC15,S3,trigrams,shielding prototype validated,3,imagination_and_possibility,1,prototype,shielding,1,0.3333333333333333,False
+prototype validated evt,2,AC15,S3,trigrams,prototype validated evt,3,imagination_and_possibility,1,prototype,,0,0.0,False
+credible worst case,2,AC15,S3,trigrams,credible worst case,3,truth_and_fact,1,credible,,0,0.0,False
+sla commissioning phase,2,AC15,S3,trigrams,sla commissioning phase,3,temporal_dynamics,1,phase,,0,0.0,False
+detection proactive mitigation,2,AC15,S3,trigrams,detection proactive mitigation,3,practicality_and_feasibility,1,mitigation,,0,0.0,False
+the near term,2,AC15,S3,trigrams,near term,2,temporal_dynamics,1,near term,,0,0.0,False
+if zones shift,2,AC15,S3,trigrams,zones shift,2,temporal_dynamics,1,shift,,0,0.0,False
+claims are truthful,2,AC15,S3,trigrams,claims truthful,2,truth_and_fact,1,claims,,0,0.0,False
+rev b timeline,2,AC15,S3,trigrams,rev b timeline,3,practicality_and_feasibility,1,timeline,,0,0.0,False
+penalty schedule expected,2,AC15,S3,trigrams,penalty schedule expected,3,practicality_and_feasibility,1,schedule,,0,0.0,False
+public claims no,2,AC15,S3,trigrams,public claims no,3,truth_and_fact,1,claims,,0,0.0,False
+market window without,2,AC15,S3,trigrams,market window without,3,temporal_dynamics,1,window,,0,0.0,False
+window without sacrificing,2,AC15,S3,trigrams,window without sacrificing,3,temporal_dynamics,1,window,,0,0.0,False
+controls software constraints,2,AC15,S3,trigrams,controls software constraints,3,practicality_and_feasibility,1,constraints,,0,0.0,False
+nav uncertainty and,2,AC15,S3,trigrams,nav uncertainty,2,truth_and_fact,1,uncertainty,,0,0.0,False
+constrained launch path,2,AC15,S3,trigrams,constrained launch path,3,practicality_and_feasibility,1,constrained,launch,1,0.3333333333333333,False
+rev b execution,2,AC15,S3,trigrams,rev b execution,3,practicality_and_feasibility,1,execution,,0,0.0,False
+verification bench emi,2,AC15,S3,trigrams,verification bench emi,3,truth_and_fact,1,verification,,0,0.0,False
+residual risk statement,3,AC15P,S3,trigrams,residual risk statement,3,practicality_and_feasibility,1,risk,,0,0.0,False
+a qualification phase,3,AC15P,S3,trigrams,qualification phase,2,temporal_dynamics,1,phase,,0,0.0,False
+credible injury pathway,2,AC15P,S3,trigrams,credible injury pathway,3,truth_and_fact|imagination_and_possibility,2,pathway|credible,,0,0.0,False
+on safety claims,2,AC15P,S3,trigrams,safety claims,2,truth_and_fact,1,claims,,0,0.0,False
+landing zone constraints,2,AC15P,S3,trigrams,landing zone constraints,3,practicality_and_feasibility,1,constraints,,0,0.0,False
+economic control cost,2,AC15P,S3,trigrams,economic control cost,3,practicality_and_feasibility,1,cost,,0,0.0,False
+expected cost of,2,AC15P,S3,trigrams,expected cost,2,practicality_and_feasibility,1,cost,,0,0.0,False
+cost of delaying,2,AC15P,S3,trigrams,cost delaying,2,practicality_and_feasibility,1,cost,,0,0.0,False
+paid pilot limited,2,AC15P,S3,trigrams,paid pilot limited,3,imagination_and_possibility,1,pilot,,0,0.0,False
+momentum while keeping,2,AC15P,S3,trigrams,momentum while keeping,3,temporal_dynamics,1,momentum,,0,0.0,False
+pilot la until,2,AC15P,S3,trigrams,pilot la until,3,imagination_and_possibility,1,pilot,,0,0.0,False
+an unbounded mitigation,2,AC15P,S3,trigrams,unbounded mitigation,2,practicality_and_feasibility,1,mitigation,,0,0.0,False
+as paid pilot,2,AC15P,S3,trigrams,paid pilot,2,imagination_and_possibility,1,pilot,,0,0.0,False
+in shifting emi,2,AC15P,S3,trigrams,shifting emi,2,temporal_dynamics,1,shifting,,0,0.0,False
+may shift so,2,AC15P,S3,trigrams,may shift,2,temporal_dynamics,1,shift,,0,0.0,False
+short term but,2,AC15P,S3,trigrams,short term,2,temporal_dynamics,1,short term,,0,0.0,False
+paid pilot la,2,AC15P,S3,trigrams,paid pilot la,3,imagination_and_possibility,1,pilot,,0,0.0,False
+risk if early,2,AC15P,S3,trigrams,risk early,2,practicality_and_feasibility,1,risk,,0,0.0,False
+free qualification phase,2,AC15P,S3,trigrams,free qualification phase,3,temporal_dynamics,1,phase,,0,0.0,False
+qualification phase i,2,AC15P,S3,trigrams,qualification phase i,3,temporal_dynamics,1,phase,,0,0.0,False
+phase i can,2,AC15P,S3,trigrams,phase i,2,temporal_dynamics,1,phase,,0,0.0,False
+confirmed the chief,2,AC15P,S3,trigrams,confirmed chief,2,truth_and_fact,1,confirmed,,0,0.0,False
+bounded mitigation is,2,AC15P,S3,trigrams,bounded mitigation,2,practicality_and_feasibility,1,mitigation,,0,0.0,False
+claims we cannot,2,AC15P,S3,trigrams,claims cannot,2,truth_and_fact,1,claims,,0,0.0,False
+with objective criteria,2,AC15P,S3,trigrams,objective criteria,2,truth_and_fact,1,objective,,0,0.0,False
+mission planner constraints,2,AC15P,S3,trigrams,mission planner constraints,3,practicality_and_feasibility,1,constraints,,0,0.0,False
+constrained commercial deployment,4,CONTROL,S3,trigrams,constrained commercial deployment,3,practicality_and_feasibility,1,constrained,,0,0.0,False
+constrained commercial availability,3,CONTROL,S3,trigrams,constrained commercial availability,3,practicality_and_feasibility,1,constrained,,0,0.0,False
+constrained commercial release,3,CONTROL,S3,trigrams,constrained commercial release,3,practicality_and_feasibility,1,constrained,,0,0.0,False
+high consequence operational,3,CONTROL,S3,trigrams,high consequence operational,3,practicality_and_feasibility,1,operational,,0,0.0,False
+any credible scenario,2,CONTROL,S3,trigrams,any credible scenario,3,truth_and_fact|temporal_dynamics|imagination_and_possibility,2,scenario|credible,,0,0.0,False
+interference estimator inconsistency,2,CONTROL,S3,trigrams,interference estimator inconsistency,3,truth_and_fact,1,inconsistency,interference,1,0.3333333333333333,False
+any lateral drift,2,CONTROL,S3,trigrams,any lateral drift,3,imagination_and_possibility,1,lateral,,0,0.0,False
+terms rate maturity,2,CONTROL,S3,trigrams,terms rate maturity,3,temporal_dynamics,1,maturity,,0,0.0,False
+rate maturity covenants,2,CONTROL,S3,trigrams,rate maturity covenants,3,temporal_dynamics,1,maturity,,0,0.0,False
+constraints by design,2,CONTROL,S3,trigrams,constraints design,2,practicality_and_feasibility,1,constraints,,0,0.0,False
+you risk penalties,2,CONTROL,S3,trigrams,risk penalties,2,practicality_and_feasibility,1,risk,,0,0.0,False
+a phased launch,2,CONTROL,S3,trigrams,phased launch,2,temporal_dynamics,1,phased,launch|phased launch,2,1.0,True
+if field data,2,CONTROL,S3,trigrams,field data,2,truth_and_fact,1,data,,0,0.0,False
+field data violates,2,CONTROL,S3,trigrams,field data violates,3,truth_and_fact,1,data,,0,0.0,False
+data violates assumptions,2,CONTROL,S3,trigrams,data violates assumptions,3,truth_and_fact,1,data,,0,0.0,False
+can shift static,2,CONTROL,S3,trigrams,shift static,2,temporal_dynamics,1,shift,,0,0.0,False
+consequence operational hazard,2,CONTROL,S3,trigrams,consequence operational hazard,3,practicality_and_feasibility,1,operational,,0,0.0,False
+tied to objective,2,CONTROL,S3,trigrams,tied objective,2,truth_and_fact,1,objective,,0,0.0,False
+case scenario you,2,CONTROL,S3,trigrams,case scenario,2,temporal_dynamics|imagination_and_possibility,1,scenario,,0,0.0,False
+constrained early access,2,CONTROL,S3,trigrams,constrained early access,3,practicality_and_feasibility,1,constrained,early access,1,0.6666666666666666,False
+stationary emi risk,4,HYBRID_3_5,S3,trigrams,stationary emi risk,3,practicality_and_feasibility,1,risk,,0,0.0,False
+near term mitigation,2,HYBRID_3_5,S3,trigrams,near term mitigation,3,practicality_and_feasibility|temporal_dynamics,2,near term|mitigation,,0,0.0,False
+commercial pilot limited,2,HYBRID_3_5,S3,trigrams,commercial pilot limited,3,imagination_and_possibility,1,pilot,,0,0.0,False
+root cause mitigation,2,HYBRID_3_5,S3,trigrams,root cause mitigation,3,practicality_and_feasibility,1,mitigation,,0,0.0,False
+you have credible,2,HYBRID_3_5,S3,trigrams,have credible,2,truth_and_fact,1,credible,,0,0.0,False
+short maturity hard,2,HYBRID_3_5,S3,trigrams,short maturity hard,3,temporal_dynamics,1,maturity,,0,0.0,False
+your current fallback,2,HYBRID_3_5,S3,trigrams,current fallback,2,practicality_and_feasibility,1,fallback,,0,0.0,False
+current fallback is,2,HYBRID_3_5,S3,trigrams,current fallback,2,practicality_and_feasibility,1,fallback,,0,0.0,False
+a constrained entry,2,HYBRID_3_5,S3,trigrams,constrained entry,2,practicality_and_feasibility,1,constrained,,0,0.0,False
+constrained entry into,2,HYBRID_3_5,S3,trigrams,constrained entry,2,practicality_and_feasibility,1,constrained,,0,0.0,False
+the most realistic,2,HYBRID_3_5,S3,trigrams,most realistic,2,practicality_and_feasibility,1,realistic,,0,0.0,False
+emi risk that,2,HYBRID_3_5,S3,trigrams,emi risk,2,practicality_and_feasibility,1,risk,,0,0.0,False
+only after objective,2,HYBRID_3_5,S3,trigrams,after objective,2,truth_and_fact,1,objective,,0,0.0,False
+after objective reliability,2,HYBRID_3_5,S3,trigrams,after objective reliability,3,truth_and_fact,1,objective,,0,0.0,False
+objective reliability qualification,2,HYBRID_3_5,S3,trigrams,objective reliability qualification,3,truth_and_fact,1,objective,,0,0.0,False
+external claims if,2,HYBRID_3_5,S3,trigrams,external claims,2,truth_and_fact,1,claims,,0,0.0,False
+mitigation geofence patch,2,HYBRID_3_5,S3,trigrams,mitigation geofence patch,3,practicality_and_feasibility,1,mitigation,geofence,1,0.3333333333333333,False
+default control risk,2,HYBRID_3_5,S3,trigrams,default control risk,3,practicality_and_feasibility,1,risk,,0,0.0,False
+a pilot acceptance,5,HYBRID_SEMANTIC,S3,trigrams,pilot acceptance,2,imagination_and_possibility,1,pilot,,0,0.0,False
+pilot acceptance phase,4,HYBRID_SEMANTIC,S3,trigrams,pilot acceptance phase,3,temporal_dynamics|imagination_and_possibility,2,phase|pilot,,0,0.0,False
+pilot terms caps,4,HYBRID_SEMANTIC,S3,trigrams,pilot terms caps,3,imagination_and_possibility,1,pilot,,0,0.0,False
+the interference risk,3,HYBRID_SEMANTIC,S3,trigrams,interference risk,2,practicality_and_feasibility,1,risk,interference,1,0.5,False
+a structured pilot,3,HYBRID_SEMANTIC,S3,trigrams,structured pilot,2,imagination_and_possibility,1,pilot,,0,0.0,False
+paid production pilot,3,HYBRID_SEMANTIC,S3,trigrams,paid production pilot,3,imagination_and_possibility,1,pilot,,0,0.0,False
+production pilot with,3,HYBRID_SEMANTIC,S3,trigrams,production pilot,2,imagination_and_possibility,1,pilot,,0,0.0,False
+access production pilot,3,HYBRID_SEMANTIC,S3,trigrams,access production pilot,3,imagination_and_possibility,1,pilot,,0,0.0,False
+acceptance pilot phase,2,HYBRID_SEMANTIC,S3,trigrams,acceptance pilot phase,3,temporal_dynamics|imagination_and_possibility,2,phase|pilot,,0,0.0,False
+safety relevant risk,2,HYBRID_SEMANTIC,S3,trigrams,safety relevant risk,3,practicality_and_feasibility,1,risk,,0,0.0,False
+hardware fix schedule,2,HYBRID_SEMANTIC,S3,trigrams,hardware fix schedule,3,practicality_and_feasibility,1,schedule,,0,0.0,False
+fix schedule is,2,HYBRID_SEMANTIC,S3,trigrams,fix schedule,2,practicality_and_feasibility,1,schedule,,0,0.0,False
+option c controlled,2,HYBRID_SEMANTIC,S3,trigrams,option c controlled,3,imagination_and_possibility,1,option,,0,0.0,False
+the very execution,2,HYBRID_SEMANTIC,S3,trigrams,very execution,2,practicality_and_feasibility,1,execution,,0,0.0,False
+cost actions to,2,HYBRID_SEMANTIC,S3,trigrams,cost actions,2,practicality_and_feasibility,1,cost,,0,0.0,False
+risk p text,2,HYBRID_SEMANTIC,S3,trigrams,risk p text,3,practicality_and_feasibility,1,risk,,0,0.0,False
+a production pilot,2,HYBRID_SEMANTIC,S3,trigrams,production pilot,2,imagination_and_possibility,1,pilot,,0,0.0,False
+phase with defined,2,HYBRID_SEMANTIC,S3,trigrams,phase defined,2,temporal_dynamics,1,phase,,0,0.0,False
+interference risk at,2,HYBRID_SEMANTIC,S3,trigrams,interference risk,2,practicality_and_feasibility,1,risk,interference,1,0.5,False
+pilot structure and,2,HYBRID_SEMANTIC,S3,trigrams,pilot structure,2,imagination_and_possibility,1,pilot,,0,0.0,False
+pilot acceptance period,2,HYBRID_SEMANTIC,S3,trigrams,pilot acceptance period,3,imagination_and_possibility,1,pilot,,0,0.0,False
+zones might shift,2,HYBRID_SEMANTIC,S3,trigrams,zones might shift,3,temporal_dynamics,1,shift,,0,0.0,False
+constrained launch disqualified,2,HYBRID_SEMANTIC,S3,trigrams,constrained launch disqualified,3,practicality_and_feasibility,1,constrained,launch,1,0.3333333333333333,False
+production pilot in,2,HYBRID_SEMANTIC,S3,trigrams,production pilot,2,imagination_and_possibility,1,pilot,,0,0.0,False
+pilot in qualified,2,HYBRID_SEMANTIC,S3,trigrams,pilot qualified,2,imagination_and_possibility,1,pilot,,0,0.0,False
+monitoring if feasible,2,HYBRID_SEMANTIC,S3,trigrams,monitoring feasible,2,practicality_and_feasibility,1,feasible,,0,0.0,False
+future win rate,2,HYBRID_SEMANTIC,S3,trigrams,future win rate,3,temporal_dynamics,1,future,,0,0.0,False
+at any cost,2,HYBRID_SEMANTIC,S3,trigrams,any cost,2,practicality_and_feasibility,1,cost,,0,0.0,False
+acceptance phase with,2,HYBRID_SEMANTIC,S3,trigrams,acceptance phase,2,temporal_dynamics,1,phase,,0,0.0,False
+phase with reduced,2,HYBRID_SEMANTIC,S3,trigrams,phase reduced,2,temporal_dynamics,1,phase,,0,0.0,False
+timeline retrofit policy,2,HYBRID_SEMANTIC,S3,trigrams,timeline retrofit policy,3,practicality_and_feasibility,1,timeline,,0,0.0,False
+pilot acceptance framework,2,HYBRID_SEMANTIC,S3,trigrams,pilot acceptance framework,3,imagination_and_possibility,1,pilot,,0,0.0,False
+a pilot becomes,2,HYBRID_SEMANTIC,S3,trigrams,pilot becomes,2,imagination_and_possibility,1,pilot,,0,0.0,False

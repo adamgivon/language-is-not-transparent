@@ -1,0 +1,961 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+an exit fund,11,AC15,S7,trigrams,exit fund,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+keep an exit,8,AC15,S7,trigrams,keep exit,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+ordinary life stay,7,AC15,S7,trigrams,ordinary life stay,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+week ordinary life,6,AC15,S7,trigrams,week ordinary life,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+partner not nurse,6,AC15,S7,trigrams,partner nurse,2,,0,,partner,1,0.5,False,,,0,0,0,0,,,,True
+exit fund don,5,AC15,S7,trigrams,exit fund,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+exit fund and,5,AC15,S7,trigrams,exit fund,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+ordinary life trial,4,AC15,S7,trigrams,ordinary life trial,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+what i m,4,AC15,S7,trigrams,i m,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+activity without her,4,AC15,S7,trigrams,activity without her,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+about the future,3,AC15,S7,trigrams,about future,2,temporal_dynamics,1,future,,0,0.0,False,temporal_projection,temporal_projection.past_present_future,1,1,1,0,temporal_projection,,future,False
+a true pilot,3,AC15,S7,trigrams,true pilot,2,imagination_and_possibility,1,pilot,,0,0.0,False,imagination_and_possibility,imagination_and_possibility.path_toward_feasibility,1,1,1,0,imagination_and_possibility,,pilot,False
+t merge finances,3,AC15,S7,trigrams,merge finances,2,,0,,,0,0.0,False,smoothing,smoothing,1,1,0,1,,smoothing,merge,False
+no merged accounts,3,AC15,S7,trigrams,no merged accounts,3,,0,,,0,0.0,False,smoothing,smoothing,1,1,0,1,,smoothing,merged,False
+no merged finances,3,AC15,S7,trigrams,no merged finances,3,,0,,,0,0.0,False,smoothing,smoothing,1,1,0,1,,smoothing,merged,False
+complex care plan,3,AC15,S7,trigrams,complex care plan,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+marriage kids aging,3,AC15,S7,trigrams,marriage kids aging,3,,0,,marriage|aging,2,0.6666666666666666,False,temporal_projection,temporal_projection.decay_and_currency,1,1,1,0,temporal_projection,,aging,False
+family expect from,3,AC15,S7,trigrams,family expect,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+longer ordinary life,3,AC15,S7,trigrams,longer ordinary life,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+normal hours handle,3,AC15,S7,trigrams,normal hours handle,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+get independent legal,3,AC15,S7,trigrams,get independent legal,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+independent legal advice,3,AC15,S7,trigrams,independent legal advice,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+marriage kids family,3,AC15,S7,trigrams,marriage kids family,3,,0,,marriage,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+your citizenship i,3,AC15,S7,trigrams,citizenship i,2,,0,,citizenship,1,0.5,False,,,0,0,0,0,,,,True
+citizenship i can,3,AC15,S7,trigrams,citizenship i,2,,0,,citizenship,1,0.5,False,,,0,0,0,0,,,,True
+your own cognitive,3,AC15,S7,trigrams,own cognitive,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+an week ordinary,3,AC15,S7,trigrams,week ordinary,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+maintain an exit,3,AC15,S7,trigrams,maintain exit,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+two home model,3,AC15,S7,trigrams,two home model,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a longer stay,3,AC15,S7,trigrams,longer stay,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+weekly activity without,3,AC15,S7,trigrams,weekly activity without,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+whether her future,2,AC15,S7,trigrams,whether her future,3,temporal_dynamics,1,future,,0,0.0,False,conditions|temporal_projection,conditions|temporal_projection.past_present_future,2,2,1,1,temporal_projection,conditions,future|whether,False
+pilot plan with,2,AC15,S7,trigrams,pilot plan,2,imagination_and_possibility,1,pilot,,0,0.0,False,imagination_and_possibility|practical_considerations_and_execution,imagination_and_possibility.path_toward_feasibility|practical_considerations_and_execution.action_and_execution,2,2,2,0,imagination_and_possibility|practical_considerations_and_execution,,pilot|plan,False
+the staged plan,2,AC15,S7,trigrams,staged plan,2,,0,,,0,0.0,False,practical_considerations_and_execution|temporal_projection,practical_considerations_and_execution.action_and_execution|temporal_projection.change_and_rate,2,2,2,0,practical_considerations_and_execution|temporal_projection,,plan|staged,False
+plan so neither,2,AC15,S7,trigrams,plan neither,2,,0,,,0,0.0,False,imagination_and_possibility|practical_considerations_and_execution,imagination_and_possibility.tension_as_fuel|practical_considerations_and_execution.action_and_execution,2,2,2,0,imagination_and_possibility|practical_considerations_and_execution,,neither|plan,False
+the danger isn,2,AC15,S7,trigrams,danger isn,2,,0,,,0,0.0,False,surfacing|warning,surfacing.confrontation|warning,2,2,0,2,,surfacing|warning,danger|the danger is,False
+danger isn t,2,AC15,S7,trigrams,danger isn,2,,0,,,0,0.0,False,surfacing|warning,surfacing.confrontation|warning,2,2,0,2,,surfacing|warning,danger|isn t,False
+time based evidence,2,AC15,S7,trigrams,time based evidence,3,truth_and_fact,1,evidence,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+honest answer is,2,AC15,S7,trigrams,honest answer,2,truth_and_fact,1,honest,,0,0.0,False,truth,truth.plain_statement,1,1,1,0,truth,,honest,False
+complex care pathway,2,AC15,S7,trigrams,complex care pathway,3,imagination_and_possibility,1,pathway,,0,0.0,False,imagination_and_possibility,imagination_and_possibility.path_toward_feasibility,1,1,1,0,imagination_and_possibility,,pathway,False
+the practical incentive,2,AC15,S7,trigrams,practical incentive,2,practicality_and_feasibility,1,practical,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,practical,False
+protects your future,2,AC15,S7,trigrams,protects future,2,temporal_dynamics,1,future,,0,0.0,False,temporal_projection,temporal_projection.past_present_future,1,1,1,0,temporal_projection,,future,False
+schedule one call,2,AC15,S7,trigrams,schedule one call,3,practicality_and_feasibility,1,schedule,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,schedule,False
+defeat sunk cost,2,AC15,S7,trigrams,defeat sunk cost,3,practicality_and_feasibility,1,cost,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,cost,False
+shared costs and,2,AC15,S7,trigrams,shared costs,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,costs,False
+motivations could be,2,AC15,S7,trigrams,motivations could,2,,0,,motivations,1,0.5,False,hedging,hedging,1,1,0,1,,hedging,could|could be,False
+could be love,2,AC15,S7,trigrams,could love,2,,0,,love,1,0.5,False,hedging,hedging,1,1,0,1,,hedging,could|could be,False
+t ship everything,2,AC15,S7,trigrams,ship everything,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,ship,False
+marriage children aging,2,AC15,S7,trigrams,marriage children aging,3,,0,,marriage|children|aging,3,1.0,True,temporal_projection,temporal_projection.decay_and_currency,1,1,1,0,temporal_projection,,aging,False
+property no merged,2,AC15,S7,trigrams,property no merged,3,,0,,,0,0.0,False,smoothing,smoothing,1,1,0,1,,smoothing,merged,False
+pursue this seriously,2,AC15,S7,trigrams,pursue seriously,2,,0,,,0,0.0,False,warning,warning,1,1,0,1,,warning,seriously,False
+family expectations aging,2,AC15,S7,trigrams,family expectations aging,3,,0,,aging,1,0.3333333333333333,False,temporal_projection,temporal_projection.decay_and_currency,1,1,1,0,temporal_projection,,aging,False
+merged finances keep,2,AC15,S7,trigrams,merged finances keep,3,,0,,,0,0.0,False,smoothing,smoothing,1,1,0,1,,smoothing,merged,False
+propose the staged,2,AC15,S7,trigrams,propose staged,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,staged,False
+it holds up,2,AC15,S7,trigrams,holds up,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.robustness_and_resilience,1,1,1,0,temporal_projection,,holds up,False
+t merge accounts,2,AC15,S7,trigrams,merge accounts,2,,0,,,0,0.0,False,smoothing,smoothing,1,1,0,1,,smoothing,merge,False
+merge accounts don,2,AC15,S7,trigrams,merge accounts,2,,0,,,0,0.0,False,smoothing,smoothing,1,1,0,1,,smoothing,merge,False
+want to plan,2,AC15,S7,trigrams,want plan,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+performers tend to,2,AC15,S7,trigrams,performers tend,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,tend,False
+change the plan,2,AC15,S7,trigrams,change plan,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+medical decision authority,2,AC15,S7,trigrams,medical decision authority,3,,0,,medical,1,0.3333333333333333,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,authority,False
+isn t about,2,AC15,S7,trigrams,isn about,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,isn t,False
+to build language,2,AC15,S7,trigrams,build language,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,build,False
+decision authority if,2,AC15,S7,trigrams,decision authority,2,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,authority,False
+citizenship and whether,2,AC15,S7,trigrams,citizenship whether,2,,0,,citizenship,1,0.5,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+health changes later,2,AC15,S7,trigrams,health changes later,3,,0,,health,1,0.3333333333333333,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,later,False
+tends to sound,2,AC15,S7,trigrams,tends sound,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,tends|tends to,False
+kind of urgency,2,AC15,S7,trigrams,kind urgency,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,kind of,False
+buy no merged,2,AC15,S7,trigrams,buy no merged,3,,0,,,0,0.0,False,smoothing,smoothing,1,1,0,1,,smoothing,merged,False
+situation that typically,2,AC15,S7,trigrams,situation typically,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,typically,False
+plan the next,2,AC15,S7,trigrams,plan next,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+health plan partner,2,AC15,S7,trigrams,health plan partner,3,,0,,partner|health,2,0.6666666666666666,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+plan partner not,2,AC15,S7,trigrams,plan partner,2,,0,,partner,1,0.5,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+your plan makes,2,AC15,S7,trigrams,plan makes,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+plan makes you,2,AC15,S7,trigrams,plan makes,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+family support boundaries,2,AC15,S7,trigrams,family support boundaries,3,imagination_and_possibility,1,boundaries,,0,0.0,False,,,0,0,0,0,,,,True
+genuine and still,2,AC15,S7,trigrams,genuine still,2,,0,,genuine,1,0.5,False,,,0,0,0,0,,,,True
+exclusive what counts,2,AC15,S7,trigrams,exclusive counts,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+counts as cheating,2,AC15,S7,trigrams,counts cheating,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+as cheating how,2,AC15,S7,trigrams,cheating how,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+cheating how do,2,AC15,S7,trigrams,cheating how,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+what does her,2,AC15,S7,trigrams,does her,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+does her family,2,AC15,S7,trigrams,does her family,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+her family expect,2,AC15,S7,trigrams,her family expect,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+conversations go well,2,AC15,S7,trigrams,conversations go well,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+or urgency tactics,2,AC15,S7,trigrams,urgency tactics,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+just curated introductions,2,AC15,S7,trigrams,just curated introductions,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+will beneficiaries medical,2,AC15,S7,trigrams,will beneficiaries medical,3,,0,,medical,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+beneficiaries medical power,2,AC15,S7,trigrams,beneficiaries medical power,3,,0,,medical,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+marriage becomes real,2,AC15,S7,trigrams,marriage becomes real,3,,0,,marriage,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+legal advice on,2,AC15,S7,trigrams,legal advice,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+advice on both,2,AC15,S7,trigrams,advice both,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+set a decision,2,AC15,S7,trigrams,set decision,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+set the pace,2,AC15,S7,trigrams,set pace,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+want to pursue,2,AC15,S7,trigrams,want pursue,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+life at home,2,AC15,S7,trigrams,life home,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+fund exit fund,2,AC15,S7,trigrams,fund exit fund,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+money marriage kids,2,AC15,S7,trigrams,money marriage kids,3,,0,,marriage,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+kids family expectations,2,AC15,S7,trigrams,kids family expectations,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+an ordinary life,2,AC15,S7,trigrams,ordinary life,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a purely extractive,2,AC15,S7,trigrams,purely extractive,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+purely extractive dynamic,2,AC15,S7,trigrams,purely extractive dynamic,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a single trip,2,AC15,S7,trigrams,single trip,2,,0,,single,1,0.5,False,,,0,0,0,0,,,,True
+even sincere people,2,AC15,S7,trigrams,even sincere people,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+i respect that,2,AC15,S7,trigrams,i respect,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+marriage and children,2,AC15,S7,trigrams,marriage children,2,,0,,marriage|children,2,1.0,True,,,0,0,0,0,,,,True
+why love tradition,2,AC15,S7,trigrams,love tradition,2,,0,,love,1,0.5,False,,,0,0,0,0,,,,True
+family expectations do,2,AC15,S7,trigrams,family expectations,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+buy property don,2,AC15,S7,trigrams,buy property,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+irreversible commitments only,2,AC15,S7,trigrams,irreversible commitments,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+many couples use,2,AC15,S7,trigrams,many couples use,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+trial stay before,2,AC15,S7,trigrams,trial stay before,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+move if she,2,AC15,S7,trigrams,move she,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+as i want,2,AC15,S7,trigrams,i want,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+you spend time,2,AC15,S7,trigrams,spend time,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+longtime friends not,2,AC15,S7,trigrams,longtime friends,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+people around her,2,AC15,S7,trigrams,people around her,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+how much time,2,AC15,S7,trigrams,how much time,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+specific even if,2,AC15,S7,trigrams,specific even,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+she handled stress,2,AC15,S7,trigrams,she handled stress,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+handled stress money,2,AC15,S7,trigrams,handled stress money,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+stress money moments,2,AC15,S7,trigrams,stress money moments,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+so i should,2,AC15,S7,trigrams,i should,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+obligations marriage kids,2,AC15,S7,trigrams,obligations marriage kids,3,,0,,marriage,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+no rushed marriage,2,AC15,S7,trigrams,no rushed marriage,3,,0,,marriage,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+emergency requests pause,2,AC15,S7,trigrams,emergency requests pause,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+fairness look like,2,AC15,S7,trigrams,fairness look like,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+we hire help,2,AC15,S7,trigrams,hire help,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+especially cross border,2,AC15,S7,trigrams,especially cross border,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+does she still,2,AC15,S7,trigrams,does she still,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+capable does she,2,AC15,S7,trigrams,capable does she,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+become an unspoken,2,AC15,S7,trigrams,become unspoken,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+your life then,2,AC15,S7,trigrams,life then,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+fund paid care,2,AC15,S7,trigrams,fund paid care,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+one reputable hospital,2,AC15,S7,trigrams,one reputable hospital,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+reputable hospital near,2,AC15,S7,trigrams,reputable hospital near,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+learn survival language,2,AC15,S7,trigrams,learn survival language,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+ready for full,2,AC15,S7,trigrams,ready full,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+for full relocation,2,AC15,S7,trigrams,full relocation,2,,0,,relocat|relocation,2,0.5,False,,,0,0,0,0,,,,True
+reversible relocation rent,2,AC15,S7,trigrams,reversible relocation rent,3,,0,,relocat|relocation,2,0.3333333333333333,False,,,0,0,0,0,,,,True
+wants partner not,2,AC15,S7,trigrams,wants partner,2,,0,,partner,1,0.5,False,,,0,0,0,0,,,,True
+weeks ordinary life,2,AC15,S7,trigrams,weeks ordinary life,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a regional medical,2,AC15,S7,trigrams,regional medical,2,,0,,medical,1,0.5,False,,,0,0,0,0,,,,True
+regional medical hub,2,AC15,S7,trigrams,regional medical hub,3,,0,,medical,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+living expenses if,2,AC15,S7,trigrams,living expenses,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+or cross border,2,AC15,S7,trigrams,cross border,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+longer stay only,2,AC15,S7,trigrams,longer stay,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+can force panic,2,AC15,S7,trigrams,force panic,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+time sensitive at,2,AC15,S7,trigrams,time sensitive,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+want marriage why,2,AC15,S7,trigrams,want marriage,2,,0,,marriage,1,0.5,False,,,0,0,0,0,,,,True
+alignment talks money,2,AC15,S7,trigrams,alignment talks money,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+talks money family,2,AC15,S7,trigrams,talks money family,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+family marriage children,2,AC15,S7,trigrams,family marriage children,3,,0,,marriage|children,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+rent keep assets,2,AC15,S7,trigrams,rent keep assets,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+defined emergency fund,2,AC15,S7,trigrams,defined emergency fund,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+ordinary life exposure,2,AC15,S7,trigrams,ordinary life exposure,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+gives her a,2,AC15,S7,trigrams,gives her,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+her a chance,2,AC15,S7,trigrams,her chance,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+what i value,2,AC15,S7,trigrams,i value,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+about our age,2,AC15,S7,trigrams,about our age,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+our age difference,2,AC15,S7,trigrams,our age difference,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+you think about,2,AC15,S7,trigrams,think about,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+think about years,2,AC15,S7,trigrams,think about years,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+about years from,2,AC15,S7,trigrams,about years,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+can genuinely love,2,AC15,S7,trigrams,genuinely love,2,,0,,love,1,0.5,False,,,0,0,0,0,,,,True
+t buy keep,2,AC15,S7,trigrams,buy keep,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+buy keep an,2,AC15,S7,trigrams,buy keep,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+pressure even if,2,AC15,S7,trigrams,pressure even,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+one week ordinary,2,AC15,S7,trigrams,one week ordinary,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+strengthen friendships health,2,AC15,S7,trigrams,strengthen friendships health,3,,0,,health,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+fear driven the,2,AC15,S7,trigrams,fear driven,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+to ask yourself,2,AC15,S7,trigrams,ask yourself,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+that cuts through,2,AC15,S7,trigrams,cuts through,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+i still want,2,AC15,S7,trigrams,i still want,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+to sound like,2,AC15,S7,trigrams,sound like,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+change my mind,2,AC15,S7,trigrams,change my mind,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+rent not buy,2,AC15,S7,trigrams,rent buy,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+not buy no,2,AC15,S7,trigrams,buy no,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+t sever home,2,AC15,S7,trigrams,sever home,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+guardrail against excessive,2,AC15,S7,trigrams,guardrail against excessive,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+real life exposure,2,AC15,S7,trigrams,real life exposure,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the next decision,2,AC15,S7,trigrams,next decision,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+next decision gate,2,AC15,S7,trigrams,next decision gate,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+emergency fund target,2,AC15,S7,trigrams,emergency fund target,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+fund target if,2,AC15,S7,trigrams,fund target,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+time in ordinary,2,AC15,S7,trigrams,time ordinary,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+d keep your,2,AC15,S7,trigrams,d keep,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+suggest the best,2,AC15,S7,trigrams,suggest best,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+she says she,2,AC15,S7,trigrams,she says she,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+family financial expectations,2,AC15,S7,trigrams,family financial expectations,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+obligations marriage visa,2,AC15,S7,trigrams,obligations marriage visa,3,,0,,marriage|visa,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+increase information more,2,AC15,S7,trigrams,increase information more,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+information more than,2,AC15,S7,trigrams,information more than,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+better to learn,2,AC15,S7,trigrams,better learn,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+pressure tactics major,2,AC15,S7,trigrams,pressure tactics major,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+say yes or,2,AC15,S7,trigrams,say yes,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+yes or no,2,AC15,S7,trigrams,yes no,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+or no than,2,AC15,S7,trigrams,no than,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+no than i,2,AC15,S7,trigrams,no than i,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+have no network,2,AC15,S7,trigrams,have no network,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+no network she,2,AC15,S7,trigrams,no network she,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+network she becomes,2,AC15,S7,trigrams,network she becomes,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+after the month,2,AC15,S7,trigrams,after month,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+what country city,2,AC15,S7,trigrams,country city,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+live together or,2,AC15,S7,trigrams,live together,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+together or separately,2,AC15,S7,trigrams,together separately,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+or separately i,2,AC15,S7,trigrams,separately i,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+separately i can,2,AC15,S7,trigrams,separately i,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+then money family,2,AC15,S7,trigrams,then money family,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+reversibility keep your,2,AC15,S7,trigrams,reversibility keep,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+marriage visa expectations,2,AC15,S7,trigrams,marriage visa expectations,3,,0,,marriage|visa,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+visa expectations and,2,AC15,S7,trigrams,visa expectations,2,,0,,visa,1,0.5,False,,,0,0,0,0,,,,True
+health insurance evacuation,2,AC15,S7,trigrams,health insurance evacuation,3,,0,,health,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+decision gates to,2,AC15,S7,trigrams,decision gates,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+gates to defeat,2,AC15,S7,trigrams,gates defeat,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+to defeat sunk,2,AC15,S7,trigrams,defeat sunk,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+continue stop criteria,2,AC15,S7,trigrams,continue stop criteria,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+worked what didn,2,AC15,S7,trigrams,worked didn,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+care is plan,4,AC15P,S7,trigrams,care plan,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+exit plan cash,4,AC15P,S7,trigrams,exit plan cash,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+afford alone in,4,AC15P,S7,trigrams,afford alone,2,,0,,alone,1,0.5,False,,,0,0,0,0,,,,True
+stay with her,4,AC15P,S7,trigrams,stay her,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+you ll stay,4,AC15P,S7,trigrams,ll stay,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+end of week,4,AC15P,S7,trigrams,end week,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+yours and whether,3,AC15P,S7,trigrams,yours whether,2,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+plan cash logistics,3,AC15P,S7,trigrams,plan cash logistics,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+family obligations expectations,3,AC15P,S7,trigrams,family obligations expectations,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a clear exit,3,AC15P,S7,trigrams,clear exit,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+your name separate,3,AC15P,S7,trigrams,name separate,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+name separate finances,3,AC15P,S7,trigrams,name separate finances,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+visa work healthcare,3,AC15P,S7,trigrams,visa work healthcare,3,,0,,healthcare|visa|health,3,0.6666666666666666,False,,,0,0,0,0,,,,True
+for parents siblings,3,AC15P,S7,trigrams,parents siblings,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+time money housing,3,AC15P,S7,trigrams,time money housing,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+support is expected,3,AC15P,S7,trigrams,support expected,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+years you she,3,AC15P,S7,trigrams,years she,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+country and hers,3,AC15P,S7,trigrams,country hers,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+activities not centered,3,AC15P,S7,trigrams,activities centered,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+local private hospital,3,AC15P,S7,trigrams,local private hospital,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+vs too much,3,AC15P,S7,trigrams,vs too much,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+marriage money model,3,AC15P,S7,trigrams,marriage money model,3,,0,,marriage,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+money model family,3,AC15P,S7,trigrams,money model family,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+model family obligations,3,AC15P,S7,trigrams,model family obligations,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+in work mode,3,AC15P,S7,trigrams,work mode,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+dual base or,3,AC15P,S7,trigrams,dual base,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+chance pressure is,3,AC15P,S7,trigrams,chance pressure,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+finances no loans,3,AC15P,S7,trigrams,finances no loans,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+where home is,3,AC15P,S7,trigrams,where home,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+to clarify how,3,AC15P,S7,trigrams,clarify how,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+two weekly activities,3,AC15P,S7,trigrams,two weekly activities,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+your country eventually,3,AC15P,S7,trigrams,country eventually,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+own place and,3,AC15P,S7,trigrams,own place,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+logistics to leave,3,AC15P,S7,trigrams,logistics leave,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+week minimum outcomes,3,AC15P,S7,trigrams,week minimum outcomes,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+medical contingency plan,2,AC15P,S7,trigrams,medical contingency plan,3,practicality_and_feasibility,1,contingency,medical,1,0.3333333333333333,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution|practical_considerations_and_execution.resources_timing_conditions,1,2,1,0,practical_considerations_and_execution,,contingen|contingency|plan,False
+keep a viable,2,AC15P,S7,trigrams,keep viable,2,,0,,,0,0.0,False,imagination_and_possibility|practical_considerations_and_execution,imagination_and_possibility.path_toward_feasibility|practical_considerations_and_execution.constraints_and_tradeoffs,2,2,2,0,imagination_and_possibility|practical_considerations_and_execution,,viable,False
+aging sickness plan,2,AC15P,S7,trigrams,aging sickness plan,3,,0,,aging,1,0.3333333333333333,False,practical_considerations_and_execution|temporal_projection,practical_considerations_and_execution.action_and_execution|temporal_projection.decay_and_currency,2,2,2,0,practical_considerations_and_execution|temporal_projection,,aging|plan,False
+relationship definition timeline,2,AC15P,S7,trigrams,relationship definition timeline,3,practicality_and_feasibility,1,timeline,relationship,1,0.3333333333333333,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,timeline,False
+a realistic return,2,AC15P,S7,trigrams,realistic return,2,practicality_and_feasibility,1,realistic,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,realistic,False
+insurance if feasible,2,AC15P,S7,trigrams,insurance feasible,2,practicality_and_feasibility,1,feasible,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,feasible,False
+that reduces risk,2,AC15P,S7,trigrams,reduces risk,2,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+you long term,2,AC15P,S7,trigrams,long term,2,temporal_dynamics,1,long term,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,long term,False
+keep a realistic,2,AC15P,S7,trigrams,keep realistic,2,practicality_and_feasibility,1,realistic,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,realistic,False
+your mind honest,2,AC15P,S7,trigrams,mind honest,2,truth_and_fact,1,honest,,0,0.0,False,truth,truth.plain_statement,1,1,1,0,truth,,honest,False
+long term money,2,AC15P,S7,trigrams,long term money,3,temporal_dynamics,1,long term,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,long term,False
+extend trial shift,2,AC15P,S7,trigrams,extend trial shift,3,temporal_dynamics,1,shift,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,shift,False
+trial shift to,2,AC15P,S7,trigrams,trial shift,2,temporal_dynamics,1,shift,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,shift,False
+shift to dual,2,AC15P,S7,trigrams,shift dual,2,temporal_dynamics,1,shift,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,shift,False
+the honest move,2,AC15P,S7,trigrams,honest move,2,truth_and_fact,1,honest,,0,0.0,False,truth,truth.plain_statement,1,1,1,0,truth,,honest,False
+honest move is,2,AC15P,S7,trigrams,honest move,2,truth_and_fact,1,honest,,0,0.0,False,truth,truth.plain_statement,1,1,1,0,truth,,honest,False
+may have more,2,AC15P,S7,trigrams,may have more,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,may,False
+track how often,2,AC15P,S7,trigrams,track how often,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,often,False
+often you feel,2,AC15P,S7,trigrams,often feel,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,often,False
+non negotiables write,2,AC15P,S7,trigrams,non negotiables write,3,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,non negotiable,False
+plan ability to,2,AC15P,S7,trigrams,plan ability,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+whether marriage children,2,AC15P,S7,trigrams,whether marriage children,3,,0,,marriage|children,2,0.6666666666666666,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+table for either,2,AC15P,S7,trigrams,table either,2,,0,,,0,0.0,False,imagination_and_possibility,imagination_and_possibility.tension_as_fuel,1,1,1,0,imagination_and_possibility,,either,False
+plan visa work,2,AC15P,S7,trigrams,plan visa work,3,,0,,visa,1,0.3333333333333333,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+split shared costs,2,AC15P,S7,trigrams,split shared costs,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,costs,False
+clarify how often,2,AC15P,S7,trigrams,clarify how often,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,often,False
+either of those,2,AC15P,S7,trigrams,either those,2,,0,,,0,0.0,False,imagination_and_possibility,imagination_and_possibility.tension_as_fuel,1,1,1,0,imagination_and_possibility,,either,False
+two track plan,2,AC15P,S7,trigrams,two track plan,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+buy property early,2,AC15P,S7,trigrams,buy property early,3,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,early,False
+likely caused it,2,AC15P,S7,trigrams,likely caused,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,likely,False
+she in years,2,AC15P,S7,trigrams,she years,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,in years,False
+partner isn t,2,AC15P,S7,trigrams,partner isn,2,,0,,partner,1,0.5,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,isn t,False
+won t make,2,AC15P,S7,trigrams,won make,2,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,won t,False
+my care plan,2,AC15P,S7,trigrams,my care plan,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+plan a paid,2,AC15P,S7,trigrams,plan paid,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+i m planning,2,AC15P,S7,trigrams,i m planning,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,planning,False
+if serious illness,2,AC15P,S7,trigrams,serious illness,2,,0,,,0,0.0,False,warning,warning,1,1,0,1,,warning,serious,False
+serious illness occurs,2,AC15P,S7,trigrams,serious illness occurs,3,,0,,,0,0.0,False,warning,warning,1,1,0,1,,warning,serious,False
+slow down a,2,AC15P,S7,trigrams,slow down,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,slow down,False
+isn t catastrophic,2,AC15P,S7,trigrams,isn catastrophic,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,isn t,False
+crisis liquidity buffer,2,AC15P,S7,trigrams,crisis liquidity buffer,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,buffer,False
+exit plan and,2,AC15P,S7,trigrams,exit plan,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+usually sounds like,2,AC15P,S7,trigrams,usually sounds like,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,usually,False
+friends healthcare plan,2,AC15P,S7,trigrams,friends healthcare plan,3,,0,,healthcare|health,2,0.3333333333333333,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+independence plan language,2,AC15P,S7,trigrams,independence plan language,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+one hard conversation,2,AC15P,S7,trigrams,one hard conversation,3,,0,,,0,0.0,False,surfacing,surfacing.friction_exposed,1,1,0,1,,surfacing,hard,False
+opener i don,2,AC15P,S7,trigrams,opener i,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,i d,False
+seeing you might,2,AC15P,S7,trigrams,seeing might,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,might,False
+you could become,2,AC15P,S7,trigrams,could become,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,could|could be,False
+could become dependent,2,AC15P,S7,trigrams,could become dependent,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,could|could be,False
+next step if,2,AC15P,S7,trigrams,next step,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,next step,False
+country eventually aging,2,AC15P,S7,trigrams,country eventually aging,3,,0,,aging,1,0.3333333333333333,False,temporal_projection,temporal_projection.decay_and_currency,1,1,1,0,temporal_projection,,aging,False
+talks early and,2,AC15P,S7,trigrams,talks early,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,early,False
+healthcare insurance plan,2,AC15P,S7,trigrams,healthcare insurance plan,3,,0,,healthcare|health,2,0.3333333333333333,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+insurance plan remains,2,AC15P,S7,trigrams,insurance plan remains,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+plan remains unaffordable,2,AC15P,S7,trigrams,plan remains unaffordable,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+a reversible experiment,2,AC15P,S7,trigrams,reversible experiment,2,imagination_and_possibility,1,experiment,,0,0.0,False,,,0,0,0,0,,,,True
+boundaries no loans,2,AC15P,S7,trigrams,boundaries no loans,3,imagination_and_possibility,1,boundaries,,0,0.0,False,,,0,0,0,0,,,,True
+parents siblings now,2,AC15P,S7,trigrams,parents siblings now,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+treat relocation as,2,AC15P,S7,trigrams,treat relocation,2,,0,,relocat|relocation,2,0.5,False,,,0,0,0,0,,,,True
+feel calm vs,2,AC15P,S7,trigrams,feel calm vs,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+months before permanent,2,AC15P,S7,trigrams,months before permanent,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+country these are,2,AC15P,S7,trigrams,country these,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+vs home country,2,AC15P,S7,trigrams,vs home country,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+access to funds,2,AC15P,S7,trigrams,access funds,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a location where,2,AC15P,S7,trigrams,location where,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+location where you,2,AC15P,S7,trigrams,location where,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+for last chance,2,AC15P,S7,trigrams,last chance,2,,0,,last chance,1,1.0,True,,,0,0,0,0,,,,True
+story is consistent,2,AC15P,S7,trigrams,story consistent,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+negotiables write them,2,AC15P,S7,trigrams,negotiables write,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+clarity on kids,2,AC15P,S7,trigrams,clarity kids,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+she owes you,2,AC15P,S7,trigrams,she owes,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+i m doing,2,AC15P,S7,trigrams,i m doing,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+independence real separate,2,AC15P,S7,trigrams,independence real separate,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+trial period living,2,AC15P,S7,trigrams,trial period living,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+shared property no,2,AC15P,S7,trigrams,shared property no,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+t yet have,2,AC15P,S7,trigrams,yet have,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+expected for parents,2,AC15P,S7,trigrams,expected parents,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+parents siblings time,2,AC15P,S7,trigrams,parents siblings time,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+siblings time housing,2,AC15P,S7,trigrams,siblings time housing,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+marriage at these,2,AC15P,S7,trigrams,marriage these,2,,0,,marriage,1,0.5,False,,,0,0,0,0,,,,True
+you working full,2,AC15P,S7,trigrams,working full,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+more predictive than,2,AC15P,S7,trigrams,more predictive than,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+means you should,2,AC15P,S7,trigrams,means should,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+property no large,2,AC15P,S7,trigrams,property no large,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+decision not just,2,AC15P,S7,trigrams,decision just,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+not just feelings,2,AC15P,S7,trigrams,just feelings,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+next visit live,2,AC15P,S7,trigrams,next visit live,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+healthy response disappointment,2,AC15P,S7,trigrams,healthy response disappointment,3,,0,,health,1,0.0,False,,,0,0,0,0,,,,True
+after calls visits,2,AC15P,S7,trigrams,after calls visits,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+time what does,2,AC15P,S7,trigrams,time does,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a two track,2,AC15P,S7,trigrams,two track,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+trial living period,2,AC15P,S7,trigrams,trial living period,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+expect to observe,2,AC15P,S7,trigrams,expect observe,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+t give loan,2,AC15P,S7,trigrams,give loan,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+give loan significant,2,AC15P,S7,trigrams,give loan significant,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+loan significant money,2,AC15P,S7,trigrams,loan significant money,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+significant money or,2,AC15P,S7,trigrams,significant money,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+money or buy,2,AC15P,S7,trigrams,money buy,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+proportional shared expenses,2,AC15P,S7,trigrams,proportional shared expenses,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+obligations what support,2,AC15P,S7,trigrams,obligations support,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+caused it then,2,AC15P,S7,trigrams,caused then,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+now outside calibration,2,AC15P,S7,trigrams,now outside calibration,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+grounded friends not,2,AC15P,S7,trigrams,grounded friends,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+friends not cynics,2,AC15P,S7,trigrams,friends cynics,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+they d want,2,AC15P,S7,trigrams,they d want,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the most informative,2,AC15P,S7,trigrams,most informative,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+does affection remain,2,AC15P,S7,trigrams,does affection remain,3,,0,,affection,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+affection remain when,2,AC15P,S7,trigrams,affection remain,2,,0,,affection,1,0.5,False,,,0,0,0,0,,,,True
+increasing urgency as,2,AC15P,S7,trigrams,increasing urgency,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+urgency as commitment,2,AC15P,S7,trigrams,urgency commitment,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+weeks explicit talks,2,AC15P,S7,trigrams,weeks explicit talks,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+then month trial,2,AC15P,S7,trigrams,then month trial,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+pressure vs patience,2,AC15P,S7,trigrams,pressure vs patience,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+pursue her career,2,AC15P,S7,trigrams,pursue her career,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+financially and practically,2,AC15P,S7,trigrams,financially practically,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+if care needs,2,AC15P,S7,trigrams,care needs,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+care needs rise,2,AC15P,S7,trigrams,care needs rise,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+real but because,2,AC15P,S7,trigrams,real because,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+weekly activities not,2,AC15P,S7,trigrams,weekly activities,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+on her gym,2,AC15P,S7,trigrams,her gym,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+her gym class,2,AC15P,S7,trigrams,her gym class,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+country and how,2,AC15P,S7,trigrams,country how,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+how would i,2,AC15P,S7,trigrams,how i,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+best local private,2,AC15P,S7,trigrams,best local private,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+region i can,2,AC15P,S7,trigrams,region i,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+simple life introduced,2,AC15P,S7,trigrams,simple life introduced,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+what partner means,2,AC15P,S7,trigrams,partner means,2,,0,,partner,1,0.5,False,,,0,0,0,0,,,,True
+are time sensitive,2,AC15P,S7,trigrams,time sensitive,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+one complex event,2,AC15P,S7,trigrams,one complex event,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+hub or back,2,AC15P,S7,trigrams,hub back,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+after i move,2,AC15P,S7,trigrams,after i move,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+i move what,2,AC15P,S7,trigrams,i move,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+think in predictions,2,AC15P,S7,trigrams,think predictions,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+vagueness on key,2,AC15P,S7,trigrams,vagueness key,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+on key forks,2,AC15P,S7,trigrams,key forks,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+key forks kids,2,AC15P,S7,trigrams,key forks kids,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+forks kids money,2,AC15P,S7,trigrams,forks kids money,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+kids money visa,2,AC15P,S7,trigrams,kids money visa,3,,0,,visa,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+working full time,2,AC15P,S7,trigrams,working full time,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+care would happen,2,AC15P,S7,trigrams,care happen,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+guilt or punishment,2,AC15P,S7,trigrams,guilt punishment,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+one more question,2,AC15P,S7,trigrams,one more question,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+least the first,2,AC15P,S7,trigrams,least first,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+that respects time,2,AC15P,S7,trigrams,respects time,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+mode not vacation,2,AC15P,S7,trigrams,mode vacation,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+permanent move would,2,AC15P,S7,trigrams,permanent move,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+your home giving,2,AC15P,S7,trigrams,home giving,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+home giving up,2,AC15P,S7,trigrams,home giving up,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+giving up local,2,AC15P,S7,trigrams,giving up local,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+up local healthcare,2,AC15P,S7,trigrams,up local healthcare,3,,0,,healthcare|health,2,0.3333333333333333,False,,,0,0,0,0,,,,True
+scarcity response i,2,AC15P,S7,trigrams,scarcity response i,3,,0,,scarcity,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+response i ll,2,AC15P,S7,trigrams,response i ll,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+one way door,2,AC15P,S7,trigrams,one way door,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+autonomy there language,2,AC15P,S7,trigrams,autonomy language,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+language friends healthcare,2,AC15P,S7,trigrams,language friends healthcare,3,,0,,healthcare|health,2,0.3333333333333333,False,,,0,0,0,0,,,,True
+in two years,2,AC15P,S7,trigrams,two years,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a slow yes,2,AC15P,S7,trigrams,slow yes,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+t know her,2,AC15P,S7,trigrams,know her,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a process where,2,AC15P,S7,trigrams,process where,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+no loans gifts,2,AC15P,S7,trigrams,no loans gifts,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+loans gifts property,2,AC15P,S7,trigrams,loans gifts property,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+language study your,2,AC15P,S7,trigrams,language study,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+study your own,2,AC15P,S7,trigrams,study own,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+put decision checkpoints,2,AC15P,S7,trigrams,put decision checkpoints,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+decision checkpoints on,2,AC15P,S7,trigrams,decision checkpoints,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+work mode with,2,AC15P,S7,trigrams,work mode,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+money family healthcare,2,AC15P,S7,trigrams,money family healthcare,3,,0,,healthcare|health,2,0.3333333333333333,False,,,0,0,0,0,,,,True
+need her to,2,AC15P,S7,trigrams,need her,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+pressure guilt or,2,AC15P,S7,trigrams,pressure guilt,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+minutes what happened,2,AC15P,S7,trigrams,minutes happened,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+did i feel,2,AC15P,S7,trigrams,did i feel,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+any pressure any,2,AC15P,S7,trigrams,any pressure any,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+pressure any avoidance,2,AC15P,S7,trigrams,pressure any avoidance,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+any avoidance any,2,AC15P,S7,trigrams,any avoidance any,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+important to her,2,AC15P,S7,trigrams,important her,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the topics where,2,AC15P,S7,trigrams,topics where,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+opener i want,2,AC15P,S7,trigrams,opener i want,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+vs proportional vs,2,AC15P,S7,trigrams,vs proportional vs,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+proportional vs provider,2,AC15P,S7,trigrams,proportional vs provider,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the hidden contract,2,AC15P,S7,trigrams,hidden contract,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+no loans no,2,AC15P,S7,trigrams,no loans no,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+loans no property,2,AC15P,S7,trigrams,loans no property,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+gym class cowork,2,AC15P,S7,trigrams,gym class cowork,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+class cowork volunteer,2,AC15P,S7,trigrams,class cowork volunteer,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the big forks,2,AC15P,S7,trigrams,big forks,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+decision extend trial,2,AC15P,S7,trigrams,decision extend trial,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+to dual base,2,AC15P,S7,trigrams,dual base,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+liquid emergency reserve,2,AC15P,S7,trigrams,liquid emergency reserve,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+her home or,2,AC15P,S7,trigrams,her home,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+ask what she,2,AC15P,S7,trigrams,ask she,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+how to see,2,AC15P,S7,trigrams,how see,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+with minimal help,2,AC15P,S7,trigrams,minimal help,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+language tutor two,2,AC15P,S7,trigrams,language tutor two,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+tutor two weekly,2,AC15P,S7,trigrams,tutor two weekly,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+local private vs,2,AC15P,S7,trigrams,local private vs,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+private vs regional,2,AC15P,S7,trigrams,private vs regional,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+regional hub vs,2,AC15P,S7,trigrams,regional hub vs,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+property large transfers,2,AC15P,S7,trigrams,property large transfers,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+have the fork,2,AC15P,S7,trigrams,have fork,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+marriage where home,2,AC15P,S7,trigrams,marriage where home,3,,0,,marriage,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+work mode keep,2,AC15P,S7,trigrams,work mode keep,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+week week week,2,AC15P,S7,trigrams,week week week,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+cash logistics to,2,AC15P,S7,trigrams,cash logistics,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+end of months,2,AC15P,S7,trigrams,end months,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+her as translator,2,AC15P,S7,trigrams,her translator,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+as translator handler,2,AC15P,S7,trigrams,translator handler,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+three months so,2,AC15P,S7,trigrams,three months,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+money family care,2,AC15P,S7,trigrams,money family care,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+provider with limits,2,AC15P,S7,trigrams,provider limits,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+are yours gym,2,AC15P,S7,trigrams,yours gym,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+yours gym class,2,AC15P,S7,trigrams,yours gym class,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+to leave within,2,AC15P,S7,trigrams,leave within,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+leave within hours,2,AC15P,S7,trigrams,leave within hours,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+within hours if,2,AC15P,S7,trigrams,within hours,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+hours if needed,2,AC15P,S7,trigrams,hours needed,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+misalignment on children,2,AC15P,S7,trigrams,misalignment children,2,,0,,children,1,0.5,False,,,0,0,0,0,,,,True
+coercion around money,2,AC15P,S7,trigrams,coercion around money,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+ll stay with,2,AC15P,S7,trigrams,ll stay,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the fork talks,2,AC15P,S7,trigrams,fork talks,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+doesn t consume,3,CONTROL,S7,trigrams,doesn consume,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn|doesn t,False
+plus whether you,3,CONTROL,S7,trigrams,plus whether,2,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+a staged path,3,CONTROL,S7,trigrams,staged path,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,staged,False
+exit options intact,3,CONTROL,S7,trigrams,exit options intact,3,imagination_and_possibility,1,options,,0,0.0,False,,,0,0,0,0,,,,True
+t consume her,3,CONTROL,S7,trigrams,consume her,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+consume her life,3,CONTROL,S7,trigrams,consume her life,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a new country,3,CONTROL,S7,trigrams,new country,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+kids marriage family,3,CONTROL,S7,trigrams,kids marriage family,3,,0,,marriage,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+keeping my home,3,CONTROL,S7,trigrams,keeping my home,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a midpoint review,3,CONTROL,S7,trigrams,midpoint review,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+said it plainly,2,CONTROL,S7,trigrams,said plainly,2,,0,,,0,0.0,False,surfacing|truth,surfacing.confrontation|truth.plain_statement,2,2,1,1,truth,surfacing,plainly,False
+your risk profile,2,CONTROL,S7,trigrams,risk profile,2,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+risk before permanence,2,CONTROL,S7,trigrams,risk before permanence,3,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+timeline money and,2,CONTROL,S7,trigrams,timeline money,2,practicality_and_feasibility,1,timeline,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,timeline,False
+still early for,2,CONTROL,S7,trigrams,still early,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,early,False
+real life test,2,CONTROL,S7,trigrams,real life test,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,test,False
+least one planned,2,CONTROL,S7,trigrams,least one planned,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,planned,False
+a staged approach,2,CONTROL,S7,trigrams,staged approach,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,staged,False
+meaningful green flags,2,CONTROL,S7,trigrams,meaningful green flags,3,,0,,,0,0.0,False,surfacing,surfacing.friction_exposed,1,1,0,1,,surfacing,flags,False
+t avoid disagreements,2,CONTROL,S7,trigrams,avoid disagreements,2,,0,,,0,0.0,False,surfacing,surfacing.tension_exposure,1,1,0,1,,surfacing,disagreements,False
+may bring urgency,2,CONTROL,S7,trigrams,may bring urgency,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,may,False
+country whether you,2,CONTROL,S7,trigrams,country whether,2,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+plan that keeps,2,CONTROL,S7,trigrams,plan keeps,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+beneficiary plan that,2,CONTROL,S7,trigrams,beneficiary plan,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+a funded plan,2,CONTROL,S7,trigrams,funded plan,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+complex care may,2,CONTROL,S7,trigrams,complex care may,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,may,False
+may be less,2,CONTROL,S7,trigrams,may less,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,may,False
+respects a staged,2,CONTROL,S7,trigrams,respects staged,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,staged,False
+staged path that,2,CONTROL,S7,trigrams,staged path,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,staged,False
+choosing you because,2,CONTROL,S7,trigrams,choosing because,2,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,choosing,False
+test the most,2,CONTROL,S7,trigrams,test most,2,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,test,False
+may be underestimating,2,CONTROL,S7,trigrams,may underestimating,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,may,False
+plan what happens,2,CONTROL,S7,trigrams,plan happens,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+make sure to,2,CONTROL,S7,trigrams,make sure,2,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,make sure,False
+your exit options,2,CONTROL,S7,trigrams,exit options,2,imagination_and_possibility,1,options,,0,0.0,False,,,0,0,0,0,,,,True
+to home option,2,CONTROL,S7,trigrams,home option,2,imagination_and_possibility,1,option,,0,0.0,False,,,0,0,0,0,,,,True
+be less reliable,2,CONTROL,S7,trigrams,less reliable,2,truth_and_fact,1,reliable,,0,0.0,False,,,0,0,0,0,,,,True
+boundaries how to,2,CONTROL,S7,trigrams,boundaries how,2,imagination_and_possibility,1,boundaries,,0,0.0,False,,,0,0,0,0,,,,True
+under routine stress,2,CONTROL,S7,trigrams,under routine stress,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+you hoping i,2,CONTROL,S7,trigrams,hoping i,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+your life emotionally,2,CONTROL,S7,trigrams,life emotionally,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+life emotionally practically,2,CONTROL,S7,trigrams,life emotionally practically,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+respectful separation look,2,CONTROL,S7,trigrams,respectful separation look,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+separation look like,2,CONTROL,S7,trigrams,separation look like,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+how does your,2,CONTROL,S7,trigrams,how does,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+does your family,2,CONTROL,S7,trigrams,does family,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+your family view,2,CONTROL,S7,trigrams,family view,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the move reversible,2,CONTROL,S7,trigrams,move reversible,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+move all assets,2,CONTROL,S7,trigrams,move all assets,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+you stay together,2,CONTROL,S7,trigrams,stay together,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+independence your own,2,CONTROL,S7,trigrams,independence own,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+ve lived normal,2,CONTROL,S7,trigrams,lived normal,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+lived normal life,2,CONTROL,S7,trigrams,lived normal life,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+normal life together,2,CONTROL,S7,trigrams,normal life together,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+life together for,2,CONTROL,S7,trigrams,life together,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+you feel safe,2,CONTROL,S7,trigrams,feel safe,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+respects your need,2,CONTROL,S7,trigrams,respects need,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+an extended stay,2,CONTROL,S7,trigrams,extended stay,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+with clear criteria,2,CONTROL,S7,trigrams,clear criteria,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+life that isn,2,CONTROL,S7,trigrams,life isn,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+in normal life,2,CONTROL,S7,trigrams,normal life,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+these you ll,2,CONTROL,S7,trigrams,these ll,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+moving this fast,2,CONTROL,S7,trigrams,moving fast,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+love they keep,2,CONTROL,S7,trigrams,love they keep,3,,0,,love,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+they keep you,2,CONTROL,S7,trigrams,they keep,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+trial with clear,2,CONTROL,S7,trigrams,trial clear,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+you say yes,2,CONTROL,S7,trigrams,say yes,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+yes not yet,2,CONTROL,S7,trigrams,yes yet,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+are meaningful green,2,CONTROL,S7,trigrams,meaningful green,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+keep it warm,2,CONTROL,S7,trigrams,keep warm,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+warm and non,2,CONTROL,S7,trigrams,warm non,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+support your parents,2,CONTROL,S7,trigrams,support parents,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+buy property there,2,CONTROL,S7,trigrams,buy property,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+t co sign,2,CONTROL,S7,trigrams,co sign,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+to shared expenses,2,CONTROL,S7,trigrams,shared expenses,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+pressure for quick,2,CONTROL,S7,trigrams,pressure quick,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+step propose a,2,CONTROL,S7,trigrams,step propose,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+conversations about kids,2,CONTROL,S7,trigrams,conversations about kids,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+keeping your exit,2,CONTROL,S7,trigrams,keeping exit,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+work routines friendships,2,CONTROL,S7,trigrams,work routines friendships,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+to marriage visa,2,CONTROL,S7,trigrams,marriage visa,2,,0,,marriage|visa,2,1.0,True,,,0,0,0,0,,,,True
+bring urgency about,2,CONTROL,S7,trigrams,bring urgency about,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+disappointed but will,2,CONTROL,S7,trigrams,disappointed will,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+she treats others,2,CONTROL,S7,trigrams,she treats others,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+years i ll,2,CONTROL,S7,trigrams,years i ll,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+would she still,2,CONTROL,S7,trigrams,she still,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+set a slower,2,CONTROL,S7,trigrams,set slower,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a slower pace,2,CONTROL,S7,trigrams,slower pace,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+no selling home,2,CONTROL,S7,trigrams,no selling home,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+real these steps,2,CONTROL,S7,trigrams,real these steps,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a year no,2,CONTROL,S7,trigrams,year no,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+no big transfers,2,CONTROL,S7,trigrams,no big transfers,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+she s truly,2,CONTROL,S7,trigrams,she truly,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+help if needed,2,CONTROL,S7,trigrams,help needed,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+we hire out,2,CONTROL,S7,trigrams,hire out,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+protect her freedom,2,CONTROL,S7,trigrams,protect her freedom,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+like i want,2,CONTROL,S7,trigrams,like i want,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+parents needed care,2,CONTROL,S7,trigrams,parents needed care,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+needed care at,2,CONTROL,S7,trigrams,needed care,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+same time what,2,CONTROL,S7,trigrams,same time,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+healthcare and long,2,CONTROL,S7,trigrams,healthcare long,2,,0,,healthcare|health,2,0.5,False,,,0,0,0,0,,,,True
+under your control,2,CONTROL,S7,trigrams,under control,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+longer term visa,2,CONTROL,S7,trigrams,longer term visa,3,,0,,visa,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+term visa residency,2,CONTROL,S7,trigrams,term visa residency,3,,0,,visa,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+keep the move,2,CONTROL,S7,trigrams,keep move,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+crisis fund and,2,CONTROL,S7,trigrams,crisis fund,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+no permanent relocation,2,CONTROL,S7,trigrams,no permanent relocation,3,,0,,relocat|relocation,2,0.3333333333333333,False,,,0,0,0,0,,,,True
+base and exit,2,CONTROL,S7,trigrams,base exit,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+go criteria that,2,CONTROL,S7,trigrams,go criteria,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+your worries about,2,CONTROL,S7,trigrams,worries about,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+she respects a,2,CONTROL,S7,trigrams,she respects,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+money stays calm,2,CONTROL,S7,trigrams,money stays calm,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+you slow things,2,CONTROL,S7,trigrams,slow things,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+trial living there,2,CONTROL,S7,trigrams,trial living,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+give up healthcare,2,CONTROL,S7,trigrams,give up healthcare,3,,0,,healthcare|health,2,0.3333333333333333,False,,,0,0,0,0,,,,True
+up healthcare eligibility,2,CONTROL,S7,trigrams,up healthcare eligibility,3,,0,,healthcare|health,2,0.3333333333333333,False,,,0,0,0,0,,,,True
+healthcare eligibility i,2,CONTROL,S7,trigrams,healthcare eligibility i,3,,0,,healthcare|health,2,0.3333333333333333,False,,,0,0,0,0,,,,True
+eligibility i can,2,CONTROL,S7,trigrams,eligibility i,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+there while keeping,2,CONTROL,S7,trigrams,while keeping,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+relocation marriage shared,2,CONTROL,S7,trigrams,relocation marriage shared,3,,0,,marriage|relocat|relocation,3,0.6666666666666666,False,,,0,0,0,0,,,,True
+marriage shared assets,2,CONTROL,S7,trigrams,marriage shared assets,3,,0,,marriage,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+shared assets giving,2,CONTROL,S7,trigrams,shared assets giving,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+assets giving up,2,CONTROL,S7,trigrams,assets giving up,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+move until healthcare,2,CONTROL,S7,trigrams,move until healthcare,3,,0,,healthcare|health,2,0.3333333333333333,False,,,0,0,0,0,,,,True
+clear agreement on,2,CONTROL,S7,trigrams,clear agreement,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+agreement on children,2,CONTROL,S7,trigrams,agreement children,2,,0,,children,1,0.5,False,,,0,0,0,0,,,,True
+she didn t,2,CONTROL,S7,trigrams,she didn,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+you d expect,2,CONTROL,S7,trigrams,d expect,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+home base you,2,CONTROL,S7,trigrams,home base,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+it up because,2,CONTROL,S7,trigrams,up because,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+how should we,2,CONTROL,S7,trigrams,how should,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+any resentments forming,2,CONTROL,S7,trigrams,any resentments forming,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+without drama rule,2,CONTROL,S7,trigrams,without drama rule,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+you d have,2,CONTROL,S7,trigrams,d have,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+d have your,2,CONTROL,S7,trigrams,d have,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+your own accommodation,2,CONTROL,S7,trigrams,own accommodation,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the children issue,2,CONTROL,S7,trigrams,children issue,2,,0,,children,1,0.5,False,,,0,0,0,0,,,,True
+children issue is,2,CONTROL,S7,trigrams,children issue,2,,0,,children,1,0.5,False,,,0,0,0,0,,,,True
+the blind spot,2,CONTROL,S7,trigrams,blind spot,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+least a couple,2,CONTROL,S7,trigrams,least couple,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+d go for,2,CONTROL,S7,trigrams,d go,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+children vasectomy marriage,2,CONTROL,S7,trigrams,children vasectomy marriage,3,,0,,marriage|children|vasectomy,3,1.0,True,,,0,0,0,0,,,,True
+money norms and,2,CONTROL,S7,trigrams,money norms,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+couple of contacts,2,CONTROL,S7,trigrams,couple contacts,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+may not want,6,HYBRID_3_5,S7,trigrams,may want,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,may,False
+long term compromise,3,HYBRID_3_5,S7,trigrams,long term compromise,3,temporal_dynamics,1,long term,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,long term,False
+funded emergency plan,3,HYBRID_3_5,S7,trigrams,funded emergency plan,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+relocation months with,3,HYBRID_3_5,S7,trigrams,relocation months,2,,0,,relocat|relocation,2,0.5,False,,,0,0,0,0,,,,True
+e g week,3,HYBRID_3_5,S7,trigrams,e g week,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+g week and,3,HYBRID_3_5,S7,trigrams,g week,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+you feel respected,3,HYBRID_3_5,S7,trigrams,feel respected,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the relationship has,3,HYBRID_3_5,S7,trigrams,relationship has,2,,0,,relationship,1,0.5,False,,,0,0,0,0,,,,True
+at least two,3,HYBRID_3_5,S7,trigrams,least two,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+you attend without,3,HYBRID_3_5,S7,trigrams,attend without,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+attend without her,3,HYBRID_3_5,S7,trigrams,attend without her,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+stance on children,3,HYBRID_3_5,S7,trigrams,stance children,2,,0,,children,1,0.5,False,,,0,0,0,0,,,,True
+before you arrive,3,HYBRID_3_5,S7,trigrams,before arrive,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+at least recurring,3,HYBRID_3_5,S7,trigrams,least recurring,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+this often surfaces,2,HYBRID_3_5,S7,trigrams,often surfaces,2,,0,,,0,0.0,False,hedging|surfacing,hedging|surfacing.friction_exposed,2,2,0,2,,hedging|surfacing,often|surfaces,False
+often surfaces the,2,HYBRID_3_5,S7,trigrams,often surfaces,2,,0,,,0,0.0,False,hedging|surfacing,hedging|surfacing.friction_exposed,2,2,0,2,,hedging|surfacing,often|surfaces,False
+protect your future,2,HYBRID_3_5,S7,trigrams,protect future,2,temporal_dynamics,1,future,,0,0.0,False,temporal_projection,temporal_projection.past_present_future,1,1,1,0,temporal_projection,,future,False
+confirm visa type,2,HYBRID_3_5,S7,trigrams,confirm visa type,3,truth_and_fact,1,confirm,visa,1,0.3333333333333333,False,truth,truth.verification,1,1,1,0,truth,,confirm,False
+at higher risk,2,HYBRID_3_5,S7,trigrams,higher risk,2,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+higher risk of,2,HYBRID_3_5,S7,trigrams,higher risk,2,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+good long term,2,HYBRID_3_5,S7,trigrams,good long term,3,temporal_dynamics,1,long term,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,long term,False
+a real timeline,2,HYBRID_3_5,S7,trigrams,real timeline,2,practicality_and_feasibility,1,timeline,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,timeline,False
+fake over time,2,HYBRID_3_5,S7,trigrams,fake over time,3,temporal_dynamics,1,over time,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,over time,False
+timeline if she,2,HYBRID_3_5,S7,trigrams,timeline she,2,practicality_and_feasibility,1,timeline,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,timeline,False
+a monthly budget,2,HYBRID_3_5,S7,trigrams,monthly budget,2,practicality_and_feasibility,1,budget,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,budget,False
+biggest structural risk,2,HYBRID_3_5,S7,trigrams,biggest structural risk,3,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+structural risk if,2,HYBRID_3_5,S7,trigrams,structural risk,2,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+risk if i,2,HYBRID_3_5,S7,trigrams,risk i,2,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+constraints and reduces,2,HYBRID_3_5,S7,trigrams,constraints reduces,2,practicality_and_feasibility,1,constraints,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,constrain|constraints,False
+marriage and timeline,2,HYBRID_3_5,S7,trigrams,marriage timeline,2,practicality_and_feasibility,1,timeline,marriage,1,0.5,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,timeline,False
+your main risk,2,HYBRID_3_5,S7,trigrams,main risk,2,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+main risk is,2,HYBRID_3_5,S7,trigrams,main risk,2,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+create a credible,2,HYBRID_3_5,S7,trigrams,create credible,2,truth_and_fact,1,credible,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,create,False
+ve tested ordinary,2,HYBRID_3_5,S7,trigrams,tested ordinary,2,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,tested,False
+ready to relocate,2,HYBRID_3_5,S7,trigrams,ready relocate,2,,0,,relocat,1,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,ready to,False
+or choosing relief,2,HYBRID_3_5,S7,trigrams,choosing relief,2,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,choosing,False
+choosing relief from,2,HYBRID_3_5,S7,trigrams,choosing relief,2,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,choosing,False
+the cultural context,2,HYBRID_3_5,S7,trigrams,cultural context,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,context,False
+often correlates with,2,HYBRID_3_5,S7,trigrams,often correlates,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,often,False
+whether she expects,2,HYBRID_3_5,S7,trigrams,whether she expects,3,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+aging health and,2,HYBRID_3_5,S7,trigrams,aging health,2,,0,,aging|health,2,1.0,True,temporal_projection,temporal_projection.decay_and_currency,1,1,1,0,temporal_projection,,aging,False
+think i might,2,HYBRID_3_5,S7,trigrams,think i might,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,might,False
+i might not,2,HYBRID_3_5,S7,trigrams,i might,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,might,False
+might not move,2,HYBRID_3_5,S7,trigrams,might move,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,might,False
+surfaces the real,2,HYBRID_3_5,S7,trigrams,surfaces real,2,,0,,,0,0.0,False,surfacing,surfacing.friction_exposed,1,1,0,1,,surfacing,surfaces,False
+plan that fits,2,HYBRID_3_5,S7,trigrams,plan fits,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+exit plan that,2,HYBRID_3_5,S7,trigrams,exit plan,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+split base plan,2,HYBRID_3_5,S7,trigrams,split base plan,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+stages so i,2,HYBRID_3_5,S7,trigrams,stages i,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,stages,False
+whether you feel,2,HYBRID_3_5,S7,trigrams,whether feel,2,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+love tends to,2,HYBRID_3_5,S7,trigrams,love tends,2,,0,,love,1,0.5,False,hedging,hedging,1,1,0,1,,hedging,tends|tends to,False
+gate non negotiable,2,HYBRID_3_5,S7,trigrams,gate non negotiable,3,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,non negotiable,False
+decide one of,2,HYBRID_3_5,S7,trigrams,decide one,2,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,decide,False
+and money boundaries,2,HYBRID_3_5,S7,trigrams,money boundaries,2,imagination_and_possibility,1,boundaries,,0,0.0,False,,,0,0,0,0,,,,True
+money boundaries caregiving,2,HYBRID_3_5,S7,trigrams,money boundaries caregiving,3,imagination_and_possibility,1,boundaries,,0,0.0,False,,,0,0,0,0,,,,True
+boundary i want,2,HYBRID_3_5,S7,trigrams,boundary i want,3,imagination_and_possibility,1,boundary,,0,0.0,False,,,0,0,0,0,,,,True
+she s never,2,HYBRID_3_5,S7,trigrams,she never,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+family and social,2,HYBRID_3_5,S7,trigrams,family social,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+did you learn,2,HYBRID_3_5,S7,trigrams,did learn,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+out loud if,2,HYBRID_3_5,S7,trigrams,out loud,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+loud if i,2,HYBRID_3_5,S7,trigrams,loud i,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+want your life,2,HYBRID_3_5,S7,trigrams,want life,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+normal routine work,2,HYBRID_3_5,S7,trigrams,normal routine work,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+permanent move keep,2,HYBRID_3_5,S7,trigrams,permanent move keep,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+move keep your,2,HYBRID_3_5,S7,trigrams,move keep,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+you break up,2,HYBRID_3_5,S7,trigrams,break up,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+living expenses keep,2,HYBRID_3_5,S7,trigrams,living expenses keep,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+existing conditions and,2,HYBRID_3_5,S7,trigrams,existing conditions,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+hospitals you d,2,HYBRID_3_5,S7,trigrams,hospitals d,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+need to go,2,HYBRID_3_5,S7,trigrams,need go,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+have been a,2,HYBRID_3_5,S7,trigrams,have been,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+attachment and joy,2,HYBRID_3_5,S7,trigrams,attachment joy,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a good long,2,HYBRID_3_5,S7,trigrams,good long,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+finances separate during,2,HYBRID_3_5,S7,trigrams,finances separate during,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+separate during the,2,HYBRID_3_5,S7,trigrams,separate during,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+because what specifically,2,HYBRID_3_5,S7,trigrams,because specifically,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+obligations and money,2,HYBRID_3_5,S7,trigrams,obligations money,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+family needs arise,2,HYBRID_3_5,S7,trigrams,family needs arise,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+her family etc,2,HYBRID_3_5,S7,trigrams,her family etc,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+trial stay weeks,2,HYBRID_3_5,S7,trigrams,trial stay weeks,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+major asset purchases,2,HYBRID_3_5,S7,trigrams,major asset purchases,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+no shared accounts,2,HYBRID_3_5,S7,trigrams,no shared accounts,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+that protects dignity,2,HYBRID_3_5,S7,trigrams,protects dignity,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+want to give,2,HYBRID_3_5,S7,trigrams,want give,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+introduce reasonable structure,2,HYBRID_3_5,S7,trigrams,introduce reasonable structure,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+say no or,2,HYBRID_3_5,S7,trigrams,say no,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+finances separate at,2,HYBRID_3_5,S7,trigrams,finances separate,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+separate at first,2,HYBRID_3_5,S7,trigrams,separate first,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+children marriage family,2,HYBRID_3_5,S7,trigrams,children marriage family,3,,0,,marriage|children,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+marriage family obligations,2,HYBRID_3_5,S7,trigrams,marriage family obligations,3,,0,,marriage,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+in ordinary time,2,HYBRID_3_5,S7,trigrams,ordinary time,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+normal life time,2,HYBRID_3_5,S7,trigrams,normal life time,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+like a team,2,HYBRID_3_5,S7,trigrams,like team,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+boring inconvenient or,2,HYBRID_3_5,S7,trigrams,boring inconvenient,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+afraid to tell,2,HYBRID_3_5,S7,trigrams,afraid tell,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+tell me because,2,HYBRID_3_5,S7,trigrams,tell because,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+because you think,2,HYBRID_3_5,S7,trigrams,because think,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+move if i,2,HYBRID_3_5,S7,trigrams,move i,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+i know it,2,HYBRID_3_5,S7,trigrams,i know,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+know it asked,2,HYBRID_3_5,S7,trigrams,know asked,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+separate finances during,2,HYBRID_3_5,S7,trigrams,separate finances during,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+finances during the,2,HYBRID_3_5,S7,trigrams,finances during,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+trial explicit talks,2,HYBRID_3_5,S7,trigrams,trial explicit talks,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+to fake over,2,HYBRID_3_5,S7,trigrams,fake over,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a simple fairness,2,HYBRID_3_5,S7,trigrams,simple fairness,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+feel trapped if,2,HYBRID_3_5,S7,trigrams,feel trapped,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+comfortable with paid,2,HYBRID_3_5,S7,trigrams,comfortable paid,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+faster than you,2,HYBRID_3_5,S7,trigrams,faster than,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+community join at,2,HYBRID_3_5,S7,trigrams,community join,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+recurring groups you,2,HYBRID_3_5,S7,trigrams,recurring groups,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+groups you attend,2,HYBRID_3_5,S7,trigrams,groups attend,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+instead of move,2,HYBRID_3_5,S7,trigrams,instead move,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+home country plus,2,HYBRID_3_5,S7,trigrams,home country plus,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+you already see,2,HYBRID_3_5,S7,trigrams,already see,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+already see the,2,HYBRID_3_5,S7,trigrams,already see,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+questions that prevent,2,HYBRID_3_5,S7,trigrams,questions prevent,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+you stay my,2,HYBRID_3_5,S7,trigrams,stay my,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+stay my partner,2,HYBRID_3_5,S7,trigrams,stay my partner,3,,0,,partner,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+my partner not,2,HYBRID_3_5,S7,trigrams,my partner,2,,0,,partner,1,0.5,False,,,0,0,0,0,,,,True
+partner not my,2,HYBRID_3_5,S7,trigrams,partner my,2,,0,,partner,1,0.5,False,,,0,0,0,0,,,,True
+not my nurse,2,HYBRID_3_5,S7,trigrams,my nurse,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+after a trial,2,HYBRID_3_5,S7,trigrams,after trial,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+your biggest structural,2,HYBRID_3_5,S7,trigrams,biggest structural,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+we fly home,2,HYBRID_3_5,S7,trigrams,fly home,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+scarcity thinking if,2,HYBRID_3_5,S7,trigrams,scarcity thinking,2,,0,,scarcity,1,0.5,False,,,0,0,0,0,,,,True
+children marriage and,2,HYBRID_3_5,S7,trigrams,children marriage,2,,0,,marriage|children,2,1.0,True,,,0,0,0,0,,,,True
+about money visa,2,HYBRID_3_5,S7,trigrams,about money visa,3,,0,,visa,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+chance pressure without,2,HYBRID_3_5,S7,trigrams,chance pressure without,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+pressure without stalling,2,HYBRID_3_5,S7,trigrams,pressure without stalling,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+without stalling the,2,HYBRID_3_5,S7,trigrams,without stalling,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+stalling the relationship,2,HYBRID_3_5,S7,trigrams,stalling relationship,2,,0,,relationship,1,0.5,False,,,0,0,0,0,,,,True
+looks like it,2,HYBRID_3_5,S7,trigrams,looks like,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+like it sounds,2,HYBRID_3_5,S7,trigrams,like sounds,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+my relationship with,2,HYBRID_3_5,S7,trigrams,my relationship,2,,0,,relationship,1,0.5,False,,,0,0,0,0,,,,True
+relationship with my,2,HYBRID_3_5,S7,trigrams,relationship my,2,,0,,relationship,1,0.5,False,,,0,0,0,0,,,,True
+afraid to ask,2,HYBRID_3_5,S7,trigrams,afraid ask,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+willing to pursue,2,HYBRID_3_5,S7,trigrams,willing pursue,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+children no yes,2,HYBRID_3_5,S7,trigrams,children no yes,3,,0,,children,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+no yes unsure,2,HYBRID_3_5,S7,trigrams,no yes unsure,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+yes unsure and,2,HYBRID_3_5,S7,trigrams,yes unsure,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a decision gate,2,HYBRID_3_5,S7,trigrams,decision gate,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+decision gate non,2,HYBRID_3_5,S7,trigrams,decision gate non,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+insurance coverage evacuation,2,HYBRID_3_5,S7,trigrams,insurance coverage evacuation,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+without her logistics,2,HYBRID_3_5,S7,trigrams,without her logistics,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+her logistics you,2,HYBRID_3_5,S7,trigrams,her logistics,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+set a review,2,HYBRID_3_5,S7,trigrams,set review,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+without an explicit,2,HYBRID_3_5,S7,trigrams,without explicit,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+long visits meeting,2,HYBRID_3_5,S7,trigrams,long visits meeting,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+visits meeting her,2,HYBRID_3_5,S7,trigrams,visits meeting her,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+meeting her circle,2,HYBRID_3_5,S7,trigrams,meeting her circle,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+month trial in,2,HYBRID_3_5,S7,trigrams,month trial,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+vasectomy does she,2,HYBRID_3_5,S7,trigrams,vasectomy does she,3,,0,,vasectomy,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+consider if any,2,HYBRID_3_5,S7,trigrams,consider any,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the clear move,2,HYBRID_3_5,S7,trigrams,clear move,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+clear move is,2,HYBRID_3_5,S7,trigrams,clear move,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+least recurring activities,2,HYBRID_3_5,S7,trigrams,least recurring activities,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+explicit answer from,2,HYBRID_3_5,S7,trigrams,explicit answer,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+your no conditions,2,HYBRID_3_5,S7,trigrams,no conditions,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+no conditions you,2,HYBRID_3_5,S7,trigrams,no conditions,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+may be missing,8,HYBRID_SEMANTIC,S7,trigrams,may missing,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,may,False
+money norms family,5,HYBRID_SEMANTIC,S7,trigrams,money norms family,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+round trip ticket,4,HYBRID_SEMANTIC,S7,trigrams,round trip ticket,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+where you may,3,HYBRID_SEMANTIC,S7,trigrams,where may,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,may,False
+doesn t force,3,HYBRID_SEMANTIC,S7,trigrams,doesn force,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn|doesn t,False
+a rare opportunity,3,HYBRID_SEMANTIC,S7,trigrams,rare opportunity,2,imagination_and_possibility,1,opportunity,,0,0.0,False,,,0,0,0,0,,,,True
+shared expense method,3,HYBRID_SEMANTIC,S7,trigrams,shared expense method,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+t renegotiate under,3,HYBRID_SEMANTIC,S7,trigrams,renegotiate under,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+irreversible steps yet,3,HYBRID_SEMANTIC,S7,trigrams,irreversible steps yet,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+norms family obligations,3,HYBRID_SEMANTIC,S7,trigrams,norms family obligations,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+no not yet,3,HYBRID_SEMANTIC,S7,trigrams,no yet,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+avoided because you,3,HYBRID_SEMANTIC,S7,trigrams,avoided because,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+another trial split,3,HYBRID_SEMANTIC,S7,trigrams,another trial split,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+your risk checks,2,HYBRID_SEMANTIC,S7,trigrams,risk checks,2,practicality_and_feasibility,1,risk,,0,0.0,False,truth|warning,truth.verification|warning,2,2,1,1,truth,warning,checks|risk,False
+risk checks a,2,HYBRID_SEMANTIC,S7,trigrams,risk checks,2,practicality_and_feasibility,1,risk,,0,0.0,False,truth|warning,truth.verification|warning,2,2,1,1,truth,warning,checks|risk,False
+imagine our plan,2,HYBRID_SEMANTIC,S7,trigrams,imagine our plan,3,imagination_and_possibility,1,imagine,,0,0.0,False,imagination_and_possibility|practical_considerations_and_execution,imagination_and_possibility.exploration_within_bounds|practical_considerations_and_execution.action_and_execution,2,2,2,0,imagination_and_possibility|practical_considerations_and_execution,,imagin|imagine|plan,False
+isn t proof,2,HYBRID_SEMANTIC,S7,trigrams,isn proof,2,truth_and_fact,1,proof,,0,0.0,False,surfacing|truth,surfacing.confrontation|truth.verification,2,2,1,1,truth,surfacing,isn t|proof,False
+testing whether the,2,HYBRID_SEMANTIC,S7,trigrams,testing whether,2,,0,,,0,0.0,False,conditions|truth,conditions|truth.verification,2,2,1,1,truth,conditions,testing|whether,False
+plan for serious,2,HYBRID_SEMANTIC,S7,trigrams,plan serious,2,,0,,,0,0.0,False,practical_considerations_and_execution|warning,practical_considerations_and_execution.action_and_execution|warning,2,2,1,1,practical_considerations_and_execution,warning,plan|plan for|serious,False
+happens whether either,2,HYBRID_SEMANTIC,S7,trigrams,happens whether either,3,,0,,,0,0.0,False,conditions|imagination_and_possibility,conditions|imagination_and_possibility.tension_as_fuel,2,2,1,1,imagination_and_possibility,conditions,either|whether,False
+sunk cost momentum,2,HYBRID_SEMANTIC,S7,trigrams,sunk cost momentum,3,practicality_and_feasibility|temporal_dynamics,2,momentum|cost,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,cost,False
+timeline money norms,2,HYBRID_SEMANTIC,S7,trigrams,timeline money norms,3,practicality_and_feasibility,1,timeline,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,timeline,False
+the long term,2,HYBRID_SEMANTIC,S7,trigrams,long term,2,temporal_dynamics,1,long term,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,long term,False
+practical things matter,2,HYBRID_SEMANTIC,S7,trigrams,practical things matter,3,practicality_and_feasibility,1,practical,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,practical,False
+complex care risk,2,HYBRID_SEMANTIC,S7,trigrams,complex care risk,3,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+timeline she s,2,HYBRID_SEMANTIC,S7,trigrams,timeline she,2,practicality_and_feasibility,1,timeline,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,timeline,False
+your age trajectory,2,HYBRID_SEMANTIC,S7,trigrams,age trajectory,2,temporal_dynamics,1,trajectory,,0,0.0,False,temporal_projection,temporal_projection.past_present_future,1,1,1,0,temporal_projection,,trajectory,False
+limits marriage timeline,2,HYBRID_SEMANTIC,S7,trigrams,limits marriage timeline,3,practicality_and_feasibility,1,timeline,marriage,1,0.3333333333333333,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,timeline,False
+generate real evidence,2,HYBRID_SEMANTIC,S7,trigrams,generate real evidence,3,truth_and_fact,1,evidence,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+catastrophic medical risk,2,HYBRID_SEMANTIC,S7,trigrams,catastrophic medical risk,3,practicality_and_feasibility,1,risk,medical,1,0.3333333333333333,False,warning,warning,1,1,0,1,,warning,risk,False
+i slow down,2,HYBRID_SEMANTIC,S7,trigrams,i slow down,3,,0,,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,slow down,False
+life and conflict,2,HYBRID_SEMANTIC,S7,trigrams,life conflict,2,,0,,,0,0.0,False,surfacing,surfacing.tension_exposure,1,1,0,1,,surfacing,conflict,False
+and conflict repair,2,HYBRID_SEMANTIC,S7,trigrams,conflict repair,2,,0,,,0,0.0,False,surfacing,surfacing.tension_exposure,1,1,0,1,,surfacing,conflict,False
+test does the,2,HYBRID_SEMANTIC,S7,trigrams,test does,2,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,test,False
+doesn t ask,2,HYBRID_SEMANTIC,S7,trigrams,doesn ask,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn|doesn t,False
+our plan is,2,HYBRID_SEMANTIC,S7,trigrams,our plan,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+draft a specific,2,HYBRID_SEMANTIC,S7,trigrams,draft specific,2,,0,,,0,0.0,False,imagination_and_possibility,imagination_and_possibility.exploration_within_bounds,1,1,1,0,imagination_and_possibility,,draft,False
+building a relationship,2,HYBRID_SEMANTIC,S7,trigrams,building relationship,2,,0,,relationship,1,0.5,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,building,False
+commitment depends on,2,HYBRID_SEMANTIC,S7,trigrams,commitment depends,2,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,depends|depends on,False
+may want to,2,HYBRID_SEMANTIC,S7,trigrams,may want,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,may|may want,False
+is more likely,2,HYBRID_SEMANTIC,S7,trigrams,more likely,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,likely,False
+the gap becomes,2,HYBRID_SEMANTIC,S7,trigrams,gap becomes,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.friction_and_blockers,1,1,1,0,practical_considerations_and_execution,,gap,False
+paid help whether,2,HYBRID_SEMANTIC,S7,trigrams,paid help whether,3,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+for serious illness,2,HYBRID_SEMANTIC,S7,trigrams,serious illness,2,,0,,,0,0.0,False,warning,warning,1,1,0,1,,warning,serious,False
+a liquidity buffer,2,HYBRID_SEMANTIC,S7,trigrams,liquidity buffer,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,buffer,False
+to keep building,2,HYBRID_SEMANTIC,S7,trigrams,keep building,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,building,False
+regret in years,2,HYBRID_SEMANTIC,S7,trigrams,regret years,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,in years,False
+plan with checkpoints,2,HYBRID_SEMANTIC,S7,trigrams,plan checkpoints,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+country whether she,2,HYBRID_SEMANTIC,S7,trigrams,country whether she,3,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+healthcare exit plan,2,HYBRID_SEMANTIC,S7,trigrams,healthcare exit plan,3,,0,,healthcare|health,2,0.3333333333333333,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+to check ask,2,HYBRID_SEMANTIC,S7,trigrams,check ask,2,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,check,False
+caution looks like,2,HYBRID_SEMANTIC,S7,trigrams,caution looks like,3,,0,,,0,0.0,False,warning,warning,1,1,0,1,,warning,caution,False
+liquidity buffer so,2,HYBRID_SEMANTIC,S7,trigrams,liquidity buffer,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,buffer,False
+a crisis doesn,2,HYBRID_SEMANTIC,S7,trigrams,crisis doesn,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn,False
+crisis doesn t,2,HYBRID_SEMANTIC,S7,trigrams,crisis doesn,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn|doesn t,False
+care happens whether,2,HYBRID_SEMANTIC,S7,trigrams,care happens whether,3,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+in practice conflict,2,HYBRID_SEMANTIC,S7,trigrams,practice conflict,2,,0,,,0,0.0,False,surfacing,surfacing.tension_exposure,1,1,0,1,,surfacing,conflict,False
+practice conflict repair,2,HYBRID_SEMANTIC,S7,trigrams,practice conflict repair,3,,0,,,0,0.0,False,surfacing,surfacing.tension_exposure,1,1,0,1,,surfacing,conflict,False
+hold a boundary,2,HYBRID_SEMANTIC,S7,trigrams,hold boundary,2,imagination_and_possibility,1,boundary,,0,0.0,False,,,0,0,0,0,,,,True
+unfair to assume,2,HYBRID_SEMANTIC,S7,trigrams,unfair assume,2,truth_and_fact,1,assume,,0,0.0,False,,,0,0,0,0,,,,True
+home base option,2,HYBRID_SEMANTIC,S7,trigrams,home base option,3,imagination_and_possibility,1,option,,0,0.0,False,,,0,0,0,0,,,,True
+base option until,2,HYBRID_SEMANTIC,S7,trigrams,base option until,3,imagination_and_possibility,1,option,,0,0.0,False,,,0,0,0,0,,,,True
+matter a lot,2,HYBRID_SEMANTIC,S7,trigrams,matter lot,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+b money and,2,HYBRID_SEMANTIC,S7,trigrams,b money,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+look like here,2,HYBRID_SEMANTIC,S7,trigrams,look like here,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a couples counselor,2,HYBRID_SEMANTIC,S7,trigrams,couples counselor,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+clear shared expense,2,HYBRID_SEMANTIC,S7,trigrams,clear shared expense,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+go well and,2,HYBRID_SEMANTIC,S7,trigrams,go well,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+return home quickly,2,HYBRID_SEMANTIC,S7,trigrams,return home quickly,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+chance at love,2,HYBRID_SEMANTIC,S7,trigrams,chance love,2,,0,,love,1,0.5,False,,,0,0,0,0,,,,True
+months trial review,2,HYBRID_SEMANTIC,S7,trigrams,months trial review,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+maintain home country,2,HYBRID_SEMANTIC,S7,trigrams,maintain home country,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+question becomes how,2,HYBRID_SEMANTIC,S7,trigrams,question becomes how,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+becomes how do,2,HYBRID_SEMANTIC,S7,trigrams,becomes how,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+because it matters,2,HYBRID_SEMANTIC,S7,trigrams,because matters,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+it matters i,2,HYBRID_SEMANTIC,S7,trigrams,matters i,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+as i get,2,HYBRID_SEMANTIC,S7,trigrams,i get,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+i get older,2,HYBRID_SEMANTIC,S7,trigrams,i get older,3,,0,,older,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+home while you,2,HYBRID_SEMANTIC,S7,trigrams,home while,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+i ll tailor,2,HYBRID_SEMANTIC,S7,trigrams,i ll tailor,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+ll tailor a,2,HYBRID_SEMANTIC,S7,trigrams,ll tailor,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+job simple lifestyle,2,HYBRID_SEMANTIC,S7,trigrams,job simple lifestyle,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+are all consistent,2,HYBRID_SEMANTIC,S7,trigrams,all consistent,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+all consistent with,2,HYBRID_SEMANTIC,S7,trigrams,all consistent,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+if she personally,2,HYBRID_SEMANTIC,S7,trigrams,she personally,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+country or both,2,HYBRID_SEMANTIC,S7,trigrams,country both,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+finances separate you,2,HYBRID_SEMANTIC,S7,trigrams,finances separate,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+during the first,2,HYBRID_SEMANTIC,S7,trigrams,during first,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+first year of,2,HYBRID_SEMANTIC,S7,trigrams,first year,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+year of living,2,HYBRID_SEMANTIC,S7,trigrams,year living,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the same place,2,HYBRID_SEMANTIC,S7,trigrams,same place,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+same place if,2,HYBRID_SEMANTIC,S7,trigrams,same place,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a respectful way,2,HYBRID_SEMANTIC,S7,trigrams,respectful way,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a reversible visa,2,HYBRID_SEMANTIC,S7,trigrams,reversible visa,2,,0,,visa,1,0.5,False,,,0,0,0,0,,,,True
+wants children i,2,HYBRID_SEMANTIC,S7,trigrams,wants children i,3,,0,,children,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+renegotiate under longing,2,HYBRID_SEMANTIC,S7,trigrams,renegotiate under longing,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+become a team,2,HYBRID_SEMANTIC,S7,trigrams,become team,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+large financial entanglements,2,HYBRID_SEMANTIC,S7,trigrams,large financial entanglements,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+financial entanglements for,2,HYBRID_SEMANTIC,S7,trigrams,financial entanglements,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+her i can,2,HYBRID_SEMANTIC,S7,trigrams,her i,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+conversation script and,2,HYBRID_SEMANTIC,S7,trigrams,conversation script,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+visa status and,2,HYBRID_SEMANTIC,S7,trigrams,visa status,2,,0,,visa,1,0.5,False,,,0,0,0,0,,,,True
+stays consistent when,2,HYBRID_SEMANTIC,S7,trigrams,stays consistent,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+topics kids marriage,2,HYBRID_SEMANTIC,S7,trigrams,topics kids marriage,3,,0,,marriage,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+now prove you,2,HYBRID_SEMANTIC,S7,trigrams,now prove,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+even small ones,2,HYBRID_SEMANTIC,S7,trigrams,even small ones,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+small ones that,2,HYBRID_SEMANTIC,S7,trigrams,small ones,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+ones that ramp,2,HYBRID_SEMANTIC,S7,trigrams,ones ramp,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+money norms what,2,HYBRID_SEMANTIC,S7,trigrams,money norms,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+your own supports,2,HYBRID_SEMANTIC,S7,trigrams,own supports,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+from avoidable damage,2,HYBRID_SEMANTIC,S7,trigrams,avoidable damage,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+she were and,2,HYBRID_SEMANTIC,S7,trigrams,she were,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+with cross cultural,2,HYBRID_SEMANTIC,S7,trigrams,cross cultural,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+cross cultural couples,2,HYBRID_SEMANTIC,S7,trigrams,cross cultural couples,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+changes are more,2,HYBRID_SEMANTIC,S7,trigrams,changes more,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+she wants kids,2,HYBRID_SEMANTIC,S7,trigrams,she wants kids,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+willing to relocate,2,HYBRID_SEMANTIC,S7,trigrams,willing relocate,2,,0,,relocat,1,0.0,False,,,0,0,0,0,,,,True
+fund so she,2,HYBRID_SEMANTIC,S7,trigrams,fund she,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+being pulled into,2,HYBRID_SEMANTIC,S7,trigrams,being pulled,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+home country healthcare,2,HYBRID_SEMANTIC,S7,trigrams,home country healthcare,3,,0,,healthcare|health,2,0.3333333333333333,False,,,0,0,0,0,,,,True
+country healthcare access,2,HYBRID_SEMANTIC,S7,trigrams,country healthcare access,3,,0,,healthcare|health,2,0.3333333333333333,False,,,0,0,0,0,,,,True
+family obligations without,2,HYBRID_SEMANTIC,S7,trigrams,family obligations without,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the best care,2,HYBRID_SEMANTIC,S7,trigrams,best care,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+become my caregiver,2,HYBRID_SEMANTIC,S7,trigrams,become my caregiver,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+my caregiver by,2,HYBRID_SEMANTIC,S7,trigrams,my caregiver,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+moving without language,2,HYBRID_SEMANTIC,S7,trigrams,moving without language,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+pressure on her,2,HYBRID_SEMANTIC,S7,trigrams,pressure her,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+extended trial stay,2,HYBRID_SEMANTIC,S7,trigrams,extended trial stay,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+split base period,2,HYBRID_SEMANTIC,S7,trigrams,split base period,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+can meet without,2,HYBRID_SEMANTIC,S7,trigrams,meet without,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+meet without her,2,HYBRID_SEMANTIC,S7,trigrams,meet without her,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+one bad year,2,HYBRID_SEMANTIC,S7,trigrams,one bad year,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+assets under pressure,2,HYBRID_SEMANTIC,S7,trigrams,assets under pressure,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+done a long,2,HYBRID_SEMANTIC,S7,trigrams,done long,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+finances or take,2,HYBRID_SEMANTIC,S7,trigrams,finances take,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+take on obligations,2,HYBRID_SEMANTIC,S7,trigrams,take obligations,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+justify an irreversible,2,HYBRID_SEMANTIC,S7,trigrams,justify irreversible,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+finances no major,2,HYBRID_SEMANTIC,S7,trigrams,finances no major,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+is she influenced,2,HYBRID_SEMANTIC,S7,trigrams,she influenced,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+she influenced by,2,HYBRID_SEMANTIC,S7,trigrams,she influenced,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+with eyes open,2,HYBRID_SEMANTIC,S7,trigrams,eyes open,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+explicitly i can,2,HYBRID_SEMANTIC,S7,trigrams,explicitly i,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a short respectful,2,HYBRID_SEMANTIC,S7,trigrams,short respectful,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+selling major assets,2,HYBRID_SEMANTIC,S7,trigrams,selling major assets,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+say to her,2,HYBRID_SEMANTIC,S7,trigrams,say her,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+how soon she,2,HYBRID_SEMANTIC,S7,trigrams,how soon she,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+soon she hopes,2,HYBRID_SEMANTIC,S7,trigrams,soon she hopes,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+she hopes you,2,HYBRID_SEMANTIC,S7,trigrams,she hopes,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+hopes you ll,2,HYBRID_SEMANTIC,S7,trigrams,hopes ll,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+you ll move,2,HYBRID_SEMANTIC,S7,trigrams,ll move,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+and go no,2,HYBRID_SEMANTIC,S7,trigrams,go no,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+reality based urgency,2,HYBRID_SEMANTIC,S7,trigrams,reality based urgency,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+you most regret,2,HYBRID_SEMANTIC,S7,trigrams,most regret,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+most regret in,2,HYBRID_SEMANTIC,S7,trigrams,most regret,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+months we assess,2,HYBRID_SEMANTIC,S7,trigrams,months assess,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+stay no irreversible,2,HYBRID_SEMANTIC,S7,trigrams,stay no irreversible,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+stays warm respectful,2,HYBRID_SEMANTIC,S7,trigrams,stays warm respectful,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+warm respectful and,2,HYBRID_SEMANTIC,S7,trigrams,warm respectful,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+keep it simple,2,HYBRID_SEMANTIC,S7,trigrams,keep simple,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+want children i,2,HYBRID_SEMANTIC,S7,trigrams,want children i,3,,0,,children,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+parenting again and,2,HYBRID_SEMANTIC,S7,trigrams,parenting again,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+because you fear,2,HYBRID_SEMANTIC,S7,trigrams,because fear,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+you fear being,2,HYBRID_SEMANTIC,S7,trigrams,fear being,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+fear being pulled,2,HYBRID_SEMANTIC,S7,trigrams,fear being pulled,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+parents now and,2,HYBRID_SEMANTIC,S7,trigrams,parents now,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+clear end date,2,HYBRID_SEMANTIC,S7,trigrams,clear end date,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+calendar now week,2,HYBRID_SEMANTIC,S7,trigrams,calendar now week,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+marriage expectations money,2,HYBRID_SEMANTIC,S7,trigrams,marriage expectations money,3,,0,,marriage,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+the best chance,2,HYBRID_SEMANTIC,S7,trigrams,best chance,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+ever mentioned children,2,HYBRID_SEMANTIC,S7,trigrams,ever mentioned children,3,,0,,children,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+willingness limits marriage,2,HYBRID_SEMANTIC,S7,trigrams,willingness limits marriage,3,,0,,marriage,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+mentioned children explicitly,2,HYBRID_SEMANTIC,S7,trigrams,mentioned children explicitly,3,,0,,children,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+to generate real,2,HYBRID_SEMANTIC,S7,trigrams,generate real,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+you permanently relocate,2,HYBRID_SEMANTIC,S7,trigrams,permanently relocate,2,,0,,relocat,1,0.0,False,,,0,0,0,0,,,,True
+t force asset,2,HYBRID_SEMANTIC,S7,trigrams,force asset,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+trip ticket fixed,2,HYBRID_SEMANTIC,S7,trigrams,trip ticket fixed,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+ticket fixed end,2,HYBRID_SEMANTIC,S7,trigrams,ticket fixed end,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+fixed end date,2,HYBRID_SEMANTIC,S7,trigrams,fixed end date,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+end date keep,2,HYBRID_SEMANTIC,S7,trigrams,end date keep,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+date keep your,2,HYBRID_SEMANTIC,S7,trigrams,date keep,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+default where complex,2,HYBRID_SEMANTIC,S7,trigrams,default where complex,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+relocate for medical,2,HYBRID_SEMANTIC,S7,trigrams,relocate medical,2,,0,,relocat|medical,2,0.5,False,,,0,0,0,0,,,,True
+if talks go,2,HYBRID_SEMANTIC,S7,trigrams,talks go,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+talks go well,2,HYBRID_SEMANTIC,S7,trigrams,talks go well,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True

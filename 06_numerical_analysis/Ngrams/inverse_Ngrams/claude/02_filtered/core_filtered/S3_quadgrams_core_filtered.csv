@@ -1,0 +1,725 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy
+exclusions for interference triggered,5,AC15,S3,quadgrams,exclusions interference triggered,3,,0,,interference,1,0.3333333333333333,False
+for interference triggered safety,4,AC15,S3,quadgrams,interference triggered safety,3,,0,,interference,1,0.3333333333333333,False
+explicit exclusions for interference,4,AC15,S3,quadgrams,explicit exclusions interference,3,,0,,interference,1,0.3333333333333333,False
+supported operating envelope v1,4,AC15,S3,quadgrams,supported operating envelope v1,4,,0,,,0,0.0,False
+a supported operating envelope,3,AC15,S3,quadgrams,supported operating envelope,3,,0,,,0,0.0,False
+interference triggered safety landings,3,AC15,S3,quadgrams,interference triggered safety landings,4,,0,,interference,1,0.25,False
+a safety hover landing,3,AC15,S3,quadgrams,safety hover landing,3,,0,,hover|safety hover,2,0.6666666666666666,False
+within a certified operating,3,AC15,S3,quadgrams,within certified operating,3,,0,,,0,0.0,False
+a certified operating envelope,3,AC15,S3,quadgrams,certified operating envelope,3,,0,,,0,0.0,False
+roads decks work faces,3,AC15,S3,quadgrams,roads decks work faces,4,,0,,,0,0.0,False
+max time to clear,3,AC15,S3,quadgrams,max time clear,3,,0,,,0,0.0,False
+unreliable before you can,2,AC15,S3,quadgrams,unreliable before,2,truth_and_fact,1,unreliable,,0,0.0,False
+transition to a more,2,AC15,S3,quadgrams,transition more,2,temporal_dynamics,1,transition,,0,0.0,False
+to a more robust,2,AC15,S3,quadgrams,more robust,2,temporal_dynamics,1,robust,,0,0.0,False
+a more robust nav,2,AC15,S3,quadgrams,more robust nav,3,temporal_dynamics,1,robust,,0,0.0,False
+more robust nav mode,2,AC15,S3,quadgrams,more robust nav mode,4,temporal_dynamics,1,robust,,0,0.0,False
+constrained launch parallel hardware,2,AC15,S3,quadgrams,constrained launch parallel hardware,4,practicality_and_feasibility,1,constrained,launch,1,0.25,False
+de risked execution not,2,AC15,S3,quadgrams,de risked execution,3,practicality_and_feasibility,1,execution,,0,0.0,False
+shielding prototype validated evt,2,AC15,S3,quadgrams,shielding prototype validated evt,4,imagination_and_possibility,1,prototype,shielding,1,0.25,False
+prototype validated evt dvt,2,AC15,S3,quadgrams,prototype validated evt dvt,4,imagination_and_possibility,1,prototype,,0,0.0,False
+definition and penalty schedule,2,AC15,S3,quadgrams,definition penalty schedule,3,practicality_and_feasibility,1,schedule,,0,0.0,False
+runtime detection proactive mitigation,2,AC15,S3,quadgrams,runtime detection proactive mitigation,4,practicality_and_feasibility,1,mitigation,,0,0.0,False
+the claims are truthful,2,AC15,S3,quadgrams,claims truthful,2,truth_and_fact,1,claims,,0,0.0,False
+claims are truthful and,2,AC15,S3,quadgrams,claims truthful,2,truth_and_fact,1,claims,,0,0.0,False
+market window without sacrificing,2,AC15,S3,quadgrams,market window without sacrificing,4,temporal_dynamics,1,window,,0,0.0,False
+window without sacrificing the,2,AC15,S3,quadgrams,window without sacrificing,3,temporal_dynamics,1,window,,0,0.0,False
+procedural controls software constraints,2,AC15,S3,quadgrams,procedural controls software constraints,4,practicality_and_feasibility,1,constraints,,0,0.0,False
+the rev b schedule,2,AC15,S3,quadgrams,rev b schedule,3,practicality_and_feasibility,1,schedule,,0,0.0,False
+operating envelope that makes,2,AC15,S3,quadgrams,operating envelope makes,3,,0,,,0,0.0,False
+envelope that makes the,2,AC15,S3,quadgrams,envelope makes,2,,0,,,0,0.0,False
+before you can fix,2,AC15,S3,quadgrams,before fix,2,,0,,,0,0.0,False
+a clearly bounded operating,2,AC15,S3,quadgrams,clearly bounded operating,3,,0,,,0,0.0,False
+clearly bounded operating envelope,2,AC15,S3,quadgrams,clearly bounded operating envelope,4,,0,,,0,0.0,False
+bounded operating envelope with,2,AC15,S3,quadgrams,bounded operating envelope,3,,0,,,0,0.0,False
+per flights in supported,2,AC15,S3,quadgrams,per flights supported,3,,0,,flight,1,0.0,False
+you ship within an,2,AC15,S3,quadgrams,ship within,2,,0,,,0,0.0,False
+can restructure the launch,2,AC15,S3,quadgrams,restructure launch,2,,0,,launch,1,0.5,False
+restructure the launch into,2,AC15,S3,quadgrams,restructure launch,2,,0,,launch,1,0.5,False
+enforce a supported operating,2,AC15,S3,quadgrams,enforce supported operating,3,,0,,,0,0.0,False
+supported operating envelope that,2,AC15,S3,quadgrams,supported operating envelope,3,,0,,,0,0.0,False
+the supported envelope not,2,AC15,S3,quadgrams,supported envelope,2,,0,,,0,0.0,False
+for mission disrupting events,2,AC15,S3,quadgrams,mission disrupting events,3,,0,,,0,0.0,False
+events recovery time distribution,2,AC15,S3,quadgrams,events recovery time distribution,4,,0,,,0,0.0,False
+recovery time distribution p50,2,AC15,S3,quadgrams,recovery time distribution p50,4,,0,,,0,0.0,False
+time distribution p50 p95,2,AC15,S3,quadgrams,time distribution p50 p95,4,,0,,,0,0.0,False
+telemetry sufficient to reconstruct,2,AC15,S3,quadgrams,telemetry sufficient reconstruct,3,,0,,,0,0.0,False
+ruin ruin happens if,2,AC15,S3,quadgrams,ruin ruin happens,3,,0,,,0,0.0,False
+ruin happens if any,2,AC15,S3,quadgrams,ruin happens any,3,,0,,,0,0.0,False
+happens if any of,2,AC15,S3,quadgrams,happens any,2,,0,,,0,0.0,False
+any of these become,2,AC15,S3,quadgrams,any these become,3,,0,,,0,0.0,False
+of these become likely,2,AC15,S3,quadgrams,these become likely,3,,0,,,0,0.0,False
+enough to avoid the,2,AC15,S3,quadgrams,enough avoid,2,,0,,,0,0.0,False
+with a financing strategy,2,AC15,S3,quadgrams,financing strategy,2,,0,,,0,0.0,False
+a financing strategy that,2,AC15,S3,quadgrams,financing strategy,2,,0,,,0,0.0,False
+bound the failure mode,2,AC15,S3,quadgrams,bound failure mode,3,,0,,,0,0.0,False
+until you can prove,2,AC15,S3,quadgrams,until prove,2,,0,,,0,0.0,False
+a known safe landing,2,AC15,S3,quadgrams,known safe landing,3,,0,,,0,0.0,False
+and p ruin via,2,AC15,S3,quadgrams,p ruin via,3,,0,,,0,0.0,False
+even if you launch,2,AC15,S3,quadgrams,even launch,2,,0,,launch,1,0.5,False
+and i ll map,2,AC15,S3,quadgrams,i ll map,3,,0,,,0,0.0,False
+redundancy such that service,2,AC15,S3,quadgrams,redundancy such service,3,,0,,,0,0.0,False
+explicit emi magnetic exclusions,2,AC15,S3,quadgrams,explicit emi magnetic exclusions,4,,0,,magnetic,1,0.25,False
+cheaper than penalties reputational,2,AC15,S3,quadgrams,cheaper than penalties reputational,4,,0,,,0,0.0,False
+internally if the partner,2,AC15,S3,quadgrams,internally partner,2,,0,,,0,0.0,False
+as originally described geofence,2,AC15,S3,quadgrams,originally described geofence,3,,0,,geofence,1,0.3333333333333333,False
+and a high visibility,2,AC15,S3,quadgrams,high visibility,2,,0,,,0,0.0,False
+to hardware rev b,2,AC15,S3,quadgrams,hardware rev b,3,,0,,,0,0.0,False
+paste the sla uptime,2,AC15,S3,quadgrams,paste sla uptime,3,,0,,,0,0.0,False
+the sla uptime definition,2,AC15,S3,quadgrams,sla uptime definition,3,,0,,,0,0.0,False
+sla uptime definition and,2,AC15,S3,quadgrams,sla uptime definition,3,,0,,,0,0.0,False
+mttr for a safety,2,AC15,S3,quadgrams,mttr safety,2,,0,,,0,0.0,False
+proposal a s viability,2,AC15,S3,quadgrams,proposal viability,2,,0,,,0,0.0,False
+a commissioning stabilization period,2,AC15,S3,quadgrams,commissioning stabilization period,3,,0,,,0,0.0,False
+commissioning stabilization period with,2,AC15,S3,quadgrams,commissioning stabilization period,3,,0,,,0,0.0,False
+stabilization period with reduced,2,AC15,S3,quadgrams,stabilization period reduced,3,,0,,,0,0.0,False
+triggered safety landings until,2,AC15,S3,quadgrams,triggered safety landings until,4,,0,,,0,0.0,False
+safety landings until rev,2,AC15,S3,quadgrams,safety landings until rev,4,,0,,,0,0.0,False
+landings until rev b,2,AC15,S3,quadgrams,landings until rev b,4,,0,,,0,0.0,False
+hot spares fast swap,2,AC15,S3,quadgrams,hot spares fast swap,4,,0,,,0,0.0,False
+that number is nontrivial,2,AC15,S3,quadgrams,number nontrivial,2,,0,,,0,0.0,False
+number is nontrivial you,2,AC15,S3,quadgrams,number nontrivial,2,,0,,,0,0.0,False
+a the chief architect,2,AC15,S3,quadgrams,chief architect,2,,0,,chief architect,1,1.0,True
+can t guarantee geofence,2,AC15,S3,quadgrams,guarantee geofence,2,,0,,geofence,1,0.5,False
+t guarantee geofence coverage,2,AC15,S3,quadgrams,guarantee geofence coverage,3,,0,,geofence,1,0.3333333333333333,False
+n aircraft hot spares,2,AC15,S3,quadgrams,n aircraft hot spares,4,,0,,,0,0.0,False
+delay hardware fix or,2,AC15,S3,quadgrams,delay hardware fix,3,,0,,,0,0.0,False
+guaranteed because interference zones,2,AC15,S3,quadgrams,guaranteed because interference zones,4,,0,,interference,1,0.25,False
+direct contractual liability and,2,AC15,S3,quadgrams,direct contractual liability,3,,0,,,0,0.0,False
+contractual liability and a,2,AC15,S3,quadgrams,contractual liability,2,,0,,,0,0.0,False
+sla definition of downtime,2,AC15,S3,quadgrams,sla definition downtime,3,,0,,,0,0.0,False
+or you deliver redundancy,2,AC15,S3,quadgrams,deliver redundancy,2,,0,,,0,0.0,False
+the architect can sign,2,AC15,S3,quadgrams,architect sign,2,,0,,,0,0.0,False
+hardware fix on the,2,AC15,S3,quadgrams,hardware fix,2,,0,,,0,0.0,False
+fix on the critical,2,AC15,S3,quadgrams,fix critical,2,,0,,,0,0.0,False
+definition what counts as,2,AC15,S3,quadgrams,definition counts,2,,0,,,0,0.0,False
+competitor delayed we are,2,AC15,S3,quadgrams,competitor delayed,2,,0,,,0,0.0,False
+expanding envelope with rev,2,AC15,S3,quadgrams,expanding envelope rev,3,,0,,,0,0.0,False
+envelope with rev b,2,AC15,S3,quadgrams,envelope rev b,3,,0,,,0,0.0,False
+s exact uptime downtime,2,AC15,S3,quadgrams,exact uptime downtime,3,,0,,,0,0.0,False
+managed service with redundancy,2,AC15,S3,quadgrams,managed service redundancy,3,,0,,,0,0.0,False
+per month if you,2,AC15,S3,quadgrams,per month,2,,0,,,0,0.0,False
+month if you launch,2,AC15,S3,quadgrams,month launch,2,,0,,launch,1,0.5,False
+what is being first,2,AC15,S3,quadgrams,being first,2,,0,,,0,0.0,False
+the mining partner contract,2,AC15,S3,quadgrams,mining partner contract,3,,0,,mining,1,0.3333333333333333,False
+reality commissioning period exclusions,2,AC15,S3,quadgrams,reality commissioning period exclusions,4,,0,,,0,0.0,False
+commissioning period exclusions downtime,2,AC15,S3,quadgrams,commissioning period exclusions downtime,4,,0,,,0,0.0,False
+period exclusions downtime definition,2,AC15,S3,quadgrams,period exclusions downtime definition,4,,0,,,0,0.0,False
+exclusions downtime definition or,2,AC15,S3,quadgrams,exclusions downtime definition,3,,0,,,0,0.0,False
+to remove default control,2,AC15,S3,quadgrams,remove default control,3,,0,,,0,0.0,False
+remove default control cliffs,2,AC15,S3,quadgrams,remove default control cliffs,4,,0,,,0,0.0,False
+deployment until rev b,2,AC15,S3,quadgrams,deployment until rev b,4,,0,,,0,0.0,False
+is no longer the,2,AC15,S3,quadgrams,no longer,2,,0,,,0,0.0,False
+definition and i ll,2,AC15,S3,quadgrams,definition i ll,3,,0,,,0,0.0,False
+you re statistically likely,2,AC15,S3,quadgrams,statistically likely,2,,0,,,0,0.0,False
+re statistically likely to,2,AC15,S3,quadgrams,statistically likely,2,,0,,,0,0.0,False
+signs the eap scope,2,AC15,S3,quadgrams,signs eap scope,3,,0,,,0,0.0,False
+period with reduced zero,2,AC15,S3,quadgrams,period reduced zero,3,,0,,,0,0.0,False
+expected behavior safety hover,2,AC15,S3,quadgrams,expected behavior safety hover,4,,0,,hover|safety hover,2,0.5,False
+behavior safety hover land,2,AC15,S3,quadgrams,behavior safety hover land,4,,0,,hover|safety hover,2,0.5,False
+architect has veto over,2,AC15,S3,quadgrams,architect has veto over,4,,0,,,0,0.0,False
+optics only eap fails,2,AC15,S3,quadgrams,optics eap fails,3,,0,,,0,0.0,False
+only eap fails because,2,AC15,S3,quadgrams,eap fails because,3,,0,,,0,0.0,False
+structural eap can work,2,AC15,S3,quadgrams,structural eap work,3,,0,,,0,0.0,False
+exclusions for known limitations,2,AC15,S3,quadgrams,exclusions known limitations,3,,0,,,0,0.0,False
+redundancy so incidents don,2,AC15,S3,quadgrams,redundancy incidents,2,,0,,,0,0.0,False
+incidents don t become,2,AC15,S3,quadgrams,incidents become,2,,0,,,0,0.0,False
+don t become downtime,2,AC15,S3,quadgrams,become downtime,2,,0,,,0,0.0,False
+site traffic control procedure,2,AC15,S3,quadgrams,site traffic control procedure,4,,0,,,0,0.0,False
+can prove containment and,2,AC15,S3,quadgrams,prove containment,2,,0,,,0,0.0,False
+commissioning period exclusions or,2,AC15,S3,quadgrams,commissioning period exclusions,3,,0,,,0,0.0,False
+landing over active haul,2,AC15,S3,quadgrams,landing over active haul,4,,0,,,0,0.0,False
+haul road critical corridor,2,AC15,S3,quadgrams,haul road critical corridor,4,,0,,,0,0.0,False
+or you provide redundancy,2,AC15,S3,quadgrams,provide redundancy,2,,0,,,0,0.0,False
+terms for any penalized,2,AC15,S3,quadgrams,terms any penalized,3,,0,,,0,0.0,False
+a dated rev b,2,AC15,S3,quadgrams,dated rev b,3,,0,,,0,0.0,False
+probability of penalties reputational,2,AC15,S3,quadgrams,probability penalties reputational,3,,0,,,0,0.0,False
+of penalties reputational damage,2,AC15,S3,quadgrams,penalties reputational damage,3,,0,,,0,0.0,False
+share what the vc,2,AC15,S3,quadgrams,share vc,2,,0,,vc,1,0.5,False
+an engineer signed operating,2,AC15,S3,quadgrams,engineer signed operating,3,,0,,,0,0.0,False
+engineer signed operating envelope,2,AC15,S3,quadgrams,engineer signed operating envelope,4,,0,,,0,0.0,False
+and other critical corridors,2,AC15,S3,quadgrams,other critical corridors,3,,0,,,0,0.0,False
+event rate above x,2,AC15,S3,quadgrams,event rate above x,4,,0,,,0,0.0,False
+volumes for haul roads,2,AC15,S3,quadgrams,volumes haul roads,3,,0,,,0,0.0,False
+critical corridors inflated by,2,AC15,S3,quadgrams,critical corridors inflated,3,,0,,,0,0.0,False
+no overflight loiter landing,2,AC15,S3,quadgrams,no overflight loiter landing,4,,0,,,0,0.0,False
+containment and recovery bounds,2,AC15,S3,quadgrams,containment recovery bounds,3,,0,,,0,0.0,False
+for any partner with,2,AC15,S3,quadgrams,any partner,2,,0,,,0,0.0,False
+or explicit exclusions for,2,AC15,S3,quadgrams,explicit exclusions,2,,0,,,0,0.0,False
+measured at service throughput,2,AC15,S3,quadgrams,measured service throughput,3,,0,,,0,0.0,False
+at service throughput level,2,AC15,S3,quadgrams,service throughput level,3,,0,,,0,0.0,False
+certification checklist including interference,2,AC15,S3,quadgrams,certification checklist including interference,4,,0,,interference,1,0.25,False
+rev b emi hardening,2,AC15,S3,quadgrams,rev b emi hardening,4,,0,,,0,0.0,False
+corridors over haul roads,6,AC15P,S3,quadgrams,corridors over haul roads,4,,0,,,0,0.0,False
+rev b shielding or,5,AC15P,S3,quadgrams,rev b shielding,3,,0,,shielding,1,0.3333333333333333,False
+limited availability early access,4,AC15P,S3,quadgrams,limited availability early access,4,,0,,early access,1,0.5,False
+mitigation is not bounded,3,AC15P,S3,quadgrams,mitigation bounded,2,practicality_and_feasibility,1,mitigation,,0,0.0,False
+no or capped downtime,3,AC15P,S3,quadgrams,no capped downtime,3,,0,,,0,0.0,False
+or capped downtime penalties,3,AC15P,S3,quadgrams,capped downtime penalties,3,,0,,,0,0.0,False
+after rev b shielding,3,AC15P,S3,quadgrams,after rev b shielding,4,,0,,shielding,1,0.25,False
+mutually agreed acceptance metrics,3,AC15P,S3,quadgrams,mutually agreed acceptance metrics,4,,0,,,0,0.0,False
+and b whether the,3,AC15P,S3,quadgrams,b whether,2,,0,,,0,0.0,False
+b whether the mining,3,AC15P,S3,quadgrams,b whether mining,3,,0,,mining,1,0.3333333333333333,False
+partner will accept a,3,AC15P,S3,quadgrams,partner will accept,3,,0,,,0,0.0,False
+with capped no penalties,3,AC15P,S3,quadgrams,capped no penalties,3,,0,,,0,0.0,False
+within qualified zones under,3,AC15P,S3,quadgrams,within qualified zones under,4,,0,,,0,0.0,False
+sla after rev b,3,AC15P,S3,quadgrams,sla after rev b,4,,0,,,0,0.0,False
+safety reliability case for,3,AC15P,S3,quadgrams,safety reliability case,3,,0,,,0,0.0,False
+in unbounded emi environments,3,AC15P,S3,quadgrams,unbounded emi environments,3,,0,,,0,0.0,False
+qualified low emi sites,3,AC15P,S3,quadgrams,qualified low emi sites,4,,0,,,0,0.0,False
+paid pilot limited availability,2,AC15P,S3,quadgrams,paid pilot limited availability,4,imagination_and_possibility,1,pilot,,0,0.0,False
+pilot la until rev,2,AC15P,S3,quadgrams,pilot la until rev,4,imagination_and_possibility,1,pilot,,0,0.0,False
+mining as paid pilot,2,AC15P,S3,quadgrams,mining paid pilot,3,imagination_and_possibility,1,pilot,mining,1,0.3333333333333333,False
+whether you can implement,2,AC15P,S3,quadgrams,whether implement,2,practicality_and_feasibility,1,implement,,0,0.0,False
+zones may shift so,2,AC15P,S3,quadgrams,zones may shift,3,temporal_dynamics,1,shift,,0,0.0,False
+penalty free qualification phase,2,AC15P,S3,quadgrams,penalty free qualification phase,4,temporal_dynamics,1,phase,,0,0.0,False
+qualification phase i can,2,AC15P,S3,quadgrams,qualification phase i,3,temporal_dynamics,1,phase,,0,0.0,False
+ve confirmed the chief,2,AC15P,S3,quadgrams,confirmed chief,2,truth_and_fact,1,confirmed,,0,0.0,False
+confirmed the chief architect,2,AC15P,S3,quadgrams,confirmed chief architect,3,truth_and_fact,1,confirmed,chief architect,1,0.6666666666666666,False
+let p_hi fraction of,2,AC15P,S3,quadgrams,let p_hi fraction,3,,0,,,0,0.0,False
+p_hi fraction of flights,2,AC15P,S3,quadgrams,p_hi fraction flights,3,,0,,flight,1,0.0,False
+day flights day p_event_total,2,AC15P,S3,quadgrams,day flights day p_event_total,4,,0,,flight,1,0.0,False
+p_hi p_event_total incidents day,2,AC15P,S3,quadgrams,p_hi p_event_total incidents day,4,,0,,,0,0.0,False
+p_event_total incidents day every,2,AC15P,S3,quadgrams,p_event_total incidents day every,4,,0,,,0,0.0,False
+incidents day every days,2,AC15P,S3,quadgrams,incidents day every days,4,,0,,,0,0.0,False
+systems architect two lead,2,AC15P,S3,quadgrams,systems architect two lead,4,,0,,,0,0.0,False
+architect two lead engineers,2,AC15P,S3,quadgrams,architect two lead engineers,4,,0,,lead engineer,1,0.25,False
+global launch messaging if,2,AC15P,S3,quadgrams,global launch messaging,3,,0,,launch,1,0.3333333333333333,False
+bounded operating envelope site,2,AC15P,S3,quadgrams,bounded operating envelope site,4,,0,,,0,0.0,False
+proposal a isn t,2,AC15P,S3,quadgrams,proposal isn,2,,0,,,0,0.0,False
+c gated launch partial,2,AC15P,S3,quadgrams,c gated launch partial,4,,0,,launch,1,0.25,False
+customers flights day and,2,AC15P,S3,quadgrams,customers flights day,3,,0,,flight,1,0.0,False
+those i can help,2,AC15P,S3,quadgrams,those i help,3,,0,,,0,0.0,False
+in high interference magnetic,2,AC15P,S3,quadgrams,high interference magnetic,3,,0,,interference|magnetic,2,0.6666666666666666,False
+safety hover land events,2,AC15P,S3,quadgrams,safety hover land events,4,,0,,hover|safety hover,2,0.5,False
+a simple decision test,2,AC15P,S3,quadgrams,simple decision test,3,,0,,,0,0.0,False
+to reduce single lender,2,AC15P,S3,quadgrams,reduce single lender,3,,0,,,0,0.0,False
+reduce single lender control,2,AC15P,S3,quadgrams,reduce single lender control,4,,0,,,0,0.0,False
+sanity check whether the,2,AC15P,S3,quadgrams,sanity check whether,3,,0,,,0,0.0,False
+the system cannot guarantee,2,AC15P,S3,quadgrams,system cannot guarantee,3,,0,,,0,0.0,False
+guarantee a safe landing,2,AC15P,S3,quadgrams,guarantee safe landing,3,,0,,,0,0.0,False
+a safe landing area,2,AC15P,S3,quadgrams,safe landing area,3,,0,,,0,0.0,False
+expected flights day i,2,AC15P,S3,quadgrams,expected flights day i,4,,0,,flight,1,0.0,False
+flights day i can,2,AC15P,S3,quadgrams,flights day i,3,,0,,flight,1,0.0,False
+day i can help,2,AC15P,S3,quadgrams,day i help,3,,0,,,0,0.0,False
+even with series b,2,AC15P,S3,quadgrams,even series b,3,,0,,series b,1,0.6666666666666666,False
+reduce the probability of,2,AC15P,S3,quadgrams,reduce probability,2,,0,,,0,0.0,False
+probability of a successful,2,AC15P,S3,quadgrams,probability successful,2,,0,,,0,0.0,False
+of a successful series,2,AC15P,S3,quadgrams,successful series,2,,0,,,0,0.0,False
+a successful series b,2,AC15P,S3,quadgrams,successful series b,3,,0,,series b,1,0.6666666666666666,False
+successful series b later,2,AC15P,S3,quadgrams,successful series b later,4,,0,,series b,1,0.5,False
+discount cap warrants fees,2,AC15P,S3,quadgrams,discount cap warrants fees,4,,0,,,0,0.0,False
+i would treat as,2,AC15P,S3,quadgrams,i treat,2,,0,,,0,0.0,False
+then the balance usually,2,AC15P,S3,quadgrams,then balance usually,3,,0,,,0,0.0,False
+the balance usually lies,2,AC15P,S3,quadgrams,balance usually lies,3,,0,,,0,0.0,False
+balance usually lies toward,2,AC15P,S3,quadgrams,balance usually lies toward,4,,0,,,0,0.0,False
+capped downtime penalties explicit,2,AC15P,S3,quadgrams,capped downtime penalties explicit,4,,0,,,0,0.0,False
+downtime penalties explicit emi,2,AC15P,S3,quadgrams,downtime penalties explicit emi,4,,0,,,0,0.0,False
+a site emi survey,2,AC15P,S3,quadgrams,site emi survey,3,,0,,,0,0.0,False
+won t protect you,2,AC15P,S3,quadgrams,won protect,2,,0,,,0,0.0,False
+penalties tied to mutually,2,AC15P,S3,quadgrams,penalties tied mutually,3,,0,,,0,0.0,False
+tied to mutually agreed,2,AC15P,S3,quadgrams,tied mutually agreed,3,,0,,,0,0.0,False
+to mutually agreed acceptance,2,AC15P,S3,quadgrams,mutually agreed acceptance,3,,0,,,0,0.0,False
+la until rev b,2,AC15P,S3,quadgrams,la until rev b,4,,0,,,0,0.0,False
+bound on event rate,2,AC15P,S3,quadgrams,bound event rate,3,,0,,,0,0.0,False
+on event rate in,2,AC15P,S3,quadgrams,event rate,2,,0,,,0,0.0,False
+that engineers can sign,2,AC15P,S3,quadgrams,engineers sign,2,,0,,,0,0.0,False
+from the chief architect,2,AC15P,S3,quadgrams,chief architect,2,,0,,chief architect,1,1.0,True
+help you choose between,2,AC15P,S3,quadgrams,help choose between,3,,0,,,0,0.0,False
+within qualified operating zones,2,AC15P,S3,quadgrams,within qualified operating zones,4,,0,,,0,0.0,False
+within the supported envelope,2,AC15P,S3,quadgrams,within supported envelope,3,,0,,,0,0.0,False
+qualified zones under supervision,2,AC15P,S3,quadgrams,qualified zones under supervision,4,,0,,,0,0.0,False
+slas otherwise delay for,2,AC15P,S3,quadgrams,slas otherwise delay,3,,0,,,0,0.0,False
+otherwise delay for the,2,AC15P,S3,quadgrams,otherwise delay,2,,0,,,0,0.0,False
+b shielding or after,2,AC15P,S3,quadgrams,b shielding after,3,,0,,shielding,1,0.3333333333333333,False
+on time launch only,2,AC15P,S3,quadgrams,time launch,2,,0,,launch,1,0.5,False
+the safety reliability case,2,AC15P,S3,quadgrams,safety reliability case,3,,0,,,0,0.0,False
+reliability case for the,2,AC15P,S3,quadgrams,reliability case,2,,0,,,0,0.0,False
+the early failure tax,2,AC15P,S3,quadgrams,early failure tax,3,,0,,,0,0.0,False
+penalties until rev b,2,AC15P,S3,quadgrams,penalties until rev b,4,,0,,,0,0.0,False
+penalties in unbounded emi,2,AC15P,S3,quadgrams,penalties unbounded emi,3,,0,,,0,0.0,False
+for rev b shielding,2,AC15P,S3,quadgrams,rev b shielding,3,,0,,shielding,1,0.3333333333333333,False
+with no or capped,2,AC15P,S3,quadgrams,no capped,2,,0,,,0,0.0,False
+or de scope mining,2,AC15P,S3,quadgrams,de scope mining,3,,0,,mining,1,0.3333333333333333,False
+insists on penalties now,2,AC15P,S3,quadgrams,insists penalties now,3,,0,,,0,0.0,False
+will not sign unbounded,2,AC15P,S3,quadgrams,will sign unbounded,3,,0,,,0,0.0,False
+we will launch only,2,AC15P,S3,quadgrams,will launch,2,,0,,launch,1,0.5,False
+will launch only what,2,AC15P,S3,quadgrams,will launch,2,,0,,launch,1,0.5,False
+will accept a penalty,2,AC15P,S3,quadgrams,will accept penalty,3,,0,,,0,0.0,False
+accept a penalty free,2,AC15P,S3,quadgrams,accept penalty free,3,,0,,,0,0.0,False
+a penalty free qualification,2,AC15P,S3,quadgrams,penalty free qualification,3,,0,,,0,0.0,False
+explicit exclusions for high,2,AC15P,S3,quadgrams,explicit exclusions high,3,,0,,,0,0.0,False
+exclusions for high emi,2,AC15P,S3,quadgrams,exclusions high emi,3,,0,,,0,0.0,False
+for high emi unqualified,2,AC15P,S3,quadgrams,high emi unqualified,3,,0,,,0,0.0,False
+high emi unqualified areas,2,AC15P,S3,quadgrams,high emi unqualified areas,4,,0,,,0,0.0,False
+no downtime penalties or,2,AC15P,S3,quadgrams,no downtime penalties,3,,0,,,0,0.0,False
+production sla after rev,2,AC15P,S3,quadgrams,production sla after rev,4,,0,,,0,0.0,False
+zones under remote supervision,2,AC15P,S3,quadgrams,zones under remote supervision,4,,0,,,0,0.0,False
+chief architect is a,2,AC15P,S3,quadgrams,chief architect,2,,0,,chief architect,1,1.0,True
+architect is a required,2,AC15P,S3,quadgrams,architect required,2,,0,,,0,0.0,False
+is a required signatory,2,AC15P,S3,quadgrams,required signatory,2,,0,,,0,0.0,False
+in a prohibited context,2,AC15P,S3,quadgrams,prohibited context,2,,0,,,0,0.0,False
+sign off stop criteria,2,AC15P,S3,quadgrams,sign off stop criteria,4,,0,,,0,0.0,False
+stop criteria if they,2,AC15P,S3,quadgrams,stop criteria they,3,,0,,,0,0.0,False
+stop criteria chief architect,2,AC15P,S3,quadgrams,stop criteria chief architect,4,,0,,chief architect,1,0.5,False
+before any production sla,2,AC15P,S3,quadgrams,before any production sla,4,,0,,,0,0.0,False
+early access is not,2,AC15P,S3,quadgrams,early access,2,,0,,early access,1,1.0,True
+result in hover descend,2,AC15P,S3,quadgrams,result hover descend,3,,0,,hover,1,0.3333333333333333,False
+in hover descend over,2,AC15P,S3,quadgrams,hover descend over,3,,0,,hover,1,0.3333333333333333,False
+divert to a predefined,2,AC15P,S3,quadgrams,divert predefined,2,,0,,,0,0.0,False
+a predefined safe loiter,2,AC15P,S3,quadgrams,predefined safe loiter,3,,0,,,0,0.0,False
+to de scope mining,2,AC15P,S3,quadgrams,de scope mining,3,,0,,mining,1,0.3333333333333333,False
+chief architect will leave,2,AC15P,S3,quadgrams,chief architect will leave,4,,0,,chief architect,1,0.5,False
+architect will leave if,2,AC15P,S3,quadgrams,architect will leave,3,,0,,,0,0.0,False
+will leave if you,2,AC15P,S3,quadgrams,will leave,2,,0,,,0,0.0,False
+safe loiter boxes emergency,2,AC15P,S3,quadgrams,safe loiter boxes emergency,4,,0,,,0,0.0,False
+loiter boxes emergency landing,2,AC15P,S3,quadgrams,loiter boxes emergency landing,4,,0,,,0,0.0,False
+boxes emergency landing zones,2,AC15P,S3,quadgrams,boxes emergency landing zones,4,,0,,,0,0.0,False
+divert return to safe,2,AC15P,S3,quadgrams,divert return safe,3,,0,,,0,0.0,False
+corridor within x minutes,2,AC15P,S3,quadgrams,corridor within x minutes,4,,0,,,0,0.0,False
+cross haul roads and,2,AC15P,S3,quadgrams,cross haul roads,3,,0,,,0,0.0,False
+a showstopper for mining,2,AC15P,S3,quadgrams,showstopper mining,2,,0,,mining,1,0.5,False
+no hover corridors over,2,AC15P,S3,quadgrams,no hover corridors over,4,,0,,hover,1,0.25,False
+hover corridors over haul,2,AC15P,S3,quadgrams,hover corridors over haul,4,,0,,hover,1,0.25,False
+until rev b shielding,2,AC15P,S3,quadgrams,until rev b shielding,4,,0,,shielding,1,0.25,False
+availability early access launch,2,AC15P,S3,quadgrams,availability early access launch,4,,0,,launch|early access,2,0.75,True
+time boxed rev b,2,AC15P,S3,quadgrams,time boxed rev b,4,,0,,,0,0.0,False
+pending rev b shielding,2,AC15P,S3,quadgrams,pending rev b shielding,4,,0,,shielding,1,0.25,False
+a launch definition that,2,AC15P,S3,quadgrams,launch definition,2,,0,,launch,1,0.5,False
+you have a real,2,AC15P,S3,quadgrams,have real,2,,0,,,0,0.0,False
+that is both investor,2,AC15P,S3,quadgrams,both investor,2,,0,,investor,1,0.5,False
+is both investor legible,2,AC15P,S3,quadgrams,both investor legible,3,,0,,investor,1,0.3333333333333333,False
+both investor legible and,2,AC15P,S3,quadgrams,both investor legible,3,,0,,investor,1,0.3333333333333333,False
+exclusions high emi mining,2,AC15P,S3,quadgrams,exclusions high emi mining,4,,0,,mining,1,0.25,False
+penalties during eap qualification,2,AC15P,S3,quadgrams,penalties during eap qualification,4,,0,,,0,0.0,False
+engineer sign off stop,2,AC15P,S3,quadgrams,engineer sign off stop,4,,0,,,0,0.0,False
+flight readiness certificate that,2,AC15P,S3,quadgrams,flight readiness certificate,3,,0,,flight|flight readiness,2,0.6666666666666666,False
+stop criteria automatic pause,2,AC15P,S3,quadgrams,stop criteria automatic pause,4,,0,,,0,0.0,False
+a signable la eap,2,AC15P,S3,quadgrams,signable la eap,3,,0,,,0,0.0,False
+the rev b hardware,2,AC15P,S3,quadgrams,rev b hardware,3,,0,,,0,0.0,False
+rev b hardware fix,2,AC15P,S3,quadgrams,rev b hardware fix,4,,0,,,0,0.0,False
+bounded la eap launch,2,AC15P,S3,quadgrams,bounded la eap launch,4,,0,,launch,1,0.25,False
+la eap launch this,2,AC15P,S3,quadgrams,la eap launch,3,,0,,launch,1,0.3333333333333333,False
+eap launch this quarter,2,AC15P,S3,quadgrams,eap launch quarter,3,,0,,launch,1,0.3333333333333333,False
+architect signs the la,2,AC15P,S3,quadgrams,architect signs la,3,,0,,,0,0.0,False
+signs the la eap,2,AC15P,S3,quadgrams,signs la eap,3,,0,,,0,0.0,False
+they won t you,2,AC15P,S3,quadgrams,they won,2,,0,,,0,0.0,False
+parallel line up a,2,AC15P,S3,quadgrams,parallel line up,3,,0,,,0,0.0,False
+operating envelope odd exclusions,2,AC15P,S3,quadgrams,operating envelope odd exclusions,4,,0,,,0,0.0,False
+no hover no fly,2,AC15P,S3,quadgrams,no hover no fly,4,,0,,hover,1,0.25,False
+hover no fly corridors,2,AC15P,S3,quadgrams,hover no fly corridors,4,,0,,hover,1,0.25,False
+no fly corridors over,2,AC15P,S3,quadgrams,no fly corridors over,4,,0,,,0,0.0,False
+fly corridors over haul,2,AC15P,S3,quadgrams,fly corridors over haul,4,,0,,,0,0.0,False
+predefined safe loiter volumes,2,AC15P,S3,quadgrams,predefined safe loiter volumes,4,,0,,,0,0.0,False
+stable and mappable to,2,AC15P,S3,quadgrams,stable mappable,2,,0,,,0,0.0,False
+nav health emi indicators,2,AC15P,S3,quadgrams,nav health emi indicators,4,,0,,,0,0.0,False
+if neither is true,2,AC15P,S3,quadgrams,neither true,2,,0,,,0,0.0,False
+in writing that la,2,AC15P,S3,quadgrams,writing la,2,,0,,,0,0.0,False
+writing that la eap,2,AC15P,S3,quadgrams,writing la eap,3,,0,,,0,0.0,False
+la eap flight readiness,2,AC15P,S3,quadgrams,la eap flight readiness,4,,0,,flight|flight readiness,2,0.5,False
+eap flight readiness certificate,2,AC15P,S3,quadgrams,eap flight readiness certificate,4,,0,,flight|flight readiness,2,0.5,False
+convert mining to a,2,AC15P,S3,quadgrams,convert mining,2,,0,,mining,1,0.5,False
+rev b critical path,2,AC15P,S3,quadgrams,rev b critical path,4,,0,,,0,0.0,False
+rev b shielding program,2,AC15P,S3,quadgrams,rev b shielding program,4,,0,,shielding,1,0.25,False
+redundancy spares hot swap,4,CONTROL,S3,quadgrams,redundancy spares hot swap,4,,0,,,0,0.0,False
+a constrained commercial deployment,3,CONTROL,S3,quadgrams,constrained commercial deployment,3,practicality_and_feasibility,1,constrained,,0,0.0,False
+tranche based series b,3,CONTROL,S3,quadgrams,tranche based series b,4,,0,,series b,1,0.5,False
+across the full site,3,CONTROL,S3,quadgrams,across full site,3,,0,,,0,0.0,False
+outside the qualified envelope,3,CONTROL,S3,quadgrams,outside qualified envelope,3,,0,,,0,0.0,False
+scoped to the qualified,3,CONTROL,S3,quadgrams,scoped qualified,2,,0,,,0,0.0,False
+to the qualified odd,3,CONTROL,S3,quadgrams,qualified odd,2,,0,,,0,0.0,False
+hover descend where you,3,CONTROL,S3,quadgrams,hover descend where,3,,0,,hover,1,0.3333333333333333,False
+your safety authority won,3,CONTROL,S3,quadgrams,safety authority won,3,,0,,,0,0.0,False
+safety authority won t,3,CONTROL,S3,quadgrams,safety authority won,3,,0,,,0,0.0,False
+authority won t sign,3,CONTROL,S3,quadgrams,authority won sign,3,,0,,,0,0.0,False
+terms rate maturity covenants,2,CONTROL,S3,quadgrams,terms rate maturity covenants,4,temporal_dynamics,1,maturity,,0,0.0,False
+maturity covenants control rights,2,CONTROL,S3,quadgrams,maturity covenants control rights,4,temporal_dynamics,1,maturity,,0,0.0,False
+a constrained commercial release,2,CONTROL,S3,quadgrams,constrained commercial release,3,practicality_and_feasibility,1,constrained,,0,0.0,False
+if field data violates,2,CONTROL,S3,quadgrams,field data violates,3,truth_and_fact,1,data,,0,0.0,False
+field data violates assumptions,2,CONTROL,S3,quadgrams,field data violates assumptions,4,truth_and_fact,1,data,,0,0.0,False
+zones can shift static,2,CONTROL,S3,quadgrams,zones shift static,3,temporal_dynamics,1,shift,,0,0.0,False
+high consequence operational hazard,2,CONTROL,S3,quadgrams,high consequence operational hazard,4,practicality_and_feasibility,1,operational,,0,0.0,False
+worst case scenario you,2,CONTROL,S3,quadgrams,worst case scenario,3,temporal_dynamics|imagination_and_possibility,1,scenario,,0,0.0,False
+a high consequence operational,2,CONTROL,S3,quadgrams,high consequence operational,3,practicality_and_feasibility,1,operational,,0,0.0,False
+injury property damage regulatory,2,CONTROL,S3,quadgrams,injury property damage regulatory,4,,0,,,0,0.0,False
+written safety case hazard,2,CONTROL,S3,quadgrams,written safety case hazard,4,,0,,,0,0.0,False
+safety case hazard analysis,2,CONTROL,S3,quadgrams,safety case hazard analysis,4,,0,,,0,0.0,False
+case hazard analysis fmea,2,CONTROL,S3,quadgrams,case hazard analysis fmea,4,,0,,,0,0.0,False
+systems architect can sign,2,CONTROL,S3,quadgrams,systems architect sign,3,,0,,,0,0.0,False
+signed safety case and,2,CONTROL,S3,quadgrams,signed safety case,3,,0,,,0,0.0,False
+a non negotiable hardware,2,CONTROL,S3,quadgrams,non negotiable hardware,3,,0,,,0,0.0,False
+while continuing the hardware,2,CONTROL,S3,quadgrams,while continuing hardware,3,,0,,,0,0.0,False
+the hardware fix if,2,CONTROL,S3,quadgrams,hardware fix,2,,0,,,0,0.0,False
+i ll tell you,2,CONTROL,S3,quadgrams,i ll tell,3,,0,,,0,0.0,False
+in high interference areas,2,CONTROL,S3,quadgrams,high interference areas,3,,0,,interference,1,0.3333333333333333,False
+deployments within a defined,2,CONTROL,S3,quadgrams,deployments within defined,3,,0,,,0,0.0,False
+within the stated envelope,2,CONTROL,S3,quadgrams,within stated envelope,3,,0,,,0,0.0,False
+strategic customer prepay smaller,2,CONTROL,S3,quadgrams,strategic customer prepay smaller,4,,0,,,0,0.0,False
+customer prepay smaller bridge,2,CONTROL,S3,quadgrams,customer prepay smaller bridge,4,,0,,,0,0.0,False
+the series b now,2,CONTROL,S3,quadgrams,series b now,3,,0,,series b,1,0.6666666666666666,False
+sanity check whether it,2,CONTROL,S3,quadgrams,sanity check whether,3,,0,,,0,0.0,False
+check whether it s,2,CONTROL,S3,quadgrams,check whether,2,,0,,,0,0.0,False
+high probability of losing,2,CONTROL,S3,quadgrams,high probability losing,3,,0,,,0,0.0,False
+can keep the team,2,CONTROL,S3,quadgrams,keep team,2,,0,,,0,0.0,False
+high interference zones until,2,CONTROL,S3,quadgrams,high interference zones until,4,,0,,interference,1,0.25,False
+interference zones until hardware,2,CONTROL,S3,quadgrams,interference zones until hardware,4,,0,,interference,1,0.25,False
+partner insists on unconditional,2,CONTROL,S3,quadgrams,partner insists unconditional,3,,0,,,0,0.0,False
+insists on unconditional reliability,2,CONTROL,S3,quadgrams,insists unconditional reliability,3,,0,,,0,0.0,False
+on unconditional reliability with,2,CONTROL,S3,quadgrams,unconditional reliability,2,,0,,,0,0.0,False
+unconditional reliability with penalties,2,CONTROL,S3,quadgrams,unconditional reliability penalties,3,,0,,,0,0.0,False
+that case you either,2,CONTROL,S3,quadgrams,case either,2,,0,,,0,0.0,False
+hardware fix or at,2,CONTROL,S3,quadgrams,hardware fix,2,,0,,,0,0.0,False
+caps cure periods exclusions,2,CONTROL,S3,quadgrams,caps cure periods exclusions,4,,0,,,0,0.0,False
+with penalties across the,2,CONTROL,S3,quadgrams,penalties across,2,,0,,,0,0.0,False
+penalties across the full,2,CONTROL,S3,quadgrams,penalties across full,3,,0,,,0,0.0,False
+if nav confidence drops,2,CONTROL,S3,quadgrams,nav confidence drops,3,,0,,,0,0.0,False
+an enforceable operating envelope,2,CONTROL,S3,quadgrams,enforceable operating envelope,3,,0,,,0,0.0,False
+operating design domain odd,2,CONTROL,S3,quadgrams,operating design domain odd,4,,0,,,0,0.0,False
+hover controlled descent land,2,CONTROL,S3,quadgrams,hover controlled descent land,4,,0,,hover,1,0.25,False
+hardware fix on an,2,CONTROL,S3,quadgrams,hardware fix,2,,0,,,0,0.0,False
+fix on an immutable,2,CONTROL,S3,quadgrams,fix immutable,2,,0,,,0,0.0,False
+spares hot swap to,2,CONTROL,S3,quadgrams,spares hot swap,3,,0,,,0,0.0,False
+hot swap to meet,2,CONTROL,S3,quadgrams,hot swap meet,3,,0,,,0,0.0,False
+swap to meet uptime,2,CONTROL,S3,quadgrams,swap meet uptime,3,,0,,,0,0.0,False
+penalty caps cure periods,2,CONTROL,S3,quadgrams,penalty caps cure periods,4,,0,,,0,0.0,False
+at arr delta ev,2,CONTROL,S3,quadgrams,arr delta ev,3,,0,,,0,0.0,False
+arr delta ev approx,2,CONTROL,S3,quadgrams,arr delta ev approx,4,,0,,,0,0.0,False
+loss of the launch,2,CONTROL,S3,quadgrams,loss launch,2,,0,,launch,1,0.5,False
+of the launch partner,2,CONTROL,S3,quadgrams,launch partner,2,,0,,launch,1,0.5,False
+the safety case odd,2,CONTROL,S3,quadgrams,safety case odd,3,,0,,,0,0.0,False
+for any commercial launch,2,CONTROL,S3,quadgrams,any commercial launch,3,,0,,launch,1,0.3333333333333333,False
+odd exclusions penalty caps,2,CONTROL,S3,quadgrams,odd exclusions penalty caps,4,,0,,,0,0.0,False
+be the primary control,2,CONTROL,S3,quadgrams,primary control,2,,0,,,0,0.0,False
+onboard detection health gating,2,CONTROL,S3,quadgrams,onboard detection health gating,4,,0,,,0,0.0,False
+no unconditional reliability across,2,CONTROL,S3,quadgrams,no unconditional reliability across,4,,0,,,0,0.0,False
+unconditional reliability across the,2,CONTROL,S3,quadgrams,unconditional reliability across,3,,0,,,0,0.0,False
+operating outside the qualified,2,CONTROL,S3,quadgrams,operating outside qualified,3,,0,,,0,0.0,False
+what actually fixes it,2,CONTROL,S3,quadgrams,actually fixes,2,,0,,,0,0.0,False
+cannot be the primary,2,CONTROL,S3,quadgrams,cannot primary,2,,0,,,0,0.0,False
+current fail safe hover,2,CONTROL,S3,quadgrams,current fail safe hover,4,,0,,hover,1,0.25,False
+can prove safe behavior,2,CONTROL,S3,quadgrams,prove safe behavior,3,,0,,,0,0.0,False
+commercial early access launch,2,CONTROL,S3,quadgrams,commercial early access launch,4,,0,,launch|early access,2,0.75,True
+acceptance ramp exclusions caps,2,CONTROL,S3,quadgrams,acceptance ramp exclusions caps,4,,0,,,0,0.0,False
+hardware remediation retrofit plan,2,CONTROL,S3,quadgrams,hardware remediation retrofit plan,4,,0,,,0,0.0,False
+may be underestimating how,2,CONTROL,S3,quadgrams,may underestimating how,3,,0,,,0,0.0,False
+missions cannot be launched,2,CONTROL,S3,quadgrams,missions cannot launched,3,,0,,launch,1,0.0,False
+cannot be launched outside,2,CONTROL,S3,quadgrams,cannot launched outside,3,,0,,launch,1,0.0,False
+be launched outside qualified,2,CONTROL,S3,quadgrams,launched outside qualified,3,,0,,launch,1,0.0,False
+launched outside qualified zones,2,CONTROL,S3,quadgrams,launched outside qualified zones,4,,0,,launch,1,0.0,False
+outside qualified zones corridors,2,CONTROL,S3,quadgrams,outside qualified zones corridors,4,,0,,,0,0.0,False
+fail safe behavior must,2,CONTROL,S3,quadgrams,fail safe behavior must,4,,0,,,0,0.0,False
+where you are over,2,CONTROL,S3,quadgrams,where over,2,,0,,,0,0.0,False
+g climb hold in,2,CONTROL,S3,quadgrams,g climb hold,3,,0,,,0,0.0,False
+designated safe volume and,2,CONTROL,S3,quadgrams,designated safe volume,3,,0,,,0,0.0,False
+safe volume and or,2,CONTROL,S3,quadgrams,safe volume,2,,0,,,0,0.0,False
+volume and or return,2,CONTROL,S3,quadgrams,volume return,2,,0,,,0,0.0,False
+safe corridor landing pad,2,CONTROL,S3,quadgrams,safe corridor landing pad,4,,0,,,0,0.0,False
+the qualified odd with,2,CONTROL,S3,quadgrams,qualified odd,2,,0,,,0,0.0,False
+preferably service credits not,2,CONTROL,S3,quadgrams,preferably service credits,3,,0,,,0,0.0,False
+service credits not cash,2,CONTROL,S3,quadgrams,service credits cash,3,,0,,,0,0.0,False
+credits not cash explicit,2,CONTROL,S3,quadgrams,credits cash explicit,3,,0,,,0,0.0,False
+not cash explicit exclusions,2,CONTROL,S3,quadgrams,cash explicit exclusions,3,,0,,,0,0.0,False
+cash explicit exclusions for,2,CONTROL,S3,quadgrams,cash explicit exclusions,3,,0,,,0,0.0,False
+the qualified envelope and,2,CONTROL,S3,quadgrams,qualified envelope,2,,0,,,0,0.0,False
+qualified envelope and for,2,CONTROL,S3,quadgrams,qualified envelope,2,,0,,,0,0.0,False
+envelope and for defined,2,CONTROL,S3,quadgrams,envelope defined,2,,0,,,0,0.0,False
+and for defined interference,2,CONTROL,S3,quadgrams,defined interference,2,,0,,interference,1,0.5,False
+defined interference conditions until,2,CONTROL,S3,quadgrams,defined interference conditions until,4,,0,,interference,1,0.25,False
+interference conditions until the,2,CONTROL,S3,quadgrams,interference conditions until,3,,0,,interference,1,0.3333333333333333,False
+conditions until the hardware,2,CONTROL,S3,quadgrams,conditions until hardware,3,,0,,,0,0.0,False
+based series b close,2,CONTROL,S3,quadgrams,based series b close,4,,0,,series b,1,0.5,False
+lois msas contingent on,2,CONTROL,S3,quadgrams,lois msas contingent,3,,0,,,0,0.0,False
+msas contingent on the,2,CONTROL,S3,quadgrams,msas contingent,2,,0,,,0,0.0,False
+technical authority sign off,7,HYBRID_3_5,S3,quadgrams,technical authority sign off,4,,0,,,0,0.0,False
+responsible technical authority sign,5,HYBRID_3_5,S3,quadgrams,responsible technical authority sign,4,,0,,,0,0.0,False
+non stationary emi risk,4,HYBRID_3_5,S3,quadgrams,non stationary emi risk,4,practicality_and_feasibility,1,risk,,0,0.0,False
+an entry into service,4,HYBRID_3_5,S3,quadgrams,entry service,2,,0,,,0,0.0,False
+or designated safety authority,4,HYBRID_3_5,S3,quadgrams,designated safety authority,3,,0,,,0,0.0,False
+zones can shift and,3,HYBRID_3_5,S3,quadgrams,zones shift,2,temporal_dynamics,1,shift,,0,0.0,False
+production loss pass through,3,HYBRID_3_5,S3,quadgrams,production loss pass through,4,,0,,,0,0.0,False
+penalty clause redacted i,3,HYBRID_3_5,S3,quadgrams,penalty clause redacted i,4,,0,,,0,0.0,False
+or equivalent root cause,3,HYBRID_3_5,S3,quadgrams,equivalent root cause,3,,0,,,0,0.0,False
+defined operating envelope with,3,HYBRID_3_5,S3,quadgrams,defined operating envelope,3,,0,,,0,0.0,False
+operating envelope with remote,3,HYBRID_3_5,S3,quadgrams,operating envelope remote,3,,0,,,0,0.0,False
+envelope with remote support,3,HYBRID_3_5,S3,quadgrams,envelope remote support,3,,0,,,0,0.0,False
+with remote support for,3,HYBRID_3_5,S3,quadgrams,remote support,2,,0,,,0,0.0,False
+penalties begin only after,3,HYBRID_3_5,S3,quadgrams,penalties begin after,3,,0,,,0,0.0,False
+authority sign off chief,3,HYBRID_3_5,S3,quadgrams,authority sign off chief,4,,0,,,0,0.0,False
+bounded entry into service,3,HYBRID_3_5,S3,quadgrams,bounded entry service,3,,0,,,0,0.0,False
+entry into service eis,3,HYBRID_3_5,S3,quadgrams,entry service eis,3,,0,,,0,0.0,False
+dated plan for the,3,HYBRID_3_5,S3,quadgrams,dated plan,2,,0,,,0,0.0,False
+plan for the shielding,3,HYBRID_3_5,S3,quadgrams,plan shielding,2,,0,,shielding,1,0.5,False
+the shielding revision or,3,HYBRID_3_5,S3,quadgrams,shielding revision,2,,0,,shielding,1,0.5,False
+resignation threat is real,3,HYBRID_3_5,S3,quadgrams,resignation threat real,3,,0,,,0,0.0,False
+commercial pilot limited availability,2,HYBRID_3_5,S3,quadgrams,commercial pilot limited availability,4,imagination_and_possibility,1,pilot,,0,0.0,False
+your current fallback is,2,HYBRID_3_5,S3,quadgrams,current fallback,2,practicality_and_feasibility,1,fallback,,0,0.0,False
+you ship a constrained,2,HYBRID_3_5,S3,quadgrams,ship constrained,2,practicality_and_feasibility,1,constrained,,0,0.0,False
+a constrained entry into,2,HYBRID_3_5,S3,quadgrams,constrained entry,2,practicality_and_feasibility,1,constrained,,0,0.0,False
+constrained entry into service,2,HYBRID_3_5,S3,quadgrams,constrained entry service,3,practicality_and_feasibility,1,constrained,,0,0.0,False
+suggest the most realistic,2,HYBRID_3_5,S3,quadgrams,suggest most realistic,3,practicality_and_feasibility,1,realistic,,0,0.0,False
+begin only after objective,2,HYBRID_3_5,S3,quadgrams,begin after objective,3,truth_and_fact,1,objective,,0,0.0,False
+only after objective reliability,2,HYBRID_3_5,S3,quadgrams,after objective reliability,3,truth_and_fact,1,objective,,0,0.0,False
+after objective reliability qualification,2,HYBRID_3_5,S3,quadgrams,after objective reliability qualification,4,truth_and_fact,1,objective,,0,0.0,False
+until reliability is proven,2,HYBRID_3_5,S3,quadgrams,until reliability proven,3,truth_and_fact,1,proven,,0,0.0,False
+case and external claims,2,HYBRID_3_5,S3,quadgrams,case external claims,3,truth_and_fact,1,claims,,0,0.0,False
+and external claims if,2,HYBRID_3_5,S3,quadgrams,external claims,2,truth_and_fact,1,claims,,0,0.0,False
+sign a safety case,2,HYBRID_3_5,S3,quadgrams,sign safety case,3,,0,,,0,0.0,False
+mandatory telemetry event logging,2,HYBRID_3_5,S3,quadgrams,mandatory telemetry event logging,4,,0,,logging,1,0.25,False
+sign off on a,2,HYBRID_3_5,S3,quadgrams,sign off,2,,0,,,0,0.0,False
+deployments live or x,2,HYBRID_3_5,S3,quadgrams,deployments live x,3,,0,,,0,0.0,False
+explicit go no go,2,HYBRID_3_5,S3,quadgrams,explicit go no go,4,,0,,,0,0.0,False
+proximity to people vehicles,2,HYBRID_3_5,S3,quadgrams,proximity people vehicles,3,,0,,,0,0.0,False
+triggering conditions with margin,2,HYBRID_3_5,S3,quadgrams,triggering conditions margin,3,,0,,,0,0.0,False
+not ready for ga,2,HYBRID_3_5,S3,quadgrams,ready ga,2,,0,,,0,0.0,False
+safety architecture sign off,2,HYBRID_3_5,S3,quadgrams,safety architecture sign off,4,,0,,,0,0.0,False
+raises the chance of,2,HYBRID_3_5,S3,quadgrams,raises chance,2,,0,,,0,0.0,False
+the chance of failure,2,HYBRID_3_5,S3,quadgrams,chance failure,2,,0,,,0,0.0,False
+bridge terms can be,2,HYBRID_3_5,S3,quadgrams,bridge terms,2,,0,,,0,0.0,False
+and losing the architect,2,HYBRID_3_5,S3,quadgrams,losing architect,2,,0,,,0,0.0,False
+you may avoid both,2,HYBRID_3_5,S3,quadgrams,may avoid both,3,,0,,,0,0.0,False
+you ship proposal a,2,HYBRID_3_5,S3,quadgrams,ship proposal,2,,0,,,0,0.0,False
+ship proposal a as,2,HYBRID_3_5,S3,quadgrams,ship proposal,2,,0,,,0,0.0,False
+this quarter or b,2,HYBRID_3_5,S3,quadgrams,quarter b,2,,0,,,0,0.0,False
+quarter or b delay,2,HYBRID_3_5,S3,quadgrams,quarter b delay,3,,0,,,0,0.0,False
+the least lethal financing,2,HYBRID_3_5,S3,quadgrams,least lethal financing,3,,0,,,0,0.0,False
+real veto sign off,2,HYBRID_3_5,S3,quadgrams,real veto sign off,4,,0,,,0,0.0,False
+give you a crisp,2,HYBRID_3_5,S3,quadgrams,give crisp,2,,0,,,0,0.0,False
+customer caused access limits,2,HYBRID_3_5,S3,quadgrams,customer caused access limits,4,,0,,,0,0.0,False
+you should not accept,2,HYBRID_3_5,S3,quadgrams,should accept,2,,0,,,0,0.0,False
+should not accept a,2,HYBRID_3_5,S3,quadgrams,should accept,2,,0,,,0,0.0,False
+under proposal a as,2,HYBRID_3_5,S3,quadgrams,under proposal,2,,0,,,0,0.0,False
+entry into service limited,2,HYBRID_3_5,S3,quadgrams,entry service limited,3,,0,,,0,0.0,False
+service credits hard cap,2,HYBRID_3_5,S3,quadgrams,service credits hard cap,4,,0,,,0,0.0,False
+you should not use,2,HYBRID_3_5,S3,quadgrams,should use,2,,0,,,0,0.0,False
+should not use them,2,HYBRID_3_5,S3,quadgrams,should use,2,,0,,,0,0.0,False
+limited availability with renegotiated,2,HYBRID_3_5,S3,quadgrams,limited availability renegotiated,3,,0,,,0,0.0,False
+availability with renegotiated sla,2,HYBRID_3_5,S3,quadgrams,availability renegotiated sla,3,,0,,,0,0.0,False
+the uptime penalty clause,2,HYBRID_3_5,S3,quadgrams,uptime penalty clause,3,,0,,,0,0.0,False
+launch broadly with a,2,HYBRID_3_5,S3,quadgrams,launch broadly,2,,0,,launch,1,0.5,False
+entry into service addendum,2,HYBRID_3_5,S3,quadgrams,entry service addendum,3,,0,,,0,0.0,False
+can suggest the most,2,HYBRID_3_5,S3,quadgrams,suggest most,2,,0,,,0,0.0,False
+is compatible with autonomy,2,HYBRID_3_5,S3,quadgrams,compatible autonomy,2,,0,,,0,0.0,False
+mining partner expects reliability,2,HYBRID_3_5,S3,quadgrams,mining partner expects reliability,4,,0,,mining,1,0.25,False
+broad ga launch under,2,HYBRID_3_5,S3,quadgrams,broad ga launch under,4,,0,,launch,1,0.25,False
+ga launch under proposal,2,HYBRID_3_5,S3,quadgrams,ga launch under proposal,4,,0,,launch,1,0.25,False
+launch under proposal a,2,HYBRID_3_5,S3,quadgrams,launch under proposal,3,,0,,launch,1,0.3333333333333333,False
+limited availability counts as,2,HYBRID_3_5,S3,quadgrams,limited availability counts,3,,0,,,0,0.0,False
+counts as the milestone,2,HYBRID_3_5,S3,quadgrams,counts milestone,2,,0,,,0,0.0,False
+strengthens the ship countercase,2,HYBRID_3_5,S3,quadgrams,strengthens ship countercase,3,,0,,,0,0.0,False
+b milestone language and,2,HYBRID_3_5,S3,quadgrams,b milestone language,3,,0,,,0,0.0,False
+milestone language and the,2,HYBRID_3_5,S3,quadgrams,milestone language,2,,0,,,0,0.0,False
+language and the mining,2,HYBRID_3_5,S3,quadgrams,language mining,2,,0,,mining,1,0.5,False
+where you can defend,2,HYBRID_3_5,S3,quadgrams,where defend,2,,0,,,0,0.0,False
+e g x flight,2,HYBRID_3_5,S3,quadgrams,e g x flight,4,,0,,flight,1,0.25,False
+g x flight hours,2,HYBRID_3_5,S3,quadgrams,g x flight hours,4,,0,,flight,1,0.25,False
+x flight hours y,2,HYBRID_3_5,S3,quadgrams,x flight hours y,4,,0,,flight,1,0.25,False
+flight hours y forced,2,HYBRID_3_5,S3,quadgrams,flight hours y forced,4,,0,,flight,1,0.25,False
+hours y forced landings,2,HYBRID_3_5,S3,quadgrams,hours y forced landings,4,,0,,,0,0.0,False
+internal sign off meeting,2,HYBRID_3_5,S3,quadgrams,internal sign off meeting,4,,0,,,0,0.0,False
+series b milestone wording,2,HYBRID_3_5,S3,quadgrams,series b milestone wording,4,,0,,series b,1,0.5,False
+if gen autonomy dies,2,HYBRID_3_5,S3,quadgrams,gen autonomy dies,3,,0,,,0,0.0,False
+a formal go no,2,HYBRID_3_5,S3,quadgrams,formal go no,3,,0,,,0,0.0,False
+formal go no go,2,HYBRID_3_5,S3,quadgrams,formal go no go,4,,0,,,0,0.0,False
+that detonates the team,2,HYBRID_3_5,S3,quadgrams,detonates team,2,,0,,,0,0.0,False
+the responsible technical authority,2,HYBRID_3_5,S3,quadgrams,responsible technical authority,3,,0,,,0,0.0,False
+responsible technical authority will,2,HYBRID_3_5,S3,quadgrams,responsible technical authority will,4,,0,,,0,0.0,False
+mining penalty clause redacted,2,HYBRID_3_5,S3,quadgrams,mining penalty clause redacted,4,,0,,mining,1,0.25,False
+redacted i can draft,2,HYBRID_3_5,S3,quadgrams,redacted i draft,3,,0,,,0,0.0,False
+named sites areas corridors,2,HYBRID_3_5,S3,quadgrams,named sites areas corridors,4,,0,,,0,0.0,False
+sites areas corridors payload,2,HYBRID_3_5,S3,quadgrams,sites areas corridors payload,4,,0,,,0,0.0,False
+authority must sign the,2,HYBRID_3_5,S3,quadgrams,authority must sign,3,,0,,,0,0.0,False
+clear downtime definitions and,2,HYBRID_3_5,S3,quadgrams,clear downtime definitions,3,,0,,,0,0.0,False
+downtime definitions and exclusions,2,HYBRID_3_5,S3,quadgrams,downtime definitions exclusions,3,,0,,,0,0.0,False
+exclusions aligned to the,2,HYBRID_3_5,S3,quadgrams,exclusions aligned,2,,0,,,0,0.0,False
+a dated plan for,2,HYBRID_3_5,S3,quadgrams,dated plan,2,,0,,,0,0.0,False
+shielding revision or equivalent,2,HYBRID_3_5,S3,quadgrams,shielding revision equivalent,3,,0,,shielding,1,0.3333333333333333,False
+revision or equivalent root,2,HYBRID_3_5,S3,quadgrams,revision equivalent root,3,,0,,,0,0.0,False
+equivalent root cause elimination,2,HYBRID_3_5,S3,quadgrams,equivalent root cause elimination,4,,0,,,0,0.0,False
+designated safety authority has,2,HYBRID_3_5,S3,quadgrams,designated safety authority has,4,,0,,,0,0.0,False
+a envelope b customer,2,HYBRID_3_5,S3,quadgrams,envelope b customer,3,,0,,,0,0.0,False
+and you should expect,2,HYBRID_3_5,S3,quadgrams,should expect,2,,0,,,0,0.0,False
+fail to safe zone,2,HYBRID_3_5,S3,quadgrams,fail safe zone,3,,0,,,0,0.0,False
+had haul road exclusion,2,HYBRID_3_5,S3,quadgrams,had haul road exclusion,4,,0,,,0,0.0,False
+in critical consequence zones,2,HYBRID_3_5,S3,quadgrams,critical consequence zones,3,,0,,,0,0.0,False
+with downtime penalties and,2,HYBRID_3_5,S3,quadgrams,downtime penalties,2,,0,,,0,0.0,False
+downtime penalties and reliability,2,HYBRID_3_5,S3,quadgrams,downtime penalties reliability,3,,0,,,0,0.0,False
+penalties and reliability expectations,2,HYBRID_3_5,S3,quadgrams,penalties reliability expectations,3,,0,,,0,0.0,False
+penalty bearing uptime commitments,2,HYBRID_3_5,S3,quadgrams,penalty bearing uptime commitments,4,,0,,,0,0.0,False
+an envelope that prevents,2,HYBRID_3_5,S3,quadgrams,envelope prevents,2,,0,,,0,0.0,False
+know the resignation threat,2,HYBRID_3_5,S3,quadgrams,know resignation threat,3,,0,,,0,0.0,False
+threat is real and,2,HYBRID_3_5,S3,quadgrams,threat real,2,,0,,,0,0.0,False
+a probability of ruin,2,HYBRID_3_5,S3,quadgrams,probability ruin,2,,0,,,0,0.0,False
+outside the envelope no,2,HYBRID_3_5,S3,quadgrams,outside envelope no,3,,0,,,0,0.0,False
+off chief architect on,2,HYBRID_3_5,S3,quadgrams,off chief architect,3,,0,,chief architect,1,0.6666666666666666,False
+chief architect on the,2,HYBRID_3_5,S3,quadgrams,chief architect,2,,0,,chief architect,1,1.0,True
+architect on the safety,2,HYBRID_3_5,S3,quadgrams,architect safety,2,,0,,,0,0.0,False
+safety case and external,2,HYBRID_3_5,S3,quadgrams,safety case external,3,,0,,,0,0.0,False
+is not provably sufficient,2,HYBRID_3_5,S3,quadgrams,provably sufficient,2,,0,,,0,0.0,False
+side letter amended milestone,2,HYBRID_3_5,S3,quadgrams,side letter amended milestone,4,,0,,,0,0.0,False
+hover descend over an,2,HYBRID_3_5,S3,quadgrams,hover descend over,3,,0,,hover,1,0.3333333333333333,False
+descend over an active,2,HYBRID_3_5,S3,quadgrams,descend over active,3,,0,,,0,0.0,False
+and a single accountable,2,HYBRID_3_5,S3,quadgrams,single accountable,2,,0,,,0,0.0,False
+design freeze build validation,2,HYBRID_3_5,S3,quadgrams,design freeze build validation,4,,0,,,0,0.0,False
+field re test with,2,HYBRID_3_5,S3,quadgrams,field test,2,,0,,,0,0.0,False
+re test with weekly,2,HYBRID_3_5,S3,quadgrams,test weekly,2,,0,,,0,0.0,False
+test with weekly gates,2,HYBRID_3_5,S3,quadgrams,test weekly gates,3,,0,,,0,0.0,False
+must be true you,4,HYBRID_SEMANTIC,S3,quadgrams,must true,2,,0,,,0,0.0,False
+case for the early,4,HYBRID_SEMANTIC,S3,quadgrams,case early,2,,0,,,0,0.0,False
+the early access envelope,4,HYBRID_SEMANTIC,S3,quadgrams,early access envelope,3,,0,,early access,1,0.6666666666666666,False
+a pilot acceptance phase,3,HYBRID_SEMANTIC,S3,quadgrams,pilot acceptance phase,3,temporal_dynamics|imagination_and_possibility,2,phase|pilot,,0,0.0,False
+early access production pilot,3,HYBRID_SEMANTIC,S3,quadgrams,early access production pilot,4,imagination_and_possibility,1,pilot,early access,1,0.5,False
+in environments where the,3,HYBRID_SEMANTIC,S3,quadgrams,environments where,2,,0,,,0,0.0,False
+will you stay and,3,HYBRID_SEMANTIC,S3,quadgrams,will stay,2,,0,,,0,0.0,False
+doesn t equal site,3,HYBRID_SEMANTIC,S3,quadgrams,doesn equal site,3,,0,,,0,0.0,False
+yes you have a,3,HYBRID_SEMANTIC,S3,quadgrams,yes have,2,,0,,,0,0.0,False
+where the edge case,3,HYBRID_SEMANTIC,S3,quadgrams,where edge case,3,,0,,,0,0.0,False
+the edge case can,3,HYBRID_SEMANTIC,S3,quadgrams,edge case,2,,0,,,0,0.0,False
+edge case can occur,3,HYBRID_SEMANTIC,S3,quadgrams,edge case occur,3,,0,,,0,0.0,False
+capped convert customer prepay,3,HYBRID_SEMANTIC,S3,quadgrams,capped convert customer prepay,4,,0,,,0,0.0,False
+a defensible safety reliability,3,HYBRID_SEMANTIC,S3,quadgrams,defensible safety reliability,3,,0,,,0,0.0,False
+written safety case for,3,HYBRID_SEMANTIC,S3,quadgrams,written safety case,3,,0,,,0,0.0,False
+pilot acceptance phase with,2,HYBRID_SEMANTIC,S3,quadgrams,pilot acceptance phase,3,temporal_dynamics|imagination_and_possibility,2,phase|pilot,,0,0.0,False
+the hardware fix schedule,2,HYBRID_SEMANTIC,S3,quadgrams,hardware fix schedule,3,practicality_and_feasibility,1,schedule,,0,0.0,False
+phase with defined acceptance,2,HYBRID_SEMANTIC,S3,quadgrams,phase defined acceptance,3,temporal_dynamics,1,phase,,0,0.0,False
+bound the interference risk,2,HYBRID_SEMANTIC,S3,quadgrams,bound interference risk,3,practicality_and_feasibility,1,risk,interference,1,0.3333333333333333,False
+the interference risk at,2,HYBRID_SEMANTIC,S3,quadgrams,interference risk,2,practicality_and_feasibility,1,risk,interference,1,0.5,False
+contract into a pilot,2,HYBRID_SEMANTIC,S3,quadgrams,contract pilot,2,imagination_and_possibility,1,pilot,,0,0.0,False
+with a constrained envelope,2,HYBRID_SEMANTIC,S3,quadgrams,constrained envelope,2,practicality_and_feasibility,1,constrained,,0,0.0,False
+constrained launch disqualified if,2,HYBRID_SEMANTIC,S3,quadgrams,constrained launch disqualified,3,practicality_and_feasibility,1,constrained,launch,1,0.3333333333333333,False
+paid production pilot in,2,HYBRID_SEMANTIC,S3,quadgrams,paid production pilot,3,imagination_and_possibility,1,pilot,,0,0.0,False
+production pilot in qualified,2,HYBRID_SEMANTIC,S3,quadgrams,production pilot qualified,3,imagination_and_possibility,1,pilot,,0,0.0,False
+pilot in qualified corridors,2,HYBRID_SEMANTIC,S3,quadgrams,pilot qualified corridors,3,imagination_and_possibility,1,pilot,,0,0.0,False
+pilot terms caps exclusions,2,HYBRID_SEMANTIC,S3,quadgrams,pilot terms caps exclusions,4,imagination_and_possibility,1,pilot,,0,0.0,False
+a paid production pilot,2,HYBRID_SEMANTIC,S3,quadgrams,paid production pilot,3,imagination_and_possibility,1,pilot,,0,0.0,False
+integrity monitoring if feasible,2,HYBRID_SEMANTIC,S3,quadgrams,integrity monitoring feasible,3,practicality_and_feasibility,1,feasible,,0,0.0,False
+timeline retrofit policy for,2,HYBRID_SEMANTIC,S3,quadgrams,timeline retrofit policy,3,practicality_and_feasibility,1,timeline,,0,0.0,False
+will almost certainly see,2,HYBRID_SEMANTIC,S3,quadgrams,will almost certainly see,4,,0,,,0,0.0,False
+almost certainly see it,2,HYBRID_SEMANTIC,S3,quadgrams,almost certainly see,3,,0,,,0,0.0,False
+true the hardware fix,2,HYBRID_SEMANTIC,S3,quadgrams,true hardware fix,3,,0,,,0,0.0,False
+rtb to a predefined,2,HYBRID_SEMANTIC,S3,quadgrams,rtb predefined,2,,0,,,0,0.0,False
+a predefined safe zone,2,HYBRID_SEMANTIC,S3,quadgrams,predefined safe zone,3,,0,,,0,0.0,False
+architect sign off conditions,2,HYBRID_SEMANTIC,S3,quadgrams,architect sign off conditions,4,,0,,,0,0.0,False
+you sign the safety,2,HYBRID_SEMANTIC,S3,quadgrams,sign safety,2,,0,,,0,0.0,False
+immediately engage the lead,2,HYBRID_SEMANTIC,S3,quadgrams,immediately engage lead,3,,0,,,0,0.0,False
+as paid deployments with,2,HYBRID_SEMANTIC,S3,quadgrams,paid deployments,2,,0,,,0,0.0,False
+paid deployments with controlled,2,HYBRID_SEMANTIC,S3,quadgrams,paid deployments controlled,3,,0,,,0,0.0,False
+deployments with controlled availability,2,HYBRID_SEMANTIC,S3,quadgrams,deployments controlled availability,3,,0,,,0,0.0,False
+site qualification runtime integrity,2,HYBRID_SEMANTIC,S3,quadgrams,site qualification runtime integrity,4,,0,,,0,0.0,False
+potentially reckless if it,2,HYBRID_SEMANTIC,S3,quadgrams,potentially reckless,2,,0,,,0,0.0,False
+reckless if it predictably,2,HYBRID_SEMANTIC,S3,quadgrams,reckless predictably,2,,0,,,0,0.0,False
+the top bridge terms,2,HYBRID_SEMANTIC,S3,quadgrams,top bridge terms,3,,0,,,0,0.0,False
+security covenants default triggers,2,HYBRID_SEMANTIC,S3,quadgrams,security covenants default triggers,4,,0,,,0,0.0,False
+covenants default triggers warrants,2,HYBRID_SEMANTIC,S3,quadgrams,covenants default triggers warrants,4,,0,,,0,0.0,False
+default triggers warrants dilution,2,HYBRID_SEMANTIC,S3,quadgrams,default triggers warrants dilution,4,,0,,,0,0.0,False
+classify the bridge as,2,HYBRID_SEMANTIC,S3,quadgrams,classify bridge,2,,0,,,0,0.0,False
+designated safe corridors landing,2,HYBRID_SEMANTIC,S3,quadgrams,designated safe corridors landing,4,,0,,,0,0.0,False
+safe corridors landing zones,2,HYBRID_SEMANTIC,S3,quadgrams,safe corridors landing zones,4,,0,,,0,0.0,False
+outside designated safe zones,2,HYBRID_SEMANTIC,S3,quadgrams,outside designated safe zones,4,,0,,,0,0.0,False
+a defensible operating envelope,2,HYBRID_SEMANTIC,S3,quadgrams,defensible operating envelope,3,,0,,,0,0.0,False
+if p text resignations,2,HYBRID_SEMANTIC,S3,quadgrams,p text resignations,3,,0,,,0,0.0,False
+p text resignations gtrsim,2,HYBRID_SEMANTIC,S3,quadgrams,p text resignations gtrsim,4,,0,,,0,0.0,False
+retrofit plan will you,2,HYBRID_SEMANTIC,S3,quadgrams,retrofit plan will,3,,0,,,0,0.0,False
+plan will you stay,2,HYBRID_SEMANTIC,S3,quadgrams,plan will stay,3,,0,,,0,0.0,False
+bottom line given your,2,HYBRID_SEMANTIC,S3,quadgrams,bottom line given,3,,0,,,0,0.0,False
+a way that triggers,2,HYBRID_SEMANTIC,S3,quadgrams,way triggers,2,,0,,,0,0.0,False
+whether the architect would,2,HYBRID_SEMANTIC,S3,quadgrams,whether architect,2,,0,,,0,0.0,False
+you re deciding whether,2,HYBRID_SEMANTIC,S3,quadgrams,deciding whether,2,,0,,,0,0.0,False
+restricted zones planned maintenance,2,HYBRID_SEMANTIC,S3,quadgrams,restricted zones planned maintenance,4,,0,,,0,0.0,False
+safety aborts under defined,2,HYBRID_SEMANTIC,S3,quadgrams,safety aborts under defined,4,,0,,,0,0.0,False
+aborts under defined conditions,2,HYBRID_SEMANTIC,S3,quadgrams,aborts under defined conditions,4,,0,,,0,0.0,False
+n missions day t,2,HYBRID_SEMANTIC,S3,quadgrams,n missions day,3,,0,,,0,0.0,False
+mean recovery time per,2,HYBRID_SEMANTIC,S3,quadgrams,mean recovery time per,4,,0,,,0,0.0,False
+recovery time per event,2,HYBRID_SEMANTIC,S3,quadgrams,recovery time per event,4,,0,,,0,0.0,False
+with defined acceptance metrics,2,HYBRID_SEMANTIC,S3,quadgrams,defined acceptance metrics,3,,0,,,0,0.0,False
+even with occasional aborts,2,HYBRID_SEMANTIC,S3,quadgrams,even occasional aborts,3,,0,,,0,0.0,False
+penalty backed uptime a,2,HYBRID_SEMANTIC,S3,quadgrams,penalty backed uptime,3,,0,,,0,0.0,False
+runtime nav integrity gating,2,HYBRID_SEMANTIC,S3,quadgrams,runtime nav integrity gating,4,,0,,,0,0.0,False
+landings in operationally catastrophic,2,HYBRID_SEMANTIC,S3,quadgrams,landings operationally catastrophic,3,,0,,,0,0.0,False
+in operationally catastrophic areas,2,HYBRID_SEMANTIC,S3,quadgrams,operationally catastrophic areas,3,,0,,,0,0.0,False
+pushes you toward delay,2,HYBRID_SEMANTIC,S3,quadgrams,pushes toward delay,3,,0,,,0,0.0,False
+caps exclusions and your,2,HYBRID_SEMANTIC,S3,quadgrams,caps exclusions,2,,0,,,0,0.0,False
+exclusions and your expected,2,HYBRID_SEMANTIC,S3,quadgrams,exclusions expected,2,,0,,,0,0.0,False
+and your expected missions,2,HYBRID_SEMANTIC,S3,quadgrams,expected missions,2,,0,,,0,0.0,False
+your expected missions day,2,HYBRID_SEMANTIC,S3,quadgrams,expected missions day,3,,0,,,0,0.0,False
+expected penalty exposure and,2,HYBRID_SEMANTIC,S3,quadgrams,expected penalty exposure,3,,0,,,0,0.0,False
+penalty exposure and propose,2,HYBRID_SEMANTIC,S3,quadgrams,penalty exposure propose,3,,0,,,0,0.0,False
+with reduced waived penalties,2,HYBRID_SEMANTIC,S3,quadgrams,reduced waived penalties,3,,0,,,0,0.0,False
+abort doesn t equal,2,HYBRID_SEMANTIC,S3,quadgrams,abort doesn equal,3,,0,,,0,0.0,False
+t equal site downtime,2,HYBRID_SEMANTIC,S3,quadgrams,equal site downtime,3,,0,,,0,0.0,False
+change the contract and,2,HYBRID_SEMANTIC,S3,quadgrams,change contract,2,,0,,,0,0.0,False
+acceptance metrics and capped,2,HYBRID_SEMANTIC,S3,quadgrams,acceptance metrics capped,3,,0,,,0,0.0,False
+metrics and capped remedies,2,HYBRID_SEMANTIC,S3,quadgrams,metrics capped remedies,3,,0,,,0,0.0,False
+with uptime penalties and,2,HYBRID_SEMANTIC,S3,quadgrams,uptime penalties,2,,0,,,0,0.0,False
+safety case for that,2,HYBRID_SEMANTIC,S3,quadgrams,safety case,2,,0,,,0,0.0,False
+case for that limited,2,HYBRID_SEMANTIC,S3,quadgrams,case limited,2,,0,,,0,0.0,False
+for that limited envelope,2,HYBRID_SEMANTIC,S3,quadgrams,limited envelope,2,,0,,,0,0.0,False
+if yes you have,2,HYBRID_SEMANTIC,S3,quadgrams,yes have,2,,0,,,0,0.0,False
+insists on strict uptime,2,HYBRID_SEMANTIC,S3,quadgrams,insists strict uptime,3,,0,,,0,0.0,False
+on strict uptime penalties,2,HYBRID_SEMANTIC,S3,quadgrams,strict uptime penalties,3,,0,,,0,0.0,False
+site qualification corridor enforcement,2,HYBRID_SEMANTIC,S3,quadgrams,site qualification corridor enforcement,4,,0,,,0,0.0,False
+partner won t accept,2,HYBRID_SEMANTIC,S3,quadgrams,partner won accept,3,,0,,,0,0.0,False
+delay as the reason,2,HYBRID_SEMANTIC,S3,quadgrams,delay reason,2,,0,,,0,0.0,False
+the root cause is,2,HYBRID_SEMANTIC,S3,quadgrams,root cause,2,,0,,,0,0.0,False
+root cause is eliminated,2,HYBRID_SEMANTIC,S3,quadgrams,root cause eliminated,3,,0,,,0,0.0,False
+runtime integrity monitoring if,2,HYBRID_SEMANTIC,S3,quadgrams,runtime integrity monitoring,3,,0,,,0,0.0,False
+shipped and caused downtime,2,HYBRID_SEMANTIC,S3,quadgrams,shipped caused downtime,3,,0,,,0,0.0,False
+launch now vs delay,2,HYBRID_SEMANTIC,S3,quadgrams,launch now vs delay,4,,0,,launch,1,0.25,False
+and key talent loss,2,HYBRID_SEMANTIC,S3,quadgrams,key talent loss,3,,0,,,0,0.0,False
+envelope and contract structure,2,HYBRID_SEMANTIC,S3,quadgrams,envelope contract structure,3,,0,,,0,0.0,False
+you lose the roadmap,2,HYBRID_SEMANTIC,S3,quadgrams,lose roadmap,2,,0,,,0,0.0,False
+architect will sign and,2,HYBRID_SEMANTIC,S3,quadgrams,architect will sign,3,,0,,,0,0.0,False
+won t sign you,2,HYBRID_SEMANTIC,S3,quadgrams,won sign,2,,0,,,0,0.0,False
+you have a viable,2,HYBRID_SEMANTIC,S3,quadgrams,have viable,2,,0,,,0,0.0,False
+the company s core,2,HYBRID_SEMANTIC,S3,quadgrams,company core,2,,0,,,0,0.0,False
+bridge capped convert customer,2,HYBRID_SEMANTIC,S3,quadgrams,bridge capped convert customer,4,,0,,,0,0.0,False
+architect sign off and,2,HYBRID_SEMANTIC,S3,quadgrams,architect sign off,3,,0,,,0,0.0,False
+sign off and retention,2,HYBRID_SEMANTIC,S3,quadgrams,sign off retention,3,,0,,,0,0.0,False
+outside a defensible safety,2,HYBRID_SEMANTIC,S3,quadgrams,outside defensible safety,3,,0,,,0,0.0,False
+defensible safety reliability envelope,2,HYBRID_SEMANTIC,S3,quadgrams,defensible safety reliability envelope,4,,0,,,0,0.0,False
+safety reliability envelope and,2,HYBRID_SEMANTIC,S3,quadgrams,safety reliability envelope,3,,0,,,0,0.0,False
+geofence is allowed but,2,HYBRID_SEMANTIC,S3,quadgrams,geofence allowed,2,,0,,geofence,1,0.5,False
+the chief architect can,2,HYBRID_SEMANTIC,S3,quadgrams,chief architect,2,,0,,chief architect,1,1.0,True
+over y flight hours,2,HYBRID_SEMANTIC,S3,quadgrams,over y flight hours,4,,0,,flight,1,0.25,False
+retrofit policy for early,2,HYBRID_SEMANTIC,S3,quadgrams,retrofit policy early,3,,0,,,0,0.0,False
+policy for early units,2,HYBRID_SEMANTIC,S3,quadgrams,policy early units,3,,0,,,0,0.0,False
+event doesn t equal,2,HYBRID_SEMANTIC,S3,quadgrams,event doesn equal,3,,0,,,0,0.0,False
+waived or converted to,2,HYBRID_SEMANTIC,S3,quadgrams,waived converted,2,,0,,,0,0.0,False
+or converted to capped,2,HYBRID_SEMANTIC,S3,quadgrams,converted capped,2,,0,,,0,0.0,False
+converted to capped service,2,HYBRID_SEMANTIC,S3,quadgrams,converted capped service,3,,0,,,0,0.0,False
+to capped service credits,2,HYBRID_SEMANTIC,S3,quadgrams,capped service credits,3,,0,,,0,0.0,False
+only after acceptance metrics,2,HYBRID_SEMANTIC,S3,quadgrams,after acceptance metrics,3,,0,,,0,0.0,False
+could occur over a,2,HYBRID_SEMANTIC,S3,quadgrams,could occur over,3,,0,,,0,0.0,False
+haul roads intersections loading,2,HYBRID_SEMANTIC,S3,quadgrams,haul roads intersections loading,4,,0,,,0,0.0,False
+hover land in place,2,HYBRID_SEMANTIC,S3,quadgrams,hover land place,3,,0,,hover,1,0.3333333333333333,False
+fail safe for the,2,HYBRID_SEMANTIC,S3,quadgrams,fail safe,2,,0,,,0,0.0,False
+to a safe box,2,HYBRID_SEMANTIC,S3,quadgrams,safe box,2,,0,,,0,0.0,False
+moving to a predefined,2,HYBRID_SEMANTIC,S3,quadgrams,moving predefined,2,,0,,,0,0.0,False
+commercial mining launch under,2,HYBRID_SEMANTIC,S3,quadgrams,commercial mining launch under,4,,0,,launch|mining,2,0.5,False
+until you can demonstrate,2,HYBRID_SEMANTIC,S3,quadgrams,until demonstrate,2,,0,,,0,0.0,False
+case for the launch,2,HYBRID_SEMANTIC,S3,quadgrams,case launch,2,,0,,launch,1,0.5,False
+the launch envelope signed,2,HYBRID_SEMANTIC,S3,quadgrams,launch envelope signed,3,,0,,launch,1,0.3333333333333333,False
+signed by the chief,2,HYBRID_SEMANTIC,S3,quadgrams,signed chief,2,,0,,,0,0.0,False
+you launch into mining,2,HYBRID_SEMANTIC,S3,quadgrams,launch mining,2,,0,,launch|mining,2,1.0,True
+the chief architect leaves,2,HYBRID_SEMANTIC,S3,quadgrams,chief architect leaves,3,,0,,chief architect,1,0.6666666666666666,False
+exclusions haul roads critical,2,HYBRID_SEMANTIC,S3,quadgrams,exclusions haul roads critical,4,,0,,,0,0.0,False
+acceptance criteria are met,2,HYBRID_SEMANTIC,S3,quadgrams,acceptance criteria met,3,,0,,,0,0.0,False
+environments where the edge,2,HYBRID_SEMANTIC,S3,quadgrams,environments where edge,3,,0,,,0,0.0,False
+case can occur stop,2,HYBRID_SEMANTIC,S3,quadgrams,case occur stop,3,,0,,,0,0.0,False
+can occur stop deploy,2,HYBRID_SEMANTIC,S3,quadgrams,occur stop deploy,3,,0,,,0,0.0,False
+occur stop deploy authority,2,HYBRID_SEMANTIC,S3,quadgrams,occur stop deploy authority,4,,0,,,0,0.0,False
+expectations and downtime penalties,2,HYBRID_SEMANTIC,S3,quadgrams,expectations downtime penalties,3,,0,,,0,0.0,False
+buffers around haul roads,2,HYBRID_SEMANTIC,S3,quadgrams,buffers around haul roads,4,,0,,,0,0.0,False
+safe loiter landing areas,2,HYBRID_SEMANTIC,S3,quadgrams,safe loiter landing areas,4,,0,,,0,0.0,False
+the shielding fix gen,2,HYBRID_SEMANTIC,S3,quadgrams,shielding fix gen,3,,0,,shielding,1,0.3333333333333333,False
+protected engineering lane for,2,HYBRID_SEMANTIC,S3,quadgrams,protected engineering lane,3,,0,,,0,0.0,False
+engineering lane for the,2,HYBRID_SEMANTIC,S3,quadgrams,engineering lane,2,,0,,,0,0.0,False
+people time so field,2,HYBRID_SEMANTIC,S3,quadgrams,people time field,3,,0,,,0,0.0,False
+before entering critical zones,2,HYBRID_SEMANTIC,S3,quadgrams,before entering critical zones,4,,0,,,0,0.0,False
+entering critical zones and,2,HYBRID_SEMANTIC,S3,quadgrams,entering critical zones,3,,0,,,0,0.0,False
+so field operations do,2,HYBRID_SEMANTIC,S3,quadgrams,field operations,2,,0,,,0,0.0,False
+field operations do not,2,HYBRID_SEMANTIC,S3,quadgrams,field operations,2,,0,,,0,0.0,False
+operations do not cannibalize,2,HYBRID_SEMANTIC,S3,quadgrams,operations cannibalize,2,,0,,,0,0.0,False
+architect sign off then,2,HYBRID_SEMANTIC,S3,quadgrams,architect sign off then,4,,0,,,0,0.0,False
+sign off then the,2,HYBRID_SEMANTIC,S3,quadgrams,sign off then,3,,0,,,0,0.0,False
+must be true the,2,HYBRID_SEMANTIC,S3,quadgrams,must true,2,,0,,,0,0.0,False

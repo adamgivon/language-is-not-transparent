@@ -1,0 +1,5 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy
+with series b,2,AC15P,S3,trigrams,series b,2,,0,,series b,1,1.0,True
+a geofence beta,2,CONTROL,S3,trigrams,geofence beta,2,,0,,geofence|beta,2,1.0,True
+chief architect on,2,HYBRID_3_5,S3,trigrams,chief architect,2,,0,,chief architect,1,1.0,True
+geofence beta for,2,HYBRID_SEMANTIC,S3,trigrams,geofence beta,2,,0,,geofence|beta,2,1.0,True

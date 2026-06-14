@@ -1,0 +1,1984 @@
+scenario,level,system,first_class_group,ngram,count,matched_terms
+S1,trigrams,CONTROL,truth.verification,export test as,3,test
+S1,trigrams,AC15,truth.verification,acceptance testing that,3,testing
+S1,trigrams,AC15,truth.verification,long run evidence,2,evidence
+S1,trigrams,AC15,truth.verification,and council proof,2,proof
+S1,trigrams,AC15,truth.verification,documented formats transition,2,documented|transit|transition
+S1,trigrams,AC15,truth.verification,testing that includes,2,testing
+S1,trigrams,AC15,truth.verification,failover test as,2,test
+S1,trigrams,AC15P,truth.verification,procurement legal confirm,2,confirm
+S1,trigrams,AC15P,truth.verification,management and audit,2,audit
+S1,trigrams,AC15P,truth.verification,full export documented,2,documented
+S1,trigrams,AC15P,truth.verification,plans logs documented,2,documented|plans
+S1,trigrams,AC15P,truth.verification,logs documented interfaces,2,documented
+S1,trigrams,HYBRID_3_5,truth.verification,models multi source,2,source
+S1,trigrams,HYBRID_3_5,truth.verification,multi source availability,2,source
+S1,trigrams,HYBRID_3_5,truth.verification,long horizon evidence,2,evidence|horizon
+S1,trigrams,HYBRID_3_5,truth.verification,single source pricing,2,source
+S1,trigrams,HYBRID_3_5,truth.verification,source procurement city,2,source
+S1,trigrams,HYBRID_3_5,truth.verification,escalation stress test,2,test
+S1,trigrams,HYBRID_3_5,truth.verification,testing and contract,2,testing
+S1,trigrams,HYBRID_3_5,truth.verification,added integration testing,2,testing
+S1,trigrams,HYBRID_3_5,truth.verification,integration testing complexity,2,testing
+S1,trigrams,HYBRID_3_5,truth.verification,documented formats include,2,documented
+S1,trigrams,HYBRID_SEMANTIC,truth.verification,to ask verify,9,verif|verify
+S1,trigrams,HYBRID_SEMANTIC,truth.verification,and less evidence,2,evidence
+S1,trigrams,HYBRID_SEMANTIC,truth.verification,ask verify documented,2,documented|verif|verify
+S1,trigrams,HYBRID_SEMANTIC,truth.verification,testing and burn,2,testing
+S1,trigrams,HYBRID_SEMANTIC,truth.verification,documented formats exit,2,documented
+S1,trigrams,HYBRID_SEMANTIC,truth.verification,rollback audit trail,2,audit
+S1,trigrams,HYBRID_SEMANTIC,truth.verification,audit trail degraded,2,audit
+S1,trigrams,HYBRID_SEMANTIC,truth.verification,documented formats priced,2,documented
+S1,trigrams,HYBRID_SEMANTIC,truth.verification,and acceptance tested,2,tested
+S1,trigrams,HYBRID_SEMANTIC,truth.verification,acceptance tested time,2,tested
+S1,trigrams,CONTROL,truth.uncertainty_marking,week review uncertain,2,uncertain
+S1,trigrams,CONTROL,truth.uncertainty_marking,review uncertain outcome,2,uncertain
+S1,trigrams,AC15P,truth.uncertainty_marking,novagrid gating uncertainty,2,uncertainty
+S1,trigrams,HYBRID_3_5,truth.uncertainty_marking,the most uncertain,2,uncertain
+S1,trigrams,HYBRID_SEMANTIC,truth.fact_vs_interpretation,facts you provided,2,facts
+S1,trigrams,HYBRID_SEMANTIC,truth.fact_vs_interpretation,given your facts,2,facts
+S1,trigrams,CONTROL,practical_considerations_and_execution.action_and_execution,as built documentation,3,built
+S1,trigrams,CONTROL,practical_considerations_and_execution.action_and_execution,a staged rollout,3,rollout|staged
+S1,trigrams,CONTROL,practical_considerations_and_execution.action_and_execution,staged rollout plan,3,plan|rollout|staged
+S1,trigrams,CONTROL,practical_considerations_and_execution.action_and_execution,delay start assumption,2,start
+S1,trigrams,CONTROL,practical_considerations_and_execution.action_and_execution,stated rollout months,2,rollout
+S1,trigrams,CONTROL,practical_considerations_and_execution.action_and_execution,rollout plan with,2,plan|rollout
+S1,trigrams,CONTROL,practical_considerations_and_execution.action_and_execution,plan with early,2,early|plan
+S1,trigrams,AC15,practical_considerations_and_execution.action_and_execution,a phased start,2,phas|phased|start
+S1,trigrams,AC15,practical_considerations_and_execution.action_and_execution,phased start and,2,phas|phased|start
+S1,trigrams,AC15,practical_considerations_and_execution.action_and_execution,slower rollout months,2,rollout
+S1,trigrams,AC15,practical_considerations_and_execution.action_and_execution,running safe plans,2,plans
+S1,trigrams,AC15,practical_considerations_and_execution.action_and_execution,timing plans configurations,2,plans
+S1,trigrams,AC15,practical_considerations_and_execution.action_and_execution,plans configurations logs,2,plans
+S1,trigrams,AC15,practical_considerations_and_execution.action_and_execution,before broad rollout,2,rollout
+S1,trigrams,AC15,practical_considerations_and_execution.action_and_execution,start and compress,2,start
+S1,trigrams,AC15P,practical_considerations_and_execution.action_and_execution,plans controller configs,3,plans
+S1,trigrams,AC15P,practical_considerations_and_execution.action_and_execution,t delay start,3,start
+S1,trigrams,AC15P,practical_considerations_and_execution.action_and_execution,plans time of,2,plans
+S1,trigrams,AC15P,practical_considerations_and_execution.action_and_execution,construction event plan,2,plan
+S1,trigrams,AC15P,practical_considerations_and_execution.action_and_execution,comms planning controller,2,planning
+S1,trigrams,AC15P,practical_considerations_and_execution.action_and_execution,start without delay,2,start
+S1,trigrams,AC15P,practical_considerations_and_execution.action_and_execution,start immediately with,2,start
+S1,trigrams,AC15P,practical_considerations_and_execution.action_and_execution,build out that,2,build
+S1,trigrams,AC15P,practical_considerations_and_execution.action_and_execution,rollout beyond months,2,rollout
+S1,trigrams,AC15P,practical_considerations_and_execution.action_and_execution,before full rollout,2,rollout
+S1,trigrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,timing plans config,3,plans
+S1,trigrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,plans config logs,3,plans
+S1,trigrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,faster nominal rollout,2,rollout
+S1,trigrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,evp incident plans,2,plans
+S1,trigrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,incident plans integrations,2,plans
+S1,trigrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,spares plan delivered,2,plan
+S1,trigrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,plan delivered early,2,early|plan
+S1,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,implement detours overrides,3,implement
+S1,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,a phased rollout,3,phas|phased|rollout
+S1,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,plans logs and,3,plans
+S1,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,pilot phased rollout,2,phas|phased|pilot|rollout
+S1,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,phased rollout pilot,2,phas|phased|pilot|rollout
+S1,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,to implement detours,2,implement
+S1,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,rollout pilot corridor,2,pilot|rollout
+S1,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,timing plans databases,2,plans
+S1,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,plans databases logs,2,plans
+S1,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,full scale rollout,2,rollout
+S1,trigrams,CONTROL,practical_considerations_and_execution.constraints_and_tradeoffs,services incident adaptive,2,adapt
+S1,trigrams,CONTROL,practical_considerations_and_execution.constraints_and_tradeoffs,exception path practical,2,practical
+S1,trigrams,CONTROL,practical_considerations_and_execution.constraints_and_tradeoffs,constraints dot it,2,constrain|constraints
+S1,trigrams,AC15,practical_considerations_and_execution.constraints_and_tradeoffs,opex is bounded,2,bounded
+S1,trigrams,AC15P,practical_considerations_and_execution.constraints_and_tradeoffs,under your constraints,3,constrain|constraints
+S1,trigrams,AC15P,practical_considerations_and_execution.constraints_and_tradeoffs,week award constraint,2,constrain|constraint
+S1,trigrams,HYBRID_3_5,practical_considerations_and_execution.constraints_and_tradeoffs,the main constraint,2,constrain|constraint
+S1,trigrams,HYBRID_3_5,practical_considerations_and_execution.constraints_and_tradeoffs,if technically feasible,2,feasible
+S1,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.constraints_and_tradeoffs,viable alternative only,2,alternative|viable|viable alternative
+S1,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.constraints_and_tradeoffs,constrained contractually novagrid,2,constrain|constrained
+S1,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.constraints_and_tradeoffs,incident adaptive features,2,adapt
+S1,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.constraints_and_tradeoffs,cpi bound or,2,bound
+S1,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.constraints_and_tradeoffs,bound or fixed,2,bound
+S1,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.constraints_and_tradeoffs,written time bounded,2,bounded
+S1,trigrams,AC15,practical_considerations_and_execution.friction_and_blockers,fewest external blockers,2,blockers
+S1,trigrams,AC15,practical_considerations_and_execution.friction_and_blockers,external blockers civitas,2,blockers
+S1,trigrams,AC15,practical_considerations_and_execution.friction_and_blockers,supply chain fragility,2,fragility
+S1,trigrams,AC15P,practical_considerations_and_execution.friction_and_blockers,waiver friction essential,2,friction
+S1,trigrams,AC15P,practical_considerations_and_execution.friction_and_blockers,friction essential infrastructure,2,friction
+S1,trigrams,HYBRID_3_5,practical_considerations_and_execution.friction_and_blockers,approval friction and,2,friction
+S1,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.friction_and_blockers,certainty approval friction,2,friction
+S1,trigrams,CONTROL,practical_considerations_and_execution.resources_timing_conditions,o m cost,4,cost
+S1,trigrams,CONTROL,practical_considerations_and_execution.resources_timing_conditions,m cost predictability,4,cost
+S1,trigrams,CONTROL,practical_considerations_and_execution.resources_timing_conditions,revised schedule that,2,schedule
+S1,trigrams,CONTROL,practical_considerations_and_execution.resources_timing_conditions,schedule that still,2,schedule
+S1,trigrams,CONTROL,practical_considerations_and_execution.resources_timing_conditions,as budgets tighten,2,budgets
+S1,trigrams,CONTROL,practical_considerations_and_execution.resources_timing_conditions,incident rca timelines,2,timelines
+S1,trigrams,AC15,practical_considerations_and_execution.resources_timing_conditions,timeline and required,3,timeline
+S1,trigrams,AC15,practical_considerations_and_execution.resources_timing_conditions,long term dependency,2,dependency|long term
+S1,trigrams,AC15,practical_considerations_and_execution.resources_timing_conditions,high switching cost,2,cost
+S1,trigrams,AC15,practical_considerations_and_execution.resources_timing_conditions,cost reduction vs,2,cost
+S1,trigrams,AC15,practical_considerations_and_execution.resources_timing_conditions,central cloud dependency,2,dependency
+S1,trigrams,AC15,practical_considerations_and_execution.resources_timing_conditions,schedule if novagrid,2,schedule
+S1,trigrams,AC15,practical_considerations_and_execution.resources_timing_conditions,timelines transition assistance,2,timelines|transit|transition
+S1,trigrams,AC15,practical_considerations_and_execution.resources_timing_conditions,cost to maintain,2,cost
+S1,trigrams,AC15,practical_considerations_and_execution.resources_timing_conditions,schedule exhibit with,2,schedule
+S1,trigrams,AC15,practical_considerations_and_execution.resources_timing_conditions,high switching costs,2,costs
+S1,trigrams,AC15P,practical_considerations_and_execution.resources_timing_conditions,schedule slip or,3,schedule
+S1,trigrams,AC15P,practical_considerations_and_execution.resources_timing_conditions,total operating cost,3,cost
+S1,trigrams,AC15P,practical_considerations_and_execution.resources_timing_conditions,failure council budget,3,budget
+S1,trigrams,AC15P,practical_considerations_and_execution.resources_timing_conditions,schedule risk regardless,2,risk|schedule
+S1,trigrams,AC15P,practical_considerations_and_execution.resources_timing_conditions,cost continuity controls,2,cost
+S1,trigrams,AC15P,practical_considerations_and_execution.resources_timing_conditions,schedule risk we,2,risk|schedule
+S1,trigrams,AC15P,practical_considerations_and_execution.resources_timing_conditions,avoidable schedule risk,2,risk|schedule
+S1,trigrams,AC15P,practical_considerations_and_execution.resources_timing_conditions,operating cost controls,2,cost
+S1,trigrams,AC15P,practical_considerations_and_execution.resources_timing_conditions,governance and schedule,2,schedule
+S1,trigrams,AC15P,practical_considerations_and_execution.resources_timing_conditions,and operating cost,2,cost
+S1,trigrams,HYBRID_3_5,practical_considerations_and_execution.resources_timing_conditions,operating cost stability,4,cost|stability
+S1,trigrams,HYBRID_3_5,practical_considerations_and_execution.resources_timing_conditions,lifecycle cost stability,2,cost|lifecycle|stability
+S1,trigrams,HYBRID_3_5,practical_considerations_and_execution.resources_timing_conditions,local fallback modes,2,fallback
+S1,trigrams,HYBRID_3_5,practical_considerations_and_execution.resources_timing_conditions,controls timeline fee,2,timeline
+S1,trigrams,HYBRID_3_5,practical_considerations_and_execution.resources_timing_conditions,annual cloud cost,2,cost
+S1,trigrams,HYBRID_3_5,practical_considerations_and_execution.resources_timing_conditions,and budget stability,2,budget|stability
+S1,trigrams,HYBRID_3_5,practical_considerations_and_execution.resources_timing_conditions,required controls timeline,2,timeline
+S1,trigrams,HYBRID_3_5,practical_considerations_and_execution.resources_timing_conditions,s tighter budget,2,budget
+S1,trigrams,HYBRID_3_5,practical_considerations_and_execution.resources_timing_conditions,cost stability and,2,cost|stability
+S1,trigrams,HYBRID_3_5,practical_considerations_and_execution.resources_timing_conditions,real schedule critical,2,schedule
+S1,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.resources_timing_conditions,year cost exposure,3,cost
+S1,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.resources_timing_conditions,cost exposure operational,2,cost
+S1,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.resources_timing_conditions,schedule protections milestone,2,schedule
+S1,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.resources_timing_conditions,year cost model,2,cost
+S1,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.resources_timing_conditions,cost view and,2,cost
+S1,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.resources_timing_conditions,failover adding cost,2,cost
+S1,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.resources_timing_conditions,adding cost time,2,cost
+S1,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.resources_timing_conditions,for budget chair,2,budget
+S1,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.resources_timing_conditions,real schedule threat,2,schedule|threat
+S1,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.resources_timing_conditions,schedule threat modular,2,schedule|threat
+S1,trigrams,AC15P,temporal_projection.decay_and_currency,and increase lifecycle,2,lifecycle
+S1,trigrams,HYBRID_3_5,temporal_projection.decay_and_currency,lifecycle cost stability,2,cost|lifecycle|stability
+S1,trigrams,CONTROL,temporal_projection.time_horizons,long term o,4,long term
+S1,trigrams,CONTROL,temporal_projection.time_horizons,documentation delivered early,3,early
+S1,trigrams,CONTROL,temporal_projection.time_horizons,long term risk,2,long term|risk
+S1,trigrams,CONTROL,temporal_projection.time_horizons,long term leverage,2,long term
+S1,trigrams,CONTROL,temporal_projection.time_horizons,delivered early milestone,2,early
+S1,trigrams,CONTROL,temporal_projection.time_horizons,early milestone based,2,early
+S1,trigrams,CONTROL,temporal_projection.time_horizons,plan with early,2,early|plan
+S1,trigrams,AC15,temporal_projection.time_horizons,near term opex,5,near term
+S1,trigrams,AC15,temporal_projection.time_horizons,long term dependency,2,dependency|long term
+S1,trigrams,AC15,temporal_projection.time_horizons,better near term,2,near term
+S1,trigrams,AC15,temporal_projection.time_horizons,window a treat,2,window
+S1,trigrams,AC15,temporal_projection.time_horizons,reduces near term,2,near term
+S1,trigrams,AC15,temporal_projection.time_horizons,predictable near term,2,near term
+S1,trigrams,AC15,temporal_projection.time_horizons,month support horizon,2,horizon
+S1,trigrams,AC15,temporal_projection.time_horizons,support horizon with,2,horizon
+S1,trigrams,AC15P,temporal_projection.time_horizons,week award window,3,window
+S1,trigrams,AC15P,temporal_projection.time_horizons,their early data,2,early
+S1,trigrams,AC15P,temporal_projection.time_horizons,window novagrid also,2,window
+S1,trigrams,AC15P,temporal_projection.time_horizons,get trapped later,2,later
+S1,trigrams,HYBRID_3_5,temporal_projection.time_horizons,long horizon evidence,2,evidence|horizon
+S1,trigrams,HYBRID_3_5,temporal_projection.time_horizons,price lock early,2,early
+S1,trigrams,HYBRID_3_5,temporal_projection.time_horizons,less long horizon,2,horizon
+S1,trigrams,HYBRID_3_5,temporal_projection.time_horizons,plan delivered early,2,early|plan
+S1,trigrams,HYBRID_SEMANTIC,temporal_projection.time_horizons,early maintenance reduction,4,early
+S1,trigrams,HYBRID_SEMANTIC,temporal_projection.time_horizons,a later phase,2,later|phas|phase
+S1,trigrams,HYBRID_SEMANTIC,temporal_projection.time_horizons,now not later,2,later
+S1,trigrams,HYBRID_SEMANTIC,temporal_projection.time_horizons,lock in early,2,early
+S1,trigrams,HYBRID_SEMANTIC,temporal_projection.time_horizons,delivered early a,2,early
+S1,trigrams,HYBRID_SEMANTIC,temporal_projection.time_horizons,early delivery of,2,early
+S1,trigrams,HYBRID_SEMANTIC,temporal_projection.time_horizons,accountability and early,2,early
+S1,trigrams,CONTROL,temporal_projection.past_present_future,to compete future,3,future
+S1,trigrams,CONTROL,temporal_projection.past_present_future,compete future components,3,future
+S1,trigrams,AC15,temporal_projection.past_present_future,venture backed trajectory,2,trajectory
+S1,trigrams,HYBRID_SEMANTIC,temporal_projection.past_present_future,future lock in,3,future
+S1,trigrams,CONTROL,temporal_projection.change_and_rate,a staged rollout,3,rollout|staged
+S1,trigrams,CONTROL,temporal_projection.change_and_rate,staged rollout plan,3,plan|rollout|staged
+S1,trigrams,CONTROL,temporal_projection.change_and_rate,shifts toward the,2,shifts
+S1,trigrams,CONTROL,temporal_projection.change_and_rate,shifts the decision,2,shifts
+S1,trigrams,AC15,temporal_projection.change_and_rate,config portability transition,4,transit|transition
+S1,trigrams,AC15,temporal_projection.change_and_rate,timelines transition assistance,2,timelines|transit|transition
+S1,trigrams,AC15,temporal_projection.change_and_rate,a phased notice,2,phas|phased
+S1,trigrams,AC15,temporal_projection.change_and_rate,phased notice to,2,phas|phased
+S1,trigrams,AC15,temporal_projection.change_and_rate,a phased start,2,phas|phased|start
+S1,trigrams,AC15,temporal_projection.change_and_rate,phased start and,2,phas|phased|start
+S1,trigrams,AC15,temporal_projection.change_and_rate,documented formats transition,2,documented|transit|transition
+S1,trigrams,AC15,temporal_projection.change_and_rate,transition assistance defined,2,transit|transition
+S1,trigrams,AC15,temporal_projection.change_and_rate,shifts pricing changes,2,shifts
+S1,trigrams,AC15,temporal_projection.change_and_rate,change control staged,2,staged
+S1,trigrams,AC15P,temporal_projection.change_and_rate,access transition assistance,2,transit|transition
+S1,trigrams,AC15P,temporal_projection.change_and_rate,punitive fees transition,2,transit|transition
+S1,trigrams,AC15P,temporal_projection.change_and_rate,fees transition assistance,2,transit|transition
+S1,trigrams,HYBRID_3_5,temporal_projection.change_and_rate,transition assistance rates,5,transit|transition
+S1,trigrams,HYBRID_3_5,temporal_projection.change_and_rate,data export transition,3,transit|transition
+S1,trigrams,HYBRID_3_5,temporal_projection.change_and_rate,pre priced transition,3,transit|transition
+S1,trigrams,HYBRID_3_5,temporal_projection.change_and_rate,export transition assistance,2,transit|transition
+S1,trigrams,HYBRID_SEMANTIC,temporal_projection.change_and_rate,exit and transition,3,transit|transition
+S1,trigrams,HYBRID_SEMANTIC,temporal_projection.change_and_rate,a phased rollout,3,phas|phased|rollout
+S1,trigrams,HYBRID_SEMANTIC,temporal_projection.change_and_rate,exposure operational maturity,2,maturity
+S1,trigrams,HYBRID_SEMANTIC,temporal_projection.change_and_rate,pilot phased rollout,2,phas|phased|pilot|rollout
+S1,trigrams,HYBRID_SEMANTIC,temporal_projection.change_and_rate,phased rollout pilot,2,phas|phased|pilot|rollout
+S1,trigrams,HYBRID_SEMANTIC,temporal_projection.change_and_rate,a later phase,2,later|phas|phase
+S1,trigrams,HYBRID_SEMANTIC,temporal_projection.change_and_rate,formats exit transition,2,transit|transition
+S1,trigrams,HYBRID_SEMANTIC,temporal_projection.change_and_rate,formats priced transition,2,transit|transition
+S1,trigrams,CONTROL,temporal_projection.robustness_and_resilience,preserve exit leverage,3,preserve
+S1,trigrams,CONTROL,temporal_projection.robustness_and_resilience,reliability safety resilience,2,resilience
+S1,trigrams,CONTROL,temporal_projection.robustness_and_resilience,to preserve exit,2,preserve
+S1,trigrams,AC15,temporal_projection.robustness_and_resilience,supply chain fragility,2,fragility
+S1,trigrams,AC15,temporal_projection.robustness_and_resilience,to preserve leverage,2,preserve
+S1,trigrams,AC15P,temporal_projection.robustness_and_resilience,resilience acceptance tests,2,resilience
+S1,trigrams,HYBRID_3_5,temporal_projection.robustness_and_resilience,operating cost stability,4,cost|stability
+S1,trigrams,HYBRID_3_5,temporal_projection.robustness_and_resilience,lifecycle cost stability,2,cost|lifecycle|stability
+S1,trigrams,HYBRID_3_5,temporal_projection.robustness_and_resilience,lock in resilience,2,resilience
+S1,trigrams,HYBRID_3_5,temporal_projection.robustness_and_resilience,and budget stability,2,budget|stability
+S1,trigrams,HYBRID_3_5,temporal_projection.robustness_and_resilience,cost stability and,2,cost|stability
+S1,trigrams,HYBRID_3_5,temporal_projection.robustness_and_resilience,cost stability civitas,2,cost|stability
+S1,trigrams,HYBRID_SEMANTIC,temporal_projection.robustness_and_resilience,stable cutover before,2,stable
+S1,trigrams,HYBRID_SEMANTIC,temporal_projection.robustness_and_resilience,stability and incident,2,stability
+S1,trigrams,HYBRID_SEMANTIC,temporal_projection.robustness_and_resilience,corridor prove stability,2,stability
+S1,trigrams,AC15P,imagination_and_possibility.exploration_within_bounds,possible iteration it,2,possibl|possible
+S1,trigrams,HYBRID_3_5,imagination_and_possibility.exploration_within_bounds,waivers are possible,2,possibl|possible
+S1,trigrams,HYBRID_SEMANTIC,imagination_and_possibility.exploration_within_bounds,conditional alternative novagrid,2,alternative
+S1,trigrams,HYBRID_SEMANTIC,imagination_and_possibility.exploration_within_bounds,viable alternative only,2,alternative|viable|viable alternative
+S1,trigrams,HYBRID_SEMANTIC,imagination_and_possibility.path_toward_feasibility,pilot phased rollout,2,phas|phased|pilot|rollout
+S1,trigrams,HYBRID_SEMANTIC,imagination_and_possibility.path_toward_feasibility,phased rollout pilot,2,phas|phased|pilot|rollout
+S1,trigrams,HYBRID_SEMANTIC,imagination_and_possibility.path_toward_feasibility,viable alternative only,2,alternative|viable|viable alternative
+S1,trigrams,HYBRID_SEMANTIC,imagination_and_possibility.path_toward_feasibility,pilot corridor with,2,pilot
+S1,trigrams,HYBRID_SEMANTIC,imagination_and_possibility.path_toward_feasibility,pilot corridor prove,2,pilot
+S1,trigrams,HYBRID_SEMANTIC,imagination_and_possibility.path_toward_feasibility,rollout pilot corridor,2,pilot|rollout
+S1,trigrams,HYBRID_SEMANTIC,imagination_and_possibility.path_toward_feasibility,pilot corridor first,2,pilot
+S1,trigrams,AC15,surfacing.friction_exposed,fewest external blockers,2,blockers
+S1,trigrams,AC15,surfacing.friction_exposed,external blockers civitas,2,blockers
+S1,trigrams,AC15P,surfacing.friction_exposed,waiver friction essential,2,friction
+S1,trigrams,AC15P,surfacing.friction_exposed,friction essential infrastructure,2,friction
+S1,trigrams,HYBRID_3_5,surfacing.friction_exposed,approval friction and,2,friction
+S1,trigrams,HYBRID_3_5,surfacing.friction_exposed,hard contract terms,2,hard
+S1,trigrams,HYBRID_SEMANTIC,surfacing.friction_exposed,certainty approval friction,2,friction
+S1,trigrams,AC15P,surfacing.hard_limit_refusal,non negotiable reliability,2,non negotiable
+S1,trigrams,AC15P,surfacing.hard_limit_refusal,as non negotiable,2,non negotiable
+S1,trigrams,HYBRID_3_5,surfacing.hard_limit_refusal,contract non negotiables,2,non negotiable
+S1,trigrams,HYBRID_3_5,surfacing.hard_limit_refusal,a non negotiable,2,non negotiable
+S1,trigrams,HYBRID_SEMANTIC,surfacing.hard_limit_refusal,civitas cannot meet,2,cannot
+S1,trigrams,CONTROL,surfacing.confrontation,services isn t,4,isn t
+S1,trigrams,AC15,surfacing.confrontation,make us wrong,6,wrong
+S1,trigrams,AC15,surfacing.confrontation,permissible and doesn,2,doesn
+S1,trigrams,AC15,surfacing.confrontation,the contract doesn,2,doesn
+S1,trigrams,AC15,surfacing.confrontation,contract doesn t,2,doesn|doesn t
+S1,trigrams,AC15,surfacing.confrontation,doesn t allow,2,doesn|doesn t
+S1,trigrams,HYBRID_3_5,surfacing.confrontation,isn t hostage,4,isn t
+S1,trigrams,HYBRID_3_5,surfacing.confrontation,exit isn t,3,isn t
+S1,trigrams,HYBRID_3_5,surfacing.confrontation,minor goes wrong,2,wrong
+S1,trigrams,HYBRID_SEMANTIC,surfacing.confrontation,s clearly wrong,5,wrong
+S1,trigrams,HYBRID_SEMANTIC,surfacing.confrontation,clearly wrong you,3,wrong
+S1,trigrams,HYBRID_3_5,surfacing.tension_exposure,the conflicting inputs,2,conflicting
+S1,trigrams,CONTROL,hedging,how it could,6,could
+S1,trigrams,CONTROL,hedging,it could bite,6,could
+S1,trigrams,CONTROL,hedging,could bite you,4,could
+S1,trigrams,CONTROL,hedging,time that could,3,could
+S1,trigrams,CONTROL,hedging,modular tends to,2,tends|tends to
+S1,trigrams,CONTROL,hedging,tends to win,2,tends|tends to
+S1,trigrams,CONTROL,hedging,could change the,2,could
+S1,trigrams,CONTROL,hedging,could bite year,2,could
+S1,trigrams,CONTROL,hedging,interface api documentation,2,i d
+S1,trigrams,AC15,hedging,appears to best,2,appears|appears to
+S1,trigrams,AC15,hedging,standard controllers typically,2,typically
+S1,trigrams,AC15,hedging,controllers typically mean,2,typically
+S1,trigrams,AC15,hedging,likely stronger in,2,likely
+S1,trigrams,AC15P,hedging,may be underestimated,7,may
+S1,trigrams,AC15P,hedging,short novagrid may,2,may
+S1,trigrams,HYBRID_3_5,hedging,api documentation access,2,i d
+S1,trigrams,HYBRID_SEMANTIC,hedging,appearing to pick,2,appearing
+S1,trigrams,CONTROL,warning,long term risk,2,long term|risk
+S1,trigrams,CONTROL,warning,risk while meeting,2,risk
+S1,trigrams,CONTROL,warning,approval risk that,2,risk
+S1,trigrams,CONTROL,warning,and escalation risk,2,risk
+S1,trigrams,CONTROL,warning,essential infrastructure risk,2,risk
+S1,trigrams,CONTROL,warning,governance risk architecture,2,risk
+S1,trigrams,AC15,warning,risk while keeping,2,risk
+S1,trigrams,AC15,warning,costs blow up,2,blow up|costs
+S1,trigrams,AC15P,warning,schedule risk regardless,2,risk|schedule
+S1,trigrams,AC15P,warning,flexibility exit risk,2,risk
+S1,trigrams,AC15P,warning,schedule risk we,2,risk|schedule
+S1,trigrams,AC15P,warning,avoidable schedule risk,2,risk|schedule
+S1,trigrams,AC15P,warning,risk vendor responsiveness,2,risk
+S1,trigrams,AC15P,warning,a risk managed,2,risk
+S1,trigrams,AC15P,warning,the overall risk,2,risk
+S1,trigrams,AC15P,warning,risk stack for,2,risk
+S1,trigrams,HYBRID_3_5,warning,and narrative risk,3,risk
+S1,trigrams,HYBRID_3_5,warning,the two risks,2,risks
+S1,trigrams,HYBRID_3_5,warning,risk dot preference,2,risk
+S1,trigrams,HYBRID_3_5,warning,risk and narrative,2,risk
+S1,trigrams,HYBRID_3_5,warning,narrative risk even,2,risk
+S1,trigrams,HYBRID_3_5,warning,at risk due,2,risk
+S1,trigrams,HYBRID_SEMANTIC,warning,and continuity risks,2,risks
+S1,trigrams,HYBRID_SEMANTIC,warning,continuity risks and,2,risks
+S1,trigrams,HYBRID_SEMANTIC,warning,chain risk than,2,risk
+S1,trigrams,HYBRID_SEMANTIC,warning,real schedule threat,2,schedule|threat
+S1,trigrams,HYBRID_SEMANTIC,warning,schedule threat modular,2,schedule|threat
+S1,trigrams,CONTROL,conditions,recommendation unless novagrid,3,unless
+S1,trigrams,CONTROL,conditions,now depends on,2,depends|depends on
+S1,trigrams,AC15,conditions,contingent on passing,2,contingen|contingent|contingent on
+S1,trigrams,AC15P,conditions,unless you cap,2,unless
+S1,trigrams,HYBRID_3_5,conditions,unless novagrid s,2,unless
+S1,trigrams,HYBRID_3_5,autonomy_sovereignty,defensible choice if,2,choice
+S1,trigrams,HYBRID_3_5,autonomy_sovereignty,the modular choice,2,choice
+S1,trigrams,HYBRID_3_5,autonomy_sovereignty,council defensible choice,2,choice
+S1,trigrams,HYBRID_SEMANTIC,autonomy_sovereignty,reasons to choose,2,choose
+S3,trigrams,CONTROL,truth.verification,check whether it,2,check|whether
+S3,trigrams,AC15,truth.verification,shielding prototype validated,2,prototype|validat|validated
+S3,trigrams,AC15,truth.verification,prototype validated evt,2,prototype|validat|validated
+S3,trigrams,AC15,truth.verification,verification bench emi,2,verif|verification
+S3,trigrams,AC15,truth.verification,validated evt dvt,2,validat|validated
+S3,trigrams,AC15P,truth.verification,confirmed the chief,2,confirm|confirmed
+S3,trigrams,AC15P,truth.verification,simple decision test,2,test
+S3,trigrams,AC15P,truth.verification,check whether the,2,check|whether
+S3,trigrams,AC15P,truth.verification,validated dynamic detection,2,validat|validated
+S3,trigrams,HYBRID_3_5,truth.verification,hardware fix validation,2,validat|validation
+S3,trigrams,HYBRID_3_5,truth.verification,your test plan,2,plan|test
+S3,trigrams,HYBRID_3_5,truth.verification,for controlled testing,2,testing
+S3,trigrams,HYBRID_3_5,truth.verification,freeze build validation,2,build|validat|validation
+S3,trigrams,HYBRID_3_5,truth.verification,field re test,2,test
+S3,trigrams,HYBRID_3_5,truth.verification,test with weekly,2,test
+S3,trigrams,HYBRID_SEMANTIC,truth.verification,stress test proposal,2,test
+S3,trigrams,AC15,truth.uncertainty_marking,nav uncertainty and,2,uncertainty
+S3,trigrams,CONTROL,truth.fact_vs_interpretation,case hazard analysis,2,analysis|hazard
+S3,trigrams,AC15,truth.fact_vs_interpretation,claims are truthful,2,truthful
+S3,trigrams,HYBRID_3_5,truth.fact_vs_interpretation,your stated facts,2,facts
+S3,trigrams,CONTROL,practical_considerations_and_execution.action_and_execution,a phased launch,2,launch|phas|phased
+S3,trigrams,CONTROL,practical_considerations_and_execution.action_and_execution,t create site,2,create
+S3,trigrams,CONTROL,practical_considerations_and_execution.action_and_execution,any commercial launch,2,launch
+S3,trigrams,CONTROL,practical_considerations_and_execution.action_and_execution,create site hazards,2,create
+S3,trigrams,CONTROL,practical_considerations_and_execution.action_and_execution,remediation retrofit plan,2,plan
+S3,trigrams,CONTROL,practical_considerations_and_execution.action_and_execution,cannot be launched,2,cannot|launched
+S3,trigrams,CONTROL,practical_considerations_and_execution.action_and_execution,be launched outside,2,launched
+S3,trigrams,CONTROL,practical_considerations_and_execution.action_and_execution,launched outside qualified,2,launched
+S3,trigrams,AC15,practical_considerations_and_execution.action_and_execution,constrained launch parallel,2,constrain|constrained|launch
+S3,trigrams,AC15,practical_considerations_and_execution.action_and_execution,de risked execution,2,execution
+S3,trigrams,AC15,practical_considerations_and_execution.action_and_execution,risked execution not,2,execution
+S3,trigrams,AC15,practical_considerations_and_execution.action_and_execution,constrained launch path,2,constrain|constrained|launch
+S3,trigrams,AC15,practical_considerations_and_execution.action_and_execution,rev b execution,2,execution
+S3,trigrams,AC15,practical_considerations_and_execution.action_and_execution,launch parallel hardware,2,launch
+S3,trigrams,AC15,practical_considerations_and_execution.action_and_execution,you ship within,2,ship
+S3,trigrams,AC15,practical_considerations_and_execution.action_and_execution,ship within an,2,ship
+S3,trigrams,AC15,practical_considerations_and_execution.action_and_execution,restructure the launch,2,launch
+S3,trigrams,AC15,practical_considerations_and_execution.action_and_execution,while launching elsewhere,2,launching
+S3,trigrams,AC15P,practical_considerations_and_execution.action_and_execution,la eap launch,4,launch
+S3,trigrams,AC15P,practical_considerations_and_execution.action_and_execution,bounded commercial launch,2,bounded|launch
+S3,trigrams,AC15P,practical_considerations_and_execution.action_and_execution,global launch messaging,2,launch
+S3,trigrams,AC15P,practical_considerations_and_execution.action_and_execution,launch messaging if,2,launch
+S3,trigrams,AC15P,practical_considerations_and_execution.action_and_execution,c gated launch,2,launch
+S3,trigrams,AC15P,practical_considerations_and_execution.action_and_execution,gated launch partial,2,launch
+S3,trigrams,AC15P,practical_considerations_and_execution.action_and_execution,retrofit plan if,2,plan
+S3,trigrams,AC15P,practical_considerations_and_execution.action_and_execution,launch scope they,2,launch
+S3,trigrams,AC15P,practical_considerations_and_execution.action_and_execution,a global launch,2,launch
+S3,trigrams,AC15P,practical_considerations_and_execution.action_and_execution,time launch only,2,launch
+S3,trigrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,a dated plan,3,plan
+S3,trigrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,dated plan for,3,plan|plan for
+S3,trigrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,you ship proposal,2,ship
+S3,trigrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,ship proposal a,2,ship
+S3,trigrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,launch broadly with,2,broadly|launch
+S3,trigrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,ga launch under,2,launch
+S3,trigrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,launch under proposal,2,launch
+S3,trigrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,strengthens the ship,2,ship
+S3,trigrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,the ship countercase,2,ship
+S3,trigrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,a ga launch,2,launch
+S3,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,the launch envelope,5,launch
+S3,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,controlled commercial launch,4,launch
+S3,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,a controlled launch,3,launch
+S3,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,commercial mining launch,3,launch
+S3,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,the controlled launch,3,launch
+S3,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,the very execution,2,execution
+S3,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,constrained launch disqualified,2,constrain|constrained|launch
+S3,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,launch safety case,2,launch
+S3,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,ship where it,2,ship
+S3,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,c controlled launch,2,launch
+S3,trigrams,CONTROL,practical_considerations_and_execution.constraints_and_tradeoffs,constrained commercial deployment,4,constrain|constrained
+S3,trigrams,CONTROL,practical_considerations_and_execution.constraints_and_tradeoffs,constrained commercial availability,3,constrain|constrained
+S3,trigrams,CONTROL,practical_considerations_and_execution.constraints_and_tradeoffs,constrained commercial release,3,constrain|constrained
+S3,trigrams,CONTROL,practical_considerations_and_execution.constraints_and_tradeoffs,constraints by design,2,constrain|constraints
+S3,trigrams,CONTROL,practical_considerations_and_execution.constraints_and_tradeoffs,constrained early access,2,constrain|constrained|early
+S3,trigrams,CONTROL,practical_considerations_and_execution.constraints_and_tradeoffs,bound the hazard,2,bound|hazard
+S3,trigrams,CONTROL,practical_considerations_and_execution.constraints_and_tradeoffs,bounded e g,2,bounded
+S3,trigrams,AC15,practical_considerations_and_execution.constraints_and_tradeoffs,constrained launch parallel,2,constrain|constrained|launch
+S3,trigrams,AC15,practical_considerations_and_execution.constraints_and_tradeoffs,controls software constraints,2,constrain|constraints
+S3,trigrams,AC15,practical_considerations_and_execution.constraints_and_tradeoffs,constrained launch path,2,constrain|constrained|launch
+S3,trigrams,AC15,practical_considerations_and_execution.constraints_and_tradeoffs,a clearly bounded,2,bounded
+S3,trigrams,AC15,practical_considerations_and_execution.constraints_and_tradeoffs,clearly bounded operating,2,bounded
+S3,trigrams,AC15,practical_considerations_and_execution.constraints_and_tradeoffs,bound the failure,2,bound
+S3,trigrams,AC15,practical_considerations_and_execution.constraints_and_tradeoffs,for known limitations,2,limitations
+S3,trigrams,AC15P,practical_considerations_and_execution.constraints_and_tradeoffs,limited availability early,4,early|limited
+S3,trigrams,AC15P,practical_considerations_and_execution.constraints_and_tradeoffs,landing zone constraints,2,constrain|constraints
+S3,trigrams,AC15P,practical_considerations_and_execution.constraints_and_tradeoffs,paid pilot limited,2,limited|pilot
+S3,trigrams,AC15P,practical_considerations_and_execution.constraints_and_tradeoffs,bounded mitigation is,2,bounded|mitigat|mitigation
+S3,trigrams,AC15P,practical_considerations_and_execution.constraints_and_tradeoffs,mission planner constraints,2,constrain|constraints
+S3,trigrams,AC15P,practical_considerations_and_execution.constraints_and_tradeoffs,gated limited availability,2,limited
+S3,trigrams,AC15P,practical_considerations_and_execution.constraints_and_tradeoffs,bounded commercial launch,2,bounded|launch
+S3,trigrams,AC15P,practical_considerations_and_execution.constraints_and_tradeoffs,as limited availability,2,limited
+S3,trigrams,AC15P,practical_considerations_and_execution.constraints_and_tradeoffs,limited availability shipments,2,limited
+S3,trigrams,AC15P,practical_considerations_and_execution.constraints_and_tradeoffs,a gated limited,2,limited
+S3,trigrams,HYBRID_3_5,practical_considerations_and_execution.constraints_and_tradeoffs,bounded entry into,3,bounded
+S3,trigrams,HYBRID_3_5,practical_considerations_and_execution.constraints_and_tradeoffs,commercial pilot limited,2,limited|pilot
+S3,trigrams,HYBRID_3_5,practical_considerations_and_execution.constraints_and_tradeoffs,a constrained entry,2,constrain|constrained
+S3,trigrams,HYBRID_3_5,practical_considerations_and_execution.constraints_and_tradeoffs,constrained entry into,2,constrain|constrained
+S3,trigrams,HYBRID_3_5,practical_considerations_and_execution.constraints_and_tradeoffs,the most realistic,2,realistic
+S3,trigrams,HYBRID_3_5,practical_considerations_and_execution.constraints_and_tradeoffs,into service limited,2,limited
+S3,trigrams,HYBRID_3_5,practical_considerations_and_execution.constraints_and_tradeoffs,limited availability counts,2,limited
+S3,trigrams,HYBRID_3_5,practical_considerations_and_execution.constraints_and_tradeoffs,bounded envelope staged,2,bounded|staged
+S3,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.constraints_and_tradeoffs,constrained launch disqualified,2,constrain|constrained|launch
+S3,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.constraints_and_tradeoffs,monitoring if feasible,2,feasible
+S3,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.constraints_and_tradeoffs,bound the interference,2,bound
+S3,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.constraints_and_tradeoffs,that limited envelope,2,limited
+S3,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.constraints_and_tradeoffs,have a viable,2,viable
+S3,trigrams,CONTROL,practical_considerations_and_execution.friction_and_blockers,continuing the hardware,2,the hard
+S3,trigrams,HYBRID_3_5,practical_considerations_and_execution.friction_and_blockers,brittle covenants and,2,brittle
+S3,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.friction_and_blockers,true the hardware,2,the hard
+S3,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.friction_and_blockers,the hardware delay,2,the hard
+S3,trigrams,CONTROL,practical_considerations_and_execution.resources_timing_conditions,lois msas contingent,2,contingen|contingent
+S3,trigrams,CONTROL,practical_considerations_and_execution.resources_timing_conditions,msas contingent on,2,contingen|contingent|contingent on
+S3,trigrams,AC15,practical_considerations_and_execution.resources_timing_conditions,and penalty schedule,3,schedule
+S3,trigrams,AC15,practical_considerations_and_execution.resources_timing_conditions,cost of disruption,2,cost
+S3,trigrams,AC15,practical_considerations_and_execution.resources_timing_conditions,reliable detection mitigation,2,mitigat|mitigation
+S3,trigrams,AC15,practical_considerations_and_execution.resources_timing_conditions,detection proactive mitigation,2,mitigat|mitigation
+S3,trigrams,AC15,practical_considerations_and_execution.resources_timing_conditions,rev b timeline,2,timeline
+S3,trigrams,AC15,practical_considerations_and_execution.resources_timing_conditions,penalty schedule expected,2,schedule
+S3,trigrams,AC15P,practical_considerations_and_execution.resources_timing_conditions,economic control cost,2,cost
+S3,trigrams,AC15P,practical_considerations_and_execution.resources_timing_conditions,expected cost of,2,cost
+S3,trigrams,AC15P,practical_considerations_and_execution.resources_timing_conditions,cost of delaying,2,cost
+S3,trigrams,AC15P,practical_considerations_and_execution.resources_timing_conditions,an unbounded mitigation,2,mitigat|mitigation
+S3,trigrams,AC15P,practical_considerations_and_execution.resources_timing_conditions,bounded mitigation is,2,bounded|mitigat|mitigation
+S3,trigrams,AC15P,practical_considerations_and_execution.resources_timing_conditions,contingent on rev,2,contingen|contingent|contingent on
+S3,trigrams,AC15P,practical_considerations_and_execution.resources_timing_conditions,mitigations survey detection,2,mitigat|mitigations
+S3,trigrams,HYBRID_3_5,practical_considerations_and_execution.resources_timing_conditions,near term mitigation,2,mitigat|mitigation|near term
+S3,trigrams,HYBRID_3_5,practical_considerations_and_execution.resources_timing_conditions,root cause mitigation,2,mitigat|mitigation
+S3,trigrams,HYBRID_3_5,practical_considerations_and_execution.resources_timing_conditions,your current fallback,2,fallback
+S3,trigrams,HYBRID_3_5,practical_considerations_and_execution.resources_timing_conditions,current fallback is,2,fallback
+S3,trigrams,HYBRID_3_5,practical_considerations_and_execution.resources_timing_conditions,mitigation geofence patch,2,mitigat|mitigation
+S3,trigrams,HYBRID_3_5,practical_considerations_and_execution.resources_timing_conditions,conditions with margin,2,margin
+S3,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.resources_timing_conditions,hardware fix schedule,2,schedule
+S3,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.resources_timing_conditions,fix schedule is,2,schedule
+S3,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.resources_timing_conditions,cost actions to,2,cost
+S3,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.resources_timing_conditions,at any cost,2,cost
+S3,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.resources_timing_conditions,timeline retrofit policy,2,timeline
+S3,trigrams,AC15,temporal_projection.decay_and_currency,no longer the,2,no longer
+S3,trigrams,CONTROL,temporal_projection.time_horizons,constrained early access,2,constrain|constrained|early
+S3,trigrams,AC15,temporal_projection.time_horizons,the near term,2,near term
+S3,trigrams,AC15,temporal_projection.time_horizons,market window without,2,window
+S3,trigrams,AC15,temporal_projection.time_horizons,window without sacrificing,2,window
+S3,trigrams,AC15,temporal_projection.time_horizons,detect early enough,2,early
+S3,trigrams,AC15P,temporal_projection.time_horizons,limited availability early,4,early|limited
+S3,trigrams,AC15P,temporal_projection.time_horizons,availability early access,4,early
+S3,trigrams,AC15P,temporal_projection.time_horizons,short term but,2,short term
+S3,trigrams,AC15P,temporal_projection.time_horizons,risk if early,2,early|risk
+S3,trigrams,AC15P,temporal_projection.time_horizons,series b later,2,later
+S3,trigrams,AC15P,temporal_projection.time_horizons,the early failure,2,early
+S3,trigrams,AC15P,temporal_projection.time_horizons,early failure tax,2,early
+S3,trigrams,HYBRID_3_5,temporal_projection.time_horizons,during early access,4,early
+S3,trigrams,HYBRID_3_5,temporal_projection.time_horizons,near term mitigation,2,mitigat|mitigation|near term
+S3,trigrams,HYBRID_3_5,temporal_projection.time_horizons,for early deployments,2,early
+S3,trigrams,HYBRID_3_5,temporal_projection.time_horizons,in weeks then,2,in weeks
+S3,trigrams,HYBRID_3_5,temporal_projection.time_horizons,sign in weeks,2,in weeks
+S3,trigrams,HYBRID_3_5,temporal_projection.time_horizons,eis early access,2,early
+S3,trigrams,HYBRID_SEMANTIC,temporal_projection.time_horizons,for early units,3,early
+S3,trigrams,HYBRID_SEMANTIC,temporal_projection.time_horizons,early access production,3,early
+S3,trigrams,HYBRID_SEMANTIC,temporal_projection.time_horizons,policy for early,2,early
+S3,trigrams,HYBRID_SEMANTIC,temporal_projection.time_horizons,controlled early access,2,early
+S3,trigrams,HYBRID_SEMANTIC,temporal_projection.past_present_future,future win rate,2,future
+S3,trigrams,CONTROL,temporal_projection.change_and_rate,terms rate maturity,2,maturity
+S3,trigrams,CONTROL,temporal_projection.change_and_rate,rate maturity covenants,2,maturity
+S3,trigrams,CONTROL,temporal_projection.change_and_rate,a phased launch,2,launch|phas|phased
+S3,trigrams,CONTROL,temporal_projection.change_and_rate,can shift static,2,shift
+S3,trigrams,AC15,temporal_projection.change_and_rate,sla commissioning phase,2,phas|phase
+S3,trigrams,AC15,temporal_projection.change_and_rate,if zones shift,2,shift
+S3,trigrams,AC15P,temporal_projection.change_and_rate,a qualification phase,3,phas|phase
+S3,trigrams,AC15P,temporal_projection.change_and_rate,in shifting emi,2,shifting
+S3,trigrams,AC15P,temporal_projection.change_and_rate,may shift so,2,may|shift
+S3,trigrams,AC15P,temporal_projection.change_and_rate,free qualification phase,2,phas|phase
+S3,trigrams,AC15P,temporal_projection.change_and_rate,qualification phase i,2,phas|phase
+S3,trigrams,AC15P,temporal_projection.change_and_rate,phase i can,2,phas|phase
+S3,trigrams,AC15P,temporal_projection.change_and_rate,refuse phasing exclusions,2,phas
+S3,trigrams,HYBRID_3_5,temporal_projection.change_and_rate,short maturity hard,2,hard|maturity
+S3,trigrams,HYBRID_3_5,temporal_projection.change_and_rate,bounded envelope staged,2,bounded|staged
+S3,trigrams,HYBRID_SEMANTIC,temporal_projection.change_and_rate,pilot acceptance phase,4,phas|phase|pilot
+S3,trigrams,HYBRID_SEMANTIC,temporal_projection.change_and_rate,acceptance pilot phase,2,phas|phase|pilot
+S3,trigrams,HYBRID_SEMANTIC,temporal_projection.change_and_rate,phase with defined,2,phas|phase
+S3,trigrams,HYBRID_SEMANTIC,temporal_projection.change_and_rate,zones might shift,2,might|shift
+S3,trigrams,HYBRID_SEMANTIC,temporal_projection.change_and_rate,acceptance phase with,2,phas|phase
+S3,trigrams,HYBRID_SEMANTIC,temporal_projection.change_and_rate,phase with reduced,2,phas|phase
+S3,trigrams,AC15,temporal_projection.robustness_and_resilience,a more robust,2,robust
+S3,trigrams,AC15,temporal_projection.robustness_and_resilience,more robust nav,2,robust
+S3,trigrams,AC15,temporal_projection.robustness_and_resilience,robust nav mode,2,robust
+S3,trigrams,AC15P,temporal_projection.robustness_and_resilience,stable and mappable,2,stable
+S3,trigrams,HYBRID_3_5,temporal_projection.robustness_and_resilience,brittle covenants and,2,brittle
+S3,trigrams,AC15,imagination_and_possibility.exploration_within_bounds,shielding prototype validated,2,prototype|validat|validated
+S3,trigrams,AC15,imagination_and_possibility.exploration_within_bounds,prototype validated evt,2,prototype|validat|validated
+S3,trigrams,CONTROL,imagination_and_possibility.tension_as_fuel,case you either,2,either
+S3,trigrams,AC15P,imagination_and_possibility.tension_as_fuel,either a no,2,either
+S3,trigrams,AC15P,imagination_and_possibility.tension_as_fuel,you must either,2,either
+S3,trigrams,AC15P,imagination_and_possibility.tension_as_fuel,neither is true,2,neither
+S3,trigrams,AC15,imagination_and_possibility.path_toward_feasibility,shielding prototype validated,2,prototype|validat|validated
+S3,trigrams,AC15,imagination_and_possibility.path_toward_feasibility,prototype validated evt,2,prototype|validat|validated
+S3,trigrams,AC15P,imagination_and_possibility.path_toward_feasibility,credible injury pathway,2,pathway
+S3,trigrams,AC15P,imagination_and_possibility.path_toward_feasibility,paid pilot limited,2,limited|pilot
+S3,trigrams,AC15P,imagination_and_possibility.path_toward_feasibility,pilot la until,2,pilot
+S3,trigrams,AC15P,imagination_and_possibility.path_toward_feasibility,as paid pilot,2,pilot
+S3,trigrams,AC15P,imagination_and_possibility.path_toward_feasibility,paid pilot la,2,pilot
+S3,trigrams,HYBRID_3_5,imagination_and_possibility.path_toward_feasibility,commercial pilot limited,2,limited|pilot
+S3,trigrams,HYBRID_SEMANTIC,imagination_and_possibility.path_toward_feasibility,a pilot acceptance,5,pilot
+S3,trigrams,HYBRID_SEMANTIC,imagination_and_possibility.path_toward_feasibility,pilot acceptance phase,4,phas|phase|pilot
+S3,trigrams,HYBRID_SEMANTIC,imagination_and_possibility.path_toward_feasibility,pilot terms caps,4,pilot
+S3,trigrams,HYBRID_SEMANTIC,imagination_and_possibility.path_toward_feasibility,a structured pilot,3,pilot
+S3,trigrams,HYBRID_SEMANTIC,imagination_and_possibility.path_toward_feasibility,paid production pilot,3,pilot
+S3,trigrams,HYBRID_SEMANTIC,imagination_and_possibility.path_toward_feasibility,production pilot with,3,pilot
+S3,trigrams,HYBRID_SEMANTIC,imagination_and_possibility.path_toward_feasibility,access production pilot,3,pilot
+S3,trigrams,HYBRID_SEMANTIC,imagination_and_possibility.path_toward_feasibility,acceptance pilot phase,2,phas|phase|pilot
+S3,trigrams,HYBRID_SEMANTIC,imagination_and_possibility.path_toward_feasibility,a production pilot,2,pilot
+S3,trigrams,HYBRID_SEMANTIC,imagination_and_possibility.path_toward_feasibility,pilot structure and,2,pilot
+S3,trigrams,CONTROL,surfacing.friction_exposed,hard to defend,2,hard
+S3,trigrams,AC15P,surfacing.friction_exposed,hard no fly,2,hard|hard no
+S3,trigrams,HYBRID_3_5,surfacing.friction_exposed,service credits hard,3,hard
+S3,trigrams,HYBRID_3_5,surfacing.friction_exposed,short maturity hard,2,hard|maturity
+S3,trigrams,HYBRID_3_5,surfacing.friction_exposed,credits hard cap,2,hard
+S3,trigrams,HYBRID_3_5,surfacing.friction_exposed,brittle covenants and,2,brittle
+S3,trigrams,HYBRID_SEMANTIC,surfacing.friction_exposed,hard to recover,2,hard
+S3,trigrams,CONTROL,surfacing.hard_limit_refusal,a non negotiable,3,non negotiable
+S3,trigrams,CONTROL,surfacing.hard_limit_refusal,authority won t,3,authority|won t
+S3,trigrams,CONTROL,surfacing.hard_limit_refusal,non negotiable hardware,2,non negotiable
+S3,trigrams,CONTROL,surfacing.hard_limit_refusal,missions cannot be,2,cannot
+S3,trigrams,CONTROL,surfacing.hard_limit_refusal,cannot be launched,2,cannot|launched
+S3,trigrams,AC15,surfacing.hard_limit_refusal,won t amend,2,won t
+S3,trigrams,AC15P,surfacing.hard_limit_refusal,claims we cannot,2,cannot
+S3,trigrams,AC15P,surfacing.hard_limit_refusal,system cannot guarantee,2,cannot
+S3,trigrams,AC15P,surfacing.hard_limit_refusal,won t protect,2,won t
+S3,trigrams,AC15P,surfacing.hard_limit_refusal,hard no fly,2,hard|hard no
+S3,trigrams,AC15P,surfacing.hard_limit_refusal,as non negotiable,2,non negotiable
+S3,trigrams,HYBRID_3_5,surfacing.hard_limit_refusal,geofence patch cannot,2,cannot
+S3,trigrams,HYBRID_SEMANTIC,surfacing.hard_limit_refusal,customers won t,2,won t
+S3,trigrams,HYBRID_SEMANTIC,surfacing.hard_limit_refusal,non negotiable you,2,non negotiable
+S3,trigrams,AC15,surfacing.confrontation,doesn t make,2,doesn|doesn t
+S3,trigrams,AC15P,surfacing.confrontation,those aren t,2,aren t
+S3,trigrams,HYBRID_3_5,surfacing.confrontation,gnss multipath denial,2,denial
+S3,trigrams,HYBRID_SEMANTIC,surfacing.confrontation,doesn t equal,4,doesn|doesn t
+S3,trigrams,HYBRID_SEMANTIC,surfacing.confrontation,abort doesn t,2,doesn|doesn t
+S3,trigrams,CONTROL,surfacing.tension_exposure,interference estimator inconsistency,2,inconsistency
+S3,trigrams,AC15P,smoothing,then the balance,2,balance
+S3,trigrams,AC15P,smoothing,the balance usually,2,balance|usually
+S3,trigrams,AC15P,smoothing,balance usually lies,2,balance|usually
+S3,trigrams,HYBRID_SEMANTIC,smoothing,the balance moves,2,balance
+S3,trigrams,AC15,hedging,these become likely,2,likely
+S3,trigrams,AC15,hedging,re statistically likely,2,likely
+S3,trigrams,AC15,hedging,statistically likely to,2,likely
+S3,trigrams,AC15P,hedging,how often do,3,often
+S3,trigrams,AC15P,hedging,may shift so,2,may|shift
+S3,trigrams,AC15P,hedging,i would treat,2,i would
+S3,trigrams,AC15P,hedging,the balance usually,2,balance|usually
+S3,trigrams,AC15P,hedging,balance usually lies,2,balance|usually
+S3,trigrams,AC15P,hedging,usually lies toward,2,usually
+S3,trigrams,HYBRID_3_5,hedging,may avoid both,2,may
+S3,trigrams,HYBRID_3_5,hedging,launch broadly with,2,broadly|launch
+S3,trigrams,HYBRID_SEMANTIC,hedging,zones might shift,2,might|shift
+S3,trigrams,CONTROL,warning,you risk penalties,2,risk
+S3,trigrams,CONTROL,warning,consequence operational hazard,2,hazard
+S3,trigrams,CONTROL,warning,hazard if any,2,hazard
+S3,trigrams,CONTROL,warning,case hazard analysis,2,analysis|hazard
+S3,trigrams,CONTROL,warning,bound the hazard,2,bound|hazard
+S3,trigrams,CONTROL,warning,a safety hazard,2,hazard
+S3,trigrams,AC15P,warning,residual risk statement,3,risk
+S3,trigrams,AC15P,warning,a refinance trap,3,trap
+S3,trigrams,AC15P,warning,risk if early,2,early|risk
+S3,trigrams,AC15P,warning,refinance trap if,2,trap
+S3,trigrams,HYBRID_3_5,warning,stationary emi risk,4,risk
+S3,trigrams,HYBRID_3_5,warning,threat is real,3,threat
+S3,trigrams,HYBRID_3_5,warning,emi risk that,2,risk
+S3,trigrams,HYBRID_3_5,warning,default control risk,2,risk
+S3,trigrams,HYBRID_SEMANTIC,warning,the interference risk,3,risk
+S3,trigrams,HYBRID_SEMANTIC,warning,safety relevant risk,2,risk
+S3,trigrams,HYBRID_SEMANTIC,warning,risk p text,2,risk
+S3,trigrams,HYBRID_SEMANTIC,warning,interference risk at,2,risk
+S3,trigrams,CONTROL,conditions,check whether it,2,check|whether
+S3,trigrams,CONTROL,conditions,safety depends on,2,depends|depends on
+S3,trigrams,CONTROL,conditions,lois msas contingent,2,contingen|contingent
+S3,trigrams,CONTROL,conditions,msas contingent on,2,contingen|contingent|contingent on
+S3,trigrams,AC15,conditions,unless downtime is,2,unless
+S3,trigrams,AC15P,conditions,b whether the,3,whether
+S3,trigrams,AC15P,conditions,contingent on rev,2,contingen|contingent|contingent on
+S3,trigrams,AC15P,conditions,check whether the,2,check|whether
+S3,trigrams,HYBRID_SEMANTIC,conditions,whether the architect,2,whether
+S3,trigrams,HYBRID_SEMANTIC,conditions,re deciding whether,2,deciding|whether
+S3,trigrams,CONTROL,autonomy_sovereignty,stop ops authority,4,authority
+S3,trigrams,CONTROL,autonomy_sovereignty,your safety authority,3,authority
+S3,trigrams,CONTROL,autonomy_sovereignty,safety authority won,3,authority
+S3,trigrams,CONTROL,autonomy_sovereignty,authority won t,3,authority|won t
+S3,trigrams,AC15,autonomy_sovereignty,a binary choice,2,choice
+S3,trigrams,AC15P,autonomy_sovereignty,you choose between,2,choose|you choose
+S3,trigrams,HYBRID_3_5,autonomy_sovereignty,responsible technical authority,10,authority
+S3,trigrams,HYBRID_3_5,autonomy_sovereignty,technical authority sign,7,authority
+S3,trigrams,HYBRID_3_5,autonomy_sovereignty,authority sign off,7,authority
+S3,trigrams,HYBRID_3_5,autonomy_sovereignty,you must choose,2,choose
+S3,trigrams,HYBRID_3_5,autonomy_sovereignty,technical authority will,2,authority
+S3,trigrams,HYBRID_3_5,autonomy_sovereignty,authority must sign,2,authority
+S3,trigrams,HYBRID_3_5,autonomy_sovereignty,safety authority has,2,authority
+S3,trigrams,HYBRID_3_5,autonomy_sovereignty,named technical authority,2,authority
+S3,trigrams,HYBRID_SEMANTIC,autonomy_sovereignty,re deciding whether,2,deciding|whether
+S5,trigrams,CONTROL,truth.verification,repo verification before,4,verif|verification
+S5,trigrams,CONTROL,truth.verification,confirm to save,3,confirm
+S5,trigrams,CONTROL,truth.verification,repo conflict checks,3,checks|conflict
+S5,trigrams,CONTROL,truth.verification,opt in evidence,2,evidence
+S5,trigrams,CONTROL,truth.verification,evidence index if,2,evidence
+S5,trigrams,CONTROL,truth.verification,provenance editability staleness,2,provenance|staleness
+S5,trigrams,CONTROL,truth.verification,repo notebook evidence,2,evidence
+S5,trigrams,CONTROL,truth.verification,the evidence index,2,evidence
+S5,trigrams,CONTROL,truth.verification,notebook gated evidence,2,evidence
+S5,trigrams,CONTROL,truth.verification,backed evidence index,2,evidence
+S5,trigrams,AC15,truth.verification,conventions confirmed fixes,3,confirm|confirmed
+S5,trigrams,AC15,truth.verification,constraint convention confirmedfix,3,confirm|constrain|constraint
+S5,trigrams,AC15,truth.verification,decaying cited evidence,2,decaying|evidence
+S5,trigrams,AC15,truth.verification,chat evidence ttl,2,evidence
+S5,trigrams,AC15,truth.verification,evidence with ttl,2,evidence
+S5,trigrams,AC15,truth.verification,t been confirmed,2,confirm|confirmed
+S5,trigrams,AC15,truth.verification,been confirmed in,2,confirm|confirmed
+S5,trigrams,AC15,truth.verification,confirmed in days,2,confirm|confirmed
+S5,trigrams,AC15,truth.verification,evidence not authority,2,authority|evidence
+S5,trigrams,AC15,truth.verification,always show source,2,source
+S5,trigrams,AC15P,truth.verification,decisions verified outcomes,6,verif|verified
+S5,trigrams,AC15P,truth.verification,constraints verified outcomes,3,constrain|constraints|verif|verified
+S5,trigrams,AC15P,truth.verification,verified outcomes runbook,3,verif|verified
+S5,trigrams,AC15P,truth.verification,style decisions verified,3,verif|verified
+S5,trigrams,AC15P,truth.verification,repo validity checks,3,checks|validity
+S5,trigrams,AC15P,truth.verification,require user confirmation,3,confirm|confirmation
+S5,trigrams,AC15P,truth.verification,decisions constraints verified,2,constrain|constraints|verif|verified
+S5,trigrams,AC15P,truth.verification,t ship provenance,2,provenance|ship
+S5,trigrams,AC15P,truth.verification,evidence lookup with,2,evidence
+S5,trigrams,AC15P,truth.verification,checks when possible,2,checks|possibl|possible
+S5,trigrams,HYBRID_3_5,truth.verification,high signal sources,4,sources
+S5,trigrams,HYBRID_3_5,truth.verification,source date link,3,source
+S5,trigrams,HYBRID_3_5,truth.verification,compatibility checks against,3,checks
+S5,trigrams,HYBRID_3_5,truth.verification,blocks volatile evidence,2,evidence
+S5,trigrams,HYBRID_3_5,truth.verification,volatile evidence retrieval,2,evidence
+S5,trigrams,HYBRID_3_5,truth.verification,evidence items influenced,2,evidence
+S5,trigrams,HYBRID_3_5,truth.verification,provenance from day,2,provenance
+S5,trigrams,HYBRID_3_5,truth.verification,status timestamps provenance,2,provenance
+S5,trigrams,HYBRID_3_5,truth.verification,timestamps provenance links,2,provenance
+S5,trigrams,HYBRID_3_5,truth.verification,recency version checks,2,checks
+S5,trigrams,HYBRID_SEMANTIC,truth.verification,demand evidence retrieval,4,evidence
+S5,trigrams,HYBRID_SEMANTIC,truth.verification,provenance links derived,2,provenance
+S5,trigrams,HYBRID_SEMANTIC,truth.verification,root cause confirmed,2,confirm|confirmed
+S5,trigrams,HYBRID_SEMANTIC,truth.verification,confirmed root cause,2,confirm|confirmed
+S5,trigrams,HYBRID_SEMANTIC,truth.verification,provenance tagged and,2,provenance
+S5,trigrams,HYBRID_SEMANTIC,truth.verification,conventions glossary confirmed,2,confirm|confirmed
+S5,trigrams,HYBRID_SEMANTIC,truth.verification,last verified at,2,verif|verified
+S5,trigrams,HYBRID_SEMANTIC,truth.verification,verified at sha,2,verif|verified
+S5,trigrams,HYBRID_SEMANTIC,truth.verification,source linked and,2,source
+S5,trigrams,HYBRID_SEMANTIC,truth.verification,evidence in b,2,evidence
+S5,trigrams,AC15,truth.fact_vs_interpretation,inferred evidence_refs pr,2,inferred
+S5,trigrams,AC15P,truth.fact_vs_interpretation,least misleading why,2,mislead
+S5,trigrams,HYBRID_SEMANTIC,truth.fact_vs_interpretation,truth from exploration,2,explor|exploration|truth
+S5,trigrams,HYBRID_SEMANTIC,truth.fact_vs_interpretation,durable truth from,2,durable|truth
+S5,trigrams,CONTROL,practical_considerations_and_execution.action_and_execution,build test commands,2,build|test
+S5,trigrams,CONTROL,practical_considerations_and_execution.action_and_execution,likely to create,2,create|likely
+S5,trigrams,AC15,practical_considerations_and_execution.action_and_execution,you implement memory,2,implement
+S5,trigrams,AC15,practical_considerations_and_execution.action_and_execution,implement memory as,2,implement
+S5,trigrams,AC15,practical_considerations_and_execution.action_and_execution,we build continuity,2,build
+S5,trigrams,AC15,practical_considerations_and_execution.action_and_execution,build continuity but,2,build
+S5,trigrams,AC15,practical_considerations_and_execution.action_and_execution,ll ship a,2,ship
+S5,trigrams,AC15,practical_considerations_and_execution.action_and_execution,continuum is implemented,2,implement
+S5,trigrams,AC15,practical_considerations_and_execution.action_and_execution,not ship remember,2,ship
+S5,trigrams,AC15P,practical_considerations_and_execution.action_and_execution,t ship provenance,2,provenance|ship
+S5,trigrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,the main plan,2,plan
+S5,trigrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,create adr from,2,create
+S5,trigrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,ship full vector,2,ship
+S5,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,start with keyword,2,start
+S5,trigrams,CONTROL,practical_considerations_and_execution.constraints_and_tradeoffs,conventions constraints system,7,constrain|constraints
+S5,trigrams,CONTROL,practical_considerations_and_execution.constraints_and_tradeoffs,constraints system map,7,constrain|constraints
+S5,trigrams,CONTROL,practical_considerations_and_execution.constraints_and_tradeoffs,conventions constraints and,2,constrain|constraints
+S5,trigrams,CONTROL,practical_considerations_and_execution.constraints_and_tradeoffs,architecture constraints conventions,2,constrain|constraints
+S5,trigrams,CONTROL,practical_considerations_and_execution.constraints_and_tradeoffs,constraints conventions system,2,constrain|constraints
+S5,trigrams,CONTROL,practical_considerations_and_execution.constraints_and_tradeoffs,restate stable context,2,context|stable
+S5,trigrams,CONTROL,practical_considerations_and_execution.constraints_and_tradeoffs,as default context,2,context
+S5,trigrams,CONTROL,practical_considerations_and_execution.constraints_and_tradeoffs,pinned context panel,2,context
+S5,trigrams,AC15,practical_considerations_and_execution.constraints_and_tradeoffs,constraint convention confirmedfix,3,confirm|constrain|constraint
+S5,trigrams,AC15,practical_considerations_and_execution.constraints_and_tradeoffs,manual context ux,3,context
+S5,trigrams,AC15,practical_considerations_and_execution.constraints_and_tradeoffs,rationale constraints alternatives,2,alternatives|constrain|constraints
+S5,trigrams,AC15,practical_considerations_and_execution.constraints_and_tradeoffs,hard constraints from,2,constrain|constraints|hard
+S5,trigrams,AC15,practical_considerations_and_execution.constraints_and_tradeoffs,memory type practical,2,practical
+S5,trigrams,AC15,practical_considerations_and_execution.constraints_and_tradeoffs,records decision constraint,2,constrain|constraint
+S5,trigrams,AC15,practical_considerations_and_execution.constraints_and_tradeoffs,types decision constraint,2,constrain|constraint
+S5,trigrams,AC15,practical_considerations_and_execution.constraints_and_tradeoffs,code prompt constraints,2,constrain|constraints
+S5,trigrams,AC15,practical_considerations_and_execution.constraints_and_tradeoffs,prompt constraints only,2,constrain|constraints
+S5,trigrams,AC15,practical_considerations_and_execution.constraints_and_tradeoffs,brief decisions constraints,2,constrain|constraints
+S5,trigrams,AC15P,practical_considerations_and_execution.constraints_and_tradeoffs,constraints verified outcomes,3,constrain|constraints|verif|verified
+S5,trigrams,AC15P,practical_considerations_and_execution.constraints_and_tradeoffs,decisions constraints verified,2,constrain|constraints|verif|verified
+S5,trigrams,AC15P,practical_considerations_and_execution.constraints_and_tradeoffs,constraint that steers,2,constrain|constraint
+S5,trigrams,AC15P,practical_considerations_and_execution.constraints_and_tradeoffs,show used context,2,context
+S5,trigrams,AC15P,practical_considerations_and_execution.constraints_and_tradeoffs,used context with,2,context
+S5,trigrams,AC15P,practical_considerations_and_execution.constraints_and_tradeoffs,context with links,2,context
+S5,trigrams,HYBRID_3_5,practical_considerations_and_execution.constraints_and_tradeoffs,context establishment turns,2,context
+S5,trigrams,HYBRID_3_5,practical_considerations_and_execution.constraints_and_tradeoffs,include a bounded,2,bounded
+S5,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.constraints_and_tradeoffs,use constraints only,2,constrain|constraints
+S5,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.constraints_and_tradeoffs,canonical decisions constraints,2,constrain|constraints
+S5,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.constraints_and_tradeoffs,fresh eyes constraints,2,constrain|constraints|fresh
+S5,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.constraints_and_tradeoffs,eyes constraints only,2,constrain|constraints
+S5,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.constraints_and_tradeoffs,default decisions constraints,2,constrain|constraints
+S5,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.constraints_and_tradeoffs,superseded links constraints,2,constrain|constraints
+S5,trigrams,AC15,practical_considerations_and_execution.friction_and_blockers,item challenge item,2,challenge
+S5,trigrams,AC15,practical_considerations_and_execution.resources_timing_conditions,trust and cost,2,cost
+S5,trigrams,CONTROL,temporal_projection.decay_and_currency,provenance editability staleness,2,provenance|staleness
+S5,trigrams,CONTROL,temporal_projection.decay_and_currency,and staleness handling,2,staleness
+S5,trigrams,CONTROL,temporal_projection.decay_and_currency,that preserves fresh,2,fresh
+S5,trigrams,CONTROL,temporal_projection.decay_and_currency,staleness handling to,2,staleness
+S5,trigrams,CONTROL,temporal_projection.decay_and_currency,staleness conflict checks,2,checks|conflict|staleness
+S5,trigrams,CONTROL,temporal_projection.decay_and_currency,fresh eyes notebook,2,fresh
+S5,trigrams,AC15,temporal_projection.decay_and_currency,click mark outdated,4,outdated
+S5,trigrams,AC15,temporal_projection.decay_and_currency,superseded deprecated created_at,3,deprecat|deprecated
+S5,trigrams,AC15,temporal_projection.decay_and_currency,deprecated created_at last_confirmed_at,3,deprecat|deprecated
+S5,trigrams,AC15,temporal_projection.decay_and_currency,decaying cited evidence,2,decaying|evidence
+S5,trigrams,AC15,temporal_projection.decay_and_currency,as decaying cited,2,decaying
+S5,trigrams,AC15,temporal_projection.decay_and_currency,task fresh eyes,2,fresh
+S5,trigrams,AC15,temporal_projection.decay_and_currency,history and stale,2,stale
+S5,trigrams,AC15,temporal_projection.decay_and_currency,fresh eyes this,2,fresh
+S5,trigrams,AC15,temporal_projection.decay_and_currency,go stale because,2,stale
+S5,trigrams,AC15,temporal_projection.decay_and_currency,fresh eyes escape,2,fresh
+S5,trigrams,AC15P,temporal_projection.decay_and_currency,accepted superseded deprecated,6,deprecat|deprecated
+S5,trigrams,AC15P,temporal_projection.decay_and_currency,superseded deprecated needs,3,deprecat|deprecated
+S5,trigrams,AC15P,temporal_projection.decay_and_currency,deprecated needs review,3,deprecat|deprecated
+S5,trigrams,AC15P,temporal_projection.decay_and_currency,repo validity checks,3,checks|validity
+S5,trigrams,AC15P,temporal_projection.decay_and_currency,staleness risk is,2,risk|staleness
+S5,trigrams,AC15P,temporal_projection.decay_and_currency,superseding deprecating items,2,deprecat
+S5,trigrams,AC15P,temporal_projection.decay_and_currency,staleness and governance,2,staleness
+S5,trigrams,AC15P,temporal_projection.decay_and_currency,fresh eyes suppress,2,fresh
+S5,trigrams,AC15P,temporal_projection.decay_and_currency,becomes stale if,2,stale
+S5,trigrams,AC15P,temporal_projection.decay_and_currency,visible fresh eyes,2,fresh
+S5,trigrams,HYBRID_3_5,temporal_projection.decay_and_currency,staleness risk unless,2,risk|staleness|unless
+S5,trigrams,HYBRID_3_5,temporal_projection.decay_and_currency,decay version proximity,2,decay
+S5,trigrams,HYBRID_3_5,temporal_projection.decay_and_currency,fresh eyes default,2,fresh
+S5,trigrams,HYBRID_3_5,temporal_projection.decay_and_currency,provide fresh eyes,2,fresh
+S5,trigrams,HYBRID_SEMANTIC,temporal_projection.decay_and_currency,irrelevant outdated never,3,outdated
+S5,trigrams,HYBRID_SEMANTIC,temporal_projection.decay_and_currency,outdated never use,3,outdated
+S5,trigrams,HYBRID_SEMANTIC,temporal_projection.decay_and_currency,can expire unless,2,expire|unless
+S5,trigrams,HYBRID_SEMANTIC,temporal_projection.decay_and_currency,expire unless reaffirmed,2,expire|unless
+S5,trigrams,HYBRID_SEMANTIC,temporal_projection.decay_and_currency,fresh eyes constraints,2,constrain|constraints|fresh
+S5,trigrams,HYBRID_SEMANTIC,temporal_projection.decay_and_currency,one click fresh,2,fresh
+S5,trigrams,HYBRID_SEMANTIC,temporal_projection.decay_and_currency,click fresh eyes,2,fresh
+S5,trigrams,HYBRID_SEMANTIC,temporal_projection.decay_and_currency,make staleness visible,2,staleness
+S5,trigrams,CONTROL,temporal_projection.time_horizons,tags recency window,2,window
+S5,trigrams,AC15,temporal_projection.time_horizons,ttl vectors later,2,later
+S5,trigrams,AC15,temporal_projection.time_horizons,summaries records later,2,later
+S5,trigrams,AC15P,temporal_projection.time_horizons,long term bias,2,long term
+S5,trigrams,AC15P,temporal_projection.time_horizons,window branch artifact,2,window
+S5,trigrams,AC15P,temporal_projection.time_horizons,type time window,2,time window|window
+S5,trigrams,AC15P,temporal_projection.time_horizons,time window status,2,time window|window
+S5,trigrams,HYBRID_3_5,temporal_projection.time_horizons,is long horizon,2,horizon
+S5,trigrams,HYBRID_3_5,temporal_projection.time_horizons,long horizon and,2,horizon
+S5,trigrams,HYBRID_3_5,temporal_projection.time_horizons,vectors later keep,2,later
+S5,trigrams,CONTROL,temporal_projection.change_and_rate,shift continuity toward,2,shift
+S5,trigrams,CONTROL,temporal_projection.robustness_and_resilience,restate stable context,2,context|stable
+S5,trigrams,CONTROL,temporal_projection.robustness_and_resilience,tend to preserve,2,preserve|tend
+S5,trigrams,AC15P,temporal_projection.robustness_and_resilience,over durable artifacts,6,durable
+S5,trigrams,AC15P,temporal_projection.robustness_and_resilience,durable artifacts adrs,4,durable
+S5,trigrams,AC15P,temporal_projection.robustness_and_resilience,to durable artifacts,3,durable
+S5,trigrams,AC15P,temporal_projection.robustness_and_resilience,durable artifacts with,3,durable
+S5,trigrams,AC15P,temporal_projection.robustness_and_resilience,pointers to durable,2,durable
+S5,trigrams,AC15P,temporal_projection.robustness_and_resilience,vectors over durable,2,durable
+S5,trigrams,AC15P,temporal_projection.robustness_and_resilience,retrieval over durable,2,durable
+S5,trigrams,HYBRID_3_5,temporal_projection.robustness_and_resilience,for stable artifacts,2,stable
+S5,trigrams,HYBRID_3_5,temporal_projection.robustness_and_resilience,tends to preserve,2,preserve|tends|tends to
+S5,trigrams,HYBRID_SEMANTIC,temporal_projection.robustness_and_resilience,durable truth from,2,durable|truth
+S5,trigrams,AC15,imagination_and_possibility.exploration_within_bounds,rationale constraints alternatives,2,alternatives|constrain|constraints
+S5,trigrams,AC15P,imagination_and_possibility.exploration_within_bounds,draft accepted superseded,4,draft
+S5,trigrams,AC15P,imagination_and_possibility.exploration_within_bounds,status draft accepted,3,draft
+S5,trigrams,AC15P,imagination_and_possibility.exploration_within_bounds,checks when possible,2,checks|possibl|possible
+S5,trigrams,AC15P,imagination_and_possibility.exploration_within_bounds,possible paths symbols,2,possibl|possible
+S5,trigrams,AC15P,imagination_and_possibility.exploration_within_bounds,text status draft,2,draft
+S5,trigrams,HYBRID_3_5,imagination_and_possibility.exploration_within_bounds,for debugging exploration,2,explor|exploration
+S5,trigrams,HYBRID_SEMANTIC,imagination_and_possibility.exploration_within_bounds,truth from exploration,2,explor|exploration|truth
+S5,trigrams,HYBRID_SEMANTIC,imagination_and_possibility.exploration_within_bounds,from exploration exhaust,2,explor|exploration
+S5,trigrams,HYBRID_3_5,imagination_and_possibility.speculative_boundary_marking,attempts speculative hypotheses,3,hypothes|speculat|speculative
+S5,trigrams,HYBRID_3_5,imagination_and_possibility.speculative_boundary_marking,debugging attempts speculative,2,speculat|speculative
+S5,trigrams,HYBRID_3_5,imagination_and_possibility.speculative_boundary_marking,superseded failed tentative,2,tentative
+S5,trigrams,HYBRID_SEMANTIC,imagination_and_possibility.speculative_boundary_marking,attempts speculative debugging,2,speculat|speculative
+S5,trigrams,CONTROL,surfacing.friction_exposed,apply hard filters,3,hard
+S5,trigrams,CONTROL,surfacing.friction_exposed,similarity apply hard,2,hard
+S5,trigrams,CONTROL,surfacing.friction_exposed,hard filters first,2,hard
+S5,trigrams,CONTROL,surfacing.friction_exposed,hard filters branch,2,hard
+S5,trigrams,AC15,surfacing.friction_exposed,hard constraints from,2,constrain|constraints|hard
+S5,trigrams,AC15P,surfacing.friction_exposed,with hard filters,4,hard
+S5,trigrams,AC15P,surfacing.friction_exposed,replaying messy attempts,2,messy
+S5,trigrams,AC15P,surfacing.friction_exposed,opaque or hard,2,hard
+S5,trigrams,HYBRID_SEMANTIC,surfacing.hard_limit_refusal,non negotiable to,2,non negotiable
+S5,trigrams,CONTROL,surfacing.confrontation,wrong and sticky,3,wrong
+S5,trigrams,AC15,surfacing.confrontation,doesn t steer,2,doesn|doesn t
+S5,trigrams,AC15,surfacing.confrontation,doesn t mean,2,doesn|doesn t
+S5,trigrams,AC15,surfacing.confrontation,convention hasn t,2,hasn t
+S5,trigrams,AC15,surfacing.confrontation,hasn t been,2,hasn t
+S5,trigrams,AC15P,surfacing.confrontation,canonize a wrong,2,wrong
+S5,trigrams,AC15P,surfacing.confrontation,a wrong conclusion,2,wrong
+S5,trigrams,HYBRID_SEMANTIC,surfacing.confrontation,code that doesn,2,doesn
+S5,trigrams,HYBRID_SEMANTIC,surfacing.confrontation,doesn t compile,2,doesn|doesn t
+S5,trigrams,HYBRID_SEMANTIC,surfacing.confrontation,confidently remembered wrong,2,wrong
+S5,trigrams,CONTROL,surfacing.tension_exposure,repo conflict checks,3,checks|conflict
+S5,trigrams,CONTROL,surfacing.tension_exposure,when memory conflicts,2,conflicts
+S5,trigrams,CONTROL,surfacing.tension_exposure,memory conflicts with,2,conflicts
+S5,trigrams,CONTROL,surfacing.tension_exposure,staleness conflict checks,2,checks|conflict|staleness
+S5,trigrams,CONTROL,surfacing.tension_exposure,basic repo conflict,2,conflict
+S5,trigrams,AC15,surfacing.tension_exposure,conflicts with apm,2,conflicts
+S5,trigrams,HYBRID_SEMANTIC,smoothing,adr merged pr,2,merged
+S5,trigrams,HYBRID_SEMANTIC,smoothing,docs merged code,2,merged
+S5,trigrams,HYBRID_SEMANTIC,smoothing,merged code docs,2,merged
+S5,trigrams,CONTROL,hedging,continuity is usually,2,usually
+S5,trigrams,CONTROL,hedging,but more likely,2,likely
+S5,trigrams,CONTROL,hedging,likely to create,2,create|likely
+S5,trigrams,CONTROL,hedging,likely to cause,2,likely
+S5,trigrams,CONTROL,hedging,tend to preserve,2,preserve|tend
+S5,trigrams,AC15P,hedging,makes continuity mostly,2,mostly
+S5,trigrams,AC15P,hedging,continuity mostly about,2,mostly
+S5,trigrams,AC15P,hedging,adr accepted may,2,may
+S5,trigrams,AC15P,hedging,tend to make,2,tend
+S5,trigrams,AC15P,hedging,s more likely,2,likely
+S5,trigrams,HYBRID_3_5,hedging,make continuity mostly,2,mostly
+S5,trigrams,HYBRID_3_5,hedging,continuity more likely,2,likely
+S5,trigrams,HYBRID_3_5,hedging,previously tried may,2,may
+S5,trigrams,HYBRID_3_5,hedging,tried may be,2,may
+S5,trigrams,HYBRID_3_5,hedging,tends to preserve,2,preserve|tends|tends to
+S5,trigrams,HYBRID_3_5,hedging,is least likely,2,likely
+S5,trigrams,HYBRID_3_5,hedging,the assistant may,2,may
+S5,trigrams,HYBRID_SEMANTIC,hedging,kind of information,2,kind of
+S5,trigrams,AC15,warning,approves low risk,2,risk
+S5,trigrams,AC15,warning,worried enough to,2,worried
+S5,trigrams,AC15P,warning,to de risk,2,risk
+S5,trigrams,AC15P,warning,staleness risk is,2,risk|staleness
+S5,trigrams,AC15P,warning,isolation s concern,2,concern
+S5,trigrams,HYBRID_3_5,warning,risk unless governed,2,risk|unless
+S5,trigrams,HYBRID_3_5,warning,staleness risk unless,2,risk|staleness|unless
+S5,trigrams,HYBRID_SEMANTIC,warning,high anchoring risk,2,risk
+S5,trigrams,HYBRID_SEMANTIC,warning,risk frequent retrieval,2,risk
+S5,trigrams,HYBRID_SEMANTIC,warning,isolation argument risk,2,risk
+S5,trigrams,AC15,conditions,days unless promoted,2,unless
+S5,trigrams,AC15P,conditions,should we depends,2,depends
+S5,trigrams,AC15P,conditions,unless filtered validated,2,unless|validat|validated
+S5,trigrams,AC15P,conditions,days sprints unless,2,unless
+S5,trigrams,AC15P,conditions,sprints unless reaffirmed,2,unless
+S5,trigrams,HYBRID_3_5,conditions,risk unless governed,2,risk|unless
+S5,trigrams,HYBRID_3_5,conditions,staleness risk unless,2,risk|staleness|unless
+S5,trigrams,HYBRID_SEMANTIC,conditions,can expire unless,2,expire|unless
+S5,trigrams,HYBRID_SEMANTIC,conditions,expire unless reaffirmed,2,expire|unless
+S5,trigrams,HYBRID_SEMANTIC,conditions,always on conditioning,2,on condition
+S5,trigrams,HYBRID_SEMANTIC,conditions,whether chat can,2,whether
+S5,trigrams,CONTROL,autonomy_sovereignty,did we choose,2,choose
+S5,trigrams,AC15,autonomy_sovereignty,evidence not authority,2,authority|evidence
+S5,trigrams,HYBRID_SEMANTIC,autonomy_sovereignty,you choose continuity,2,choose|you choose
+S5,trigrams,HYBRID_SEMANTIC,autonomy_sovereignty,choose continuity via,2,choose
+S5,trigrams,HYBRID_SEMANTIC,autonomy_sovereignty,time and authority,2,authority
+S5,trigrams,HYBRID_SEMANTIC,autonomy_sovereignty,higher authority sources,2,authority|sources
+S5,trigrams,HYBRID_SEMANTIC,autonomy_sovereignty,authority and always,2,authority
+S5,trigrams,HYBRID_SEMANTIC,autonomy_sovereignty,high authority always,2,authority
+S7,trigrams,CONTROL,truth.plain_statement,said it plainly,2,plainly
+S7,trigrams,AC15,truth.plain_statement,honest answer is,2,honest
+S7,trigrams,AC15P,truth.plain_statement,your mind honest,2,honest
+S7,trigrams,AC15P,truth.plain_statement,the honest move,2,honest
+S7,trigrams,AC15P,truth.plain_statement,honest move is,2,honest
+S7,trigrams,CONTROL,truth.verification,real life test,2,test
+S7,trigrams,CONTROL,truth.verification,test the most,2,test
+S7,trigrams,CONTROL,truth.verification,make sure to,2,make sure
+S7,trigrams,AC15,truth.verification,time based evidence,2,evidence
+S7,trigrams,HYBRID_3_5,truth.verification,confirm visa type,2,confirm
+S7,trigrams,HYBRID_3_5,truth.verification,ve tested ordinary,2,tested
+S7,trigrams,HYBRID_SEMANTIC,truth.verification,your risk checks,2,checks|risk
+S7,trigrams,HYBRID_SEMANTIC,truth.verification,risk checks a,2,checks|risk
+S7,trigrams,HYBRID_SEMANTIC,truth.verification,isn t proof,2,isn t|proof
+S7,trigrams,HYBRID_SEMANTIC,truth.verification,generate real evidence,2,evidence
+S7,trigrams,HYBRID_SEMANTIC,truth.verification,testing whether the,2,testing|whether
+S7,trigrams,HYBRID_SEMANTIC,truth.verification,test does the,2,test
+S7,trigrams,HYBRID_SEMANTIC,truth.verification,to check ask,2,check
+S7,trigrams,CONTROL,practical_considerations_and_execution.action_and_execution,least one planned,2,planned
+S7,trigrams,CONTROL,practical_considerations_and_execution.action_and_execution,plan that keeps,2,plan
+S7,trigrams,CONTROL,practical_considerations_and_execution.action_and_execution,beneficiary plan that,2,plan
+S7,trigrams,CONTROL,practical_considerations_and_execution.action_and_execution,a funded plan,2,plan
+S7,trigrams,CONTROL,practical_considerations_and_execution.action_and_execution,plan what happens,2,plan
+S7,trigrams,AC15,practical_considerations_and_execution.action_and_execution,complex care plan,3,plan
+S7,trigrams,AC15,practical_considerations_and_execution.action_and_execution,pilot plan with,2,pilot|plan
+S7,trigrams,AC15,practical_considerations_and_execution.action_and_execution,t ship everything,2,ship
+S7,trigrams,AC15,practical_considerations_and_execution.action_and_execution,the staged plan,2,plan|staged
+S7,trigrams,AC15,practical_considerations_and_execution.action_and_execution,want to plan,2,plan
+S7,trigrams,AC15,practical_considerations_and_execution.action_and_execution,change the plan,2,plan
+S7,trigrams,AC15,practical_considerations_and_execution.action_and_execution,plan so neither,2,neither|plan
+S7,trigrams,AC15,practical_considerations_and_execution.action_and_execution,to build language,2,build
+S7,trigrams,AC15,practical_considerations_and_execution.action_and_execution,plan the next,2,plan
+S7,trigrams,AC15,practical_considerations_and_execution.action_and_execution,health plan partner,2,plan
+S7,trigrams,AC15P,practical_considerations_and_execution.action_and_execution,care is plan,4,plan
+S7,trigrams,AC15P,practical_considerations_and_execution.action_and_execution,exit plan cash,4,plan
+S7,trigrams,AC15P,practical_considerations_and_execution.action_and_execution,plan cash logistics,3,plan
+S7,trigrams,AC15P,practical_considerations_and_execution.action_and_execution,medical contingency plan,2,contingen|contingency|plan
+S7,trigrams,AC15P,practical_considerations_and_execution.action_and_execution,plan ability to,2,plan
+S7,trigrams,AC15P,practical_considerations_and_execution.action_and_execution,plan visa work,2,plan
+S7,trigrams,AC15P,practical_considerations_and_execution.action_and_execution,two track plan,2,plan
+S7,trigrams,AC15P,practical_considerations_and_execution.action_and_execution,my care plan,2,plan
+S7,trigrams,AC15P,practical_considerations_and_execution.action_and_execution,plan a paid,2,plan
+S7,trigrams,AC15P,practical_considerations_and_execution.action_and_execution,i m planning,2,planning
+S7,trigrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,funded emergency plan,3,plan
+S7,trigrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,create a credible,2,create
+S7,trigrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,ready to relocate,2,ready to
+S7,trigrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,plan that fits,2,plan
+S7,trigrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,exit plan that,2,plan
+S7,trigrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,split base plan,2,plan
+S7,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,imagine our plan,2,imagin|imagine|plan
+S7,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,our plan is,2,plan
+S7,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,building a relationship,2,building
+S7,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,plan for serious,2,plan|plan for|serious
+S7,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,to keep building,2,building
+S7,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,plan with checkpoints,2,plan
+S7,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,healthcare exit plan,2,plan
+S7,trigrams,AC15,practical_considerations_and_execution.constraints_and_tradeoffs,the practical incentive,2,practical
+S7,trigrams,AC15P,practical_considerations_and_execution.constraints_and_tradeoffs,a realistic return,2,realistic
+S7,trigrams,AC15P,practical_considerations_and_execution.constraints_and_tradeoffs,insurance if feasible,2,feasible
+S7,trigrams,AC15P,practical_considerations_and_execution.constraints_and_tradeoffs,keep a realistic,2,realistic
+S7,trigrams,AC15P,practical_considerations_and_execution.constraints_and_tradeoffs,keep a viable,2,viable
+S7,trigrams,HYBRID_3_5,practical_considerations_and_execution.constraints_and_tradeoffs,constraints and reduces,2,constrain|constraints
+S7,trigrams,HYBRID_3_5,practical_considerations_and_execution.constraints_and_tradeoffs,the cultural context,2,context
+S7,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.constraints_and_tradeoffs,practical things matter,2,practical
+S7,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.friction_and_blockers,the gap becomes,2,gap
+S7,trigrams,CONTROL,practical_considerations_and_execution.resources_timing_conditions,timeline money and,2,timeline
+S7,trigrams,AC15,practical_considerations_and_execution.resources_timing_conditions,schedule one call,2,schedule
+S7,trigrams,AC15,practical_considerations_and_execution.resources_timing_conditions,defeat sunk cost,2,cost
+S7,trigrams,AC15,practical_considerations_and_execution.resources_timing_conditions,shared costs and,2,costs
+S7,trigrams,AC15P,practical_considerations_and_execution.resources_timing_conditions,relationship definition timeline,2,timeline
+S7,trigrams,AC15P,practical_considerations_and_execution.resources_timing_conditions,medical contingency plan,2,contingen|contingency|plan
+S7,trigrams,AC15P,practical_considerations_and_execution.resources_timing_conditions,split shared costs,2,costs
+S7,trigrams,AC15P,practical_considerations_and_execution.resources_timing_conditions,crisis liquidity buffer,2,buffer
+S7,trigrams,HYBRID_3_5,practical_considerations_and_execution.resources_timing_conditions,a real timeline,2,timeline
+S7,trigrams,HYBRID_3_5,practical_considerations_and_execution.resources_timing_conditions,timeline if she,2,timeline
+S7,trigrams,HYBRID_3_5,practical_considerations_and_execution.resources_timing_conditions,a monthly budget,2,budget
+S7,trigrams,HYBRID_3_5,practical_considerations_and_execution.resources_timing_conditions,marriage and timeline,2,timeline
+S7,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.resources_timing_conditions,sunk cost momentum,2,cost
+S7,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.resources_timing_conditions,timeline money norms,2,timeline
+S7,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.resources_timing_conditions,timeline she s,2,timeline
+S7,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.resources_timing_conditions,limits marriage timeline,2,timeline
+S7,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.resources_timing_conditions,a liquidity buffer,2,buffer
+S7,trigrams,HYBRID_SEMANTIC,practical_considerations_and_execution.resources_timing_conditions,liquidity buffer so,2,buffer
+S7,trigrams,AC15,temporal_projection.decay_and_currency,marriage kids aging,3,aging
+S7,trigrams,AC15,temporal_projection.decay_and_currency,marriage children aging,2,aging
+S7,trigrams,AC15,temporal_projection.decay_and_currency,family expectations aging,2,aging
+S7,trigrams,AC15P,temporal_projection.decay_and_currency,country eventually aging,2,aging
+S7,trigrams,AC15P,temporal_projection.decay_and_currency,aging sickness plan,2,aging|plan
+S7,trigrams,HYBRID_3_5,temporal_projection.decay_and_currency,aging health and,2,aging
+S7,trigrams,CONTROL,temporal_projection.time_horizons,still early for,2,early
+S7,trigrams,AC15,temporal_projection.time_horizons,health changes later,2,later
+S7,trigrams,AC15P,temporal_projection.time_horizons,you long term,2,long term
+S7,trigrams,AC15P,temporal_projection.time_horizons,long term money,2,long term
+S7,trigrams,AC15P,temporal_projection.time_horizons,buy property early,2,early
+S7,trigrams,AC15P,temporal_projection.time_horizons,she in years,2,in years
+S7,trigrams,AC15P,temporal_projection.time_horizons,talks early and,2,early
+S7,trigrams,HYBRID_3_5,temporal_projection.time_horizons,long term compromise,3,long term
+S7,trigrams,HYBRID_3_5,temporal_projection.time_horizons,good long term,2,long term
+S7,trigrams,HYBRID_3_5,temporal_projection.time_horizons,fake over time,2,over time
+S7,trigrams,HYBRID_SEMANTIC,temporal_projection.time_horizons,the long term,2,long term
+S7,trigrams,HYBRID_SEMANTIC,temporal_projection.time_horizons,regret in years,2,in years
+S7,trigrams,AC15,temporal_projection.past_present_future,about the future,3,future
+S7,trigrams,AC15,temporal_projection.past_present_future,whether her future,2,future|whether
+S7,trigrams,AC15,temporal_projection.past_present_future,protects your future,2,future
+S7,trigrams,HYBRID_3_5,temporal_projection.past_present_future,protect your future,2,future
+S7,trigrams,HYBRID_SEMANTIC,temporal_projection.past_present_future,your age trajectory,2,trajectory
+S7,trigrams,CONTROL,temporal_projection.change_and_rate,a staged path,3,staged
+S7,trigrams,CONTROL,temporal_projection.change_and_rate,a staged approach,2,staged
+S7,trigrams,CONTROL,temporal_projection.change_and_rate,respects a staged,2,staged
+S7,trigrams,CONTROL,temporal_projection.change_and_rate,staged path that,2,staged
+S7,trigrams,AC15,temporal_projection.change_and_rate,propose the staged,2,staged
+S7,trigrams,AC15,temporal_projection.change_and_rate,the staged plan,2,plan|staged
+S7,trigrams,AC15P,temporal_projection.change_and_rate,extend trial shift,2,shift
+S7,trigrams,AC15P,temporal_projection.change_and_rate,trial shift to,2,shift
+S7,trigrams,AC15P,temporal_projection.change_and_rate,shift to dual,2,shift
+S7,trigrams,AC15P,temporal_projection.change_and_rate,slow down a,2,slow down
+S7,trigrams,HYBRID_3_5,temporal_projection.change_and_rate,stages so i,2,stages
+S7,trigrams,HYBRID_SEMANTIC,temporal_projection.change_and_rate,i slow down,2,slow down
+S7,trigrams,AC15,temporal_projection.robustness_and_resilience,it holds up,2,holds up
+S7,trigrams,HYBRID_SEMANTIC,imagination_and_possibility.exploration_within_bounds,imagine our plan,2,imagin|imagine|plan
+S7,trigrams,HYBRID_SEMANTIC,imagination_and_possibility.exploration_within_bounds,draft a specific,2,draft
+S7,trigrams,AC15,imagination_and_possibility.tension_as_fuel,plan so neither,2,neither|plan
+S7,trigrams,AC15P,imagination_and_possibility.tension_as_fuel,table for either,2,either
+S7,trigrams,AC15P,imagination_and_possibility.tension_as_fuel,either of those,2,either
+S7,trigrams,HYBRID_SEMANTIC,imagination_and_possibility.tension_as_fuel,happens whether either,2,either|whether
+S7,trigrams,AC15,imagination_and_possibility.path_toward_feasibility,a true pilot,3,pilot
+S7,trigrams,AC15,imagination_and_possibility.path_toward_feasibility,complex care pathway,2,pathway
+S7,trigrams,AC15,imagination_and_possibility.path_toward_feasibility,pilot plan with,2,pilot|plan
+S7,trigrams,AC15P,imagination_and_possibility.path_toward_feasibility,keep a viable,2,viable
+S7,trigrams,CONTROL,surfacing.friction_exposed,meaningful green flags,2,flags
+S7,trigrams,AC15P,surfacing.friction_exposed,one hard conversation,2,hard
+S7,trigrams,HYBRID_3_5,surfacing.friction_exposed,this often surfaces,2,often|surfaces
+S7,trigrams,HYBRID_3_5,surfacing.friction_exposed,often surfaces the,2,often|surfaces
+S7,trigrams,HYBRID_3_5,surfacing.friction_exposed,surfaces the real,2,surfaces
+S7,trigrams,AC15P,surfacing.hard_limit_refusal,non negotiables write,2,non negotiable
+S7,trigrams,AC15P,surfacing.hard_limit_refusal,won t make,2,won t
+S7,trigrams,HYBRID_3_5,surfacing.hard_limit_refusal,gate non negotiable,2,non negotiable
+S7,trigrams,CONTROL,surfacing.confrontation,doesn t consume,3,doesn|doesn t
+S7,trigrams,CONTROL,surfacing.confrontation,said it plainly,2,plainly
+S7,trigrams,AC15,surfacing.confrontation,isn t about,2,isn t
+S7,trigrams,AC15,surfacing.confrontation,the danger isn,2,danger|the danger is
+S7,trigrams,AC15,surfacing.confrontation,danger isn t,2,danger|isn t
+S7,trigrams,AC15P,surfacing.confrontation,partner isn t,2,isn t
+S7,trigrams,AC15P,surfacing.confrontation,isn t catastrophic,2,isn t
+S7,trigrams,HYBRID_SEMANTIC,surfacing.confrontation,doesn t force,3,doesn|doesn t
+S7,trigrams,HYBRID_SEMANTIC,surfacing.confrontation,isn t proof,2,isn t|proof
+S7,trigrams,HYBRID_SEMANTIC,surfacing.confrontation,doesn t ask,2,doesn|doesn t
+S7,trigrams,HYBRID_SEMANTIC,surfacing.confrontation,a crisis doesn,2,doesn
+S7,trigrams,HYBRID_SEMANTIC,surfacing.confrontation,crisis doesn t,2,doesn|doesn t
+S7,trigrams,CONTROL,surfacing.tension_exposure,t avoid disagreements,2,disagreements
+S7,trigrams,HYBRID_SEMANTIC,surfacing.tension_exposure,life and conflict,2,conflict
+S7,trigrams,HYBRID_SEMANTIC,surfacing.tension_exposure,and conflict repair,2,conflict
+S7,trigrams,HYBRID_SEMANTIC,surfacing.tension_exposure,in practice conflict,2,conflict
+S7,trigrams,HYBRID_SEMANTIC,surfacing.tension_exposure,practice conflict repair,2,conflict
+S7,trigrams,AC15,smoothing,t merge finances,3,merge
+S7,trigrams,AC15,smoothing,no merged accounts,3,merged
+S7,trigrams,AC15,smoothing,no merged finances,3,merged
+S7,trigrams,AC15,smoothing,property no merged,2,merged
+S7,trigrams,AC15,smoothing,merged finances keep,2,merged
+S7,trigrams,AC15,smoothing,t merge accounts,2,merge
+S7,trigrams,AC15,smoothing,merge accounts don,2,merge
+S7,trigrams,AC15,smoothing,buy no merged,2,merged
+S7,trigrams,CONTROL,hedging,may bring urgency,2,may
+S7,trigrams,CONTROL,hedging,complex care may,2,may
+S7,trigrams,CONTROL,hedging,may be less,2,may
+S7,trigrams,CONTROL,hedging,may be underestimating,2,may
+S7,trigrams,AC15,hedging,motivations could be,2,could|could be
+S7,trigrams,AC15,hedging,could be love,2,could|could be
+S7,trigrams,AC15,hedging,performers tend to,2,tend
+S7,trigrams,AC15,hedging,tends to sound,2,tends|tends to
+S7,trigrams,AC15,hedging,kind of urgency,2,kind of
+S7,trigrams,AC15,hedging,situation that typically,2,typically
+S7,trigrams,AC15P,hedging,may have more,2,may
+S7,trigrams,AC15P,hedging,track how often,2,often
+S7,trigrams,AC15P,hedging,often you feel,2,often
+S7,trigrams,AC15P,hedging,clarify how often,2,often
+S7,trigrams,AC15P,hedging,likely caused it,2,likely
+S7,trigrams,AC15P,hedging,usually sounds like,2,usually
+S7,trigrams,AC15P,hedging,opener i don,2,i d
+S7,trigrams,AC15P,hedging,seeing you might,2,might
+S7,trigrams,AC15P,hedging,you could become,2,could|could be
+S7,trigrams,AC15P,hedging,could become dependent,2,could|could be
+S7,trigrams,HYBRID_3_5,hedging,may not want,6,may
+S7,trigrams,HYBRID_3_5,hedging,often correlates with,2,often
+S7,trigrams,HYBRID_3_5,hedging,think i might,2,might
+S7,trigrams,HYBRID_3_5,hedging,i might not,2,might
+S7,trigrams,HYBRID_3_5,hedging,might not move,2,might
+S7,trigrams,HYBRID_3_5,hedging,this often surfaces,2,often|surfaces
+S7,trigrams,HYBRID_3_5,hedging,often surfaces the,2,often|surfaces
+S7,trigrams,HYBRID_3_5,hedging,love tends to,2,tends|tends to
+S7,trigrams,HYBRID_SEMANTIC,hedging,may be missing,8,may
+S7,trigrams,HYBRID_SEMANTIC,hedging,where you may,3,may
+S7,trigrams,HYBRID_SEMANTIC,hedging,may want to,2,may|may want
+S7,trigrams,HYBRID_SEMANTIC,hedging,is more likely,2,likely
+S7,trigrams,CONTROL,warning,your risk profile,2,risk
+S7,trigrams,CONTROL,warning,risk before permanence,2,risk
+S7,trigrams,AC15,warning,pursue this seriously,2,seriously
+S7,trigrams,AC15,warning,the danger isn,2,danger|the danger is
+S7,trigrams,AC15,warning,danger isn t,2,danger|isn t
+S7,trigrams,AC15P,warning,that reduces risk,2,risk
+S7,trigrams,AC15P,warning,if serious illness,2,serious
+S7,trigrams,AC15P,warning,serious illness occurs,2,serious
+S7,trigrams,HYBRID_3_5,warning,at higher risk,2,risk
+S7,trigrams,HYBRID_3_5,warning,higher risk of,2,risk
+S7,trigrams,HYBRID_3_5,warning,biggest structural risk,2,risk
+S7,trigrams,HYBRID_3_5,warning,structural risk if,2,risk
+S7,trigrams,HYBRID_3_5,warning,risk if i,2,risk
+S7,trigrams,HYBRID_3_5,warning,your main risk,2,risk
+S7,trigrams,HYBRID_3_5,warning,main risk is,2,risk
+S7,trigrams,HYBRID_SEMANTIC,warning,your risk checks,2,checks|risk
+S7,trigrams,HYBRID_SEMANTIC,warning,risk checks a,2,checks|risk
+S7,trigrams,HYBRID_SEMANTIC,warning,complex care risk,2,risk
+S7,trigrams,HYBRID_SEMANTIC,warning,catastrophic medical risk,2,risk
+S7,trigrams,HYBRID_SEMANTIC,warning,plan for serious,2,plan|plan for|serious
+S7,trigrams,HYBRID_SEMANTIC,warning,for serious illness,2,serious
+S7,trigrams,HYBRID_SEMANTIC,warning,caution looks like,2,caution
+S7,trigrams,CONTROL,conditions,plus whether you,3,whether
+S7,trigrams,CONTROL,conditions,country whether you,2,whether
+S7,trigrams,AC15,conditions,whether her future,2,future|whether
+S7,trigrams,AC15,conditions,citizenship and whether,2,whether
+S7,trigrams,AC15P,conditions,yours and whether,3,whether
+S7,trigrams,AC15P,conditions,whether marriage children,2,whether
+S7,trigrams,HYBRID_3_5,conditions,whether she expects,2,whether
+S7,trigrams,HYBRID_3_5,conditions,whether you feel,2,whether
+S7,trigrams,HYBRID_SEMANTIC,conditions,testing whether the,2,testing|whether
+S7,trigrams,HYBRID_SEMANTIC,conditions,commitment depends on,2,depends|depends on
+S7,trigrams,HYBRID_SEMANTIC,conditions,paid help whether,2,whether
+S7,trigrams,HYBRID_SEMANTIC,conditions,country whether she,2,whether
+S7,trigrams,HYBRID_SEMANTIC,conditions,care happens whether,2,whether
+S7,trigrams,HYBRID_SEMANTIC,conditions,happens whether either,2,either|whether
+S7,trigrams,CONTROL,autonomy_sovereignty,choosing you because,2,choosing
+S7,trigrams,AC15,autonomy_sovereignty,medical decision authority,2,authority
+S7,trigrams,AC15,autonomy_sovereignty,decision authority if,2,authority
+S7,trigrams,HYBRID_3_5,autonomy_sovereignty,or choosing relief,2,choosing
+S7,trigrams,HYBRID_3_5,autonomy_sovereignty,choosing relief from,2,choosing
+S7,trigrams,HYBRID_3_5,autonomy_sovereignty,decide one of,2,decide
+S1,quadgrams,CONTROL,truth.verification,export test as an,2,test
+S1,quadgrams,AC15,truth.verification,less long run evidence,2,evidence
+S1,quadgrams,AC15,truth.verification,in documented formats transition,2,documented|transit|transition
+S1,quadgrams,AC15,truth.verification,documented formats transition assistance,2,documented|transit|transition
+S1,quadgrams,AC15,truth.verification,acceptance testing that includes,2,testing
+S1,quadgrams,AC15P,truth.verification,have procurement legal confirm,2,confirm
+S1,quadgrams,AC15P,truth.verification,ownership full export documented,2,documented
+S1,quadgrams,AC15P,truth.verification,configs plans logs documented,2,documented|plans
+S1,quadgrams,AC15P,truth.verification,plans logs documented interfaces,2,documented|plans
+S1,quadgrams,AC15P,truth.verification,logs documented interfaces apis,2,documented
+S1,quadgrams,HYBRID_3_5,truth.verification,standards models multi source,2,source
+S1,quadgrams,HYBRID_3_5,truth.verification,less long horizon evidence,2,evidence|horizon
+S1,quadgrams,HYBRID_3_5,truth.verification,multi source procurement city,2,source
+S1,quadgrams,HYBRID_3_5,truth.verification,source procurement city ownership,2,source
+S1,quadgrams,HYBRID_3_5,truth.verification,an escalation stress test,2,test
+S1,quadgrams,HYBRID_3_5,truth.verification,acceptance testing and contract,2,testing
+S1,quadgrams,HYBRID_3_5,truth.verification,added integration testing complexity,2,testing
+S1,quadgrams,HYBRID_3_5,truth.verification,in documented formats include,2,documented
+S1,quadgrams,HYBRID_3_5,truth.verification,documented formats include a,2,documented
+S1,quadgrams,HYBRID_3_5,truth.verification,logs exportable in documented,2,documented
+S1,quadgrams,HYBRID_SEMANTIC,truth.verification,to ask verify documented,2,documented|verif|verify
+S1,quadgrams,HYBRID_SEMANTIC,truth.verification,documented formats exit transition,2,documented|transit|transition
+S1,quadgrams,HYBRID_SEMANTIC,truth.verification,documented formats priced transition,2,documented|transit|transition
+S1,quadgrams,HYBRID_SEMANTIC,truth.verification,acceptance testing and burn,2,testing
+S1,quadgrams,HYBRID_SEMANTIC,truth.verification,testing and burn in,2,testing
+S1,quadgrams,HYBRID_SEMANTIC,truth.verification,in documented formats exit,2,documented
+S1,quadgrams,HYBRID_SEMANTIC,truth.verification,rollback audit trail degraded,2,audit
+S1,quadgrams,HYBRID_SEMANTIC,truth.verification,audit trail degraded mode,2,audit
+S1,quadgrams,HYBRID_SEMANTIC,truth.verification,in documented formats priced,2,documented
+S1,quadgrams,HYBRID_SEMANTIC,truth.verification,trained and acceptance tested,2,tested
+S1,quadgrams,CONTROL,truth.uncertainty_marking,waiver week review uncertain,2,uncertain
+S1,quadgrams,CONTROL,truth.uncertainty_marking,week review uncertain outcome,2,uncertain
+S1,quadgrams,HYBRID_3_5,truth.uncertainty_marking,avoids the most uncertain,2,uncertain
+S1,quadgrams,HYBRID_SEMANTIC,truth.fact_vs_interpretation,the facts you provided,2,facts
+S1,quadgrams,CONTROL,practical_considerations_and_execution.action_and_execution,a staged rollout plan,2,plan|rollout|staged
+S1,quadgrams,CONTROL,practical_considerations_and_execution.action_and_execution,and a staged rollout,2,rollout|staged
+S1,quadgrams,CONTROL,practical_considerations_and_execution.action_and_execution,staged rollout plan with,2,plan|rollout|staged
+S1,quadgrams,AC15,practical_considerations_and_execution.action_and_execution,a phased start and,2,phas|phased|start
+S1,quadgrams,AC15,practical_considerations_and_execution.action_and_execution,ownership of timing plans,2,plans
+S1,quadgrams,AC15,practical_considerations_and_execution.action_and_execution,plans configs logs performance,2,plans
+S1,quadgrams,AC15,practical_considerations_and_execution.action_and_execution,timing plans configurations logs,2,plans
+S1,quadgrams,AC15,practical_considerations_and_execution.action_and_execution,plans configurations logs performance,2,plans
+S1,quadgrams,AC15P,practical_considerations_and_execution.action_and_execution,timing plans controller configs,3,plans
+S1,quadgrams,AC15P,practical_considerations_and_execution.action_and_execution,can t delay start,3,can t|start
+S1,quadgrams,AC15P,practical_considerations_and_execution.action_and_execution,t delay start constraint,2,constrain|constraint|start
+S1,quadgrams,AC15P,practical_considerations_and_execution.action_and_execution,plans time of day,2,plans
+S1,quadgrams,AC15P,practical_considerations_and_execution.action_and_execution,plans controller configs detector,2,plans
+S1,quadgrams,AC15P,practical_considerations_and_execution.action_and_execution,path to start on,2,path to|start
+S1,quadgrams,AC15P,practical_considerations_and_execution.action_and_execution,export of configs plans,2,plans
+S1,quadgrams,AC15P,practical_considerations_and_execution.action_and_execution,of configs plans logs,2,plans
+S1,quadgrams,AC15P,practical_considerations_and_execution.action_and_execution,configs plans logs documented,2,documented|plans
+S1,quadgrams,AC15P,practical_considerations_and_execution.action_and_execution,plans logs documented interfaces,2,documented|plans
+S1,quadgrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,ownership export timing plans,3,plans
+S1,quadgrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,export timing plans config,3,plans
+S1,quadgrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,timing plans config logs,3,plans
+S1,quadgrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,evp incident plans integrations,2,plans
+S1,quadgrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,a spares plan delivered,2,plan
+S1,quadgrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,spares plan delivered early,2,early|plan
+S1,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,timing plans logs and,3,plans
+S1,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,plans logs and performance,3,plans
+S1,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,a phased rollout pilot,2,phas|phased|pilot|rollout
+S1,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,phased rollout pilot corridor,2,phas|phased|pilot|rollout
+S1,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,time to implement detours,2,implement
+S1,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,to implement detours overrides,2,implement
+S1,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,start with a pilot,2,pilot|start
+S1,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,with a phased rollout,2,phas|phased|rollout
+S1,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,rollout pilot corridor first,2,pilot|rollout
+S1,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,scenarios must be implemented,2,implement
+S1,quadgrams,CONTROL,practical_considerations_and_execution.constraints_and_tradeoffs,the city s constraints,2,constrain|constraints
+S1,quadgrams,CONTROL,practical_considerations_and_execution.constraints_and_tradeoffs,emergency services incident adaptive,2,adapt
+S1,quadgrams,CONTROL,practical_considerations_and_execution.constraints_and_tradeoffs,cloud exception path practical,2,practical
+S1,quadgrams,CONTROL,practical_considerations_and_execution.constraints_and_tradeoffs,is case by case,2,case by case
+S1,quadgrams,AC15P,practical_considerations_and_execution.constraints_and_tradeoffs,the week award constraint,2,constrain|constraint
+S1,quadgrams,AC15P,practical_considerations_and_execution.constraints_and_tradeoffs,t delay start constraint,2,constrain|constraint|start
+S1,quadgrams,HYBRID_3_5,practical_considerations_and_execution.constraints_and_tradeoffs,is the main constraint,2,constrain|constraint
+S1,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.constraints_and_tradeoffs,a viable alternative only,2,alternative|viable|viable alternative
+S1,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.constraints_and_tradeoffs,viable alternative only if,2,alternative|only if|viable|viable alternative
+S1,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.constraints_and_tradeoffs,cpi bound or fixed,2,bound
+S1,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.constraints_and_tradeoffs,bound or fixed escalator,2,bound
+S1,quadgrams,AC15,practical_considerations_and_execution.friction_and_blockers,fewest external blockers civitas,2,blockers
+S1,quadgrams,AC15P,practical_considerations_and_execution.friction_and_blockers,waiver friction essential infrastructure,2,friction
+S1,quadgrams,HYBRID_3_5,practical_considerations_and_execution.friction_and_blockers,the lowest approval friction,2,friction
+S1,quadgrams,CONTROL,practical_considerations_and_execution.resources_timing_conditions,o m cost predictability,4,cost
+S1,quadgrams,CONTROL,practical_considerations_and_execution.resources_timing_conditions,term o m cost,2,cost
+S1,quadgrams,CONTROL,practical_considerations_and_execution.resources_timing_conditions,a revised schedule that,2,schedule
+S1,quadgrams,CONTROL,practical_considerations_and_execution.resources_timing_conditions,revised schedule that still,2,schedule
+S1,quadgrams,CONTROL,practical_considerations_and_execution.resources_timing_conditions,schedule that still meets,2,schedule
+S1,quadgrams,CONTROL,practical_considerations_and_execution.resources_timing_conditions,slas incident rca timelines,2,timelines
+S1,quadgrams,AC15,practical_considerations_and_execution.resources_timing_conditions,timeline and required controls,3,timeline
+S1,quadgrams,AC15,practical_considerations_and_execution.resources_timing_conditions,with timeline and required,2,timeline
+S1,quadgrams,AC15,practical_considerations_and_execution.resources_timing_conditions,maintenance cost reduction vs,2,cost
+S1,quadgrams,AC15,practical_considerations_and_execution.resources_timing_conditions,on schedule if novagrid,2,schedule
+S1,quadgrams,AC15,practical_considerations_and_execution.resources_timing_conditions,schedule if novagrid can,2,schedule
+S1,quadgrams,AC15,practical_considerations_and_execution.resources_timing_conditions,cost to maintain the,2,cost
+S1,quadgrams,AC15,practical_considerations_and_execution.resources_timing_conditions,schedule exhibit with long,2,schedule
+S1,quadgrams,AC15,practical_considerations_and_execution.resources_timing_conditions,cost and complexity that,2,cost
+S1,quadgrams,AC15,practical_considerations_and_execution.resources_timing_conditions,civitas modular mitigates the,2,mitigat
+S1,quadgrams,AC15P,practical_considerations_and_execution.resources_timing_conditions,one failure council budget,3,budget
+S1,quadgrams,AC15P,practical_considerations_and_execution.resources_timing_conditions,failure council budget chair,3,budget
+S1,quadgrams,AC15P,practical_considerations_and_execution.resources_timing_conditions,becomes a schedule risk,2,risk|schedule
+S1,quadgrams,AC15P,practical_considerations_and_execution.resources_timing_conditions,schedule risk regardless of,2,risk|schedule
+S1,quadgrams,AC15P,practical_considerations_and_execution.resources_timing_conditions,term cost continuity controls,2,cost
+S1,quadgrams,AC15P,practical_considerations_and_execution.resources_timing_conditions,schedule risk we are,2,risk|schedule
+S1,quadgrams,AC15P,practical_considerations_and_execution.resources_timing_conditions,reduce schedule certainty and,2,schedule
+S1,quadgrams,AC15P,practical_considerations_and_execution.resources_timing_conditions,schedule certainty and increase,2,schedule
+S1,quadgrams,AC15P,practical_considerations_and_execution.resources_timing_conditions,the probability of schedule,2,schedule
+S1,quadgrams,AC15P,practical_considerations_and_execution.resources_timing_conditions,probability of schedule slip,2,schedule
+S1,quadgrams,HYBRID_3_5,practical_considerations_and_execution.resources_timing_conditions,90k annual cloud cost,2,cost
+S1,quadgrams,HYBRID_3_5,practical_considerations_and_execution.resources_timing_conditions,year s tighter budget,2,budget
+S1,quadgrams,HYBRID_3_5,practical_considerations_and_execution.resources_timing_conditions,real schedule critical path,2,schedule
+S1,quadgrams,HYBRID_3_5,practical_considerations_and_execution.resources_timing_conditions,term operating cost stability,2,cost|stability
+S1,quadgrams,HYBRID_3_5,practical_considerations_and_execution.resources_timing_conditions,net effect tighter budgets,2,budgets
+S1,quadgrams,HYBRID_3_5,practical_considerations_and_execution.resources_timing_conditions,term operating costs while,2,costs
+S1,quadgrams,HYBRID_3_5,practical_considerations_and_execution.resources_timing_conditions,operating costs while still,2,costs
+S1,quadgrams,HYBRID_3_5,practical_considerations_and_execution.resources_timing_conditions,costs while still delivering,2,costs
+S1,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.resources_timing_conditions,cost exposure operational maturity,2,cost|maturity
+S1,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.resources_timing_conditions,year cost exposure operational,2,cost
+S1,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.resources_timing_conditions,cost continuity protections are,2,cost
+S1,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.resources_timing_conditions,term cost continuity protections,2,cost
+S1,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.resources_timing_conditions,schedule protections milestone dates,2,schedule
+S1,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.resources_timing_conditions,failover adding cost time,2,cost
+S1,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.resources_timing_conditions,a real schedule threat,2,schedule|threat
+S1,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.resources_timing_conditions,real schedule threat modular,2,schedule|threat
+S1,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.resources_timing_conditions,timelines api access rights,2,timelines
+S1,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.resources_timing_conditions,now rates deliverables timelines,2,timelines
+S1,quadgrams,AC15P,temporal_projection.decay_and_currency,certainty and increase lifecycle,2,lifecycle
+S1,quadgrams,AC15P,temporal_projection.decay_and_currency,at end of life,2,end of life
+S1,quadgrams,AC15P,temporal_projection.decay_and_currency,no longer the safe,2,no longer
+S1,quadgrams,CONTROL,temporal_projection.time_horizons,long term o m,4,long term
+S1,quadgrams,CONTROL,temporal_projection.time_horizons,ability to change later,2,later
+S1,quadgrams,CONTROL,temporal_projection.time_horizons,interface documentation delivered early,2,early
+S1,quadgrams,CONTROL,temporal_projection.time_horizons,documentation delivered early milestone,2,early
+S1,quadgrams,CONTROL,temporal_projection.time_horizons,delivered early milestone based,2,early
+S1,quadgrams,CONTROL,temporal_projection.time_horizons,early milestone based payments,2,early
+S1,quadgrams,AC15,temporal_projection.time_horizons,a week selection window,2,window
+S1,quadgrams,AC15,temporal_projection.time_horizons,more predictable near term,2,near term
+S1,quadgrams,AC15,temporal_projection.time_horizons,predictable near term opex,2,near term
+S1,quadgrams,AC15,temporal_projection.time_horizons,month support horizon with,2,horizon
+S1,quadgrams,AC15P,temporal_projection.time_horizons,a week award window,3,window
+S1,quadgrams,AC15P,temporal_projection.time_horizons,window novagrid also triggers,2,window
+S1,quadgrams,HYBRID_3_5,temporal_projection.time_horizons,predictable long term operating,3,long term
+S1,quadgrams,HYBRID_3_5,temporal_projection.time_horizons,less long horizon evidence,2,evidence|horizon
+S1,quadgrams,HYBRID_3_5,temporal_projection.time_horizons,most predictable long term,2,long term
+S1,quadgrams,HYBRID_3_5,temporal_projection.time_horizons,spares plan delivered early,2,early|plan
+S1,quadgrams,HYBRID_SEMANTIC,temporal_projection.time_horizons,must select in weeks,2,in weeks
+S1,quadgrams,HYBRID_SEMANTIC,temporal_projection.time_horizons,early maintenance reduction vs,2,early
+S1,quadgrams,HYBRID_SEMANTIC,temporal_projection.time_horizons,spares delivered early a,2,early
+S1,quadgrams,HYBRID_SEMANTIC,temporal_projection.time_horizons,early delivery of spares,2,early
+S1,quadgrams,CONTROL,temporal_projection.past_present_future,to compete future components,3,future
+S1,quadgrams,CONTROL,temporal_projection.past_present_future,right to compete future,2,future
+S1,quadgrams,AC15P,temporal_projection.past_present_future,migrates in the future,2,future
+S1,quadgrams,HYBRID_SEMANTIC,temporal_projection.past_present_future,deliverable not a future,2,future
+S1,quadgrams,CONTROL,temporal_projection.change_and_rate,a staged rollout plan,2,plan|rollout|staged
+S1,quadgrams,CONTROL,temporal_projection.change_and_rate,and a staged rollout,2,rollout|staged
+S1,quadgrams,CONTROL,temporal_projection.change_and_rate,staged rollout plan with,2,plan|rollout|staged
+S1,quadgrams,AC15,temporal_projection.change_and_rate,data config portability transition,4,transit|transition
+S1,quadgrams,AC15,temporal_projection.change_and_rate,config portability transition assistance,3,transit|transition
+S1,quadgrams,AC15,temporal_projection.change_and_rate,a phased notice to,2,phas|phased
+S1,quadgrams,AC15,temporal_projection.change_and_rate,phased notice to proceed,2,phas|phased
+S1,quadgrams,AC15,temporal_projection.change_and_rate,a phased start and,2,phas|phased|start
+S1,quadgrams,AC15,temporal_projection.change_and_rate,in documented formats transition,2,documented|transit|transition
+S1,quadgrams,AC15,temporal_projection.change_and_rate,documented formats transition assistance,2,documented|transit|transition
+S1,quadgrams,AC15,temporal_projection.change_and_rate,formats transition assistance defined,2,transit|transition
+S1,quadgrams,AC15P,temporal_projection.change_and_rate,transition assistance clause pre,5,transit|transition
+S1,quadgrams,AC15P,temporal_projection.change_and_rate,access transition assistance clause,2,transit|transition
+S1,quadgrams,AC15P,temporal_projection.change_and_rate,without punitive fees transition,2,transit|transition
+S1,quadgrams,AC15P,temporal_projection.change_and_rate,punitive fees transition assistance,2,transit|transition
+S1,quadgrams,HYBRID_3_5,temporal_projection.change_and_rate,pre priced transition assistance,3,transit|transition
+S1,quadgrams,HYBRID_3_5,temporal_projection.change_and_rate,data export transition assistance,2,transit|transition
+S1,quadgrams,HYBRID_3_5,temporal_projection.change_and_rate,transition assistance rates pre,2,transit|transition
+S1,quadgrams,HYBRID_3_5,temporal_projection.change_and_rate,transition assistance rates and,2,transit|transition
+S1,quadgrams,HYBRID_SEMANTIC,temporal_projection.change_and_rate,transition assistance priced now,6,transit|transition
+S1,quadgrams,HYBRID_SEMANTIC,temporal_projection.change_and_rate,priced transition assistance incident,4,transit|transition
+S1,quadgrams,HYBRID_SEMANTIC,temporal_projection.change_and_rate,cost exposure operational maturity,2,cost|maturity
+S1,quadgrams,HYBRID_SEMANTIC,temporal_projection.change_and_rate,a phased rollout pilot,2,phas|phased|pilot|rollout
+S1,quadgrams,HYBRID_SEMANTIC,temporal_projection.change_and_rate,phased rollout pilot corridor,2,phas|phased|pilot|rollout
+S1,quadgrams,HYBRID_SEMANTIC,temporal_projection.change_and_rate,exit and transition assistance,2,transit|transition
+S1,quadgrams,HYBRID_SEMANTIC,temporal_projection.change_and_rate,and transition assistance priced,2,transit|transition
+S1,quadgrams,HYBRID_SEMANTIC,temporal_projection.change_and_rate,documented formats exit transition,2,documented|transit|transition
+S1,quadgrams,HYBRID_SEMANTIC,temporal_projection.change_and_rate,formats exit transition assistance,2,transit|transition
+S1,quadgrams,HYBRID_SEMANTIC,temporal_projection.change_and_rate,exit transition assistance priced,2,transit|transition
+S1,quadgrams,CONTROL,temporal_projection.robustness_and_resilience,to preserve exit leverage,2,preserve
+S1,quadgrams,AC15,temporal_projection.robustness_and_resilience,want to preserve leverage,2,preserve
+S1,quadgrams,HYBRID_3_5,temporal_projection.robustness_and_resilience,risk lock in resilience,2,resilience|risk
+S1,quadgrams,HYBRID_3_5,temporal_projection.robustness_and_resilience,term operating cost stability,2,cost|stability
+S1,quadgrams,HYBRID_SEMANTIC,temporal_projection.robustness_and_resilience,pilot corridor prove stability,2,pilot|stability
+S1,quadgrams,HYBRID_SEMANTIC,temporal_projection.robustness_and_resilience,stable cutover before the,2,stable
+S1,quadgrams,AC15P,imagination_and_possibility.exploration_within_bounds,possible iteration it required,2,possibl|possible
+S1,quadgrams,HYBRID_SEMANTIC,imagination_and_possibility.exploration_within_bounds,a viable alternative only,2,alternative|viable|viable alternative
+S1,quadgrams,HYBRID_SEMANTIC,imagination_and_possibility.exploration_within_bounds,viable alternative only if,2,alternative|only if|viable|viable alternative
+S1,quadgrams,AC15P,imagination_and_possibility.path_toward_feasibility,path to start on,2,path to|start
+S1,quadgrams,HYBRID_SEMANTIC,imagination_and_possibility.path_toward_feasibility,a phased rollout pilot,2,phas|phased|pilot|rollout
+S1,quadgrams,HYBRID_SEMANTIC,imagination_and_possibility.path_toward_feasibility,phased rollout pilot corridor,2,phas|phased|pilot|rollout
+S1,quadgrams,HYBRID_SEMANTIC,imagination_and_possibility.path_toward_feasibility,a viable alternative only,2,alternative|viable|viable alternative
+S1,quadgrams,HYBRID_SEMANTIC,imagination_and_possibility.path_toward_feasibility,viable alternative only if,2,alternative|only if|viable|viable alternative
+S1,quadgrams,HYBRID_SEMANTIC,imagination_and_possibility.path_toward_feasibility,start with a pilot,2,pilot|start
+S1,quadgrams,HYBRID_SEMANTIC,imagination_and_possibility.path_toward_feasibility,a pilot corridor prove,2,pilot
+S1,quadgrams,HYBRID_SEMANTIC,imagination_and_possibility.path_toward_feasibility,pilot corridor prove stability,2,pilot|stability
+S1,quadgrams,HYBRID_SEMANTIC,imagination_and_possibility.path_toward_feasibility,rollout pilot corridor first,2,pilot|rollout
+S1,quadgrams,AC15,surfacing.friction_exposed,fewest external blockers civitas,2,blockers
+S1,quadgrams,AC15P,surfacing.friction_exposed,waiver friction essential infrastructure,2,friction
+S1,quadgrams,HYBRID_3_5,surfacing.friction_exposed,the lowest approval friction,2,friction
+S1,quadgrams,AC15P,surfacing.hard_limit_refusal,can t delay start,3,can t|start
+S1,quadgrams,AC15P,surfacing.hard_limit_refusal,prove it won t,2,won t
+S1,quadgrams,HYBRID_SEMANTIC,surfacing.hard_limit_refusal,if civitas cannot meet,2,cannot
+S1,quadgrams,CONTROL,surfacing.confrontation,emergency services isn t,4,isn t
+S1,quadgrams,AC15,surfacing.confrontation,would make us wrong,6,wrong
+S1,quadgrams,AC15,surfacing.confrontation,is permissible and doesn,2,doesn
+S1,quadgrams,AC15,surfacing.confrontation,permissible and doesn t,2,doesn|doesn t
+S1,quadgrams,AC15,surfacing.confrontation,make us wrong a,2,wrong
+S1,quadgrams,AC15,surfacing.confrontation,make us wrong the,2,wrong
+S1,quadgrams,AC15,surfacing.confrontation,the contract doesn t,2,doesn|doesn t
+S1,quadgrams,AC15,surfacing.confrontation,contract doesn t allow,2,doesn|doesn t
+S1,quadgrams,HYBRID_3_5,surfacing.confrontation,isn t hostage priced,4,isn t
+S1,quadgrams,HYBRID_3_5,surfacing.confrontation,so exit isn t,3,isn t
+S1,quadgrams,HYBRID_3_5,surfacing.confrontation,exit isn t hostage,3,isn t
+S1,quadgrams,HYBRID_3_5,surfacing.confrontation,wrong in year one,3,wrong
+S1,quadgrams,HYBRID_3_5,surfacing.confrontation,that doesn t mean,2,doesn|doesn t
+S1,quadgrams,HYBRID_3_5,surfacing.confrontation,doesn t mean novagrid,2,doesn|doesn t
+S1,quadgrams,HYBRID_3_5,surfacing.confrontation,something minor goes wrong,2,wrong
+S1,quadgrams,HYBRID_SEMANTIC,surfacing.confrontation,s clearly wrong you,3,wrong
+S1,quadgrams,CONTROL,hedging,how it could bite,6,could
+S1,quadgrams,CONTROL,hedging,it could bite you,4,could
+S1,quadgrams,CONTROL,hedging,lead time that could,3,could
+S1,quadgrams,CONTROL,hedging,time that could push,3,could
+S1,quadgrams,CONTROL,hedging,likely narrative if something,3,likely
+S1,quadgrams,CONTROL,hedging,modular tends to win,2,tends|tends to
+S1,quadgrams,CONTROL,hedging,could change the answer,2,could
+S1,quadgrams,CONTROL,hedging,that could push the,2,could
+S1,quadgrams,CONTROL,hedging,could push the integrated,2,could
+S1,quadgrams,CONTROL,hedging,it could bite year,2,could
+S1,quadgrams,AC15,hedging,standard controllers typically mean,2,typically
+S1,quadgrams,AC15P,hedging,it may be underestimated,7,may
+S1,quadgrams,AC15P,hedging,likely narrative if there,3,likely
+S1,quadgrams,AC15P,hedging,in short novagrid may,2,may
+S1,quadgrams,AC15P,hedging,that tends to favor,2,tends|tends to
+S1,quadgrams,HYBRID_SEMANTIC,hedging,in a way council,2,in a way
+S1,quadgrams,CONTROL,warning,a higher governance risk,2,risk
+S1,quadgrams,CONTROL,warning,higher governance risk architecture,2,risk
+S1,quadgrams,AC15,warning,and lock in risk,2,risk
+S1,quadgrams,AC15P,warning,becomes a schedule risk,2,risk|schedule
+S1,quadgrams,AC15P,warning,schedule risk regardless of,2,risk|schedule
+S1,quadgrams,AC15P,warning,schedule risk we are,2,risk|schedule
+S1,quadgrams,AC15P,warning,risk vendor responsiveness and,2,risk
+S1,quadgrams,AC15P,warning,risk stack for essential,2,risk
+S1,quadgrams,HYBRID_3_5,warning,risk lock in resilience,2,resilience|risk
+S1,quadgrams,HYBRID_3_5,warning,risk and narrative risk,2,risk
+S1,quadgrams,HYBRID_3_5,warning,and narrative risk even,2,risk
+S1,quadgrams,HYBRID_3_5,warning,narrative risk even if,2,risk
+S1,quadgrams,HYBRID_3_5,warning,risk if you share,2,risk
+S1,quadgrams,HYBRID_3_5,warning,at risk due to,2,risk
+S1,quadgrams,HYBRID_SEMANTIC,warning,and continuity risks and,2,risks
+S1,quadgrams,HYBRID_SEMANTIC,warning,supply chain risk than,2,risk
+S1,quadgrams,HYBRID_SEMANTIC,warning,a real schedule threat,2,schedule|threat
+S1,quadgrams,HYBRID_SEMANTIC,warning,real schedule threat modular,2,schedule|threat
+S1,quadgrams,CONTROL,conditions,recommendation unless novagrid can,3,unless
+S1,quadgrams,CONTROL,conditions,unless novagrid can clear,2,unless
+S1,quadgrams,HYBRID_3_5,conditions,unless novagrid s incident,2,unless
+S1,quadgrams,HYBRID_SEMANTIC,conditions,viable alternative only if,2,alternative|only if|viable|viable alternative
+S1,quadgrams,HYBRID_3_5,autonomy_sovereignty,so the modular choice,2,choice
+S1,quadgrams,HYBRID_SEMANTIC,autonomy_sovereignty,best reasons to choose,2,choose
+S3,quadgrams,CONTROL,truth.verification,sanity check whether it,2,check|sanity check|whether
+S3,quadgrams,CONTROL,truth.verification,check whether it s,2,check|whether
+S3,quadgrams,AC15,truth.verification,shielding prototype validated evt,2,prototype|validat|validated
+S3,quadgrams,AC15,truth.verification,prototype validated evt dvt,2,prototype|validat|validated
+S3,quadgrams,AC15P,truth.verification,ve confirmed the chief,2,confirm|confirmed
+S3,quadgrams,AC15P,truth.verification,confirmed the chief architect,2,confirm|confirmed
+S3,quadgrams,AC15P,truth.verification,a simple decision test,2,test
+S3,quadgrams,AC15P,truth.verification,sanity check whether the,2,check|sanity check|whether
+S3,quadgrams,HYBRID_3_5,truth.verification,design freeze build validation,2,build|validat|validation
+S3,quadgrams,HYBRID_3_5,truth.verification,field re test with,2,test
+S3,quadgrams,HYBRID_3_5,truth.verification,re test with weekly,2,test
+S3,quadgrams,HYBRID_3_5,truth.verification,test with weekly gates,2,test
+S3,quadgrams,CONTROL,truth.fact_vs_interpretation,safety case hazard analysis,2,analysis|hazard
+S3,quadgrams,CONTROL,truth.fact_vs_interpretation,case hazard analysis fmea,2,analysis|hazard
+S3,quadgrams,AC15,truth.fact_vs_interpretation,the claims are truthful,2,truthful
+S3,quadgrams,AC15,truth.fact_vs_interpretation,claims are truthful and,2,truthful
+S3,quadgrams,CONTROL,practical_considerations_and_execution.action_and_execution,loss of the launch,2,launch
+S3,quadgrams,CONTROL,practical_considerations_and_execution.action_and_execution,of the launch partner,2,launch
+S3,quadgrams,CONTROL,practical_considerations_and_execution.action_and_execution,for any commercial launch,2,launch
+S3,quadgrams,CONTROL,practical_considerations_and_execution.action_and_execution,commercial early access launch,2,early|launch
+S3,quadgrams,CONTROL,practical_considerations_and_execution.action_and_execution,hardware remediation retrofit plan,2,plan
+S3,quadgrams,CONTROL,practical_considerations_and_execution.action_and_execution,missions cannot be launched,2,cannot|launched
+S3,quadgrams,CONTROL,practical_considerations_and_execution.action_and_execution,cannot be launched outside,2,cannot|launched
+S3,quadgrams,CONTROL,practical_considerations_and_execution.action_and_execution,be launched outside qualified,2,launched
+S3,quadgrams,CONTROL,practical_considerations_and_execution.action_and_execution,launched outside qualified zones,2,launched
+S3,quadgrams,AC15,practical_considerations_and_execution.action_and_execution,constrained launch parallel hardware,2,constrain|constrained|launch
+S3,quadgrams,AC15,practical_considerations_and_execution.action_and_execution,de risked execution not,2,execution
+S3,quadgrams,AC15,practical_considerations_and_execution.action_and_execution,you ship within an,2,ship
+S3,quadgrams,AC15,practical_considerations_and_execution.action_and_execution,can restructure the launch,2,launch
+S3,quadgrams,AC15,practical_considerations_and_execution.action_and_execution,restructure the launch into,2,launch
+S3,quadgrams,AC15,practical_considerations_and_execution.action_and_execution,even if you launch,2,launch
+S3,quadgrams,AC15,practical_considerations_and_execution.action_and_execution,month if you launch,2,launch
+S3,quadgrams,AC15P,practical_considerations_and_execution.action_and_execution,whether you can implement,2,implement|whether
+S3,quadgrams,AC15P,practical_considerations_and_execution.action_and_execution,global launch messaging if,2,launch
+S3,quadgrams,AC15P,practical_considerations_and_execution.action_and_execution,c gated launch partial,2,launch
+S3,quadgrams,AC15P,practical_considerations_and_execution.action_and_execution,on time launch only,2,launch
+S3,quadgrams,AC15P,practical_considerations_and_execution.action_and_execution,we will launch only,2,launch
+S3,quadgrams,AC15P,practical_considerations_and_execution.action_and_execution,will launch only what,2,launch
+S3,quadgrams,AC15P,practical_considerations_and_execution.action_and_execution,availability early access launch,2,early|launch
+S3,quadgrams,AC15P,practical_considerations_and_execution.action_and_execution,a launch definition that,2,launch
+S3,quadgrams,AC15P,practical_considerations_and_execution.action_and_execution,bounded la eap launch,2,bounded|launch
+S3,quadgrams,AC15P,practical_considerations_and_execution.action_and_execution,la eap launch this,2,launch
+S3,quadgrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,dated plan for the,3,plan|plan for
+S3,quadgrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,plan for the shielding,3,plan|plan for
+S3,quadgrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,you ship a constrained,2,constrain|constrained|ship
+S3,quadgrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,you ship proposal a,2,ship
+S3,quadgrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,ship proposal a as,2,ship
+S3,quadgrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,launch broadly with a,2,broadly|launch
+S3,quadgrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,broad ga launch under,2,launch
+S3,quadgrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,ga launch under proposal,2,launch
+S3,quadgrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,launch under proposal a,2,launch
+S3,quadgrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,strengthens the ship countercase,2,ship
+S3,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,constrained launch disqualified if,2,constrain|constrained|launch
+S3,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,retrofit plan will you,2,plan
+S3,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,plan will you stay,2,plan
+S3,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,restricted zones planned maintenance,2,planned
+S3,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,shipped and caused downtime,2,shipped
+S3,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,launch now vs delay,2,launch
+S3,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,commercial mining launch under,2,launch
+S3,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,case for the launch,2,launch
+S3,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,the launch envelope signed,2,launch
+S3,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,you launch into mining,2,launch
+S3,quadgrams,CONTROL,practical_considerations_and_execution.constraints_and_tradeoffs,a constrained commercial deployment,3,constrain|constrained
+S3,quadgrams,CONTROL,practical_considerations_and_execution.constraints_and_tradeoffs,a constrained commercial release,2,constrain|constrained
+S3,quadgrams,AC15,practical_considerations_and_execution.constraints_and_tradeoffs,constrained launch parallel hardware,2,constrain|constrained|launch
+S3,quadgrams,AC15,practical_considerations_and_execution.constraints_and_tradeoffs,procedural controls software constraints,2,constrain|constraints
+S3,quadgrams,AC15,practical_considerations_and_execution.constraints_and_tradeoffs,a clearly bounded operating,2,bounded
+S3,quadgrams,AC15,practical_considerations_and_execution.constraints_and_tradeoffs,clearly bounded operating envelope,2,bounded
+S3,quadgrams,AC15,practical_considerations_and_execution.constraints_and_tradeoffs,bounded operating envelope with,2,bounded
+S3,quadgrams,AC15,practical_considerations_and_execution.constraints_and_tradeoffs,bound the failure mode,2,bound
+S3,quadgrams,AC15,practical_considerations_and_execution.constraints_and_tradeoffs,exclusions for known limitations,2,limitations
+S3,quadgrams,AC15P,practical_considerations_and_execution.constraints_and_tradeoffs,limited availability early access,4,early|limited
+S3,quadgrams,AC15P,practical_considerations_and_execution.constraints_and_tradeoffs,mitigation is not bounded,3,bounded|mitigat|mitigation
+S3,quadgrams,AC15P,practical_considerations_and_execution.constraints_and_tradeoffs,paid pilot limited availability,2,limited|pilot
+S3,quadgrams,AC15P,practical_considerations_and_execution.constraints_and_tradeoffs,bounded operating envelope site,2,bounded
+S3,quadgrams,AC15P,practical_considerations_and_execution.constraints_and_tradeoffs,bound on event rate,2,bound
+S3,quadgrams,AC15P,practical_considerations_and_execution.constraints_and_tradeoffs,in a prohibited context,2,context
+S3,quadgrams,AC15P,practical_considerations_and_execution.constraints_and_tradeoffs,bounded la eap launch,2,bounded|launch
+S3,quadgrams,HYBRID_3_5,practical_considerations_and_execution.constraints_and_tradeoffs,bounded entry into service,3,bounded
+S3,quadgrams,HYBRID_3_5,practical_considerations_and_execution.constraints_and_tradeoffs,commercial pilot limited availability,2,limited|pilot
+S3,quadgrams,HYBRID_3_5,practical_considerations_and_execution.constraints_and_tradeoffs,you ship a constrained,2,constrain|constrained|ship
+S3,quadgrams,HYBRID_3_5,practical_considerations_and_execution.constraints_and_tradeoffs,a constrained entry into,2,constrain|constrained
+S3,quadgrams,HYBRID_3_5,practical_considerations_and_execution.constraints_and_tradeoffs,constrained entry into service,2,constrain|constrained
+S3,quadgrams,HYBRID_3_5,practical_considerations_and_execution.constraints_and_tradeoffs,suggest the most realistic,2,realistic
+S3,quadgrams,HYBRID_3_5,practical_considerations_and_execution.constraints_and_tradeoffs,entry into service limited,2,limited
+S3,quadgrams,HYBRID_3_5,practical_considerations_and_execution.constraints_and_tradeoffs,limited availability with renegotiated,2,limited
+S3,quadgrams,HYBRID_3_5,practical_considerations_and_execution.constraints_and_tradeoffs,limited availability counts as,2,limited
+S3,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.constraints_and_tradeoffs,bound the interference risk,2,bound|risk
+S3,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.constraints_and_tradeoffs,with a constrained envelope,2,constrain|constrained
+S3,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.constraints_and_tradeoffs,constrained launch disqualified if,2,constrain|constrained|launch
+S3,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.constraints_and_tradeoffs,integrity monitoring if feasible,2,feasible
+S3,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.constraints_and_tradeoffs,case for that limited,2,limited
+S3,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.constraints_and_tradeoffs,for that limited envelope,2,limited
+S3,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.constraints_and_tradeoffs,you have a viable,2,viable
+S3,quadgrams,CONTROL,practical_considerations_and_execution.friction_and_blockers,while continuing the hardware,2,the hard
+S3,quadgrams,CONTROL,practical_considerations_and_execution.friction_and_blockers,the hardware fix if,2,the hard
+S3,quadgrams,CONTROL,practical_considerations_and_execution.friction_and_blockers,conditions until the hardware,2,the hard
+S3,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.friction_and_blockers,the hardware fix schedule,2,schedule|the hard
+S3,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.friction_and_blockers,true the hardware fix,2,the hard
+S3,quadgrams,CONTROL,practical_considerations_and_execution.resources_timing_conditions,lois msas contingent on,2,contingen|contingent|contingent on
+S3,quadgrams,CONTROL,practical_considerations_and_execution.resources_timing_conditions,msas contingent on the,2,contingen|contingent|contingent on
+S3,quadgrams,AC15,practical_considerations_and_execution.resources_timing_conditions,definition and penalty schedule,2,schedule
+S3,quadgrams,AC15,practical_considerations_and_execution.resources_timing_conditions,runtime detection proactive mitigation,2,mitigat|mitigation
+S3,quadgrams,AC15,practical_considerations_and_execution.resources_timing_conditions,the rev b schedule,2,schedule
+S3,quadgrams,AC15P,practical_considerations_and_execution.resources_timing_conditions,mitigation is not bounded,3,bounded|mitigat|mitigation
+S3,quadgrams,HYBRID_3_5,practical_considerations_and_execution.resources_timing_conditions,your current fallback is,2,fallback
+S3,quadgrams,HYBRID_3_5,practical_considerations_and_execution.resources_timing_conditions,triggering conditions with margin,2,margin
+S3,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.resources_timing_conditions,the hardware fix schedule,2,schedule|the hard
+S3,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.resources_timing_conditions,timeline retrofit policy for,2,timeline
+S3,quadgrams,AC15,temporal_projection.decay_and_currency,is no longer the,2,no longer
+S3,quadgrams,CONTROL,temporal_projection.time_horizons,commercial early access launch,2,early|launch
+S3,quadgrams,AC15,temporal_projection.time_horizons,market window without sacrificing,2,window
+S3,quadgrams,AC15,temporal_projection.time_horizons,window without sacrificing the,2,window
+S3,quadgrams,AC15P,temporal_projection.time_horizons,limited availability early access,4,early|limited
+S3,quadgrams,AC15P,temporal_projection.time_horizons,successful series b later,2,later
+S3,quadgrams,AC15P,temporal_projection.time_horizons,the early failure tax,2,early
+S3,quadgrams,AC15P,temporal_projection.time_horizons,early access is not,2,early
+S3,quadgrams,AC15P,temporal_projection.time_horizons,availability early access launch,2,early|launch
+S3,quadgrams,HYBRID_SEMANTIC,temporal_projection.time_horizons,case for the early,4,early
+S3,quadgrams,HYBRID_SEMANTIC,temporal_projection.time_horizons,the early access envelope,4,early
+S3,quadgrams,HYBRID_SEMANTIC,temporal_projection.time_horizons,early access production pilot,3,early|pilot
+S3,quadgrams,HYBRID_SEMANTIC,temporal_projection.time_horizons,retrofit policy for early,2,early
+S3,quadgrams,HYBRID_SEMANTIC,temporal_projection.time_horizons,policy for early units,2,early
+S3,quadgrams,CONTROL,temporal_projection.change_and_rate,terms rate maturity covenants,2,maturity
+S3,quadgrams,CONTROL,temporal_projection.change_and_rate,maturity covenants control rights,2,maturity
+S3,quadgrams,CONTROL,temporal_projection.change_and_rate,zones can shift static,2,shift
+S3,quadgrams,AC15,temporal_projection.change_and_rate,transition to a more,2,transit|transition
+S3,quadgrams,AC15P,temporal_projection.change_and_rate,zones may shift so,2,may|shift
+S3,quadgrams,AC15P,temporal_projection.change_and_rate,penalty free qualification phase,2,phas|phase
+S3,quadgrams,AC15P,temporal_projection.change_and_rate,qualification phase i can,2,phas|phase
+S3,quadgrams,HYBRID_3_5,temporal_projection.change_and_rate,zones can shift and,3,shift
+S3,quadgrams,HYBRID_SEMANTIC,temporal_projection.change_and_rate,a pilot acceptance phase,3,phas|phase|pilot
+S3,quadgrams,HYBRID_SEMANTIC,temporal_projection.change_and_rate,pilot acceptance phase with,2,phas|phase|pilot
+S3,quadgrams,HYBRID_SEMANTIC,temporal_projection.change_and_rate,phase with defined acceptance,2,phas|phase
+S3,quadgrams,AC15,temporal_projection.robustness_and_resilience,to a more robust,2,robust
+S3,quadgrams,AC15,temporal_projection.robustness_and_resilience,a more robust nav,2,robust
+S3,quadgrams,AC15,temporal_projection.robustness_and_resilience,more robust nav mode,2,robust
+S3,quadgrams,AC15P,temporal_projection.robustness_and_resilience,stable and mappable to,2,stable
+S3,quadgrams,AC15,imagination_and_possibility.exploration_within_bounds,shielding prototype validated evt,2,prototype|validat|validated
+S3,quadgrams,AC15,imagination_and_possibility.exploration_within_bounds,prototype validated evt dvt,2,prototype|validat|validated
+S3,quadgrams,HYBRID_3_5,imagination_and_possibility.exploration_within_bounds,redacted i can draft,2,draft
+S3,quadgrams,CONTROL,imagination_and_possibility.tension_as_fuel,that case you either,2,either
+S3,quadgrams,AC15P,imagination_and_possibility.tension_as_fuel,if neither is true,2,neither
+S3,quadgrams,AC15,imagination_and_possibility.path_toward_feasibility,shielding prototype validated evt,2,prototype|validat|validated
+S3,quadgrams,AC15,imagination_and_possibility.path_toward_feasibility,prototype validated evt dvt,2,prototype|validat|validated
+S3,quadgrams,AC15P,imagination_and_possibility.path_toward_feasibility,paid pilot limited availability,2,limited|pilot
+S3,quadgrams,AC15P,imagination_and_possibility.path_toward_feasibility,pilot la until rev,2,pilot
+S3,quadgrams,AC15P,imagination_and_possibility.path_toward_feasibility,mining as paid pilot,2,pilot
+S3,quadgrams,HYBRID_3_5,imagination_and_possibility.path_toward_feasibility,commercial pilot limited availability,2,limited|pilot
+S3,quadgrams,HYBRID_SEMANTIC,imagination_and_possibility.path_toward_feasibility,a pilot acceptance phase,3,phas|phase|pilot
+S3,quadgrams,HYBRID_SEMANTIC,imagination_and_possibility.path_toward_feasibility,early access production pilot,3,early|pilot
+S3,quadgrams,HYBRID_SEMANTIC,imagination_and_possibility.path_toward_feasibility,pilot acceptance phase with,2,phas|phase|pilot
+S3,quadgrams,HYBRID_SEMANTIC,imagination_and_possibility.path_toward_feasibility,contract into a pilot,2,pilot
+S3,quadgrams,HYBRID_SEMANTIC,imagination_and_possibility.path_toward_feasibility,paid production pilot in,2,pilot
+S3,quadgrams,HYBRID_SEMANTIC,imagination_and_possibility.path_toward_feasibility,production pilot in qualified,2,pilot
+S3,quadgrams,HYBRID_SEMANTIC,imagination_and_possibility.path_toward_feasibility,pilot in qualified corridors,2,pilot
+S3,quadgrams,HYBRID_SEMANTIC,imagination_and_possibility.path_toward_feasibility,pilot terms caps exclusions,2,pilot
+S3,quadgrams,HYBRID_SEMANTIC,imagination_and_possibility.path_toward_feasibility,a paid production pilot,2,pilot
+S3,quadgrams,HYBRID_SEMANTIC,imagination_and_possibility.path_toward_feasibility,you have a viable,2,viable
+S3,quadgrams,HYBRID_3_5,surfacing.friction_exposed,service credits hard cap,2,hard
+S3,quadgrams,CONTROL,surfacing.hard_limit_refusal,safety authority won t,3,authority|won t
+S3,quadgrams,CONTROL,surfacing.hard_limit_refusal,authority won t sign,3,authority|won t
+S3,quadgrams,CONTROL,surfacing.hard_limit_refusal,a non negotiable hardware,2,non negotiable
+S3,quadgrams,CONTROL,surfacing.hard_limit_refusal,cannot be the primary,2,cannot
+S3,quadgrams,CONTROL,surfacing.hard_limit_refusal,missions cannot be launched,2,cannot|launched
+S3,quadgrams,CONTROL,surfacing.hard_limit_refusal,cannot be launched outside,2,cannot|launched
+S3,quadgrams,AC15,surfacing.hard_limit_refusal,can t guarantee geofence,2,can t
+S3,quadgrams,AC15P,surfacing.hard_limit_refusal,the system cannot guarantee,2,cannot
+S3,quadgrams,AC15P,surfacing.hard_limit_refusal,won t protect you,2,won t
+S3,quadgrams,AC15P,surfacing.hard_limit_refusal,will not sign unbounded,2,will not
+S3,quadgrams,AC15P,surfacing.hard_limit_refusal,they won t you,2,won t
+S3,quadgrams,HYBRID_SEMANTIC,surfacing.hard_limit_refusal,partner won t accept,2,won t
+S3,quadgrams,HYBRID_SEMANTIC,surfacing.hard_limit_refusal,won t sign you,2,won t
+S3,quadgrams,AC15P,surfacing.confrontation,proposal a isn t,2,isn t
+S3,quadgrams,HYBRID_SEMANTIC,surfacing.confrontation,doesn t equal site,3,doesn|doesn t
+S3,quadgrams,HYBRID_SEMANTIC,surfacing.confrontation,abort doesn t equal,2,doesn|doesn t
+S3,quadgrams,HYBRID_SEMANTIC,surfacing.confrontation,event doesn t equal,2,doesn|doesn t
+S3,quadgrams,AC15P,smoothing,then the balance usually,2,balance|usually
+S3,quadgrams,AC15P,smoothing,the balance usually lies,2,balance|usually
+S3,quadgrams,AC15P,smoothing,balance usually lies toward,2,balance|usually
+S3,quadgrams,CONTROL,hedging,may be underestimating how,2,may
+S3,quadgrams,AC15,hedging,of these become likely,2,likely
+S3,quadgrams,AC15,hedging,you re statistically likely,2,likely
+S3,quadgrams,AC15,hedging,re statistically likely to,2,likely
+S3,quadgrams,AC15P,hedging,zones may shift so,2,may|shift
+S3,quadgrams,AC15P,hedging,i would treat as,2,i would
+S3,quadgrams,AC15P,hedging,then the balance usually,2,balance|usually
+S3,quadgrams,AC15P,hedging,the balance usually lies,2,balance|usually
+S3,quadgrams,AC15P,hedging,balance usually lies toward,2,balance|usually
+S3,quadgrams,HYBRID_3_5,hedging,you may avoid both,2,may
+S3,quadgrams,HYBRID_3_5,hedging,launch broadly with a,2,broadly|launch
+S3,quadgrams,HYBRID_SEMANTIC,hedging,could occur over a,2,could
+S3,quadgrams,CONTROL,warning,high consequence operational hazard,2,hazard
+S3,quadgrams,CONTROL,warning,written safety case hazard,2,hazard
+S3,quadgrams,CONTROL,warning,safety case hazard analysis,2,analysis|hazard
+S3,quadgrams,CONTROL,warning,case hazard analysis fmea,2,analysis|hazard
+S3,quadgrams,HYBRID_3_5,warning,non stationary emi risk,4,risk
+S3,quadgrams,HYBRID_3_5,warning,resignation threat is real,3,threat
+S3,quadgrams,HYBRID_3_5,warning,know the resignation threat,2,threat
+S3,quadgrams,HYBRID_3_5,warning,threat is real and,2,threat
+S3,quadgrams,HYBRID_SEMANTIC,warning,bound the interference risk,2,bound|risk
+S3,quadgrams,HYBRID_SEMANTIC,warning,the interference risk at,2,risk
+S3,quadgrams,CONTROL,conditions,sanity check whether it,2,check|sanity check|whether
+S3,quadgrams,CONTROL,conditions,check whether it s,2,check|whether
+S3,quadgrams,CONTROL,conditions,lois msas contingent on,2,contingen|contingent|contingent on
+S3,quadgrams,CONTROL,conditions,msas contingent on the,2,contingen|contingent|contingent on
+S3,quadgrams,AC15P,conditions,and b whether the,3,whether
+S3,quadgrams,AC15P,conditions,b whether the mining,3,whether
+S3,quadgrams,AC15P,conditions,whether you can implement,2,implement|whether
+S3,quadgrams,AC15P,conditions,sanity check whether the,2,check|sanity check|whether
+S3,quadgrams,HYBRID_SEMANTIC,conditions,whether the architect would,2,whether
+S3,quadgrams,HYBRID_SEMANTIC,conditions,you re deciding whether,2,deciding|whether
+S3,quadgrams,CONTROL,autonomy_sovereignty,your safety authority won,3,authority
+S3,quadgrams,CONTROL,autonomy_sovereignty,safety authority won t,3,authority|won t
+S3,quadgrams,CONTROL,autonomy_sovereignty,authority won t sign,3,authority|won t
+S3,quadgrams,AC15P,autonomy_sovereignty,help you choose between,2,choose|you choose
+S3,quadgrams,HYBRID_3_5,autonomy_sovereignty,technical authority sign off,7,authority
+S3,quadgrams,HYBRID_3_5,autonomy_sovereignty,responsible technical authority sign,5,authority
+S3,quadgrams,HYBRID_3_5,autonomy_sovereignty,or designated safety authority,4,authority
+S3,quadgrams,HYBRID_3_5,autonomy_sovereignty,authority sign off chief,3,authority
+S3,quadgrams,HYBRID_3_5,autonomy_sovereignty,the responsible technical authority,2,authority
+S3,quadgrams,HYBRID_3_5,autonomy_sovereignty,responsible technical authority will,2,authority
+S3,quadgrams,HYBRID_3_5,autonomy_sovereignty,authority must sign the,2,authority
+S3,quadgrams,HYBRID_3_5,autonomy_sovereignty,designated safety authority has,2,authority
+S3,quadgrams,HYBRID_SEMANTIC,autonomy_sovereignty,you re deciding whether,2,deciding|whether
+S3,quadgrams,HYBRID_SEMANTIC,autonomy_sovereignty,occur stop deploy authority,2,authority|deploy
+S5,quadgrams,CONTROL,truth.verification,gated vector backed evidence,2,evidence
+S5,quadgrams,CONTROL,truth.verification,verify against the repo,2,verif|verify
+S5,quadgrams,CONTROL,truth.verification,continuum notebook gated evidence,2,evidence
+S5,quadgrams,CONTROL,truth.verification,vector backed evidence index,2,evidence
+S5,quadgrams,CONTROL,truth.verification,repo verification before recommending,2,verif|verification
+S5,quadgrams,CONTROL,truth.verification,basic repo conflict checks,2,checks|conflict
+S5,quadgrams,AC15,truth.verification,decision constraint convention confirmedfix,3,confirm|constrain|constraint
+S5,quadgrams,AC15,truth.verification,constraints conventions confirmed fixes,2,confirm|confirmed|constrain|constraints
+S5,quadgrams,AC15,truth.verification,as decaying cited evidence,2,decaying|evidence
+S5,quadgrams,AC15,truth.verification,vectors as cited evidence,2,evidence
+S5,quadgrams,AC15,truth.verification,hasn t been confirmed,2,confirm|confirmed|hasn t
+S5,quadgrams,AC15,truth.verification,t been confirmed in,2,confirm|confirmed
+S5,quadgrams,AC15,truth.verification,been confirmed in days,2,confirm|confirmed
+S5,quadgrams,AC15,truth.verification,confirm if you tell,2,confirm
+S5,quadgrams,AC15,truth.verification,always show source date,2,source
+S5,quadgrams,AC15,truth.verification,layer b evidence index,2,evidence
+S5,quadgrams,AC15P,truth.verification,verified outcomes runbook items,3,verif|verified
+S5,quadgrams,AC15P,truth.verification,adr style decisions verified,3,verif|verified
+S5,quadgrams,AC15P,truth.verification,style decisions verified outcomes,3,verif|verified
+S5,quadgrams,AC15P,truth.verification,decisions constraints verified outcomes,2,constrain|constraints|verif|verified
+S5,quadgrams,AC15P,truth.verification,can t ship provenance,2,can t|provenance|ship
+S5,quadgrams,AC15P,truth.verification,retention access deletion audit,2,audit
+S5,quadgrams,HYBRID_3_5,truth.verification,as evidence not truth,2,evidence|truth
+S5,quadgrams,HYBRID_3_5,truth.verification,blocks volatile evidence retrieval,2,evidence
+S5,quadgrams,HYBRID_3_5,truth.verification,evidence items influenced the,2,evidence
+S5,quadgrams,HYBRID_3_5,truth.verification,and provenance from day,2,provenance
+S5,quadgrams,HYBRID_3_5,truth.verification,provenance from day one,2,provenance
+S5,quadgrams,HYBRID_3_5,truth.verification,scope status timestamps provenance,2,provenance
+S5,quadgrams,HYBRID_3_5,truth.verification,status timestamps provenance links,2,provenance
+S5,quadgrams,HYBRID_3_5,truth.verification,version proximity existence checks,2,checks
+S5,quadgrams,HYBRID_3_5,truth.verification,compatibility checks against current,2,checks
+S5,quadgrams,HYBRID_SEMANTIC,truth.verification,on demand evidence retrieval,4,evidence
+S5,quadgrams,HYBRID_SEMANTIC,truth.verification,constraints conventions glossary confirmed,2,confirm|confirmed|constrain|constraints
+S5,quadgrams,HYBRID_SEMANTIC,truth.verification,provenance links derived from,2,provenance
+S5,quadgrams,HYBRID_SEMANTIC,truth.verification,verify against the current,2,verif|verify
+S5,quadgrams,HYBRID_SEMANTIC,truth.verification,last verified at sha,2,verif|verified
+S5,quadgrams,HYBRID_SEMANTIC,truth.verification,verified at sha date,2,verif|verified
+S5,quadgrams,HYBRID_SEMANTIC,truth.verification,confirmed root causes fixes,2,confirm|confirmed
+S5,quadgrams,HYBRID_SEMANTIC,truth.verification,or stored as evidence,2,evidence
+S5,quadgrams,HYBRID_SEMANTIC,truth.verification,stored as evidence in,2,evidence
+S5,quadgrams,HYBRID_SEMANTIC,truth.verification,as evidence in b,2,evidence
+S5,quadgrams,AC15,truth.fact_vs_interpretation,inferred evidence_refs pr commit,2,inferred
+S5,quadgrams,HYBRID_3_5,truth.fact_vs_interpretation,as evidence not truth,2,evidence|truth
+S5,quadgrams,HYBRID_SEMANTIC,truth.fact_vs_interpretation,durable truth from exploration,2,durable|explor|exploration|truth
+S5,quadgrams,HYBRID_SEMANTIC,truth.fact_vs_interpretation,truth from exploration exhaust,2,explor|exploration|truth
+S5,quadgrams,CONTROL,practical_considerations_and_execution.action_and_execution,more likely to create,2,create|likely
+S5,quadgrams,AC15,practical_considerations_and_execution.action_and_execution,you implement memory as,2,implement
+S5,quadgrams,AC15,practical_considerations_and_execution.action_and_execution,you ll ship a,2,ship
+S5,quadgrams,AC15,practical_considerations_and_execution.action_and_execution,ll ship a feature,2,ship
+S5,quadgrams,AC15,practical_considerations_and_execution.action_and_execution,if continuum is implemented,2,implement
+S5,quadgrams,AC15,practical_considerations_and_execution.action_and_execution,continuum is implemented as,2,implement
+S5,quadgrams,AC15,practical_considerations_and_execution.action_and_execution,do not ship remember,2,ship
+S5,quadgrams,AC15,practical_considerations_and_execution.action_and_execution,not ship remember everything,2,ship
+S5,quadgrams,AC15P,practical_considerations_and_execution.action_and_execution,can t ship provenance,2,can t|provenance|ship
+S5,quadgrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,create adr from this,2,create
+S5,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,start with keyword search,2,start
+S5,quadgrams,CONTROL,practical_considerations_and_execution.constraints_and_tradeoffs,conventions constraints system map,7,constrain|constraints
+S5,quadgrams,CONTROL,practical_considerations_and_execution.constraints_and_tradeoffs,decisions conventions constraints system,6,constrain|constraints
+S5,quadgrams,CONTROL,practical_considerations_and_execution.constraints_and_tradeoffs,notebook decisions conventions constraints,3,constrain|constraints
+S5,quadgrams,CONTROL,practical_considerations_and_execution.constraints_and_tradeoffs,constraints conventions system map,2,constrain|constraints
+S5,quadgrams,CONTROL,practical_considerations_and_execution.constraints_and_tradeoffs,as decision convention constraint,2,constrain|constraint
+S5,quadgrams,AC15,practical_considerations_and_execution.constraints_and_tradeoffs,decision constraint convention confirmedfix,3,confirm|constrain|constraint
+S5,quadgrams,AC15,practical_considerations_and_execution.constraints_and_tradeoffs,constraints conventions confirmed fixes,2,confirm|confirmed|constrain|constraints
+S5,quadgrams,AC15,practical_considerations_and_execution.constraints_and_tradeoffs,typed records decision constraint,2,constrain|constraint
+S5,quadgrams,AC15,practical_considerations_and_execution.constraints_and_tradeoffs,records decision constraint convention,2,constrain|constraint
+S5,quadgrams,AC15,practical_considerations_and_execution.constraints_and_tradeoffs,code prompt constraints only,2,constrain|constraints
+S5,quadgrams,AC15,practical_considerations_and_execution.constraints_and_tradeoffs,project brief decisions constraints,2,constrain|constraints
+S5,quadgrams,AC15,practical_considerations_and_execution.constraints_and_tradeoffs,brief decisions constraints conventions,2,constrain|constraints
+S5,quadgrams,AC15P,practical_considerations_and_execution.constraints_and_tradeoffs,decisions constraints verified outcomes,2,constrain|constraints|verif|verified
+S5,quadgrams,AC15P,practical_considerations_and_execution.constraints_and_tradeoffs,constraint that steers everything,2,constrain|constraint
+S5,quadgrams,AC15P,practical_considerations_and_execution.constraints_and_tradeoffs,always show used context,2,context
+S5,quadgrams,AC15P,practical_considerations_and_execution.constraints_and_tradeoffs,show used context with,2,context
+S5,quadgrams,AC15P,practical_considerations_and_execution.constraints_and_tradeoffs,used context with links,2,context
+S5,quadgrams,AC15P,practical_considerations_and_execution.constraints_and_tradeoffs,context with links dates,2,context
+S5,quadgrams,HYBRID_3_5,practical_considerations_and_execution.constraints_and_tradeoffs,brief adrs conventions constraints,5,constrain|constraints
+S5,quadgrams,HYBRID_3_5,practical_considerations_and_execution.constraints_and_tradeoffs,adrs conventions constraints glossary,3,constrain|constraints
+S5,quadgrams,HYBRID_3_5,practical_considerations_and_execution.constraints_and_tradeoffs,spine adrs conventions constraints,2,constrain|constraints
+S5,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.constraints_and_tradeoffs,constraints conventions glossary confirmed,2,confirm|confirmed|constrain|constraints
+S5,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.constraints_and_tradeoffs,fresh eyes constraints only,2,constrain|constraints|fresh
+S5,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.constraints_and_tradeoffs,by default decisions constraints,2,constrain|constraints
+S5,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.constraints_and_tradeoffs,default decisions constraints conventions,2,constrain|constraints
+S5,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.constraints_and_tradeoffs,active superseded links constraints,2,constrain|constraints
+S5,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.constraints_and_tradeoffs,superseded links constraints security,2,constrain|constraints
+S5,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.constraints_and_tradeoffs,constraints security compliance slo,2,constrain|constraints
+S5,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.constraints_and_tradeoffs,decision constraint convention glossary,2,constrain|constraint
+S5,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.constraints_and_tradeoffs,constraint convention glossary learning,2,constrain|constraint
+S5,quadgrams,CONTROL,temporal_projection.decay_and_currency,that preserves fresh eyes,2,fresh
+S5,quadgrams,CONTROL,temporal_projection.decay_and_currency,fresh eyes notebook repo,2,fresh
+S5,quadgrams,AC15,temporal_projection.decay_and_currency,one click mark outdated,4,outdated
+S5,quadgrams,AC15,temporal_projection.decay_and_currency,click mark outdated supersede,3,outdated
+S5,quadgrams,AC15,temporal_projection.decay_and_currency,active superseded deprecated created_at,3,deprecat|deprecated
+S5,quadgrams,AC15,temporal_projection.decay_and_currency,superseded deprecated created_at last_confirmed_at,3,deprecat|deprecated
+S5,quadgrams,AC15,temporal_projection.decay_and_currency,deprecated created_at last_confirmed_at confidence,3,deprecat|deprecated
+S5,quadgrams,AC15,temporal_projection.decay_and_currency,as decaying cited evidence,2,decaying|evidence
+S5,quadgrams,AC15,temporal_projection.decay_and_currency,outdated don t use,2,outdated
+S5,quadgrams,AC15,temporal_projection.decay_and_currency,fresh eyes mode so,2,fresh
+S5,quadgrams,AC15,temporal_projection.decay_and_currency,fresh eyes escape hatch,2,fresh
+S5,quadgrams,AC15P,temporal_projection.decay_and_currency,accepted superseded deprecated needs,3,deprecat|deprecated
+S5,quadgrams,AC15P,temporal_projection.decay_and_currency,superseded deprecated needs review,3,deprecat|deprecated
+S5,quadgrams,AC15P,temporal_projection.decay_and_currency,draft accepted superseded deprecated,3,deprecat|deprecated|draft
+S5,quadgrams,AC15P,temporal_projection.decay_and_currency,becomes stale if the,2,stale
+S5,quadgrams,AC15P,temporal_projection.decay_and_currency,visible fresh eyes vs,2,fresh
+S5,quadgrams,HYBRID_3_5,temporal_projection.decay_and_currency,tried may be outdated,2,may|outdated
+S5,quadgrams,HYBRID_3_5,temporal_projection.decay_and_currency,rut staleness risk unless,2,risk|staleness|unless
+S5,quadgrams,HYBRID_3_5,temporal_projection.decay_and_currency,fresh eyes mode is,2,fresh
+S5,quadgrams,HYBRID_3_5,temporal_projection.decay_and_currency,provide fresh eyes mode,2,fresh
+S5,quadgrams,HYBRID_3_5,temporal_projection.decay_and_currency,fresh eyes mode that,2,fresh
+S5,quadgrams,HYBRID_3_5,temporal_projection.decay_and_currency,fresh eyes mode toggle,2,fresh
+S5,quadgrams,HYBRID_SEMANTIC,temporal_projection.decay_and_currency,irrelevant outdated never use,3,outdated
+S5,quadgrams,HYBRID_SEMANTIC,temporal_projection.decay_and_currency,outdated never use again,3,outdated
+S5,quadgrams,HYBRID_SEMANTIC,temporal_projection.decay_and_currency,can expire unless reaffirmed,2,expire|unless
+S5,quadgrams,HYBRID_SEMANTIC,temporal_projection.decay_and_currency,fresh eyes constraints only,2,constrain|constraints|fresh
+S5,quadgrams,HYBRID_SEMANTIC,temporal_projection.decay_and_currency,one click fresh eyes,2,fresh
+S5,quadgrams,CONTROL,temporal_projection.time_horizons,module tags recency window,2,window
+S5,quadgrams,AC15,temporal_projection.time_horizons,short ttl vectors later,2,later
+S5,quadgrams,AC15P,temporal_projection.time_horizons,time window branch artifact,2,time window|window
+S5,quadgrams,AC15P,temporal_projection.time_horizons,artifact type time window,2,time window|window
+S5,quadgrams,AC15P,temporal_projection.time_horizons,type time window status,2,time window|window
+S5,quadgrams,HYBRID_3_5,temporal_projection.time_horizons,work is long horizon,2,horizon
+S5,quadgrams,HYBRID_3_5,temporal_projection.time_horizons,is long horizon and,2,horizon
+S5,quadgrams,HYBRID_3_5,temporal_projection.time_horizons,long horizon and the,2,horizon
+S5,quadgrams,HYBRID_3_5,temporal_projection.time_horizons,add vectors later keep,2,later
+S5,quadgrams,AC15P,temporal_projection.change_and_rate,as the codebase evolves,2,evolv
+S5,quadgrams,AC15P,temporal_projection.robustness_and_resilience,durable artifacts adrs prs,4,durable
+S5,quadgrams,AC15P,temporal_projection.robustness_and_resilience,over durable artifacts with,3,durable
+S5,quadgrams,AC15P,temporal_projection.robustness_and_resilience,durable artifacts with citations,3,durable
+S5,quadgrams,AC15P,temporal_projection.robustness_and_resilience,pointers to durable artifacts,2,durable
+S5,quadgrams,AC15P,temporal_projection.robustness_and_resilience,vectors over durable artifacts,2,durable
+S5,quadgrams,AC15P,temporal_projection.robustness_and_resilience,retrieval over durable artifacts,2,durable
+S5,quadgrams,HYBRID_3_5,temporal_projection.robustness_and_resilience,it tends to preserve,2,preserve|tends|tends to
+S5,quadgrams,HYBRID_SEMANTIC,temporal_projection.robustness_and_resilience,durable truth from exploration,2,durable|explor|exploration|truth
+S5,quadgrams,AC15P,imagination_and_possibility.exploration_within_bounds,draft accepted superseded deprecated,3,deprecat|deprecated|draft
+S5,quadgrams,AC15P,imagination_and_possibility.exploration_within_bounds,status draft accepted superseded,3,draft
+S5,quadgrams,AC15P,imagination_and_possibility.exploration_within_bounds,possible paths symbols exist,2,possibl|possible
+S5,quadgrams,AC15P,imagination_and_possibility.exploration_within_bounds,type text status draft,2,draft
+S5,quadgrams,AC15P,imagination_and_possibility.exploration_within_bounds,text status draft accepted,2,draft
+S5,quadgrams,HYBRID_SEMANTIC,imagination_and_possibility.exploration_within_bounds,durable truth from exploration,2,durable|explor|exploration|truth
+S5,quadgrams,HYBRID_SEMANTIC,imagination_and_possibility.exploration_within_bounds,truth from exploration exhaust,2,explor|exploration|truth
+S5,quadgrams,HYBRID_3_5,imagination_and_possibility.speculative_boundary_marking,debugging attempts speculative hypotheses,2,hypothes|speculat|speculative
+S5,quadgrams,HYBRID_3_5,imagination_and_possibility.speculative_boundary_marking,active superseded failed tentative,2,tentative
+S5,quadgrams,CONTROL,surfacing.friction_exposed,hard filters first repo,2,hard
+S5,quadgrams,CONTROL,surfacing.friction_exposed,hard filters branch main,2,hard
+S5,quadgrams,AC15P,surfacing.friction_exposed,opaque or hard to,2,hard
+S5,quadgrams,AC15P,surfacing.friction_exposed,with hard filters repo,2,hard
+S5,quadgrams,AC15P,surfacing.friction_exposed,hard filters repo branch,2,hard
+S5,quadgrams,AC15,surfacing.hard_limit_refusal,pii can t leave,2,can t
+S5,quadgrams,AC15,surfacing.hard_limit_refusal,can t leave region,2,can t
+S5,quadgrams,AC15,surfacing.hard_limit_refusal,memory you can trust,2,can t
+S5,quadgrams,AC15P,surfacing.hard_limit_refusal,can t ship provenance,2,can t|provenance|ship
+S5,quadgrams,AC15P,surfacing.hard_limit_refusal,developer can t see,2,can t
+S5,quadgrams,HYBRID_3_5,surfacing.hard_limit_refusal,users can t correct,2,can t
+S5,quadgrams,HYBRID_SEMANTIC,surfacing.hard_limit_refusal,these are non negotiable,2,non negotiable
+S5,quadgrams,HYBRID_SEMANTIC,surfacing.hard_limit_refusal,are non negotiable to,2,non negotiable
+S5,quadgrams,HYBRID_SEMANTIC,surfacing.hard_limit_refusal,non negotiable to avoid,2,non negotiable
+S5,quadgrams,AC15,surfacing.confrontation,hasn t been confirmed,2,confirm|confirmed|hasn t
+S5,quadgrams,AC15,surfacing.confrontation,this convention hasn t,2,hasn t
+S5,quadgrams,AC15,surfacing.confrontation,convention hasn t been,2,hasn t
+S5,quadgrams,AC15P,surfacing.confrontation,can canonize a wrong,2,wrong
+S5,quadgrams,HYBRID_SEMANTIC,surfacing.confrontation,code that doesn t,2,doesn|doesn t
+S5,quadgrams,HYBRID_SEMANTIC,surfacing.confrontation,that doesn t compile,2,doesn|doesn t
+S5,quadgrams,HYBRID_SEMANTIC,surfacing.confrontation,it confidently remembered wrong,2,wrong
+S5,quadgrams,CONTROL,surfacing.tension_exposure,basic repo conflict checks,2,checks|conflict
+S5,quadgrams,AC15,surfacing.tension_exposure,conflicts with apm or,2,conflicts
+S5,quadgrams,HYBRID_SEMANTIC,smoothing,docs merged code adrs,2,merged
+S5,quadgrams,CONTROL,hedging,tends to do well,2,tends|tends to
+S5,quadgrams,CONTROL,hedging,but more likely to,2,likely
+S5,quadgrams,CONTROL,hedging,more likely to create,2,create|likely
+S5,quadgrams,CONTROL,hedging,likely to cause ruts,2,likely
+S5,quadgrams,AC15P,hedging,makes continuity mostly about,2,mostly
+S5,quadgrams,AC15P,hedging,tend to make continuity,2,tend
+S5,quadgrams,HYBRID_3_5,hedging,more likely to be,3,likely
+S5,quadgrams,HYBRID_3_5,hedging,tried may be outdated,2,may|outdated
+S5,quadgrams,HYBRID_3_5,hedging,can make continuity mostly,2,mostly
+S5,quadgrams,HYBRID_3_5,hedging,make continuity more likely,2,likely
+S5,quadgrams,HYBRID_3_5,hedging,continuity more likely to,2,likely
+S5,quadgrams,HYBRID_3_5,hedging,previously tried may be,2,may
+S5,quadgrams,HYBRID_3_5,hedging,it tends to preserve,2,preserve|tends|tends to
+S5,quadgrams,HYBRID_3_5,hedging,likely to be net,2,likely
+S5,quadgrams,HYBRID_3_5,hedging,isolation is least likely,2,likely
+S5,quadgrams,HYBRID_3_5,hedging,is least likely to,2,likely
+S5,quadgrams,AC15,warning,auto approves low risk,2,risk
+S5,quadgrams,HYBRID_3_5,warning,rut staleness risk unless,2,risk|staleness|unless
+S5,quadgrams,HYBRID_SEMANTIC,warning,risk frequent retrieval of,2,risk
+S5,quadgrams,HYBRID_SEMANTIC,warning,the risk is real,2,risk
+S5,quadgrams,HYBRID_SEMANTIC,warning,feeds isolation argument risk,2,risk
+S5,quadgrams,AC15,conditions,g days unless promoted,2,unless
+S5,quadgrams,AC15P,conditions,should we depends on,2,depends|depends on
+S5,quadgrams,AC15P,conditions,depends on the architecture,2,depends|depends on
+S5,quadgrams,AC15P,conditions,n days sprints unless,2,unless
+S5,quadgrams,AC15P,conditions,days sprints unless reaffirmed,2,unless
+S5,quadgrams,HYBRID_3_5,conditions,rut staleness risk unless,2,risk|staleness|unless
+S5,quadgrams,HYBRID_SEMANTIC,conditions,can expire unless reaffirmed,2,expire|unless
+S5,quadgrams,HYBRID_SEMANTIC,conditions,tickets retrieved only when,2,only when
+S5,quadgrams,HYBRID_SEMANTIC,conditions,whether chat can be,2,whether
+S5,quadgrams,CONTROL,autonomy_sovereignty,why did we choose,2,choose
+S5,quadgrams,HYBRID_SEMANTIC,autonomy_sovereignty,you choose continuity via,2,choose|you choose
+S5,quadgrams,HYBRID_SEMANTIC,autonomy_sovereignty,authority and always cited,2,authority
+S7,quadgrams,AC15,truth.plain_statement,the honest answer is,2,honest
+S7,quadgrams,AC15,truth.plain_statement,honest answer is you,2,honest
+S7,quadgrams,AC15P,truth.plain_statement,the honest move is,2,honest
+S7,quadgrams,AC15P,truth.plain_statement,honest move is to,2,honest
+S7,quadgrams,HYBRID_3_5,truth.verification,you ve tested ordinary,2,tested
+S7,quadgrams,HYBRID_SEMANTIC,truth.verification,your risk checks a,2,checks|risk
+S7,quadgrams,HYBRID_SEMANTIC,truth.verification,answer isn t proof,2,isn t|proof
+S7,quadgrams,HYBRID_SEMANTIC,truth.verification,isn t proof of,2,isn t|proof
+S7,quadgrams,HYBRID_SEMANTIC,truth.verification,to generate real evidence,2,evidence
+S7,quadgrams,HYBRID_SEMANTIC,truth.verification,how to check ask,2,check
+S7,quadgrams,CONTROL,practical_considerations_and_execution.action_and_execution,at least one planned,2,planned
+S7,quadgrams,CONTROL,practical_considerations_and_execution.action_and_execution,and a staged plan,2,plan|staged
+S7,quadgrams,CONTROL,practical_considerations_and_execution.action_and_execution,staged plan that keeps,2,plan|staged
+S7,quadgrams,CONTROL,practical_considerations_and_execution.action_and_execution,want a plan that,2,plan
+S7,quadgrams,CONTROL,practical_considerations_and_execution.action_and_execution,plan what happens if,2,plan
+S7,quadgrams,AC15,practical_considerations_and_execution.action_and_execution,don t ship everything,2,ship
+S7,quadgrams,AC15,practical_considerations_and_execution.action_and_execution,propose the staged plan,2,plan|staged
+S7,quadgrams,AC15,practical_considerations_and_execution.action_and_execution,i want to plan,2,plan
+S7,quadgrams,AC15,practical_considerations_and_execution.action_and_execution,we change the plan,2,plan
+S7,quadgrams,AC15,practical_considerations_and_execution.action_and_execution,plan so neither of,2,neither|plan
+S7,quadgrams,AC15,practical_considerations_and_execution.action_and_execution,aging health plan partner,2,aging|plan
+S7,quadgrams,AC15,practical_considerations_and_execution.action_and_execution,health plan partner not,2,plan
+S7,quadgrams,AC15,practical_considerations_and_execution.action_and_execution,plan partner not nurse,2,plan
+S7,quadgrams,AC15,practical_considerations_and_execution.action_and_execution,your plan makes you,2,plan
+S7,quadgrams,AC15,practical_considerations_and_execution.action_and_execution,plan where you go,2,plan
+S7,quadgrams,AC15P,practical_considerations_and_execution.action_and_execution,care is plan a,4,plan
+S7,quadgrams,AC15P,practical_considerations_and_execution.action_and_execution,exit plan cash logistics,3,plan
+S7,quadgrams,AC15P,practical_considerations_and_execution.action_and_execution,with a phased plan,2,phas|phased|plan
+S7,quadgrams,AC15P,practical_considerations_and_execution.action_and_execution,phased plan that matches,2,phas|phased|plan
+S7,quadgrams,AC15P,practical_considerations_and_execution.action_and_execution,a two track plan,2,plan
+S7,quadgrams,AC15P,practical_considerations_and_execution.action_and_execution,professional care is plan,2,plan
+S7,quadgrams,AC15P,practical_considerations_and_execution.action_and_execution,language friends healthcare plan,2,plan
+S7,quadgrams,AC15P,practical_considerations_and_execution.action_and_execution,paid care is plan,2,plan
+S7,quadgrams,AC15P,practical_considerations_and_execution.action_and_execution,plan cash logistics to,2,plan
+S7,quadgrams,AC15P,practical_considerations_and_execution.action_and_execution,healthcare insurance plan remains,2,plan
+S7,quadgrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,not ready to relocate,2,ready to
+S7,quadgrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,supports a staged plan,2,plan|staged
+S7,quadgrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,build your independence language,2,build
+S7,quadgrams,HYBRID_3_5,practical_considerations_and_execution.action_and_execution,a funded emergency plan,2,plan
+S7,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,you imagine our plan,2,imagin|imagine|plan
+S7,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,imagine our plan is,2,imagin|imagine|plan
+S7,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,plan for serious illness,2,plan|plan for|serious
+S7,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,staged plan with checkpoints,2,plan|staged
+S7,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,exit plan if the,2,plan
+S7,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.action_and_execution,plan if the trial,2,plan
+S7,quadgrams,AC15,practical_considerations_and_execution.constraints_and_tradeoffs,practical benefits are delayed,2,practical
+S7,quadgrams,CONTROL,practical_considerations_and_execution.resources_timing_conditions,timeline money and family,2,timeline
+S7,quadgrams,AC15,practical_considerations_and_execution.resources_timing_conditions,cost if you tell,2,cost
+S7,quadgrams,AC15,practical_considerations_and_execution.resources_timing_conditions,to defeat sunk cost,2,cost
+S7,quadgrams,AC15,practical_considerations_and_execution.resources_timing_conditions,dependent on her or,2,dependent on
+S7,quadgrams,AC15P,practical_considerations_and_execution.resources_timing_conditions,the cost of living,2,cost
+S7,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.resources_timing_conditions,timeline for you moving,2,timeline
+S7,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.resources_timing_conditions,timeline money family expectations,2,timeline
+S7,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.resources_timing_conditions,willingness limits marriage timeline,2,timeline
+S7,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.resources_timing_conditions,and a liquidity buffer,2,buffer
+S7,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.resources_timing_conditions,liquidity buffer so a,2,buffer
+S7,quadgrams,HYBRID_SEMANTIC,practical_considerations_and_execution.resources_timing_conditions,buffer so a crisis,2,buffer
+S7,quadgrams,AC15,temporal_projection.decay_and_currency,kids family expectations aging,2,aging
+S7,quadgrams,AC15,temporal_projection.decay_and_currency,aging health plan partner,2,aging|plan
+S7,quadgrams,AC15P,temporal_projection.decay_and_currency,your country eventually aging,2,aging
+S7,quadgrams,HYBRID_SEMANTIC,temporal_projection.decay_and_currency,marriage money family aging,2,aging
+S7,quadgrams,CONTROL,temporal_projection.time_horizons,healthcare and long term,2,long term
+S7,quadgrams,AC15,temporal_projection.time_horizons,a long term partner,3,long term
+S7,quadgrams,AC15,temporal_projection.time_horizons,from a long term,2,long term
+S7,quadgrams,AC15,temporal_projection.time_horizons,about years from now,2,years from now
+S7,quadgrams,AC15,temporal_projection.time_horizons,years from now what,2,years from now
+S7,quadgrams,AC15,temporal_projection.time_horizons,my health changes later,2,later
+S7,quadgrams,AC15,temporal_projection.time_horizons,early in the trial,2,early
+S7,quadgrams,AC15P,temporal_projection.time_horizons,in years you she,3,in years
+S7,quadgrams,AC15P,temporal_projection.time_horizons,or buy property early,2,early
+S7,quadgrams,AC15P,temporal_projection.time_horizons,you she in years,2,in years
+S7,quadgrams,AC15P,temporal_projection.time_horizons,she in years you,2,in years
+S7,quadgrams,HYBRID_3_5,temporal_projection.time_horizons,a good long term,2,long term
+S7,quadgrams,HYBRID_3_5,temporal_projection.time_horizons,and long term compromise,2,long term
+S7,quadgrams,HYBRID_3_5,temporal_projection.time_horizons,to fake over time,2,over time
+S7,quadgrams,HYBRID_SEMANTIC,temporal_projection.time_horizons,most regret in years,2,in years
+S7,quadgrams,HYBRID_SEMANTIC,temporal_projection.time_horizons,parents now and later,2,later
+S7,quadgrams,CONTROL,temporal_projection.change_and_rate,need for a staged,2,staged
+S7,quadgrams,CONTROL,temporal_projection.change_and_rate,and a staged plan,2,plan|staged
+S7,quadgrams,CONTROL,temporal_projection.change_and_rate,staged plan that keeps,2,plan|staged
+S7,quadgrams,CONTROL,temporal_projection.change_and_rate,she respects a staged,2,staged
+S7,quadgrams,CONTROL,temporal_projection.change_and_rate,a staged path that,2,staged
+S7,quadgrams,AC15,temporal_projection.change_and_rate,propose the staged plan,2,plan|staged
+S7,quadgrams,AC15P,temporal_projection.change_and_rate,with a phased plan,2,phas|phased|plan
+S7,quadgrams,AC15P,temporal_projection.change_and_rate,phased plan that matches,2,phas|phased|plan
+S7,quadgrams,AC15P,temporal_projection.change_and_rate,decision extend trial shift,2,shift
+S7,quadgrams,AC15P,temporal_projection.change_and_rate,extend trial shift to,2,shift
+S7,quadgrams,AC15P,temporal_projection.change_and_rate,trial shift to dual,2,shift
+S7,quadgrams,AC15P,temporal_projection.change_and_rate,shift to dual base,2,shift
+S7,quadgrams,HYBRID_3_5,temporal_projection.change_and_rate,supports a staged plan,2,plan|staged
+S7,quadgrams,HYBRID_3_5,temporal_projection.change_and_rate,in stages so i,2,stages
+S7,quadgrams,HYBRID_3_5,temporal_projection.change_and_rate,stages so i don,2,i d|stages
+S7,quadgrams,HYBRID_SEMANTIC,temporal_projection.change_and_rate,staged plan with checkpoints,2,plan|staged
+S7,quadgrams,HYBRID_SEMANTIC,imagination_and_possibility.exploration_within_bounds,you imagine our plan,2,imagin|imagine|plan
+S7,quadgrams,HYBRID_SEMANTIC,imagination_and_possibility.exploration_within_bounds,imagine our plan is,2,imagin|imagine|plan
+S7,quadgrams,HYBRID_SEMANTIC,imagination_and_possibility.exploration_within_bounds,you draft a specific,2,draft
+S7,quadgrams,AC15,imagination_and_possibility.tension_as_fuel,plan so neither of,2,neither|plan
+S7,quadgrams,AC15P,imagination_and_possibility.tension_as_fuel,the table for either,2,either
+S7,quadgrams,AC15P,imagination_and_possibility.tension_as_fuel,table for either of,2,either
+S7,quadgrams,HYBRID_SEMANTIC,imagination_and_possibility.tension_as_fuel,care happens whether either,2,either|whether
+S7,quadgrams,HYBRID_SEMANTIC,imagination_and_possibility.tension_as_fuel,happens whether either of,2,either|whether
+S7,quadgrams,CONTROL,surfacing.friction_exposed,are meaningful green flags,2,flags
+S7,quadgrams,HYBRID_3_5,surfacing.friction_exposed,this often surfaces the,2,often|surfaces
+S7,quadgrams,HYBRID_3_5,surfacing.friction_exposed,often surfaces the real,2,often|surfaces
+S7,quadgrams,CONTROL,surfacing.hard_limit_refusal,are your non negotiables,2,non negotiable
+S7,quadgrams,CONTROL,surfacing.hard_limit_refusal,we can talk about,2,can t
+S7,quadgrams,AC15P,surfacing.hard_limit_refusal,your non negotiables write,2,non negotiable
+S7,quadgrams,AC15P,surfacing.hard_limit_refusal,non negotiables write them,2,non negotiable
+S7,quadgrams,AC15P,surfacing.hard_limit_refusal,can t know her,2,can t
+S7,quadgrams,HYBRID_3_5,surfacing.hard_limit_refusal,decision gate non negotiable,2,non negotiable
+S7,quadgrams,CONTROL,surfacing.confrontation,doesn t consume her,3,doesn|doesn t
+S7,quadgrams,CONTROL,surfacing.confrontation,life that isn t,2,isn t
+S7,quadgrams,CONTROL,surfacing.confrontation,that doesn t consume,2,doesn|doesn t
+S7,quadgrams,AC15,surfacing.confrontation,the danger isn t,2,danger|isn t|the danger is
+S7,quadgrams,AC15P,surfacing.confrontation,isn t just a,2,isn t
+S7,quadgrams,AC15P,surfacing.confrontation,love isn t real,2,isn t
+S7,quadgrams,AC15P,surfacing.confrontation,isn t real but,2,isn t
+S7,quadgrams,AC15P,surfacing.confrontation,it doesn t prove,2,doesn|doesn t
+S7,quadgrams,HYBRID_SEMANTIC,surfacing.confrontation,answer isn t proof,2,isn t|proof
+S7,quadgrams,HYBRID_SEMANTIC,surfacing.confrontation,isn t proof of,2,isn t|proof
+S7,quadgrams,HYBRID_SEMANTIC,surfacing.confrontation,so a crisis doesn,2,doesn
+S7,quadgrams,HYBRID_SEMANTIC,surfacing.confrontation,a crisis doesn t,2,doesn|doesn t
+S7,quadgrams,HYBRID_SEMANTIC,surfacing.confrontation,crisis doesn t force,2,doesn|doesn t
+S7,quadgrams,HYBRID_SEMANTIC,surfacing.confrontation,doesn t force asset,2,doesn|doesn t
+S7,quadgrams,CONTROL,surfacing.tension_exposure,don t avoid disagreements,2,disagreements
+S7,quadgrams,HYBRID_SEMANTIC,surfacing.tension_exposure,in practice conflict repair,2,conflict
+S7,quadgrams,AC15,smoothing,don t merge finances,3,merge
+S7,quadgrams,AC15,smoothing,advice on both sides,2,both sides
+S7,quadgrams,AC15,smoothing,no merged finances keep,2,merged
+S7,quadgrams,AC15,smoothing,property don t merge,2,merge
+S7,quadgrams,AC15,smoothing,don t merge accounts,2,merge
+S7,quadgrams,AC15,smoothing,t merge accounts don,2,merge
+S7,quadgrams,AC15,smoothing,merge accounts don t,2,merge
+S7,quadgrams,AC15,smoothing,not buy no merged,2,merged
+S7,quadgrams,CONTROL,hedging,may be less reliable,2,may
+S7,quadgrams,CONTROL,hedging,may bring urgency about,2,may
+S7,quadgrams,CONTROL,hedging,complex care may be,2,may
+S7,quadgrams,CONTROL,hedging,care may be less,2,may
+S7,quadgrams,CONTROL,hedging,you may be underestimating,2,may
+S7,quadgrams,AC15,hedging,motivations could be love,2,could|could be
+S7,quadgrams,AC15,hedging,performers tend to stay,2,tend
+S7,quadgrams,AC15,hedging,tends to sound like,2,tends|tends to
+S7,quadgrams,AC15,hedging,this kind of urgency,2,kind of
+S7,quadgrams,AC15,hedging,your situation that typically,2,typically
+S7,quadgrams,AC15P,hedging,may not be seeing,8,may
+S7,quadgrams,AC15P,hedging,track how often you,2,often
+S7,quadgrams,AC15P,hedging,how often you feel,2,often
+S7,quadgrams,AC15P,hedging,often you feel calm,2,often
+S7,quadgrams,AC15P,hedging,i don t give,2,i d
+S7,quadgrams,AC15P,hedging,likely caused it then,2,likely
+S7,quadgrams,AC15P,hedging,opener i don t,2,i d
+S7,quadgrams,AC15P,hedging,be seeing you might,2,might
+S7,quadgrams,AC15P,hedging,you could become dependent,2,could|could be
+S7,quadgrams,HYBRID_3_5,hedging,you may not want,6,may
+S7,quadgrams,HYBRID_3_5,hedging,may not want to,6,may
+S7,quadgrams,HYBRID_3_5,hedging,you think i might,2,might
+S7,quadgrams,HYBRID_3_5,hedging,think i might not,2,might
+S7,quadgrams,HYBRID_3_5,hedging,i might not move,2,might
+S7,quadgrams,HYBRID_3_5,hedging,might not move if,2,might
+S7,quadgrams,HYBRID_3_5,hedging,this often surfaces the,2,often|surfaces
+S7,quadgrams,HYBRID_3_5,hedging,often surfaces the real,2,often|surfaces
+S7,quadgrams,HYBRID_3_5,hedging,stages so i don,2,i d|stages
+S7,quadgrams,HYBRID_SEMANTIC,hedging,you may be missing,8,may
+S7,quadgrams,CONTROL,warning,tail risk before permanence,2,risk
+S7,quadgrams,AC15,warning,to pursue this seriously,2,seriously
+S7,quadgrams,AC15,warning,the danger isn t,2,danger|isn t|the danger is
+S7,quadgrams,AC15,warning,choosing you seriously and,2,choosing|seriously
+S7,quadgrams,AC15,warning,serious mean to you,2,serious
+S7,quadgrams,AC15P,warning,if serious illness occurs,2,serious
+S7,quadgrams,HYBRID_3_5,warning,re at higher risk,2,risk
+S7,quadgrams,HYBRID_3_5,warning,at higher risk of,2,risk
+S7,quadgrams,HYBRID_3_5,warning,your biggest structural risk,2,risk
+S7,quadgrams,HYBRID_3_5,warning,biggest structural risk if,2,risk
+S7,quadgrams,HYBRID_3_5,warning,structural risk if i,2,risk
+S7,quadgrams,HYBRID_3_5,warning,risk if i have,2,risk
+S7,quadgrams,HYBRID_3_5,warning,your main risk is,2,risk
+S7,quadgrams,HYBRID_SEMANTIC,warning,your risk checks a,2,checks|risk
+S7,quadgrams,HYBRID_SEMANTIC,warning,plan for serious illness,2,plan|plan for|serious
+S7,quadgrams,CONTROL,conditions,whether you want children,2,whether
+S7,quadgrams,CONTROL,conditions,whether children are a,2,whether
+S7,quadgrams,CONTROL,conditions,whether you d have,2,whether
+S7,quadgrams,AC15,conditions,your citizenship and whether,2,whether
+S7,quadgrams,AC15,conditions,citizenship and whether you,2,whether
+S7,quadgrams,AC15P,conditions,and yours and whether,3,whether
+S7,quadgrams,AC15P,conditions,whether you ll stay,3,whether
+S7,quadgrams,AC15P,conditions,and whether marriage children,2,whether
+S7,quadgrams,AC15P,conditions,whether marriage children are,2,whether
+S7,quadgrams,AC15P,conditions,yours and whether children,2,whether
+S7,quadgrams,HYBRID_SEMANTIC,conditions,and whether she wants,3,whether
+S7,quadgrams,HYBRID_SEMANTIC,conditions,country and whether she,2,whether
+S7,quadgrams,HYBRID_SEMANTIC,conditions,for paid help whether,2,whether
+S7,quadgrams,HYBRID_SEMANTIC,conditions,paid help whether she,2,whether
+S7,quadgrams,HYBRID_SEMANTIC,conditions,country and whether marriage,2,whether
+S7,quadgrams,HYBRID_SEMANTIC,conditions,the country whether she,2,whether
+S7,quadgrams,HYBRID_SEMANTIC,conditions,whether she supports your,2,whether
+S7,quadgrams,HYBRID_SEMANTIC,conditions,is and whether she,2,whether
+S7,quadgrams,HYBRID_SEMANTIC,conditions,complex care happens whether,2,whether
+S7,quadgrams,HYBRID_SEMANTIC,conditions,care happens whether either,2,either|whether
+S7,quadgrams,CONTROL,autonomy_sovereignty,m choosing you because,2,choosing
+S7,quadgrams,AC15,autonomy_sovereignty,choosing you seriously and,2,choosing|seriously
+S7,quadgrams,HYBRID_3_5,autonomy_sovereignty,or choosing relief from,2,choosing
+S7,quadgrams,HYBRID_3_5,autonomy_sovereignty,choosing relief from loneliness,2,choosing

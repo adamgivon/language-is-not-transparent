@@ -1,0 +1,11 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+doesn t steer,2,AC15,S5,trigrams,doesn steer,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn|doesn t,False
+doesn t mean,2,AC15,S5,trigrams,doesn mean,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn|doesn t,False
+convention hasn t,2,AC15,S5,trigrams,convention hasn,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,hasn t,False
+hasn t been,2,AC15,S5,trigrams,hasn been,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,hasn t,False
+canonize a wrong,2,AC15P,S5,trigrams,canonize wrong,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,wrong,False
+a wrong conclusion,2,AC15P,S5,trigrams,wrong conclusion,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,wrong,False
+wrong and sticky,3,CONTROL,S5,trigrams,wrong sticky,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,wrong,False
+code that doesn,2,HYBRID_SEMANTIC,S5,trigrams,code doesn,2,,0,,code,1,0.5,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn,False
+doesn t compile,2,HYBRID_SEMANTIC,S5,trigrams,doesn compile,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn|doesn t,False
+confidently remembered wrong,2,HYBRID_SEMANTIC,S5,trigrams,confidently remembered wrong,3,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,wrong,False

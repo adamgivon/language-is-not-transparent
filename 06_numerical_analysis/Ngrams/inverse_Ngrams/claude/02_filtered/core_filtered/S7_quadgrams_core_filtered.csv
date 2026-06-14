@@ -1,0 +1,701 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy
+keep an exit fund,7,AC15,S7,quadgrams,keep exit fund,3,,0,,,0,0.0,False
+an exit fund don,5,AC15,S7,quadgrams,exit fund,2,,0,,,0,0.0,False
+exit fund don t,5,AC15,S7,quadgrams,exit fund,2,,0,,,0,0.0,False
+week ordinary life stay,5,AC15,S7,quadgrams,week ordinary life stay,4,,0,,,0,0.0,False
+an exit fund and,5,AC15,S7,quadgrams,exit fund,2,,0,,,0,0.0,False
+a long term partner,3,AC15,S7,quadgrams,long term partner,3,temporal_dynamics,1,long term,partner,1,0.3333333333333333,False
+family expect from a,3,AC15,S7,quadgrams,family expect,2,,0,,,0,0.0,False
+don t merge finances,3,AC15,S7,quadgrams,merge finances,2,,0,,,0,0.0,False
+get independent legal advice,3,AC15,S7,quadgrams,get independent legal advice,4,,0,,,0,0.0,False
+and your citizenship i,3,AC15,S7,quadgrams,citizenship i,2,,0,,citizenship,1,0.5,False
+your citizenship i can,3,AC15,S7,quadgrams,citizenship i,2,,0,,citizenship,1,0.5,False
+an week ordinary life,3,AC15,S7,quadgrams,week ordinary life,3,,0,,,0,0.0,False
+maintain an exit fund,3,AC15,S7,quadgrams,maintain exit fund,3,,0,,,0,0.0,False
+exit fund and a,3,AC15,S7,quadgrams,exit fund,2,,0,,,0,0.0,False
+weekly activity without her,3,AC15,S7,quadgrams,weekly activity without her,4,,0,,,0,0.0,False
+from a long term,2,AC15,S7,quadgrams,long term,2,temporal_dynamics,1,long term,,0,0.0,False
+the honest answer is,2,AC15,S7,quadgrams,honest answer,2,truth_and_fact,1,honest,,0,0.0,False
+honest answer is you,2,AC15,S7,quadgrams,honest answer,2,truth_and_fact,1,honest,,0,0.0,False
+practical benefits are delayed,2,AC15,S7,quadgrams,practical benefits delayed,3,practicality_and_feasibility,1,practical,,0,0.0,False
+cost if you tell,2,AC15,S7,quadgrams,cost tell,2,practicality_and_feasibility,1,cost,,0,0.0,False
+to defeat sunk cost,2,AC15,S7,quadgrams,defeat sunk cost,3,practicality_and_feasibility,1,cost,,0,0.0,False
+be genuine and still,2,AC15,S7,quadgrams,genuine still,2,,0,,genuine,1,0.5,False
+motivations could be love,2,AC15,S7,quadgrams,motivations could love,3,,0,,love|motivations,2,0.6666666666666666,False
+i live there what,2,AC15,S7,quadgrams,i live,2,,0,,,0,0.0,False
+exclusive what counts as,2,AC15,S7,quadgrams,exclusive counts,2,,0,,,0,0.0,False
+what counts as cheating,2,AC15,S7,quadgrams,counts cheating,2,,0,,,0,0.0,False
+counts as cheating how,2,AC15,S7,quadgrams,counts cheating how,3,,0,,,0,0.0,False
+as cheating how do,2,AC15,S7,quadgrams,cheating how,2,,0,,,0,0.0,False
+what does her family,2,AC15,S7,quadgrams,does her family,3,,0,,,0,0.0,False
+does her family expect,2,AC15,S7,quadgrams,does her family expect,4,,0,,,0,0.0,False
+her family expect from,2,AC15,S7,quadgrams,her family expect,3,,0,,,0,0.0,False
+expect from a long,2,AC15,S7,quadgrams,expect long,2,,0,,,0,0.0,False
+not just curated introductions,2,AC15,S7,quadgrams,just curated introductions,3,,0,,,0,0.0,False
+your home base if,2,AC15,S7,quadgrams,home base,2,,0,,,0,0.0,False
+don t ship everything,2,AC15,S7,quadgrams,ship everything,2,,0,,,0,0.0,False
+will beneficiaries medical power,2,AC15,S7,quadgrams,will beneficiaries medical power,4,,0,,medical,1,0.25,False
+beneficiaries medical power of,2,AC15,S7,quadgrams,beneficiaries medical power,3,,0,,medical,1,0.3333333333333333,False
+if marriage becomes real,2,AC15,S7,quadgrams,marriage becomes real,3,,0,,marriage,1,0.3333333333333333,False
+independent legal advice on,2,AC15,S7,quadgrams,independent legal advice,3,,0,,,0,0.0,False
+legal advice on both,2,AC15,S7,quadgrams,legal advice both,3,,0,,,0,0.0,False
+advice on both sides,2,AC15,S7,quadgrams,advice both sides,3,,0,,,0,0.0,False
+want to pursue this,2,AC15,S7,quadgrams,want pursue,2,,0,,,0,0.0,False
+to pursue this seriously,2,AC15,S7,quadgrams,pursue seriously,2,,0,,,0,0.0,False
+money marriage kids family,2,AC15,S7,quadgrams,money marriage kids family,4,,0,,marriage,1,0.25,False
+marriage kids family expectations,2,AC15,S7,quadgrams,marriage kids family expectations,4,,0,,marriage,1,0.25,False
+kids family expectations aging,2,AC15,S7,quadgrams,kids family expectations aging,4,,0,,aging,1,0.25,False
+ordinary life stay weeks,2,AC15,S7,quadgrams,ordinary life stay weeks,4,,0,,,0,0.0,False
+no merged finances keep,2,AC15,S7,quadgrams,no merged finances keep,4,,0,,,0,0.0,False
+what i m afraid,2,AC15,S7,quadgrams,i m afraid,3,,0,,,0,0.0,False
+propose the staged plan,2,AC15,S7,quadgrams,propose staged plan,3,,0,,,0,0.0,False
+a purely extractive dynamic,2,AC15,S7,quadgrams,purely extractive dynamic,3,,0,,,0,0.0,False
+even sincere people can,2,AC15,S7,quadgrams,even sincere people,3,,0,,,0,0.0,False
+work normal hours handle,2,AC15,S7,quadgrams,work normal hours handle,4,,0,,,0,0.0,False
+t buy property don,2,AC15,S7,quadgrams,buy property,2,,0,,,0,0.0,False
+buy property don t,2,AC15,S7,quadgrams,buy property,2,,0,,,0,0.0,False
+property don t merge,2,AC15,S7,quadgrams,property merge,2,,0,,,0,0.0,False
+don t merge accounts,2,AC15,S7,quadgrams,merge accounts,2,,0,,,0,0.0,False
+t merge accounts don,2,AC15,S7,quadgrams,merge accounts,2,,0,,,0,0.0,False
+merge accounts don t,2,AC15,S7,quadgrams,merge accounts,2,,0,,,0,0.0,False
+irreversible commitments only after,2,AC15,S7,quadgrams,irreversible commitments after,3,,0,,,0,0.0,False
+i want to plan,2,AC15,S7,quadgrams,i want plan,3,,0,,,0,0.0,False
+longer trial stay before,2,AC15,S7,quadgrams,longer trial stay before,4,,0,,,0,0.0,False
+permanent move if she,2,AC15,S7,quadgrams,permanent move she,3,,0,,,0,0.0,False
+how would we split,2,AC15,S7,quadgrams,how split,2,,0,,,0,0.0,False
+specific even if they,2,AC15,S7,quadgrams,specific even they,3,,0,,,0,0.0,False
+did how she handled,2,AC15,S7,quadgrams,did how she handled,4,,0,,,0,0.0,False
+how she handled stress,2,AC15,S7,quadgrams,how she handled stress,4,,0,,,0,0.0,False
+she handled stress money,2,AC15,S7,quadgrams,she handled stress money,4,,0,,,0,0.0,False
+handled stress money moments,2,AC15,S7,quadgrams,handled stress money moments,4,,0,,,0,0.0,False
+citizenship i can suggest,2,AC15,S7,quadgrams,citizenship i suggest,3,,0,,citizenship,1,0.3333333333333333,False
+family obligations marriage kids,2,AC15,S7,quadgrams,family obligations marriage kids,4,,0,,marriage,1,0.25,False
+toward your parents siblings,2,AC15,S7,quadgrams,toward parents siblings,3,,0,,,0,0.0,False
+your parents siblings if,2,AC15,S7,quadgrams,parents siblings,2,,0,,,0,0.0,False
+performers tend to stay,2,AC15,S7,quadgrams,performers tend stay,3,,0,,,0,0.0,False
+dependent on her or,2,AC15,S7,quadgrams,dependent her,2,,0,,,0,0.0,False
+until you ve seen,2,AC15,S7,quadgrams,until seen,2,,0,,,0,0.0,False
+we return to my,2,AC15,S7,quadgrams,return my,2,,0,,,0,0.0,False
+we change the plan,2,AC15,S7,quadgrams,change plan,2,,0,,,0,0.0,False
+does she still want,2,AC15,S7,quadgrams,does she still want,4,,0,,,0,0.0,False
+she still want this,2,AC15,S7,quadgrams,she still want,3,,0,,,0,0.0,False
+still want this if,2,AC15,S7,quadgrams,still want,2,,0,,,0,0.0,False
+plan so neither of,2,AC15,S7,quadgrams,plan neither,2,,0,,,0,0.0,False
+one reputable hospital near,2,AC15,S7,quadgrams,one reputable hospital near,4,,0,,,0,0.0,False
+not ready for full,2,AC15,S7,quadgrams,ready full,2,,0,,,0,0.0,False
+ready for full relocation,2,AC15,S7,quadgrams,ready full relocation,3,,0,,relocat|relocation,2,0.3333333333333333,False
+a regional medical hub,2,AC15,S7,quadgrams,regional medical hub,3,,0,,medical,1,0.3333333333333333,False
+longer stay only after,2,AC15,S7,quadgrams,longer stay after,3,,0,,,0,0.0,False
+alignment talks money family,2,AC15,S7,quadgrams,alignment talks money family,4,,0,,,0,0.0,False
+talks money family marriage,2,AC15,S7,quadgrams,talks money family marriage,4,,0,,marriage,1,0.25,False
+money family marriage children,2,AC15,S7,quadgrams,money family marriage children,4,,0,,marriage|children,2,0.5,False
+the country your citizenship,2,AC15,S7,quadgrams,country citizenship,2,,0,,citizenship,1,0.5,False
+country your citizenship and,2,AC15,S7,quadgrams,country citizenship,2,,0,,citizenship,1,0.5,False
+your citizenship and whether,2,AC15,S7,quadgrams,citizenship whether,2,,0,,citizenship,1,0.5,False
+citizenship and whether you,2,AC15,S7,quadgrams,citizenship whether,2,,0,,citizenship,1,0.5,False
+gives her a chance,2,AC15,S7,quadgrams,gives her chance,3,,0,,,0,0.0,False
+her a chance to,2,AC15,S7,quadgrams,her chance,2,,0,,,0,0.0,False
+about our age difference,2,AC15,S7,quadgrams,about our age difference,4,,0,,,0,0.0,False
+when you think about,2,AC15,S7,quadgrams,think about,2,,0,,,0,0.0,False
+you think about years,2,AC15,S7,quadgrams,think about years,3,,0,,,0,0.0,False
+think about years from,2,AC15,S7,quadgrams,think about years,3,,0,,,0,0.0,False
+about years from now,2,AC15,S7,quadgrams,about years now,3,,0,,,0,0.0,False
+years from now what,2,AC15,S7,quadgrams,years now,2,,0,,,0,0.0,False
+my health changes later,2,AC15,S7,quadgrams,my health changes later,4,,0,,health,1,0.25,False
+don t buy keep,2,AC15,S7,quadgrams,buy keep,2,,0,,,0,0.0,False
+t buy keep an,2,AC15,S7,quadgrams,buy keep,2,,0,,,0,0.0,False
+buy keep an exit,2,AC15,S7,quadgrams,buy keep exit,3,,0,,,0,0.0,False
+the danger isn t,2,AC15,S7,quadgrams,danger isn,2,,0,,,0,0.0,False
+one week ordinary life,2,AC15,S7,quadgrams,one week ordinary life,4,,0,,,0,0.0,False
+choosing you seriously and,2,AC15,S7,quadgrams,choosing seriously,2,,0,,,0,0.0,False
+tends to sound like,2,AC15,S7,quadgrams,tends sound like,3,,0,,,0,0.0,False
+this kind of urgency,2,AC15,S7,quadgrams,kind urgency,2,,0,,,0,0.0,False
+rent not buy no,2,AC15,S7,quadgrams,rent buy no,3,,0,,,0,0.0,False
+not buy no merged,2,AC15,S7,quadgrams,buy no merged,3,,0,,,0,0.0,False
+fund don t sever,2,AC15,S7,quadgrams,fund sever,2,,0,,,0,0.0,False
+don t sever home,2,AC15,S7,quadgrams,sever home,2,,0,,,0,0.0,False
+your situation that typically,2,AC15,S7,quadgrams,situation typically,2,,0,,,0,0.0,False
+the next decision gate,2,AC15,S7,quadgrams,next decision gate,3,,0,,,0,0.0,False
+emergency fund target if,2,AC15,S7,quadgrams,emergency fund target,3,,0,,,0,0.0,False
+fund target if you,2,AC15,S7,quadgrams,fund target,2,,0,,,0,0.0,False
+serious mean to you,2,AC15,S7,quadgrams,serious mean,2,,0,,,0,0.0,False
+you d keep your,2,AC15,S7,quadgrams,d keep,2,,0,,,0,0.0,False
+d keep your home,2,AC15,S7,quadgrams,d keep home,3,,0,,,0,0.0,False
+if she says she,2,AC15,S7,quadgrams,she says she,3,,0,,,0,0.0,False
+increase information more than,2,AC15,S7,quadgrams,increase information more than,4,,0,,,0,0.0,False
+fund and a clear,2,AC15,S7,quadgrams,fund clear,2,,0,,,0,0.0,False
+early in the trial,2,AC15,S7,quadgrams,early trial,2,,0,,,0,0.0,False
+aging health plan partner,2,AC15,S7,quadgrams,aging health plan partner,4,,0,,partner|aging|health,3,0.75,True
+health plan partner not,2,AC15,S7,quadgrams,health plan partner,3,,0,,partner|health,2,0.6666666666666666,False
+plan partner not nurse,2,AC15,S7,quadgrams,plan partner nurse,3,,0,,partner,1,0.3333333333333333,False
+to say yes or,2,AC15,S7,quadgrams,say yes,2,,0,,,0,0.0,False
+say yes or no,2,AC15,S7,quadgrams,say yes no,3,,0,,,0,0.0,False
+yes or no than,2,AC15,S7,quadgrams,yes no than,3,,0,,,0,0.0,False
+or no than i,2,AC15,S7,quadgrams,no than i,3,,0,,,0,0.0,False
+your plan makes you,2,AC15,S7,quadgrams,plan makes,2,,0,,,0,0.0,False
+and have no network,2,AC15,S7,quadgrams,have no network,3,,0,,,0,0.0,False
+have no network she,2,AC15,S7,quadgrams,have no network she,4,,0,,,0,0.0,False
+no network she becomes,2,AC15,S7,quadgrams,no network she becomes,4,,0,,,0,0.0,False
+network she becomes your,2,AC15,S7,quadgrams,network she becomes,3,,0,,,0,0.0,False
+plan where you go,2,AC15,S7,quadgrams,plan where go,3,,0,,,0,0.0,False
+after the month trial,2,AC15,S7,quadgrams,after month trial,3,,0,,,0,0.0,False
+me what country city,2,AC15,S7,quadgrams,country city,2,,0,,,0,0.0,False
+what country city this,2,AC15,S7,quadgrams,country city,2,,0,,,0,0.0,False
+live together or separately,2,AC15,S7,quadgrams,live together separately,3,,0,,,0,0.0,False
+or separately i can,2,AC15,S7,quadgrams,separately i,2,,0,,,0,0.0,False
+reversibility keep your home,2,AC15,S7,quadgrams,reversibility keep home,3,,0,,,0,0.0,False
+marriage visa expectations and,2,AC15,S7,quadgrams,marriage visa expectations,3,,0,,marriage|visa,2,0.6666666666666666,False
+decision gates to defeat,2,AC15,S7,quadgrams,decision gates defeat,3,,0,,,0,0.0,False
+gates to defeat sunk,2,AC15,S7,quadgrams,gates defeat sunk,3,,0,,,0,0.0,False
+month trial is the,2,AC15,S7,quadgrams,month trial,2,,0,,,0,0.0,False
+trial is the right,2,AC15,S7,quadgrams,trial right,2,,0,,,0,0.0,False
+what worked what didn,2,AC15,S7,quadgrams,worked didn,2,,0,,,0,0.0,False
+worked what didn t,2,AC15,S7,quadgrams,worked didn,2,,0,,,0,0.0,False
+didn t what must,2,AC15,S7,quadgrams,didn must,2,,0,,,0,0.0,False
+t what must change,2,AC15,S7,quadgrams,must change,2,,0,,,0,0.0,False
+may not be seeing,8,AC15P,S7,quadgrams,may seeing,2,,0,,,0,0.0,False
+your home country and,7,AC15P,S7,quadgrams,home country,2,,0,,,0,0.0,False
+can afford alone in,4,AC15P,S7,quadgrams,afford alone,2,,0,,alone,1,0.5,False
+afford alone in your,4,AC15P,S7,quadgrams,afford alone,2,,0,,alone,1,0.5,False
+alone in your name,4,AC15P,S7,quadgrams,alone name,2,,0,,alone,1,0.5,False
+care is plan a,4,AC15P,S7,quadgrams,care plan,2,,0,,,0,0.0,False
+or rent your own,4,AC15P,S7,quadgrams,rent own,2,,0,,,0,0.0,False
+with a clear exit,3,AC15P,S7,quadgrams,clear exit,2,,0,,,0,0.0,False
+rental in your name,3,AC15P,S7,quadgrams,rental name,2,,0,,,0,0.0,False
+in your name separate,3,AC15P,S7,quadgrams,name separate,2,,0,,,0,0.0,False
+your name separate finances,3,AC15P,S7,quadgrams,name separate finances,3,,0,,,0,0.0,False
+and yours and whether,3,AC15P,S7,quadgrams,yours whether,2,,0,,,0,0.0,False
+in years you she,3,AC15P,S7,quadgrams,years she,2,,0,,,0,0.0,False
+home country and hers,3,AC15P,S7,quadgrams,home country hers,3,,0,,,0,0.0,False
+activities not centered on,3,AC15P,S7,quadgrams,activities centered,2,,0,,,0,0.0,False
+marriage money model family,3,AC15P,S7,quadgrams,marriage money model family,4,,0,,marriage,1,0.25,False
+money model family obligations,3,AC15P,S7,quadgrams,money model family obligations,4,,0,,,0,0.0,False
+last chance pressure is,3,AC15P,S7,quadgrams,last chance pressure,3,,0,,last chance,1,0.6666666666666666,False
+separate finances no loans,3,AC15P,S7,quadgrams,separate finances no loans,4,,0,,,0,0.0,False
+exit plan cash logistics,3,AC15P,S7,quadgrams,exit plan cash logistics,4,,0,,,0,0.0,False
+checkpoints on the calendar,3,AC15P,S7,quadgrams,checkpoints calendar,2,,0,,,0,0.0,False
+whether you ll stay,3,AC15P,S7,quadgrams,whether ll stay,3,,0,,,0,0.0,False
+your own place and,3,AC15P,S7,quadgrams,own place,2,,0,,,0,0.0,False
+stay with her or,3,AC15P,S7,quadgrams,stay her,2,,0,,,0,0.0,False
+her or rent your,3,AC15P,S7,quadgrams,her rent,2,,0,,,0,0.0,False
+with a phased plan,2,AC15P,S7,quadgrams,phased plan,2,temporal_dynamics,1,phased,,0,0.0,False
+phased plan that matches,2,AC15P,S7,quadgrams,phased plan matches,3,temporal_dynamics,1,phased,,0,0.0,False
+the cost of living,2,AC15P,S7,quadgrams,cost living,2,practicality_and_feasibility,1,cost,,0,0.0,False
+decision extend trial shift,2,AC15P,S7,quadgrams,decision extend trial shift,4,temporal_dynamics,1,shift,,0,0.0,False
+extend trial shift to,2,AC15P,S7,quadgrams,extend trial shift,3,temporal_dynamics,1,shift,,0,0.0,False
+trial shift to dual,2,AC15P,S7,quadgrams,trial shift dual,3,temporal_dynamics,1,shift,,0,0.0,False
+shift to dual base,2,AC15P,S7,quadgrams,shift dual base,3,temporal_dynamics,1,shift,,0,0.0,False
+the honest move is,2,AC15P,S7,quadgrams,honest move,2,truth_and_fact,1,honest,,0,0.0,False
+honest move is to,2,AC15P,S7,quadgrams,honest move,2,truth_and_fact,1,honest,,0,0.0,False
+for your parents siblings,2,AC15P,S7,quadgrams,parents siblings,2,,0,,,0,0.0,False
+your parents siblings now,2,AC15P,S7,quadgrams,parents siblings now,3,,0,,,0,0.0,False
+name with a clear,2,AC15P,S7,quadgrams,name clear,2,,0,,,0,0.0,False
+track how often you,2,AC15P,S7,quadgrams,track how often,3,,0,,,0,0.0,False
+how often you feel,2,AC15P,S7,quadgrams,how often feel,3,,0,,,0,0.0,False
+often you feel calm,2,AC15P,S7,quadgrams,often feel calm,3,,0,,,0,0.0,False
+you feel calm vs,2,AC15P,S7,quadgrams,feel calm vs,3,,0,,,0,0.0,False
+a location where you,2,AC15P,S7,quadgrams,location where,2,,0,,,0,0.0,False
+location where you can,2,AC15P,S7,quadgrams,location where,2,,0,,,0,0.0,False
+describing is a classic,2,AC15P,S7,quadgrams,describing classic,2,,0,,,0,0.0,False
+your non negotiables write,2,AC15P,S7,quadgrams,non negotiables write,3,,0,,,0,0.0,False
+non negotiables write them,2,AC15P,S7,quadgrams,non negotiables write,3,,0,,,0,0.0,False
+clarity on kids marriage,2,AC15P,S7,quadgrams,clarity kids marriage,3,,0,,marriage,1,0.3333333333333333,False
+something you can afford,2,AC15P,S7,quadgrams,something afford,2,,0,,,0,0.0,False
+no shared property no,2,AC15P,S7,quadgrams,no shared property no,4,,0,,,0,0.0,False
+don t yet have,2,AC15P,S7,quadgrams,yet have,2,,0,,,0,0.0,False
+and whether marriage children,2,AC15P,S7,quadgrams,whether marriage children,3,,0,,marriage|children,2,0.6666666666666666,False
+whether marriage children are,2,AC15P,S7,quadgrams,whether marriage children,3,,0,,marriage|children,2,0.6666666666666666,False
+marriage children are on,2,AC15P,S7,quadgrams,marriage children,2,,0,,marriage|children,2,1.0,True
+the table for either,2,AC15P,S7,quadgrams,table either,2,,0,,,0,0.0,False
+table for either of,2,AC15P,S7,quadgrams,table either,2,,0,,,0,0.0,False
+help you translate this,2,AC15P,S7,quadgrams,help translate,2,,0,,,0,0.0,False
+is expected for parents,2,AC15P,S7,quadgrams,expected parents,2,,0,,,0,0.0,False
+expected for parents siblings,2,AC15P,S7,quadgrams,expected parents siblings,3,,0,,,0,0.0,False
+for parents siblings time,2,AC15P,S7,quadgrams,parents siblings time,3,,0,,,0,0.0,False
+parents siblings time housing,2,AC15P,S7,quadgrams,parents siblings time housing,4,,0,,,0,0.0,False
+siblings time housing money,2,AC15P,S7,quadgrams,siblings time housing money,4,,0,,,0,0.0,False
+property no large transfers,2,AC15P,S7,quadgrams,property no large transfers,4,,0,,,0,0.0,False
+a decision not just,2,AC15P,S7,quadgrams,decision just,2,,0,,,0,0.0,False
+her ability to stay,2,AC15P,S7,quadgrams,her ability stay,3,,0,,,0,0.0,False
+a two track plan,2,AC15P,S7,quadgrams,two track plan,3,,0,,,0,0.0,False
+i expect to observe,2,AC15P,S7,quadgrams,i expect observe,3,,0,,,0,0.0,False
+expect to observe if,2,AC15P,S7,quadgrams,expect observe,2,,0,,,0,0.0,False
+i don t give,2,AC15P,S7,quadgrams,i give,2,,0,,,0,0.0,False
+don t give loan,2,AC15P,S7,quadgrams,give loan,2,,0,,,0,0.0,False
+t give loan significant,2,AC15P,S7,quadgrams,give loan significant,3,,0,,,0,0.0,False
+give loan significant money,2,AC15P,S7,quadgrams,give loan significant money,4,,0,,,0,0.0,False
+loan significant money or,2,AC15P,S7,quadgrams,loan significant money,3,,0,,,0,0.0,False
+significant money or buy,2,AC15P,S7,quadgrams,significant money buy,3,,0,,,0,0.0,False
+money or buy property,2,AC15P,S7,quadgrams,money buy property,3,,0,,,0,0.0,False
+or buy property early,2,AC15P,S7,quadgrams,buy property early,3,,0,,,0,0.0,False
+family obligations what support,2,AC15P,S7,quadgrams,family obligations support,3,,0,,,0,0.0,False
+obligations what support is,2,AC15P,S7,quadgrams,obligations support,2,,0,,,0,0.0,False
+what support is expected,2,AC15P,S7,quadgrams,support expected,2,,0,,,0,0.0,False
+likely caused it then,2,AC15P,S7,quadgrams,likely caused then,3,,0,,,0,0.0,False
+grounded friends not cynics,2,AC15P,S7,quadgrams,grounded friends cynics,3,,0,,,0,0.0,False
+friends not cynics and,2,AC15P,S7,quadgrams,friends cynics,2,,0,,,0,0.0,False
+does affection remain when,2,AC15P,S7,quadgrams,does affection remain,3,,0,,affection,1,0.3333333333333333,False
+increasing urgency as commitment,2,AC15P,S7,quadgrams,increasing urgency commitment,3,,0,,,0,0.0,False
+then month trial stay,2,AC15P,S7,quadgrams,then month trial stay,4,,0,,,0,0.0,False
+yours and whether children,2,AC15P,S7,quadgrams,yours whether children,3,,0,,children,1,0.3333333333333333,False
+suggest the most relevant,2,AC15P,S7,quadgrams,suggest most relevant,3,,0,,,0,0.0,False
+years you she in,2,AC15P,S7,quadgrams,years she,2,,0,,,0,0.0,False
+you she in years,2,AC15P,S7,quadgrams,she years,2,,0,,,0,0.0,False
+she in years you,2,AC15P,S7,quadgrams,she years,2,,0,,,0,0.0,False
+fork in the road,2,AC15P,S7,quadgrams,fork road,2,,0,,,0,0.0,False
+ask yourself what would,2,AC15P,S7,quadgrams,ask yourself,2,,0,,,0,0.0,False
+yourself what would i,2,AC15P,S7,quadgrams,yourself i,2,,0,,,0,0.0,False
+me her country and,2,AC15P,S7,quadgrams,her country,2,,0,,,0,0.0,False
+if serious illness occurs,2,AC15P,S7,quadgrams,serious illness occurs,3,,0,,,0,0.0,False
+if care needs rise,2,AC15P,S7,quadgrams,care needs rise,3,,0,,,0,0.0,False
+isn t just a,2,AC15P,S7,quadgrams,isn just,2,,0,,,0,0.0,False
+love isn t real,2,AC15P,S7,quadgrams,love isn real,3,,0,,love,1,0.3333333333333333,False
+isn t real but,2,AC15P,S7,quadgrams,isn real,2,,0,,,0,0.0,False
+t real but because,2,AC15P,S7,quadgrams,real because,2,,0,,,0,0.0,False
+real but because the,2,AC15P,S7,quadgrams,real because,2,,0,,,0,0.0,False
+weekly activities not centered,2,AC15P,S7,quadgrams,weekly activities centered,3,,0,,,0,0.0,False
+centered on her gym,2,AC15P,S7,quadgrams,centered her gym,3,,0,,,0,0.0,False
+on her gym class,2,AC15P,S7,quadgrams,her gym class,3,,0,,,0,0.0,False
+best local private hospital,2,AC15P,S7,quadgrams,best local private hospital,4,,0,,,0,0.0,False
+steady job simple life,2,AC15P,S7,quadgrams,steady job simple life,4,,0,,,0,0.0,False
+job simple life introduced,2,AC15P,S7,quadgrams,job simple life introduced,4,,0,,,0,0.0,False
+simple life introduced you,2,AC15P,S7,quadgrams,simple life introduced,3,,0,,,0,0.0,False
+it doesn t prove,2,AC15P,S7,quadgrams,doesn prove,2,,0,,,0,0.0,False
+regional hub or back,2,AC15P,S7,quadgrams,regional hub back,3,,0,,,0,0.0,False
+after i move what,2,AC15P,S7,quadgrams,after i move,3,,0,,,0,0.0,False
+vagueness on key forks,2,AC15P,S7,quadgrams,vagueness key forks,3,,0,,,0,0.0,False
+on key forks kids,2,AC15P,S7,quadgrams,key forks kids,3,,0,,,0,0.0,False
+key forks kids money,2,AC15P,S7,quadgrams,key forks kids money,4,,0,,,0,0.0,False
+professional care is plan,2,AC15P,S7,quadgrams,professional care plan,3,,0,,,0,0.0,False
+make sense if you,2,AC15P,S7,quadgrams,make sense,2,,0,,,0,0.0,False
+sense if you were,2,AC15P,S7,quadgrams,sense were,2,,0,,,0,0.0,False
+at least the first,2,AC15P,S7,quadgrams,least first,2,,0,,,0,0.0,False
+least the first year,2,AC15P,S7,quadgrams,least first year,3,,0,,,0,0.0,False
+children marriage money model,2,AC15P,S7,quadgrams,children marriage money model,4,,0,,marriage|children,2,0.5,False
+mode not vacation mode,2,AC15P,S7,quadgrams,mode vacation mode,3,,0,,,0,0.0,False
+selling your home giving,2,AC15P,S7,quadgrams,selling home giving,3,,0,,,0,0.0,False
+your home giving up,2,AC15P,S7,quadgrams,home giving up,3,,0,,,0,0.0,False
+home giving up local,2,AC15P,S7,quadgrams,home giving up local,4,,0,,,0,0.0,False
+giving up local healthcare,2,AC15P,S7,quadgrams,giving up local healthcare,4,,0,,healthcare|health,2,0.25,False
+scarcity response i ll,2,AC15P,S7,quadgrams,scarcity response i ll,4,,0,,scarcity,1,0.25,False
+a one way door,2,AC15P,S7,quadgrams,one way door,3,,0,,,0,0.0,False
+there language friends healthcare,2,AC15P,S7,quadgrams,language friends healthcare,3,,0,,healthcare|health,2,0.3333333333333333,False
+language friends healthcare plan,2,AC15P,S7,quadgrams,language friends healthcare plan,4,,0,,healthcare|health,2,0.25,False
+can t know her,2,AC15P,S7,quadgrams,know her,2,,0,,,0,0.0,False
+finances no loans gifts,2,AC15P,S7,quadgrams,finances no loans gifts,4,,0,,,0,0.0,False
+no loans gifts property,2,AC15P,S7,quadgrams,no loans gifts property,4,,0,,,0,0.0,False
+language study your own,2,AC15P,S7,quadgrams,language study own,3,,0,,,0,0.0,False
+study your own friends,2,AC15P,S7,quadgrams,study own friends,3,,0,,,0,0.0,False
+put decision checkpoints on,2,AC15P,S7,quadgrams,put decision checkpoints,3,,0,,,0,0.0,False
+decision checkpoints on the,2,AC15P,S7,quadgrams,decision checkpoints,2,,0,,,0,0.0,False
+she s sincere you,2,AC15P,S7,quadgrams,she sincere,2,,0,,,0,0.0,False
+need her to say,2,AC15P,S7,quadgrams,need her say,3,,0,,,0,0.0,False
+any pressure any avoidance,2,AC15P,S7,quadgrams,any pressure any avoidance,4,,0,,,0,0.0,False
+pressure any avoidance any,2,AC15P,S7,quadgrams,pressure any avoidance any,4,,0,,,0,0.0,False
+live in your country,2,AC15P,S7,quadgrams,live country,2,,0,,,0,0.0,False
+vs proportional vs provider,2,AC15P,S7,quadgrams,vs proportional vs provider,4,,0,,,0,0.0,False
+opener i don t,2,AC15P,S7,quadgrams,opener i,2,,0,,,0,0.0,False
+no loans no property,2,AC15P,S7,quadgrams,no loans no property,4,,0,,,0,0.0,False
+gym class cowork volunteer,2,AC15P,S7,quadgrams,gym class cowork volunteer,4,,0,,,0,0.0,False
+to dual base or,2,AC15P,S7,quadgrams,dual base,2,,0,,,0,0.0,False
+a liquid emergency reserve,2,AC15P,S7,quadgrams,liquid emergency reserve,3,,0,,,0,0.0,False
+in her home or,2,AC15P,S7,quadgrams,her home,2,,0,,,0,0.0,False
+be seeing you might,2,AC15P,S7,quadgrams,seeing might,2,,0,,,0,0.0,False
+how to see it,2,AC15P,S7,quadgrams,how see,2,,0,,,0,0.0,False
+you could become dependent,2,AC15P,S7,quadgrams,could become dependent,3,,0,,,0,0.0,False
+language tutor two weekly,2,AC15P,S7,quadgrams,language tutor two weekly,4,,0,,,0,0.0,False
+tutor two weekly activities,2,AC15P,S7,quadgrams,tutor two weekly activities,4,,0,,,0,0.0,False
+local private vs regional,2,AC15P,S7,quadgrams,local private vs regional,4,,0,,,0,0.0,False
+private vs regional hub,2,AC15P,S7,quadgrams,private vs regional hub,4,,0,,,0,0.0,False
+vs regional hub vs,2,AC15P,S7,quadgrams,vs regional hub vs,4,,0,,,0,0.0,False
+own place and which,2,AC15P,S7,quadgrams,own place,2,,0,,,0,0.0,False
+place and which country,2,AC15P,S7,quadgrams,place country,2,,0,,,0,0.0,False
+marriage where home is,2,AC15P,S7,quadgrams,marriage where home,3,,0,,marriage,1,0.3333333333333333,False
+your country eventually aging,2,AC15P,S7,quadgrams,country eventually aging,3,,0,,aging,1,0.3333333333333333,False
+paid care is plan,2,AC15P,S7,quadgrams,paid care plan,3,,0,,,0,0.0,False
+plan cash logistics to,2,AC15P,S7,quadgrams,plan cash logistics,3,,0,,,0,0.0,False
+cash logistics to leave,2,AC15P,S7,quadgrams,cash logistics leave,3,,0,,,0,0.0,False
+the end of months,2,AC15P,S7,quadgrams,end months,2,,0,,,0,0.0,False
+without her as translator,2,AC15P,S7,quadgrams,without her translator,3,,0,,,0,0.0,False
+her as translator handler,2,AC15P,S7,quadgrams,her translator handler,3,,0,,,0,0.0,False
+the three months so,2,AC15P,S7,quadgrams,three months,2,,0,,,0,0.0,False
+on kids money family,2,AC15P,S7,quadgrams,kids money family,3,,0,,,0,0.0,False
+activities that are yours,2,AC15P,S7,quadgrams,activities yours,2,,0,,,0,0.0,False
+that are yours gym,2,AC15P,S7,quadgrams,yours gym,2,,0,,,0,0.0,False
+are yours gym class,2,AC15P,S7,quadgrams,yours gym class,3,,0,,,0,0.0,False
+logistics to leave within,2,AC15P,S7,quadgrams,logistics leave within,3,,0,,,0,0.0,False
+to leave within hours,2,AC15P,S7,quadgrams,leave within hours,3,,0,,,0,0.0,False
+leave within hours if,2,AC15P,S7,quadgrams,leave within hours,3,,0,,,0,0.0,False
+within hours if needed,2,AC15P,S7,quadgrams,within hours needed,3,,0,,,0,0.0,False
+healthcare insurance plan remains,2,AC15P,S7,quadgrams,healthcare insurance plan remains,4,,0,,healthcare|health,2,0.25,False
+insurance plan remains unaffordable,2,AC15P,S7,quadgrams,insurance plan remains unaffordable,4,,0,,,0,0.0,False
+you ll stay with,2,AC15P,S7,quadgrams,ll stay,2,,0,,,0,0.0,False
+ll stay with her,2,AC15P,S7,quadgrams,ll stay her,3,,0,,,0,0.0,False
+doesn t consume her,3,CONTROL,S7,quadgrams,doesn consume her,3,,0,,,0,0.0,False
+t consume her life,3,CONTROL,S7,quadgrams,consume her life,3,,0,,,0,0.0,False
+in a new country,3,CONTROL,S7,quadgrams,new country,2,,0,,,0,0.0,False
+about kids marriage family,3,CONTROL,S7,quadgrams,about kids marriage family,4,,0,,marriage,1,0.25,False
+home base for a,3,CONTROL,S7,quadgrams,home base,2,,0,,,0,0.0,False
+base for a year,3,CONTROL,S7,quadgrams,base year,2,,0,,,0,0.0,False
+keeping my home base,3,CONTROL,S7,quadgrams,keeping my home base,4,,0,,,0,0.0,False
+keeping your exit options,2,CONTROL,S7,quadgrams,keeping exit options,3,imagination_and_possibility,1,options,,0,0.0,False
+your exit options intact,2,CONTROL,S7,quadgrams,exit options intact,3,imagination_and_possibility,1,options,,0,0.0,False
+healthcare and long term,2,CONTROL,S7,quadgrams,healthcare long term,3,temporal_dynamics,1,long term,healthcare|health,2,0.3333333333333333,False
+return to home option,2,CONTROL,S7,quadgrams,return home option,3,imagination_and_possibility,1,option,,0,0.0,False
+may be less reliable,2,CONTROL,S7,quadgrams,may less reliable,3,truth_and_fact,1,reliable,,0,0.0,False
+tail risk before permanence,2,CONTROL,S7,quadgrams,tail risk before permanence,4,practicality_and_feasibility,1,risk,,0,0.0,False
+timeline money and family,2,CONTROL,S7,quadgrams,timeline money family,3,practicality_and_feasibility,1,timeline,,0,0.0,False
+vasectomy and what options,2,CONTROL,S7,quadgrams,vasectomy options,2,imagination_and_possibility,1,options,vasectomy,1,0.5,False
+are you hoping i,2,CONTROL,S7,quadgrams,hoping i,2,,0,,,0,0.0,False
+your life emotionally practically,2,CONTROL,S7,quadgrams,life emotionally practically,3,,0,,,0,0.0,False
+would a respectful separation,2,CONTROL,S7,quadgrams,respectful separation,2,,0,,,0,0.0,False
+a respectful separation look,2,CONTROL,S7,quadgrams,respectful separation look,3,,0,,,0,0.0,False
+respectful separation look like,2,CONTROL,S7,quadgrams,respectful separation look like,4,,0,,,0,0.0,False
+how does your family,2,CONTROL,S7,quadgrams,how does family,3,,0,,,0,0.0,False
+does your family view,2,CONTROL,S7,quadgrams,does family view,3,,0,,,0,0.0,False
+at least one planned,2,CONTROL,S7,quadgrams,least one planned,3,,0,,,0,0.0,False
+you ve lived normal,2,CONTROL,S7,quadgrams,lived normal,2,,0,,,0,0.0,False
+ve lived normal life,2,CONTROL,S7,quadgrams,lived normal life,3,,0,,,0,0.0,False
+lived normal life together,2,CONTROL,S7,quadgrams,lived normal life together,4,,0,,,0,0.0,False
+normal life together for,2,CONTROL,S7,quadgrams,normal life together,3,,0,,,0,0.0,False
+life together for months,2,CONTROL,S7,quadgrams,life together months,3,,0,,,0,0.0,False
+to return home for,2,CONTROL,S7,quadgrams,return home,2,,0,,,0,0.0,False
+don t relocate permanently,2,CONTROL,S7,quadgrams,relocate permanently,2,,0,,relocat,1,0.0,False
+she respects your need,2,CONTROL,S7,quadgrams,she respects need,3,,0,,,0,0.0,False
+respects your need for,2,CONTROL,S7,quadgrams,respects need,2,,0,,,0,0.0,False
+need for a staged,2,CONTROL,S7,quadgrams,need staged,2,,0,,,0,0.0,False
+life that isn t,2,CONTROL,S7,quadgrams,life isn,2,,0,,,0,0.0,False
+alive again is a,2,CONTROL,S7,quadgrams,alive again,2,,0,,,0,0.0,False
+be moving this fast,2,CONTROL,S7,quadgrams,moving fast,2,,0,,,0,0.0,False
+love they keep you,2,CONTROL,S7,quadgrams,love they keep,3,,0,,love,1,0.3333333333333333,False
+are meaningful green flags,2,CONTROL,S7,quadgrams,meaningful green flags,3,,0,,,0,0.0,False
+keep it warm and,2,CONTROL,S7,quadgrams,keep warm,2,,0,,,0,0.0,False
+it warm and non,2,CONTROL,S7,quadgrams,warm non,2,,0,,,0,0.0,False
+to support your parents,2,CONTROL,S7,quadgrams,support parents,2,,0,,,0,0.0,False
+don t avoid disagreements,2,CONTROL,S7,quadgrams,avoid disagreements,2,,0,,,0,0.0,False
+t buy property there,2,CONTROL,S7,quadgrams,buy property,2,,0,,,0,0.0,False
+don t co sign,2,CONTROL,S7,quadgrams,co sign,2,,0,,,0,0.0,False
+conversations about kids marriage,2,CONTROL,S7,quadgrams,conversations about kids marriage,4,,0,,marriage,1,0.25,False
+intact if you tell,2,CONTROL,S7,quadgrams,intact tell,2,,0,,,0,0.0,False
+whether you want children,2,CONTROL,S7,quadgrams,whether want children,3,,0,,children,1,0.3333333333333333,False
+may bring urgency about,2,CONTROL,S7,quadgrams,may bring urgency about,4,,0,,,0,0.0,False
+are your non negotiables,2,CONTROL,S7,quadgrams,non negotiables,2,,0,,,0,0.0,False
+how she treats others,2,CONTROL,S7,quadgrams,how she treats others,4,,0,,,0,0.0,False
+and a staged plan,2,CONTROL,S7,quadgrams,staged plan,2,,0,,,0,0.0,False
+staged plan that keeps,2,CONTROL,S7,quadgrams,staged plan keeps,3,,0,,,0,0.0,False
+set a slower pace,2,CONTROL,S7,quadgrams,set slower pace,3,,0,,,0,0.0,False
+your home base for,2,CONTROL,S7,quadgrams,home base,2,,0,,,0,0.0,False
+for a year no,2,CONTROL,S7,quadgrams,year no,2,,0,,,0,0.0,False
+if she s truly,2,CONTROL,S7,quadgrams,she truly,2,,0,,,0,0.0,False
+whether children are a,2,CONTROL,S7,quadgrams,whether children,2,,0,,children,1,0.5,False
+that doesn t consume,2,CONTROL,S7,quadgrams,doesn consume,2,,0,,,0,0.0,False
+would we hire out,2,CONTROL,S7,quadgrams,hire out,2,,0,,,0,0.0,False
+we can talk about,2,CONTROL,S7,quadgrams,talk about,2,,0,,,0,0.0,False
+like i want to,2,CONTROL,S7,quadgrams,like i want,3,,0,,,0,0.0,False
+want a plan that,2,CONTROL,S7,quadgrams,want plan,2,,0,,,0,0.0,False
+your parents needed care,2,CONTROL,S7,quadgrams,parents needed care,3,,0,,,0,0.0,False
+parents needed care at,2,CONTROL,S7,quadgrams,parents needed care,3,,0,,,0,0.0,False
+needed care at the,2,CONTROL,S7,quadgrams,needed care,2,,0,,,0,0.0,False
+the same time what,2,CONTROL,S7,quadgrams,same time,2,,0,,,0,0.0,False
+longer term visa residency,2,CONTROL,S7,quadgrams,longer term visa residency,4,,0,,visa,1,0.25,False
+given your age and,2,CONTROL,S7,quadgrams,given age,2,,0,,,0,0.0,False
+where you would live,2,CONTROL,S7,quadgrams,where live,2,,0,,,0,0.0,False
+no permanent relocation until,2,CONTROL,S7,quadgrams,no permanent relocation until,4,,0,,relocat|relocation,2,0.25,False
+complex care may be,2,CONTROL,S7,quadgrams,complex care may,3,,0,,,0,0.0,False
+care may be less,2,CONTROL,S7,quadgrams,care may less,3,,0,,,0,0.0,False
+month normal life stay,2,CONTROL,S7,quadgrams,month normal life stay,4,,0,,,0,0.0,False
+home base and exit,2,CONTROL,S7,quadgrams,home base exit,3,,0,,,0,0.0,False
+down what you agree,2,CONTROL,S7,quadgrams,down agree,2,,0,,,0,0.0,False
+no go criteria that,2,CONTROL,S7,quadgrams,no go criteria,3,,0,,,0,0.0,False
+are your worries about,2,CONTROL,S7,quadgrams,worries about,2,,0,,,0,0.0,False
+she respects a staged,2,CONTROL,S7,quadgrams,she respects staged,3,,0,,,0,0.0,False
+when you slow things,2,CONTROL,S7,quadgrams,slow things,2,,0,,,0,0.0,False
+you slow things down,2,CONTROL,S7,quadgrams,slow things down,3,,0,,,0,0.0,False
+because it s emotionally,2,CONTROL,S7,quadgrams,because emotionally,2,,0,,,0,0.0,False
+month trial living there,2,CONTROL,S7,quadgrams,month trial living,3,,0,,,0,0.0,False
+give up healthcare eligibility,2,CONTROL,S7,quadgrams,give up healthcare eligibility,4,,0,,healthcare|health,2,0.25,False
+up healthcare eligibility i,2,CONTROL,S7,quadgrams,up healthcare eligibility i,4,,0,,healthcare|health,2,0.25,False
+healthcare eligibility i can,2,CONTROL,S7,quadgrams,healthcare eligibility i,3,,0,,healthcare|health,2,0.3333333333333333,False
+eligibility i can help,2,CONTROL,S7,quadgrams,eligibility i help,3,,0,,,0,0.0,False
+a staged path that,2,CONTROL,S7,quadgrams,staged path,2,,0,,,0,0.0,False
+relocation marriage shared assets,2,CONTROL,S7,quadgrams,relocation marriage shared assets,4,,0,,marriage|relocat|relocation,3,0.5,False
+marriage shared assets giving,2,CONTROL,S7,quadgrams,marriage shared assets giving,4,,0,,marriage,1,0.25,False
+shared assets giving up,2,CONTROL,S7,quadgrams,shared assets giving up,4,,0,,,0,0.0,False
+permanent move until healthcare,2,CONTROL,S7,quadgrams,permanent move until healthcare,4,,0,,healthcare|health,2,0.25,False
+m choosing you because,2,CONTROL,S7,quadgrams,m choosing because,3,,0,,,0,0.0,False
+your home base you,2,CONTROL,S7,quadgrams,home base,2,,0,,,0,0.0,False
+whether you d have,2,CONTROL,S7,quadgrams,whether d have,3,,0,,,0,0.0,False
+you d have your,2,CONTROL,S7,quadgrams,d have,2,,0,,,0,0.0,False
+d have your own,2,CONTROL,S7,quadgrams,d have own,3,,0,,,0,0.0,False
+have your own accommodation,2,CONTROL,S7,quadgrams,have own accommodation,3,,0,,,0,0.0,False
+the children issue is,2,CONTROL,S7,quadgrams,children issue,2,,0,,children,1,0.5,False
+you may be underestimating,2,CONTROL,S7,quadgrams,may underestimating,2,,0,,,0,0.0,False
+at least a couple,2,CONTROL,S7,quadgrams,least couple,2,,0,,,0,0.0,False
+least a couple of,2,CONTROL,S7,quadgrams,least couple,2,,0,,,0,0.0,False
+you d go for,2,CONTROL,S7,quadgrams,d go,2,,0,,,0,0.0,False
+d go for complex,2,CONTROL,S7,quadgrams,d go complex,3,,0,,,0,0.0,False
+children vasectomy marriage expectations,2,CONTROL,S7,quadgrams,children vasectomy marriage expectations,4,,0,,marriage|children|vasectomy,3,0.75,True
+yes to the three,2,CONTROL,S7,quadgrams,yes three,2,,0,,,0,0.0,False
+to the three month,2,CONTROL,S7,quadgrams,three month,2,,0,,,0,0.0,False
+the three month trial,2,CONTROL,S7,quadgrams,three month trial,3,,0,,,0,0.0,False
+and a midpoint review,2,CONTROL,S7,quadgrams,midpoint review,2,,0,,,0,0.0,False
+a couple of contacts,2,CONTROL,S7,quadgrams,couple contacts,2,,0,,,0,0.0,False
+children your vasectomy and,2,CONTROL,S7,quadgrams,children vasectomy,2,,0,,children|vasectomy,2,1.0,True
+plan what happens if,2,CONTROL,S7,quadgrams,plan happens,2,,0,,,0,0.0,False
+you get sick there,2,CONTROL,S7,quadgrams,get sick,2,,0,,,0,0.0,False
+you may not want,6,HYBRID_3_5,S7,quadgrams,may want,2,,0,,,0,0.0,False
+may not want to,6,HYBRID_3_5,S7,quadgrams,may want,2,,0,,,0,0.0,False
+not want to see,6,HYBRID_3_5,S7,quadgrams,want see,2,,0,,,0,0.0,False
+trial relocation months with,3,HYBRID_3_5,S7,quadgrams,trial relocation months,3,,0,,relocat|relocation,2,0.3333333333333333,False
+e g week and,3,HYBRID_3_5,S7,quadgrams,e g week,3,,0,,,0,0.0,False
+longer normal life stay,3,HYBRID_3_5,S7,quadgrams,longer normal life stay,4,,0,,,0,0.0,False
+you attend without her,3,HYBRID_3_5,S7,quadgrams,attend without her,3,,0,,,0,0.0,False
+want to see that,3,HYBRID_3_5,S7,quadgrams,want see,2,,0,,,0,0.0,False
+re at higher risk,2,HYBRID_3_5,S7,quadgrams,higher risk,2,practicality_and_feasibility,1,risk,,0,0.0,False
+at higher risk of,2,HYBRID_3_5,S7,quadgrams,higher risk,2,practicality_and_feasibility,1,risk,,0,0.0,False
+a good long term,2,HYBRID_3_5,S7,quadgrams,good long term,3,temporal_dynamics,1,long term,,0,0.0,False
+and long term compromise,2,HYBRID_3_5,S7,quadgrams,long term compromise,3,temporal_dynamics,1,long term,,0,0.0,False
+obligations and money boundaries,2,HYBRID_3_5,S7,quadgrams,obligations money boundaries,3,imagination_and_possibility,1,boundaries,,0,0.0,False
+to fake over time,2,HYBRID_3_5,S7,quadgrams,fake over time,3,temporal_dynamics,1,over time,,0,0.0,False
+your biggest structural risk,2,HYBRID_3_5,S7,quadgrams,biggest structural risk,3,practicality_and_feasibility,1,risk,,0,0.0,False
+biggest structural risk if,2,HYBRID_3_5,S7,quadgrams,biggest structural risk,3,practicality_and_feasibility,1,risk,,0,0.0,False
+structural risk if i,2,HYBRID_3_5,S7,quadgrams,structural risk i,3,practicality_and_feasibility,1,risk,,0,0.0,False
+risk if i have,2,HYBRID_3_5,S7,quadgrams,risk i have,3,practicality_and_feasibility,1,risk,,0,0.0,False
+your main risk is,2,HYBRID_3_5,S7,quadgrams,main risk,2,practicality_and_feasibility,1,risk,,0,0.0,False
+you ve tested ordinary,2,HYBRID_3_5,S7,quadgrams,tested ordinary,2,,0,,,0,0.0,False
+how do you want,2,HYBRID_3_5,S7,quadgrams,how want,2,,0,,,0,0.0,False
+what did you learn,2,HYBRID_3_5,S7,quadgrams,did learn,2,,0,,,0,0.0,False
+out loud if i,2,HYBRID_3_5,S7,quadgrams,out loud i,3,,0,,,0,0.0,False
+want your life to,2,HYBRID_3_5,S7,quadgrams,want life,2,,0,,,0,0.0,False
+not ready to relocate,2,HYBRID_3_5,S7,quadgrams,ready relocate,2,,0,,relocat,1,0.0,False
+any permanent move keep,2,HYBRID_3_5,S7,quadgrams,any permanent move keep,4,,0,,,0,0.0,False
+permanent move keep your,2,HYBRID_3_5,S7,quadgrams,permanent move keep,3,,0,,,0,0.0,False
+move keep your home,2,HYBRID_3_5,S7,quadgrams,move keep home,3,,0,,,0,0.0,False
+pre existing conditions and,2,HYBRID_3_5,S7,quadgrams,pre existing conditions,3,,0,,,0,0.0,False
+your need to go,2,HYBRID_3_5,S7,quadgrams,need go,2,,0,,,0,0.0,False
+need to go slowly,2,HYBRID_3_5,S7,quadgrams,need go slowly,3,,0,,,0,0.0,False
+isolate you from independent,2,HYBRID_3_5,S7,quadgrams,isolate independent,2,,0,,,0,0.0,False
+still have been a,2,HYBRID_3_5,S7,quadgrams,still have been,3,,0,,,0,0.0,False
+or choosing relief from,2,HYBRID_3_5,S7,quadgrams,choosing relief,2,,0,,,0,0.0,False
+choosing relief from loneliness,2,HYBRID_3_5,S7,quadgrams,choosing relief loneliness,3,,0,,loneliness,1,0.3333333333333333,False
+supports a staged plan,2,HYBRID_3_5,S7,quadgrams,supports staged plan,3,,0,,,0,0.0,False
+way to honor the,2,HYBRID_3_5,S7,quadgrams,way honor,2,,0,,,0,0.0,False
+then ask what do,2,HYBRID_3_5,S7,quadgrams,then ask,2,,0,,,0,0.0,False
+finances separate during the,2,HYBRID_3_5,S7,quadgrams,finances separate during,3,,0,,,0,0.0,False
+separate during the trial,2,HYBRID_3_5,S7,quadgrams,separate during trial,3,,0,,,0,0.0,False
+during the trial if,2,HYBRID_3_5,S7,quadgrams,during trial,2,,0,,,0,0.0,False
+while you re still,2,HYBRID_3_5,S7,quadgrams,while still,2,,0,,,0,0.0,False
+family obligations and money,2,HYBRID_3_5,S7,quadgrams,family obligations money,3,,0,,,0,0.0,False
+no major asset purchases,2,HYBRID_3_5,S7,quadgrams,no major asset purchases,4,,0,,,0,0.0,False
+you want to give,2,HYBRID_3_5,S7,quadgrams,want give,2,,0,,,0,0.0,False
+insurance you can actually,2,HYBRID_3_5,S7,quadgrams,insurance actually,2,,0,,,0,0.0,False
+finances separate at first,2,HYBRID_3_5,S7,quadgrams,finances separate first,3,,0,,,0,0.0,False
+about children marriage family,2,HYBRID_3_5,S7,quadgrams,about children marriage family,4,,0,,marriage|children,2,0.5,False
+children marriage family obligations,2,HYBRID_3_5,S7,quadgrams,children marriage family obligations,4,,0,,marriage|children,2,0.5,False
+feel like a team,2,HYBRID_3_5,S7,quadgrams,feel like team,3,,0,,,0,0.0,False
+like a team when,2,HYBRID_3_5,S7,quadgrams,like team,2,,0,,,0,0.0,False
+anything you re afraid,2,HYBRID_3_5,S7,quadgrams,anything afraid,2,,0,,,0,0.0,False
+re afraid to tell,2,HYBRID_3_5,S7,quadgrams,afraid tell,2,,0,,,0,0.0,False
+afraid to tell me,2,HYBRID_3_5,S7,quadgrams,afraid tell,2,,0,,,0,0.0,False
+to tell me because,2,HYBRID_3_5,S7,quadgrams,tell because,2,,0,,,0,0.0,False
+tell me because you,2,HYBRID_3_5,S7,quadgrams,tell because,2,,0,,,0,0.0,False
+me because you think,2,HYBRID_3_5,S7,quadgrams,because think,2,,0,,,0,0.0,False
+because you think i,2,HYBRID_3_5,S7,quadgrams,because think i,3,,0,,,0,0.0,False
+you think i might,2,HYBRID_3_5,S7,quadgrams,think i might,3,,0,,,0,0.0,False
+think i might not,2,HYBRID_3_5,S7,quadgrams,think i might,3,,0,,,0,0.0,False
+i might not move,2,HYBRID_3_5,S7,quadgrams,i might move,3,,0,,,0,0.0,False
+might not move if,2,HYBRID_3_5,S7,quadgrams,might move,2,,0,,,0,0.0,False
+not move if i,2,HYBRID_3_5,S7,quadgrams,move i,2,,0,,,0,0.0,False
+move if i know,2,HYBRID_3_5,S7,quadgrams,move i know,3,,0,,,0,0.0,False
+i know it asked,2,HYBRID_3_5,S7,quadgrams,i know asked,3,,0,,,0,0.0,False
+this often surfaces the,2,HYBRID_3_5,S7,quadgrams,often surfaces,2,,0,,,0,0.0,False
+often surfaces the real,2,HYBRID_3_5,S7,quadgrams,often surfaces real,3,,0,,,0,0.0,False
+separate finances during the,2,HYBRID_3_5,S7,quadgrams,separate finances during,3,,0,,,0,0.0,False
+finances during the trial,2,HYBRID_3_5,S7,quadgrams,finances during trial,3,,0,,,0,0.0,False
+clinic hospital you d,2,HYBRID_3_5,S7,quadgrams,clinic hospital d,3,,0,,,0,0.0,False
+community join at least,2,HYBRID_3_5,S7,quadgrams,community join least,3,,0,,,0,0.0,False
+recurring groups you attend,2,HYBRID_3_5,S7,quadgrams,recurring groups attend,3,,0,,,0,0.0,False
+groups you attend without,2,HYBRID_3_5,S7,quadgrams,groups attend without,3,,0,,,0,0.0,False
+your home country plus,2,HYBRID_3_5,S7,quadgrams,home country plus,3,,0,,,0,0.0,False
+you already see the,2,HYBRID_3_5,S7,quadgrams,already see,2,,0,,,0,0.0,False
+the questions that prevent,2,HYBRID_3_5,S7,quadgrams,questions prevent,2,,0,,,0,0.0,False
+role would you want,2,HYBRID_3_5,S7,quadgrams,role want,2,,0,,,0,0.0,False
+so you stay my,2,HYBRID_3_5,S7,quadgrams,stay my,2,,0,,,0,0.0,False
+you stay my partner,2,HYBRID_3_5,S7,quadgrams,stay my partner,3,,0,,partner,1,0.3333333333333333,False
+stay my partner not,2,HYBRID_3_5,S7,quadgrams,stay my partner,3,,0,,partner,1,0.3333333333333333,False
+my partner not my,2,HYBRID_3_5,S7,quadgrams,my partner my,3,,0,,partner,1,0.3333333333333333,False
+partner not my nurse,2,HYBRID_3_5,S7,quadgrams,partner my nurse,3,,0,,partner,1,0.3333333333333333,False
+scarcity thinking if this,2,HYBRID_3_5,S7,quadgrams,scarcity thinking,2,,0,,scarcity,1,0.5,False
+your stance on children,2,HYBRID_3_5,S7,quadgrams,stance children,2,,0,,children,1,0.5,False
+stance on children marriage,2,HYBRID_3_5,S7,quadgrams,stance children marriage,3,,0,,marriage|children,2,0.6666666666666666,False
+on children marriage and,2,HYBRID_3_5,S7,quadgrams,children marriage,2,,0,,marriage|children,2,1.0,True
+in stages so i,2,HYBRID_3_5,S7,quadgrams,stages i,2,,0,,,0,0.0,False
+stages so i don,2,HYBRID_3_5,S7,quadgrams,stages i,2,,0,,,0,0.0,False
+last chance pressure without,2,HYBRID_3_5,S7,quadgrams,last chance pressure without,4,,0,,last chance,1,0.5,False
+chance pressure without stalling,2,HYBRID_3_5,S7,quadgrams,chance pressure without stalling,4,,0,,,0,0.0,False
+pressure without stalling the,2,HYBRID_3_5,S7,quadgrams,pressure without stalling,3,,0,,,0,0.0,False
+without stalling the relationship,2,HYBRID_3_5,S7,quadgrams,without stalling relationship,3,,0,,relationship,1,0.3333333333333333,False
+looks like it sounds,2,HYBRID_3_5,S7,quadgrams,looks like sounds,3,,0,,,0,0.0,False
+like it sounds like,2,HYBRID_3_5,S7,quadgrams,like sounds like,3,,0,,,0,0.0,False
+my relationship with my,2,HYBRID_3_5,S7,quadgrams,my relationship my,3,,0,,relationship,1,0.3333333333333333,False
+relationship with my children,2,HYBRID_3_5,S7,quadgrams,relationship my children,3,,0,,relationship|children,2,0.6666666666666666,False
+you want to hear,2,HYBRID_3_5,S7,quadgrams,want hear,2,,0,,,0,0.0,False
+children no yes unsure,2,HYBRID_3_5,S7,quadgrams,children no yes unsure,4,,0,,children,1,0.25,False
+no yes unsure and,2,HYBRID_3_5,S7,quadgrams,no yes unsure,3,,0,,,0,0.0,False
+decision gate non negotiable,2,HYBRID_3_5,S7,quadgrams,decision gate non negotiable,4,,0,,,0,0.0,False
+join at least recurring,2,HYBRID_3_5,S7,quadgrams,join least recurring,3,,0,,,0,0.0,False
+attend without her logistics,2,HYBRID_3_5,S7,quadgrams,attend without her logistics,4,,0,,,0,0.0,False
+without her logistics you,2,HYBRID_3_5,S7,quadgrams,without her logistics,3,,0,,,0,0.0,False
+her logistics you can,2,HYBRID_3_5,S7,quadgrams,her logistics,2,,0,,,0,0.0,False
+keep finances separate and,2,HYBRID_3_5,S7,quadgrams,keep finances separate,3,,0,,,0,0.0,False
+set a review date,2,HYBRID_3_5,S7,quadgrams,set review date,3,,0,,,0,0.0,False
+long visits meeting her,2,HYBRID_3_5,S7,quadgrams,long visits meeting her,4,,0,,,0,0.0,False
+visits meeting her circle,2,HYBRID_3_5,S7,quadgrams,visits meeting her circle,4,,0,,,0,0.0,False
+the month trial in,2,HYBRID_3_5,S7,quadgrams,month trial,2,,0,,,0,0.0,False
+build your independence language,2,HYBRID_3_5,S7,quadgrams,build independence language,3,,0,,,0,0.0,False
+or in week children,2,HYBRID_3_5,S7,quadgrams,week children,2,,0,,children,1,0.5,False
+in week children vasectomy,2,HYBRID_3_5,S7,quadgrams,week children vasectomy,3,,0,,children|vasectomy,2,0.6666666666666666,False
+vasectomy does she want,2,HYBRID_3_5,S7,quadgrams,vasectomy does she want,4,,0,,vasectomy,1,0.25,False
+she want children how,2,HYBRID_3_5,S7,quadgrams,she want children how,4,,0,,children,1,0.25,False
+extend trial split base,2,HYBRID_3_5,S7,quadgrams,extend trial split base,4,,0,,,0,0.0,False
+a funded emergency plan,2,HYBRID_3_5,S7,quadgrams,funded emergency plan,3,,0,,,0,0.0,False
+the clear move is,2,HYBRID_3_5,S7,quadgrams,clear move,2,,0,,,0,0.0,False
+at least recurring activities,2,HYBRID_3_5,S7,quadgrams,least recurring activities,3,,0,,,0,0.0,False
+do you feel respected,2,HYBRID_3_5,S7,quadgrams,feel respected,2,,0,,,0,0.0,False
+you may be missing,8,HYBRID_SEMANTIC,S7,quadgrams,may missing,2,,0,,,0,0.0,False
+avoided because it can,4,HYBRID_SEMANTIC,S7,quadgrams,avoided because,2,,0,,,0,0.0,False
+pre commit to a,3,HYBRID_SEMANTIC,S7,quadgrams,pre commit,2,,0,,,0,0.0,False
+don t renegotiate under,3,HYBRID_SEMANTIC,S7,quadgrams,renegotiate under,2,,0,,,0,0.0,False
+and whether she wants,3,HYBRID_SEMANTIC,S7,quadgrams,whether she wants,3,,0,,,0,0.0,False
+no irreversible steps yet,3,HYBRID_SEMANTIC,S7,quadgrams,no irreversible steps yet,4,,0,,,0,0.0,False
+money norms family obligations,3,HYBRID_SEMANTIC,S7,quadgrams,money norms family obligations,4,,0,,,0,0.0,False
+another trial split base,3,HYBRID_SEMANTIC,S7,quadgrams,another trial split base,4,,0,,,0,0.0,False
+your risk checks a,2,HYBRID_SEMANTIC,S7,quadgrams,risk checks,2,practicality_and_feasibility,1,risk,,0,0.0,False
+timeline for you moving,2,HYBRID_SEMANTIC,S7,quadgrams,timeline moving,2,practicality_and_feasibility,1,timeline,,0,0.0,False
+you imagine our plan,2,HYBRID_SEMANTIC,S7,quadgrams,imagine our plan,3,imagination_and_possibility,1,imagine,,0,0.0,False
+imagine our plan is,2,HYBRID_SEMANTIC,S7,quadgrams,imagine our plan,3,imagination_and_possibility,1,imagine,,0,0.0,False
+boundaries would you want,2,HYBRID_SEMANTIC,S7,quadgrams,boundaries want,2,imagination_and_possibility,1,boundaries,,0,0.0,False
+home base option until,2,HYBRID_SEMANTIC,S7,quadgrams,home base option until,4,imagination_and_possibility,1,option,,0,0.0,False
+is a rare opportunity,2,HYBRID_SEMANTIC,S7,quadgrams,rare opportunity,2,imagination_and_possibility,1,opportunity,,0,0.0,False
+answer isn t proof,2,HYBRID_SEMANTIC,S7,quadgrams,answer isn proof,3,truth_and_fact,1,proof,,0,0.0,False
+isn t proof of,2,HYBRID_SEMANTIC,S7,quadgrams,isn proof,2,truth_and_fact,1,proof,,0,0.0,False
+timeline money family expectations,2,HYBRID_SEMANTIC,S7,quadgrams,timeline money family expectations,4,practicality_and_feasibility,1,timeline,,0,0.0,False
+willingness limits marriage timeline,2,HYBRID_SEMANTIC,S7,quadgrams,willingness limits marriage timeline,4,practicality_and_feasibility,1,timeline,marriage,1,0.25,False
+to generate real evidence,2,HYBRID_SEMANTIC,S7,quadgrams,generate real evidence,3,truth_and_fact,1,evidence,,0,0.0,False
+sessions with a couples,2,HYBRID_SEMANTIC,S7,quadgrams,sessions couples,2,,0,,,0,0.0,False
+with a couples counselor,2,HYBRID_SEMANTIC,S7,quadgrams,couples counselor,2,,0,,,0,0.0,False
+clear shared expense method,2,HYBRID_SEMANTIC,S7,quadgrams,clear shared expense method,4,,0,,,0,0.0,False
+to return home quickly,2,HYBRID_SEMANTIC,S7,quadgrams,return home quickly,3,,0,,,0,0.0,False
+question becomes how do,2,HYBRID_SEMANTIC,S7,quadgrams,question becomes how,3,,0,,,0,0.0,False
+becomes how do you,2,HYBRID_SEMANTIC,S7,quadgrams,becomes how,2,,0,,,0,0.0,False
+because it matters i,2,HYBRID_SEMANTIC,S7,quadgrams,because matters i,3,,0,,,0,0.0,False
+and makes it harder,2,HYBRID_SEMANTIC,S7,quadgrams,makes harder,2,,0,,,0,0.0,False
+can we talk about,2,HYBRID_SEMANTIC,S7,quadgrams,talk about,2,,0,,,0,0.0,False
+we talk about what,2,HYBRID_SEMANTIC,S7,quadgrams,talk about,2,,0,,,0,0.0,False
+as i get older,2,HYBRID_SEMANTIC,S7,quadgrams,i get older,3,,0,,older,1,0.3333333333333333,False
+ask them to watch,2,HYBRID_SEMANTIC,S7,quadgrams,ask watch,2,,0,,,0,0.0,False
+and i ll tailor,2,HYBRID_SEMANTIC,S7,quadgrams,i ll tailor,3,,0,,,0,0.0,False
+i ll tailor a,2,HYBRID_SEMANTIC,S7,quadgrams,i ll tailor,3,,0,,,0,0.0,False
+are all consistent with,2,HYBRID_SEMANTIC,S7,quadgrams,all consistent,2,,0,,,0,0.0,False
+even if she personally,2,HYBRID_SEMANTIC,S7,quadgrams,even she personally,3,,0,,,0,0.0,False
+keep finances separate you,2,HYBRID_SEMANTIC,S7,quadgrams,keep finances separate,3,,0,,,0,0.0,False
+the first year of,2,HYBRID_SEMANTIC,S7,quadgrams,first year,2,,0,,,0,0.0,False
+first year of living,2,HYBRID_SEMANTIC,S7,quadgrams,first year living,3,,0,,,0,0.0,False
+year of living in,2,HYBRID_SEMANTIC,S7,quadgrams,year living,2,,0,,,0,0.0,False
+living in the same,2,HYBRID_SEMANTIC,S7,quadgrams,living same,2,,0,,,0,0.0,False
+the same place if,2,HYBRID_SEMANTIC,S7,quadgrams,same place,2,,0,,,0,0.0,False
+on a reversible visa,2,HYBRID_SEMANTIC,S7,quadgrams,reversible visa,2,,0,,visa,1,0.5,False
+country and whether she,2,HYBRID_SEMANTIC,S7,quadgrams,country whether she,3,,0,,,0,0.0,False
+she wants children i,2,HYBRID_SEMANTIC,S7,quadgrams,she wants children i,4,,0,,children,1,0.25,False
+wants children i can,2,HYBRID_SEMANTIC,S7,quadgrams,wants children i,3,,0,,children,1,0.3333333333333333,False
+you draft a specific,2,HYBRID_SEMANTIC,S7,quadgrams,draft specific,2,,0,,,0,0.0,False
+t renegotiate under longing,2,HYBRID_SEMANTIC,S7,quadgrams,renegotiate under longing,3,,0,,,0,0.0,False
+you become a team,2,HYBRID_SEMANTIC,S7,quadgrams,become team,2,,0,,,0,0.0,False
+no large financial entanglements,2,HYBRID_SEMANTIC,S7,quadgrams,no large financial entanglements,4,,0,,,0,0.0,False
+large financial entanglements for,2,HYBRID_SEMANTIC,S7,quadgrams,large financial entanglements,3,,0,,,0,0.0,False
+conversation script and a,2,HYBRID_SEMANTIC,S7,quadgrams,conversation script,2,,0,,,0,0.0,False
+stays consistent when you,2,HYBRID_SEMANTIC,S7,quadgrams,stays consistent,2,,0,,,0,0.0,False
+now prove you love,2,HYBRID_SEMANTIC,S7,quadgrams,now prove love,3,,0,,love,1,0.3333333333333333,False
+even small ones that,2,HYBRID_SEMANTIC,S7,quadgrams,even small ones,3,,0,,,0,0.0,False
+small ones that ramp,2,HYBRID_SEMANTIC,S7,quadgrams,small ones ramp,3,,0,,,0,0.0,False
+if she were and,2,HYBRID_SEMANTIC,S7,quadgrams,she were,2,,0,,,0,0.0,False
+with cross cultural couples,2,HYBRID_SEMANTIC,S7,quadgrams,cross cultural couples,3,,0,,,0,0.0,False
+help you script the,2,HYBRID_SEMANTIC,S7,quadgrams,help script,2,,0,,,0,0.0,False
+way that s clear,2,HYBRID_SEMANTIC,S7,quadgrams,way clear,2,,0,,,0,0.0,False
+if she wants kids,2,HYBRID_SEMANTIC,S7,quadgrams,she wants kids,3,,0,,,0,0.0,False
+you fund so she,2,HYBRID_SEMANTIC,S7,quadgrams,fund she,2,,0,,,0,0.0,False
+fund so she isn,2,HYBRID_SEMANTIC,S7,quadgrams,fund she isn,3,,0,,,0,0.0,False
+the relationship from becoming,2,HYBRID_SEMANTIC,S7,quadgrams,relationship becoming,2,,0,,relationship,1,0.5,False
+for paid help whether,2,HYBRID_SEMANTIC,S7,quadgrams,paid help whether,3,,0,,,0,0.0,False
+paid help whether she,2,HYBRID_SEMANTIC,S7,quadgrams,paid help whether she,4,,0,,,0,0.0,False
+home country healthcare access,2,HYBRID_SEMANTIC,S7,quadgrams,home country healthcare access,4,,0,,healthcare|health,2,0.25,False
+medical evacuation coverage and,2,HYBRID_SEMANTIC,S7,quadgrams,medical evacuation coverage,3,,0,,medical,1,0.3333333333333333,False
+her ability to say,2,HYBRID_SEMANTIC,S7,quadgrams,her ability say,3,,0,,,0,0.0,False
+plan for serious illness,2,HYBRID_SEMANTIC,S7,quadgrams,plan serious illness,3,,0,,,0,0.0,False
+care is the default,2,HYBRID_SEMANTIC,S7,quadgrams,care default,2,,0,,,0,0.0,False
+to become my caregiver,2,HYBRID_SEMANTIC,S7,quadgrams,become my caregiver,3,,0,,,0,0.0,False
+become my caregiver by,2,HYBRID_SEMANTIC,S7,quadgrams,become my caregiver,3,,0,,,0,0.0,False
+my caregiver by default,2,HYBRID_SEMANTIC,S7,quadgrams,my caregiver default,3,,0,,,0,0.0,False
+country and whether marriage,2,HYBRID_SEMANTIC,S7,quadgrams,country whether marriage,3,,0,,marriage,1,0.3333333333333333,False
+can meet without her,2,HYBRID_SEMANTIC,S7,quadgrams,meet without her,3,,0,,,0,0.0,False
+have at least a,2,HYBRID_SEMANTIC,S7,quadgrams,have least,2,,0,,,0,0.0,False
+ve done a long,2,HYBRID_SEMANTIC,S7,quadgrams,done long,2,,0,,,0,0.0,False
+finances or take on,2,HYBRID_SEMANTIC,S7,quadgrams,finances take,2,,0,,,0,0.0,False
+or take on obligations,2,HYBRID_SEMANTIC,S7,quadgrams,take obligations,2,,0,,,0,0.0,False
+to justify an irreversible,2,HYBRID_SEMANTIC,S7,quadgrams,justify irreversible,2,,0,,,0,0.0,False
+separate finances no major,2,HYBRID_SEMANTIC,S7,quadgrams,separate finances no major,4,,0,,,0,0.0,False
+and a liquidity buffer,2,HYBRID_SEMANTIC,S7,quadgrams,liquidity buffer,2,,0,,,0,0.0,False
+is she influenced by,2,HYBRID_SEMANTIC,S7,quadgrams,she influenced,2,,0,,,0,0.0,False
+explicitly i can help,2,HYBRID_SEMANTIC,S7,quadgrams,explicitly i help,3,,0,,,0,0.0,False
+marriage money family aging,2,HYBRID_SEMANTIC,S7,quadgrams,marriage money family aging,4,,0,,marriage|aging,2,0.5,False
+how soon she hopes,2,HYBRID_SEMANTIC,S7,quadgrams,how soon she hopes,4,,0,,,0,0.0,False
+soon she hopes you,2,HYBRID_SEMANTIC,S7,quadgrams,soon she hopes,3,,0,,,0,0.0,False
+she hopes you ll,2,HYBRID_SEMANTIC,S7,quadgrams,she hopes ll,3,,0,,,0,0.0,False
+hopes you ll move,2,HYBRID_SEMANTIC,S7,quadgrams,hopes ll move,3,,0,,,0,0.0,False
+ll help you turn,2,HYBRID_SEMANTIC,S7,quadgrams,ll help turn,3,,0,,,0,0.0,False
+and go no go,2,HYBRID_SEMANTIC,S7,quadgrams,go no go,3,,0,,,0,0.0,False
+do you most regret,2,HYBRID_SEMANTIC,S7,quadgrams,most regret,2,,0,,,0,0.0,False
+you most regret in,2,HYBRID_SEMANTIC,S7,quadgrams,most regret,2,,0,,,0,0.0,False
+most regret in years,2,HYBRID_SEMANTIC,S7,quadgrams,most regret years,3,,0,,,0,0.0,False
+staged plan with checkpoints,2,HYBRID_SEMANTIC,S7,quadgrams,staged plan checkpoints,3,,0,,,0,0.0,False
+the country whether she,2,HYBRID_SEMANTIC,S7,quadgrams,country whether she,3,,0,,,0,0.0,False
+at months we assess,2,HYBRID_SEMANTIC,S7,quadgrams,months assess,2,,0,,,0,0.0,False
+whether she supports your,2,HYBRID_SEMANTIC,S7,quadgrams,whether she supports,3,,0,,,0,0.0,False
+trial stay no irreversible,2,HYBRID_SEMANTIC,S7,quadgrams,trial stay no irreversible,4,,0,,,0,0.0,False
+stay no irreversible steps,2,HYBRID_SEMANTIC,S7,quadgrams,stay no irreversible steps,4,,0,,,0,0.0,False
+stays warm respectful and,2,HYBRID_SEMANTIC,S7,quadgrams,stays warm respectful,3,,0,,,0,0.0,False
+you want children i,2,HYBRID_SEMANTIC,S7,quadgrams,want children i,3,,0,,children,1,0.3333333333333333,False
+avoided because you fear,2,HYBRID_SEMANTIC,S7,quadgrams,avoided because fear,3,,0,,,0,0.0,False
+because you fear being,2,HYBRID_SEMANTIC,S7,quadgrams,because fear being,3,,0,,,0,0.0,False
+you fear being pulled,2,HYBRID_SEMANTIC,S7,quadgrams,fear being pulled,3,,0,,,0,0.0,False
+parents now and later,2,HYBRID_SEMANTIC,S7,quadgrams,parents now later,3,,0,,,0,0.0,False
+the calendar now week,2,HYBRID_SEMANTIC,S7,quadgrams,calendar now week,3,,0,,,0,0.0,False
+give this the best,2,HYBRID_SEMANTIC,S7,quadgrams,give best,2,,0,,,0,0.0,False
+this the best chance,2,HYBRID_SEMANTIC,S7,quadgrams,best chance,2,,0,,,0,0.0,False
+how to check ask,2,HYBRID_SEMANTIC,S7,quadgrams,how check ask,3,,0,,,0,0.0,False
+is and whether she,2,HYBRID_SEMANTIC,S7,quadgrams,whether she,2,,0,,,0,0.0,False
+marriage is expected and,2,HYBRID_SEMANTIC,S7,quadgrams,marriage expected,2,,0,,marriage,1,0.5,False
+exit plan if the,2,HYBRID_SEMANTIC,S7,quadgrams,exit plan,2,,0,,,0,0.0,False
+plan if the trial,2,HYBRID_SEMANTIC,S7,quadgrams,plan trial,2,,0,,,0,0.0,False
+liquidity buffer so a,2,HYBRID_SEMANTIC,S7,quadgrams,liquidity buffer,2,,0,,,0,0.0,False
+buffer so a crisis,2,HYBRID_SEMANTIC,S7,quadgrams,buffer crisis,2,,0,,,0,0.0,False
+so a crisis doesn,2,HYBRID_SEMANTIC,S7,quadgrams,crisis doesn,2,,0,,,0,0.0,False
+a crisis doesn t,2,HYBRID_SEMANTIC,S7,quadgrams,crisis doesn,2,,0,,,0,0.0,False
+crisis doesn t force,2,HYBRID_SEMANTIC,S7,quadgrams,crisis doesn force,3,,0,,,0,0.0,False
+doesn t force asset,2,HYBRID_SEMANTIC,S7,quadgrams,doesn force asset,3,,0,,,0,0.0,False
+t force asset sales,2,HYBRID_SEMANTIC,S7,quadgrams,force asset sales,3,,0,,,0,0.0,False
+force asset sales or,2,HYBRID_SEMANTIC,S7,quadgrams,force asset sales,3,,0,,,0,0.0,False
+round trip ticket fixed,2,HYBRID_SEMANTIC,S7,quadgrams,round trip ticket fixed,4,,0,,,0,0.0,False
+trip ticket fixed end,2,HYBRID_SEMANTIC,S7,quadgrams,trip ticket fixed end,4,,0,,,0,0.0,False
+ticket fixed end date,2,HYBRID_SEMANTIC,S7,quadgrams,ticket fixed end date,4,,0,,,0,0.0,False
+fixed end date keep,2,HYBRID_SEMANTIC,S7,quadgrams,fixed end date keep,4,,0,,,0,0.0,False
+end date keep your,2,HYBRID_SEMANTIC,S7,quadgrams,end date keep,3,,0,,,0,0.0,False
+date keep your home,2,HYBRID_SEMANTIC,S7,quadgrams,date keep home,3,,0,,,0,0.0,False
+default where complex care,2,HYBRID_SEMANTIC,S7,quadgrams,default where complex care,4,,0,,,0,0.0,False
+complex care happens whether,2,HYBRID_SEMANTIC,S7,quadgrams,complex care happens whether,4,,0,,,0,0.0,False
+care happens whether either,2,HYBRID_SEMANTIC,S7,quadgrams,care happens whether either,4,,0,,,0,0.0,False
+happens whether either of,2,HYBRID_SEMANTIC,S7,quadgrams,happens whether either,3,,0,,,0,0.0,False
+would relocate for medical,2,HYBRID_SEMANTIC,S7,quadgrams,relocate medical,2,,0,,relocat|medical,2,0.5,False
+week money family expectations,2,HYBRID_SEMANTIC,S7,quadgrams,week money family expectations,4,,0,,,0,0.0,False
+in practice conflict repair,2,HYBRID_SEMANTIC,S7,quadgrams,practice conflict repair,3,,0,,,0,0.0,False
+if talks go well,2,HYBRID_SEMANTIC,S7,quadgrams,talks go well,3,,0,,,0,0.0,False

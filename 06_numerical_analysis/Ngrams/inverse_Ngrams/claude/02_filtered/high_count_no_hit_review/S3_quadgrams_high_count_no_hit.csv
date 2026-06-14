@@ -1,0 +1,70 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy
+exclusions for interference triggered,5,AC15,S3,quadgrams,exclusions interference triggered,3,,0,,interference,1,0.3333333333333333,False
+for interference triggered safety,4,AC15,S3,quadgrams,interference triggered safety,3,,0,,interference,1,0.3333333333333333,False
+explicit exclusions for interference,4,AC15,S3,quadgrams,explicit exclusions interference,3,,0,,interference,1,0.3333333333333333,False
+supported operating envelope v1,4,AC15,S3,quadgrams,supported operating envelope v1,4,,0,,,0,0.0,False
+a supported operating envelope,3,AC15,S3,quadgrams,supported operating envelope,3,,0,,,0,0.0,False
+interference triggered safety landings,3,AC15,S3,quadgrams,interference triggered safety landings,4,,0,,interference,1,0.25,False
+a safety hover landing,3,AC15,S3,quadgrams,safety hover landing,3,,0,,hover|safety hover,2,0.6666666666666666,False
+within a certified operating,3,AC15,S3,quadgrams,within certified operating,3,,0,,,0,0.0,False
+a certified operating envelope,3,AC15,S3,quadgrams,certified operating envelope,3,,0,,,0,0.0,False
+roads decks work faces,3,AC15,S3,quadgrams,roads decks work faces,4,,0,,,0,0.0,False
+max time to clear,3,AC15,S3,quadgrams,max time clear,3,,0,,,0,0.0,False
+corridors over haul roads,6,AC15P,S3,quadgrams,corridors over haul roads,4,,0,,,0,0.0,False
+rev b shielding or,5,AC15P,S3,quadgrams,rev b shielding,3,,0,,shielding,1,0.3333333333333333,False
+limited availability early access,4,AC15P,S3,quadgrams,limited availability early access,4,,0,,early access,1,0.5,False
+no or capped downtime,3,AC15P,S3,quadgrams,no capped downtime,3,,0,,,0,0.0,False
+or capped downtime penalties,3,AC15P,S3,quadgrams,capped downtime penalties,3,,0,,,0,0.0,False
+after rev b shielding,3,AC15P,S3,quadgrams,after rev b shielding,4,,0,,shielding,1,0.25,False
+mutually agreed acceptance metrics,3,AC15P,S3,quadgrams,mutually agreed acceptance metrics,4,,0,,,0,0.0,False
+and b whether the,3,AC15P,S3,quadgrams,b whether,2,,0,,,0,0.0,False
+b whether the mining,3,AC15P,S3,quadgrams,b whether mining,3,,0,,mining,1,0.3333333333333333,False
+partner will accept a,3,AC15P,S3,quadgrams,partner will accept,3,,0,,,0,0.0,False
+with capped no penalties,3,AC15P,S3,quadgrams,capped no penalties,3,,0,,,0,0.0,False
+within qualified zones under,3,AC15P,S3,quadgrams,within qualified zones under,4,,0,,,0,0.0,False
+sla after rev b,3,AC15P,S3,quadgrams,sla after rev b,4,,0,,,0,0.0,False
+safety reliability case for,3,AC15P,S3,quadgrams,safety reliability case,3,,0,,,0,0.0,False
+in unbounded emi environments,3,AC15P,S3,quadgrams,unbounded emi environments,3,,0,,,0,0.0,False
+qualified low emi sites,3,AC15P,S3,quadgrams,qualified low emi sites,4,,0,,,0,0.0,False
+redundancy spares hot swap,4,CONTROL,S3,quadgrams,redundancy spares hot swap,4,,0,,,0,0.0,False
+tranche based series b,3,CONTROL,S3,quadgrams,tranche based series b,4,,0,,series b,1,0.5,False
+across the full site,3,CONTROL,S3,quadgrams,across full site,3,,0,,,0,0.0,False
+outside the qualified envelope,3,CONTROL,S3,quadgrams,outside qualified envelope,3,,0,,,0,0.0,False
+scoped to the qualified,3,CONTROL,S3,quadgrams,scoped qualified,2,,0,,,0,0.0,False
+to the qualified odd,3,CONTROL,S3,quadgrams,qualified odd,2,,0,,,0,0.0,False
+hover descend where you,3,CONTROL,S3,quadgrams,hover descend where,3,,0,,hover,1,0.3333333333333333,False
+your safety authority won,3,CONTROL,S3,quadgrams,safety authority won,3,,0,,,0,0.0,False
+safety authority won t,3,CONTROL,S3,quadgrams,safety authority won,3,,0,,,0,0.0,False
+authority won t sign,3,CONTROL,S3,quadgrams,authority won sign,3,,0,,,0,0.0,False
+technical authority sign off,7,HYBRID_3_5,S3,quadgrams,technical authority sign off,4,,0,,,0,0.0,False
+responsible technical authority sign,5,HYBRID_3_5,S3,quadgrams,responsible technical authority sign,4,,0,,,0,0.0,False
+an entry into service,4,HYBRID_3_5,S3,quadgrams,entry service,2,,0,,,0,0.0,False
+or designated safety authority,4,HYBRID_3_5,S3,quadgrams,designated safety authority,3,,0,,,0,0.0,False
+production loss pass through,3,HYBRID_3_5,S3,quadgrams,production loss pass through,4,,0,,,0,0.0,False
+penalty clause redacted i,3,HYBRID_3_5,S3,quadgrams,penalty clause redacted i,4,,0,,,0,0.0,False
+or equivalent root cause,3,HYBRID_3_5,S3,quadgrams,equivalent root cause,3,,0,,,0,0.0,False
+defined operating envelope with,3,HYBRID_3_5,S3,quadgrams,defined operating envelope,3,,0,,,0,0.0,False
+operating envelope with remote,3,HYBRID_3_5,S3,quadgrams,operating envelope remote,3,,0,,,0,0.0,False
+envelope with remote support,3,HYBRID_3_5,S3,quadgrams,envelope remote support,3,,0,,,0,0.0,False
+with remote support for,3,HYBRID_3_5,S3,quadgrams,remote support,2,,0,,,0,0.0,False
+penalties begin only after,3,HYBRID_3_5,S3,quadgrams,penalties begin after,3,,0,,,0,0.0,False
+authority sign off chief,3,HYBRID_3_5,S3,quadgrams,authority sign off chief,4,,0,,,0,0.0,False
+bounded entry into service,3,HYBRID_3_5,S3,quadgrams,bounded entry service,3,,0,,,0,0.0,False
+entry into service eis,3,HYBRID_3_5,S3,quadgrams,entry service eis,3,,0,,,0,0.0,False
+dated plan for the,3,HYBRID_3_5,S3,quadgrams,dated plan,2,,0,,,0,0.0,False
+plan for the shielding,3,HYBRID_3_5,S3,quadgrams,plan shielding,2,,0,,shielding,1,0.5,False
+the shielding revision or,3,HYBRID_3_5,S3,quadgrams,shielding revision,2,,0,,shielding,1,0.5,False
+resignation threat is real,3,HYBRID_3_5,S3,quadgrams,resignation threat real,3,,0,,,0,0.0,False
+must be true you,4,HYBRID_SEMANTIC,S3,quadgrams,must true,2,,0,,,0,0.0,False
+case for the early,4,HYBRID_SEMANTIC,S3,quadgrams,case early,2,,0,,,0,0.0,False
+the early access envelope,4,HYBRID_SEMANTIC,S3,quadgrams,early access envelope,3,,0,,early access,1,0.6666666666666666,False
+in environments where the,3,HYBRID_SEMANTIC,S3,quadgrams,environments where,2,,0,,,0,0.0,False
+will you stay and,3,HYBRID_SEMANTIC,S3,quadgrams,will stay,2,,0,,,0,0.0,False
+doesn t equal site,3,HYBRID_SEMANTIC,S3,quadgrams,doesn equal site,3,,0,,,0,0.0,False
+yes you have a,3,HYBRID_SEMANTIC,S3,quadgrams,yes have,2,,0,,,0,0.0,False
+where the edge case,3,HYBRID_SEMANTIC,S3,quadgrams,where edge case,3,,0,,,0,0.0,False
+the edge case can,3,HYBRID_SEMANTIC,S3,quadgrams,edge case,2,,0,,,0,0.0,False
+edge case can occur,3,HYBRID_SEMANTIC,S3,quadgrams,edge case occur,3,,0,,,0,0.0,False
+capped convert customer prepay,3,HYBRID_SEMANTIC,S3,quadgrams,capped convert customer prepay,4,,0,,,0,0.0,False
+a defensible safety reliability,3,HYBRID_SEMANTIC,S3,quadgrams,defensible safety reliability,3,,0,,,0,0.0,False
+written safety case for,3,HYBRID_SEMANTIC,S3,quadgrams,written safety case,3,,0,,,0,0.0,False

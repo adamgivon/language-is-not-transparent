@@ -1,0 +1,31 @@
+scenario,scenario_label,level,system,ngram,count,token_len,rank_within_system,system_sum_count,count_share_in_system,owner_count,owner_systems,global_ngram_count,content_token_count,content_token_ratio,scaffold_prefix,has_scaffold_prefix,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy
+S1,Scenario 1 - Trigrams,trigrams,AC15,and controller procurement,3,3,125,18023,0.000166,1,AC15,3,2,0.6667,,False,,0,,controller;procurement,2,1.0,True
+S1,Scenario 1 - Trigrams,trigrams,AC15,for proprietary controllers,2,3,516,18023,0.000111,1,AC15,2,2,0.6667,,False,,0,,controllers;proprietary,2,1.0,True
+S1,Scenario 1 - Trigrams,trigrams,AC15P,essential infrastructure we,2,3,514,17949,0.000111,1,AC15P,2,2,0.6667,,False,,0,,essential infrastructure;infrastructure,2,1.0,True
+S1,Scenario 1 - Trigrams,trigrams,AC15P,lock in modular,2,3,648,17949,0.000111,1,AC15P,2,2,0.6667,,False,,0,,lock in;modular,2,1.0,True
+S1,Scenario 1 - Trigrams,trigrams,AC15P,the proprietary integrated,2,3,871,17949,0.000111,1,AC15P,2,2,0.6667,,False,,0,,integrated;proprietary,2,1.0,True
+S1,Scenario 1 - Trigrams,trigrams,CONTROL,lead time that,4,3,92,14851,0.000269,1,CONTROL,4,2,0.6667,,False,,0,,lead time,1,1.0,True
+S1,Scenario 1 - Trigrams,trigrams,CONTROL,civitas maintenance support,2,3,372,14851,0.000135,1,CONTROL,2,3,1.0,,False,,0,,civitas;maintenance support,2,1.0,True
+S1,Scenario 1 - Trigrams,trigrams,CONTROL,integrated controller architecture,2,3,524,14851,0.000135,1,CONTROL,2,3,1.0,,False,,0,,architecture;controller;integrated,3,1.0,True
+S1,Scenario 1 - Trigrams,trigrams,CONTROL,lead times vendor,2,3,556,14851,0.000135,1,CONTROL,2,3,1.0,,False,,0,,lead times;vendor,2,1.0,True
+S1,Scenario 1 - Trigrams,trigrams,CONTROL,infrastructure and cloud,2,3,520,14851,0.000135,1,CONTROL,2,2,0.6667,,False,,0,,cloud;infrastructure,2,1.0,True
+S1,Scenario 1 - Trigrams,trigrams,CONTROL,novagrid novagrid s,2,3,621,14851,0.000135,1,CONTROL,2,2,0.6667,,False,,0,,novagrid,1,1.0,True
+S1,Scenario 1 - Trigrams,trigrams,CONTROL,on maintenance support,2,3,626,14851,0.000135,1,CONTROL,2,2,0.6667,,False,,0,,maintenance support,1,1.0,True
+S1,Scenario 1 - Trigrams,trigrams,CONTROL,proprietary controllers for,2,3,660,14851,0.000135,1,CONTROL,2,2,0.6667,,False,,0,,controllers;proprietary,2,1.0,True
+S1,Scenario 1 - Trigrams,trigrams,CONTROL,the integrated civitas,2,3,746,14851,0.000135,1,CONTROL,2,2,0.6667,,False,,0,,civitas;integrated,2,1.0,True
+S1,Scenario 1 - Trigrams,trigrams,CONTROL,their integrated architecture,2,3,763,14851,0.000135,1,CONTROL,2,2,0.6667,,False,,0,,architecture;integrated,2,1.0,True
+S1,Scenario 1 - Trigrams,trigrams,HYBRID_3_5,civitas s modular,3,3,134,16561,0.000181,1,HYBRID_3_5,3,2,0.6667,,False,,0,,civitas;modular,2,1.0,True
+S1,Scenario 1 - Trigrams,trigrams,HYBRID_3_5,civitas integrated controller,2,3,368,16561,0.000121,1,HYBRID_3_5,2,3,1.0,,False,,0,,civitas;controller;integrated,3,1.0,True
+S1,Scenario 1 - Trigrams,trigrams,HYBRID_3_5,cloud recurring fees,2,3,389,16561,0.000121,1,HYBRID_3_5,2,3,1.0,,False,,0,,cloud;recurring fees,2,1.0,True
+S1,Scenario 1 - Trigrams,trigrams,HYBRID_3_5,a lead time,2,3,266,16561,0.000121,1,HYBRID_3_5,2,2,0.6667,,False,,0,,lead time,1,1.0,True
+S1,Scenario 1 - Trigrams,trigrams,HYBRID_3_5,a waiver cloud,2,3,271,16561,0.000121,1,HYBRID_3_5,2,2,0.6667,,False,,0,,cloud;waiver,2,1.0,True
+S1,Scenario 1 - Trigrams,trigrams,HYBRID_3_5,essential infrastructure an,2,3,452,16561,0.000121,1,HYBRID_3_5,2,2,0.6667,,False,,0,,essential infrastructure;infrastructure,2,1.0,True
+S1,Scenario 1 - Trigrams,trigrams,HYBRID_3_5,essential infrastructure not,2,3,454,16561,0.000121,1,HYBRID_3_5,2,2,0.6667,,False,,0,,essential infrastructure;infrastructure,2,1.0,True
+S1,Scenario 1 - Trigrams,trigrams,HYBRID_3_5,modular controllers are,2,3,610,16561,0.000121,1,HYBRID_3_5,2,2,0.6667,,False,,0,,controllers;modular,2,1.0,True
+S1,Scenario 1 - Trigrams,trigrams,HYBRID_3_5,the cloud failover,2,3,771,16561,0.000121,1,HYBRID_3_5,2,2,0.6667,,False,,0,,cloud;failover,2,1.0,True
+S1,Scenario 1 - Trigrams,trigrams,HYBRID_3_5,the integrated architecture,2,3,777,16561,0.000121,1,HYBRID_3_5,2,2,0.6667,,False,,0,,architecture;integrated,2,1.0,True
+S1,Scenario 1 - Trigrams,trigrams,HYBRID_SEMANTIC,lead times modular,2,3,634,17187,0.000116,1,HYBRID_SEMANTIC,2,3,1.0,,False,,0,,lead times;modular,2,1.0,True
+S1,Scenario 1 - Trigrams,trigrams,HYBRID_SEMANTIC,a cloud failover,2,3,289,17187,0.000116,1,HYBRID_SEMANTIC,2,2,0.6667,,False,,0,,cloud;failover,2,1.0,True
+S1,Scenario 1 - Trigrams,trigrams,HYBRID_SEMANTIC,can civitas modular,2,3,388,17187,0.000116,1,HYBRID_SEMANTIC,2,2,0.6667,,False,,0,,civitas;modular,2,1.0,True
+S1,Scenario 1 - Trigrams,trigrams,HYBRID_SEMANTIC,is highway signal,2,3,608,17187,0.000116,1,HYBRID_SEMANTIC,2,2,0.6667,,False,,0,,highway;signal,2,1.0,True
+S1,Scenario 1 - Trigrams,trigrams,HYBRID_SEMANTIC,lead time is,2,3,631,17187,0.000116,1,HYBRID_SEMANTIC,2,2,0.6667,,False,,0,,lead time,1,1.0,True

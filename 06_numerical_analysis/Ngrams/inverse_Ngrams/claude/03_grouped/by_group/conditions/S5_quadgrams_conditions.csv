@@ -1,0 +1,10 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+g days unless promoted,2,AC15,S5,quadgrams,g days unless promoted,4,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,unless,False
+should we depends on,2,AC15P,S5,quadgrams,should depends,2,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,depends|depends on,False
+depends on the architecture,2,AC15P,S5,quadgrams,depends architecture,2,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,depends|depends on,False
+n days sprints unless,2,AC15P,S5,quadgrams,n days sprints unless,4,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,unless,False
+days sprints unless reaffirmed,2,AC15P,S5,quadgrams,days sprints unless reaffirmed,4,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,unless,False
+rut staleness risk unless,2,HYBRID_3_5,S5,quadgrams,rut staleness risk unless,4,practicality_and_feasibility,1,risk,staleness,1,0.25,False,conditions|temporal_projection|warning,conditions|temporal_projection.decay_and_currency|warning,3,3,1,2,temporal_projection,conditions|warning,risk|staleness|unless,False
+can expire unless reaffirmed,2,HYBRID_SEMANTIC,S5,quadgrams,expire unless reaffirmed,3,temporal_dynamics,1,expire,,0,0.0,False,conditions|temporal_projection,conditions|temporal_projection.decay_and_currency,2,2,1,1,temporal_projection,conditions,expire|unless,False
+tickets retrieved only when,2,HYBRID_SEMANTIC,S5,quadgrams,tickets retrieved,2,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,only when,False
+whether chat can be,2,HYBRID_SEMANTIC,S5,quadgrams,whether chat,2,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,whether,False

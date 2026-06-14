@@ -1,0 +1,10 @@
+scenario,scenario_label,level,system,ngram,count,token_len,rank_within_system,system_sum_count,count_share_in_system,owner_count,owner_systems,global_ngram_count,content_token_count,content_token_ratio,scaffold_prefix,has_scaffold_prefix,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy
+S3,Scenario 3 - Quadgrams,quadgrams,AC15,a the chief architect,2,4,60,15882,0.000126,1,AC15,2,2,0.5,,False,,0,,chief architect,1,1.0,True
+S3,Scenario 3 - Quadgrams,quadgrams,AC15P,availability early access launch,2,4,72,15875,0.000126,1,AC15P,2,4,1.0,,False,,0,,early access;launch,2,0.75,True
+S3,Scenario 3 - Quadgrams,quadgrams,AC15P,chief architect is a,2,4,90,15875,0.000126,1,AC15P,2,2,0.5,,False,,0,,chief architect,1,1.0,True
+S3,Scenario 3 - Quadgrams,quadgrams,AC15P,early access is not,2,4,109,15875,0.000126,1,AC15P,2,2,0.5,,False,,0,,early access,1,1.0,True
+S3,Scenario 3 - Quadgrams,quadgrams,AC15P,from the chief architect,2,4,126,15875,0.000126,1,AC15P,2,2,0.5,,False,,0,,chief architect,1,1.0,True
+S3,Scenario 3 - Quadgrams,quadgrams,CONTROL,commercial early access launch,2,4,74,10263,0.000195,1,CONTROL,2,4,1.0,,False,,0,,early access;launch,2,0.75,True
+S3,Scenario 3 - Quadgrams,quadgrams,HYBRID_3_5,chief architect on the,2,4,96,14274,0.00014,1,HYBRID_3_5,2,2,0.5,,False,,0,,chief architect,1,1.0,True
+S3,Scenario 3 - Quadgrams,quadgrams,HYBRID_SEMANTIC,the chief architect can,2,4,246,15675,0.000128,1,HYBRID_SEMANTIC,2,2,0.5,,False,,0,,chief architect,1,1.0,True
+S3,Scenario 3 - Quadgrams,quadgrams,HYBRID_SEMANTIC,you launch into mining,2,4,291,15675,0.000128,1,HYBRID_SEMANTIC,2,2,0.5,,False,,0,,launch;mining,2,1.0,True

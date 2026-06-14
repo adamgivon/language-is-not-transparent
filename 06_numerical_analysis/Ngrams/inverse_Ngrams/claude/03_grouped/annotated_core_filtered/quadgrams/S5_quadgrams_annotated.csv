@@ -1,0 +1,463 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+one click mark outdated,4,AC15,S5,quadgrams,one click mark outdated,4,temporal_dynamics,1,outdated,,0,0.0,False,temporal_projection,temporal_projection.decay_and_currency,1,1,1,0,temporal_projection,,outdated,False
+decision constraint convention confirmedfix,3,AC15,S5,quadgrams,decision constraint convention confirmedfix,4,practicality_and_feasibility,1,constraint,,0,0.0,False,practical_considerations_and_execution|truth,practical_considerations_and_execution.constraints_and_tradeoffs|truth.verification,2,2,2,0,practical_considerations_and_execution|truth,,confirm|constrain|constraint,False
+click mark outdated supersede,3,AC15,S5,quadgrams,click mark outdated supersede,4,temporal_dynamics,1,outdated,,0,0.0,False,temporal_projection,temporal_projection.decay_and_currency,1,1,1,0,temporal_projection,,outdated,False
+active superseded deprecated created_at,3,AC15,S5,quadgrams,active superseded deprecated created_at,4,temporal_dynamics,1,deprecat,deprecated,1,0.25,False,temporal_projection,temporal_projection.decay_and_currency,1,1,1,0,temporal_projection,,deprecat|deprecated,False
+superseded deprecated created_at last_confirmed_at,3,AC15,S5,quadgrams,superseded deprecated created_at last_confirmed_at,4,temporal_dynamics,1,deprecat,deprecated,1,0.25,False,temporal_projection,temporal_projection.decay_and_currency,1,1,1,0,temporal_projection,,deprecat|deprecated,False
+deprecated created_at last_confirmed_at confidence,3,AC15,S5,quadgrams,deprecated created_at last_confirmed_at confidence,4,temporal_dynamics,1,deprecat,deprecated,1,0.25,False,temporal_projection,temporal_projection.decay_and_currency,1,1,1,0,temporal_projection,,deprecat|deprecated,False
+layer a authoritative project,3,AC15,S5,quadgrams,layer authoritative project,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a authoritative project memory,3,AC15,S5,quadgrams,authoritative project memory,3,,0,,memory|project memory,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+confidence user approved vs,3,AC15,S5,quadgrams,confidence user approved vs,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+ttl e g days,3,AC15,S5,quadgrams,ttl e g days,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+approval for high impact,3,AC15,S5,quadgrams,approval high impact,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+for high impact items,3,AC15,S5,quadgrams,high impact items,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+link to adr pr,3,AC15,S5,quadgrams,link adr pr,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+authoritative project memory apm,3,AC15,S5,quadgrams,authoritative project memory apm,4,,0,,memory|project memory,2,0.5,False,,,0,0,0,0,,,,True
+constraints conventions confirmed fixes,2,AC15,S5,quadgrams,constraints conventions confirmed fixes,4,truth_and_fact|practicality_and_feasibility,2,confirmed|constraints,,0,0.0,False,practical_considerations_and_execution|truth,practical_considerations_and_execution.constraints_and_tradeoffs|truth.verification,2,2,2,0,practical_considerations_and_execution|truth,,confirm|confirmed|constrain|constraints,False
+as decaying cited evidence,2,AC15,S5,quadgrams,decaying cited evidence,3,truth_and_fact|temporal_dynamics,2,decaying|evidence,,0,0.0,False,temporal_projection|truth,temporal_projection.decay_and_currency|truth.verification,2,2,2,0,temporal_projection|truth,,decaying|evidence,False
+hasn t been confirmed,2,AC15,S5,quadgrams,hasn been confirmed,3,truth_and_fact,1,confirmed,,0,0.0,False,surfacing|truth,surfacing.confrontation|truth.verification,2,2,1,1,truth,surfacing,confirm|confirmed|hasn t,False
+typed records decision constraint,2,AC15,S5,quadgrams,typed records decision constraint,4,practicality_and_feasibility,1,constraint,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,constrain|constraint,False
+records decision constraint convention,2,AC15,S5,quadgrams,records decision constraint convention,4,practicality_and_feasibility,1,constraint,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,constrain|constraint,False
+auto approves low risk,2,AC15,S5,quadgrams,auto approves low risk,4,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+you implement memory as,2,AC15,S5,quadgrams,implement memory,2,practicality_and_feasibility,1,implement,memory,1,0.5,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,implement,False
+vectors as cited evidence,2,AC15,S5,quadgrams,vectors cited evidence,3,truth_and_fact,1,evidence,vector|vectors,2,0.3333333333333333,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+t been confirmed in,2,AC15,S5,quadgrams,been confirmed,2,truth_and_fact,1,confirmed,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,confirm|confirmed,False
+been confirmed in days,2,AC15,S5,quadgrams,been confirmed days,3,truth_and_fact,1,confirmed,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,confirm|confirmed,False
+outdated don t use,2,AC15,S5,quadgrams,outdated use,2,temporal_dynamics,1,outdated,,0,0.0,False,temporal_projection,temporal_projection.decay_and_currency,1,1,1,0,temporal_projection,,outdated,False
+confirm if you tell,2,AC15,S5,quadgrams,confirm tell,2,truth_and_fact,1,confirm,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,confirm,False
+always show source date,2,AC15,S5,quadgrams,always show source date,4,truth_and_fact,1,source,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,source,False
+layer b evidence index,2,AC15,S5,quadgrams,layer b evidence index,4,truth_and_fact,1,evidence,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+b evidence index ei,2,AC15,S5,quadgrams,b evidence index ei,4,truth_and_fact,1,evidence,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+code prompt constraints only,2,AC15,S5,quadgrams,code prompt constraints,3,practicality_and_feasibility,1,constraints,code,1,0.3333333333333333,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,constrain|constraints,False
+project brief decisions constraints,2,AC15,S5,quadgrams,project brief decisions constraints,4,practicality_and_feasibility,1,constraints,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,constrain|constraints,False
+brief decisions constraints conventions,2,AC15,S5,quadgrams,brief decisions constraints conventions,4,practicality_and_feasibility,1,constraints,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,constrain|constraints,False
+pii can t leave,2,AC15,S5,quadgrams,pii leave,2,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,can t,False
+can t leave region,2,AC15,S5,quadgrams,leave region,2,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,can t,False
+g days unless promoted,2,AC15,S5,quadgrams,g days unless promoted,4,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,unless,False
+fresh eyes mode so,2,AC15,S5,quadgrams,fresh eyes mode,3,,0,,fresh eyes,1,0.6666666666666666,False,temporal_projection,temporal_projection.decay_and_currency,1,1,1,0,temporal_projection,,fresh,False
+this convention hasn t,2,AC15,S5,quadgrams,convention hasn,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,hasn t,False
+convention hasn t been,2,AC15,S5,quadgrams,convention hasn been,3,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,hasn t,False
+you ll ship a,2,AC15,S5,quadgrams,ll ship,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,ship,False
+ll ship a feature,2,AC15,S5,quadgrams,ll ship feature,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,ship,False
+if continuum is implemented,2,AC15,S5,quadgrams,continuum implemented,2,,0,,continuum,1,0.5,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,implement,False
+continuum is implemented as,2,AC15,S5,quadgrams,continuum implemented,2,,0,,continuum,1,0.5,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,implement,False
+do not ship remember,2,AC15,S5,quadgrams,ship remember,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,ship,False
+not ship remember everything,2,AC15,S5,quadgrams,ship remember everything,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,ship,False
+conflicts with apm or,2,AC15,S5,quadgrams,conflicts apm,2,,0,,,0,0.0,False,surfacing,surfacing.tension_exposure,1,1,0,1,,surfacing,conflicts,False
+fresh eyes escape hatch,2,AC15,S5,quadgrams,fresh eyes escape hatch,4,,0,,fresh eyes,1,0.5,False,temporal_projection,temporal_projection.decay_and_currency,1,1,1,0,temporal_projection,,fresh,False
+memory you can trust,2,AC15,S5,quadgrams,memory trust,2,,0,,memory,1,0.5,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,can t,False
+short ttl vectors later,2,AC15,S5,quadgrams,short ttl vectors later,4,,0,,vector|vectors,2,0.25,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,later,False
+inferred evidence_refs pr commit,2,AC15,S5,quadgrams,inferred evidence_refs pr commit,4,,0,,,0,0.0,False,truth,truth.fact_vs_interpretation,1,1,1,0,truth,,inferred,False
+continuity but make it,2,AC15,S5,quadgrams,continuity make,2,temporal_dynamics,1,continuity,continuity,1,0.5,False,,,0,0,0,0,,,,True
+convention patterns error handling,2,AC15,S5,quadgrams,convention patterns error handling,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+patterns error handling logging,2,AC15,S5,quadgrams,patterns error handling logging,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+repo service module status,2,AC15,S5,quadgrams,repo service module status,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+service module status active,2,AC15,S5,quadgrams,service module status active,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+module status active superseded,2,AC15,S5,quadgrams,module status active superseded,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+created_at last_confirmed_at confidence user,2,AC15,S5,quadgrams,created_at last_confirmed_at confidence user,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+last_confirmed_at confidence user approved,2,AC15,S5,quadgrams,last_confirmed_at confidence user approved,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+is the senior colleague,2,AC15,S5,quadgrams,senior colleague,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+something like score relevance,2,AC15,S5,quadgrams,something like score relevance,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+for high impact types,2,AC15,S5,quadgrams,high impact types,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+as governed time aware,2,AC15,S5,quadgrams,governed time aware,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+governed time aware user,2,AC15,S5,quadgrams,governed time aware user,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+time aware user auditable,2,AC15,S5,quadgrams,time aware user auditable,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+can be versioned superseded,2,AC15,S5,quadgrams,versioned superseded,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+or the model detects,2,AC15,S5,quadgrams,model detects,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a project brief authoritative,2,AC15,S5,quadgrams,project brief authoritative,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+links to adrs runbooks,2,AC15,S5,quadgrams,links adrs runbooks,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+policy auto approves low,2,AC15,S5,quadgrams,policy auto approves low,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+if memory re injection,2,AC15,S5,quadgrams,memory injection,2,,0,,memory,1,0.5,False,,,0,0,0,0,,,,True
+memory re injection is,2,AC15,S5,quadgrams,memory injection,2,,0,,memory,1,0.5,False,,,0,0,0,0,,,,True
+a single free text,2,AC15,S5,quadgrams,single free text,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+single free text blob,2,AC15,S5,quadgrams,single free text blob,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+user approval for high,2,AC15,S5,quadgrams,user approval high,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+authoritative memory structured summaries,2,AC15,S5,quadgrams,authoritative memory structured summaries,4,,0,,memory|summaries,2,0.5,False,,,0,0,0,0,,,,True
+scoped time stamped vector,2,AC15,S5,quadgrams,scoped time stamped vector,4,,0,,vector,1,0.25,False,,,0,0,0,0,,,,True
+willingness to rely on,2,AC15,S5,quadgrams,willingness rely,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+can review in code,2,AC15,S5,quadgrams,review code,2,,0,,code,1,0.5,False,,,0,0,0,0,,,,True
+review in code review,2,AC15,S5,quadgrams,review code review,3,,0,,code,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+to adr pr commit,2,AC15,S5,quadgrams,adr pr commit,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+e g days for,2,AC15,S5,quadgrams,e g days,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+g days for chats,2,AC15,S5,quadgrams,g days chats,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+don t fully trust,2,AC15,S5,quadgrams,fully trust,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+t fully trust it,2,AC15,S5,quadgrams,fully trust,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+project memory you can,2,AC15,S5,quadgrams,project memory,2,,0,,memory|project memory,2,1.0,True,,,0,0,0,0,,,,True
+rbac aware retrieval retention,2,AC15,S5,quadgrams,rbac aware retrieval retention,4,,0,,retrieval,1,0.25,False,,,0,0,0,0,,,,True
+aware retrieval retention ttl,2,AC15,S5,quadgrams,aware retrieval retention ttl,4,,0,,retrieval,1,0.25,False,,,0,0,0,0,,,,True
+per answer memory used,2,AC15,S5,quadgrams,per answer memory used,4,,0,,memory,1,0.25,False,,,0,0,0,0,,,,True
+editable project brief decisions,2,AC15,S5,quadgrams,editable project brief decisions,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+scope status active superseded,2,AC15,S5,quadgrams,scope status active superseded,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+if the mvp goal,2,AC15,S5,quadgrams,mvp goal,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the mvp goal is,2,AC15,S5,quadgrams,mvp goal,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+evidence_refs pr commit doc,2,AC15,S5,quadgrams,evidence_refs pr commit doc,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+make what the ai,2,AC15,S5,quadgrams,make ai,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+adrs prs issues runbooks,6,AC15P,S5,quadgrams,adrs prs issues runbooks,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+prs issues runbooks postmortems,5,AC15P,S5,quadgrams,prs issues runbooks postmortems,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+artifacts adrs prs issues,5,AC15P,S5,quadgrams,artifacts adrs prs issues,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+durable artifacts adrs prs,4,AC15P,S5,quadgrams,durable artifacts adrs prs,4,,0,,,0,0.0,False,temporal_projection,temporal_projection.robustness_and_resilience,1,1,1,0,temporal_projection,,durable,False
+runbooks postmortems selected logs,4,AC15P,S5,quadgrams,runbooks postmortems selected logs,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+project brief adr style,4,AC15P,S5,quadgrams,project brief adr style,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+brief adr style decisions,4,AC15P,S5,quadgrams,brief adr style decisions,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+id type text status,4,AC15P,S5,quadgrams,id type text status,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+draft accepted superseded deprecated,3,AC15P,S5,quadgrams,draft accepted superseded deprecated,4,temporal_dynamics,1,deprecat,deprecated,1,0.25,False,imagination_and_possibility|temporal_projection,imagination_and_possibility.exploration_within_bounds|temporal_projection.decay_and_currency,2,2,2,0,imagination_and_possibility|temporal_projection,,deprecat|deprecated|draft,False
+verified outcomes runbook items,3,AC15P,S5,quadgrams,verified outcomes runbook items,4,truth_and_fact,1,verified,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,verif|verified,False
+accepted superseded deprecated needs,3,AC15P,S5,quadgrams,accepted superseded deprecated needs,4,temporal_dynamics,1,deprecat,deprecated,1,0.25,False,temporal_projection,temporal_projection.decay_and_currency,1,1,1,0,temporal_projection,,deprecat|deprecated,False
+superseded deprecated needs review,3,AC15P,S5,quadgrams,superseded deprecated needs review,4,temporal_dynamics,1,deprecat,deprecated,1,0.25,False,temporal_projection,temporal_projection.decay_and_currency,1,1,1,0,temporal_projection,,deprecat|deprecated,False
+adr style decisions verified,3,AC15P,S5,quadgrams,adr style decisions verified,4,truth_and_fact,1,verified,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,verif|verified,False
+style decisions verified outcomes,3,AC15P,S5,quadgrams,style decisions verified outcomes,4,truth_and_fact,1,verified,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,verif|verified,False
+over durable artifacts with,3,AC15P,S5,quadgrams,over durable artifacts,3,,0,,,0,0.0,False,temporal_projection,temporal_projection.robustness_and_resilience,1,1,1,0,temporal_projection,,durable,False
+durable artifacts with citations,3,AC15P,S5,quadgrams,durable artifacts citations,3,,0,,,0,0.0,False,temporal_projection,temporal_projection.robustness_and_resilience,1,1,1,0,temporal_projection,,durable,False
+status draft accepted superseded,3,AC15P,S5,quadgrams,status draft accepted superseded,4,,0,,,0,0.0,False,imagination_and_possibility,imagination_and_possibility.exploration_within_bounds,1,1,1,0,imagination_and_possibility,,draft,False
+what influenced the answer,3,AC15P,S5,quadgrams,influenced answer,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+project brief accepted decisions,3,AC15P,S5,quadgrams,project brief accepted decisions,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+filters repo branch time,3,AC15P,S5,quadgrams,filters repo branch time,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+created_at last_validated_at repo branch,3,AC15P,S5,quadgrams,created_at last_validated_at repo branch,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+after n days sprints,3,AC15P,S5,quadgrams,after n days sprints,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+can t ship provenance,2,AC15P,S5,quadgrams,ship provenance,2,truth_and_fact,1,provenance,,0,0.0,False,practical_considerations_and_execution|surfacing|truth,practical_considerations_and_execution.action_and_execution|surfacing.hard_limit_refusal|truth.verification,3,3,2,1,practical_considerations_and_execution|truth,surfacing,can t|provenance|ship,False
+decisions constraints verified outcomes,2,AC15P,S5,quadgrams,decisions constraints verified outcomes,4,truth_and_fact|practicality_and_feasibility,2,verified|constraints,,0,0.0,False,practical_considerations_and_execution|truth,practical_considerations_and_execution.constraints_and_tradeoffs|truth.verification,2,2,2,0,practical_considerations_and_execution|truth,,constrain|constraints|verif|verified,False
+makes continuity mostly about,2,AC15P,S5,quadgrams,makes continuity mostly about,4,temporal_dynamics,1,continuity,continuity,1,0.25,False,hedging,hedging,1,1,0,1,,hedging,mostly,False
+tend to make continuity,2,AC15P,S5,quadgrams,tend make continuity,3,temporal_dynamics,1,continuity,continuity,1,0.3333333333333333,False,hedging,hedging,1,1,0,1,,hedging,tend,False
+constraint that steers everything,2,AC15P,S5,quadgrams,constraint steers everything,3,practicality_and_feasibility,1,constraint,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,constrain|constraint,False
+time window branch artifact,2,AC15P,S5,quadgrams,time window branch artifact,4,temporal_dynamics,1,window,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,time window|window,False
+possible paths symbols exist,2,AC15P,S5,quadgrams,possible paths symbols exist,4,imagination_and_possibility,1,possible,,0,0.0,False,imagination_and_possibility,imagination_and_possibility.exploration_within_bounds,1,1,1,0,imagination_and_possibility,,possibl|possible,False
+artifact type time window,2,AC15P,S5,quadgrams,artifact type time window,4,temporal_dynamics,1,window,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,time window|window,False
+type time window status,2,AC15P,S5,quadgrams,type time window status,4,temporal_dynamics,1,window,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,time window|window,False
+should we depends on,2,AC15P,S5,quadgrams,should depends,2,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,depends|depends on,False
+pointers to durable artifacts,2,AC15P,S5,quadgrams,pointers durable artifacts,3,,0,,,0,0.0,False,temporal_projection,temporal_projection.robustness_and_resilience,1,1,1,0,temporal_projection,,durable,False
+can canonize a wrong,2,AC15P,S5,quadgrams,canonize wrong,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,wrong,False
+depends on the architecture,2,AC15P,S5,quadgrams,depends architecture,2,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,depends|depends on,False
+developer can t see,2,AC15P,S5,quadgrams,developer see,2,,0,,developer,1,0.5,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,can t,False
+becomes stale if the,2,AC15P,S5,quadgrams,becomes stale,2,,0,,stale,1,0.5,False,temporal_projection,temporal_projection.decay_and_currency,1,1,1,0,temporal_projection,,stale,False
+opaque or hard to,2,AC15P,S5,quadgrams,opaque hard,2,,0,,,0,0.0,False,surfacing,surfacing.friction_exposed,1,1,0,1,,surfacing,hard,False
+as the codebase evolves,2,AC15P,S5,quadgrams,codebase evolves,2,,0,,codebase,1,0.5,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,evolv,False
+visible fresh eyes vs,2,AC15P,S5,quadgrams,visible fresh eyes vs,4,,0,,fresh eyes,1,0.5,False,temporal_projection,temporal_projection.decay_and_currency,1,1,1,0,temporal_projection,,fresh,False
+vectors over durable artifacts,2,AC15P,S5,quadgrams,vectors over durable artifacts,4,,0,,vector|vectors,2,0.25,False,temporal_projection,temporal_projection.robustness_and_resilience,1,1,1,0,temporal_projection,,durable,False
+type text status draft,2,AC15P,S5,quadgrams,type text status draft,4,,0,,,0,0.0,False,imagination_and_possibility,imagination_and_possibility.exploration_within_bounds,1,1,1,0,imagination_and_possibility,,draft,False
+text status draft accepted,2,AC15P,S5,quadgrams,text status draft accepted,4,,0,,,0,0.0,False,imagination_and_possibility,imagination_and_possibility.exploration_within_bounds,1,1,1,0,imagination_and_possibility,,draft,False
+retrieval over durable artifacts,2,AC15P,S5,quadgrams,retrieval over durable artifacts,4,,0,,retrieval,1,0.25,False,temporal_projection,temporal_projection.robustness_and_resilience,1,1,1,0,temporal_projection,,durable,False
+always show used context,2,AC15P,S5,quadgrams,always show used context,4,,0,,context,1,0.25,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,context,False
+show used context with,2,AC15P,S5,quadgrams,show used context,3,,0,,context,1,0.3333333333333333,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,context,False
+used context with links,2,AC15P,S5,quadgrams,used context links,3,,0,,context,1,0.3333333333333333,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,context,False
+context with links dates,2,AC15P,S5,quadgrams,context links dates,3,,0,,context,1,0.3333333333333333,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,context,False
+retention access deletion audit,2,AC15P,S5,quadgrams,retention access deletion audit,4,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,audit,False
+with hard filters repo,2,AC15P,S5,quadgrams,hard filters repo,3,,0,,,0,0.0,False,surfacing,surfacing.friction_exposed,1,1,0,1,,surfacing,hard,False
+hard filters repo branch,2,AC15P,S5,quadgrams,hard filters repo branch,4,,0,,,0,0.0,False,surfacing,surfacing.friction_exposed,1,1,0,1,,surfacing,hard,False
+n days sprints unless,2,AC15P,S5,quadgrams,n days sprints unless,4,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,unless,False
+days sprints unless reaffirmed,2,AC15P,S5,quadgrams,days sprints unless reaffirmed,4,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,unless,False
+the model toward prior,2,AC15P,S5,quadgrams,model toward prior,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+model toward prior framings,2,AC15P,S5,quadgrams,model toward prior framings,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+still valid after the,2,AC15P,S5,quadgrams,still valid after,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+metadata filters repo branch,2,AC15P,S5,quadgrams,metadata filters repo branch,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+see what influenced the,2,AC15P,S5,quadgrams,see influenced,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+run an a b,2,AC15P,S5,quadgrams,run b,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+an a b c,2,AC15P,S5,quadgrams,b c,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+eliminate re briefing without,2,AC15P,S5,quadgrams,eliminate briefing without,3,,0,,re briefing,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+can propose the exact,2,AC15P,S5,quadgrams,propose exact,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+when persistent memory is,2,AC15P,S5,quadgrams,persistent memory,2,,0,,memory,1,0.5,False,,,0,0,0,0,,,,True
+issues runbooks postmortems rather,2,AC15P,S5,quadgrams,issues runbooks postmortems rather,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+runbooks postmortems rather than,2,AC15P,S5,quadgrams,runbooks postmortems rather than,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+file path commit hash,2,AC15P,S5,quadgrams,file path commit hash,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+memory project brief adr,2,AC15P,S5,quadgrams,memory project brief adr,4,,0,,memory,1,0.25,False,,,0,0,0,0,,,,True
+project brief adr like,2,AC15P,S5,quadgrams,project brief adr like,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+brief adr like decisions,2,AC15P,S5,quadgrams,brief adr like decisions,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+vector lexical search over,2,AC15P,S5,quadgrams,vector lexical search over,4,,0,,vector,1,0.25,False,,,0,0,0,0,,,,True
+issues runbooks postmortems selected,2,AC15P,S5,quadgrams,issues runbooks postmortems selected,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+auto mark needs review,2,AC15P,S5,quadgrams,auto mark needs review,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+before acting on old,2,AC15P,S5,quadgrams,before acting old,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+this makes the assistant,2,AC15P,S5,quadgrams,makes assistant,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+doc pr issue file,2,AC15P,S5,quadgrams,doc pr issue file,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+branch artifact type status,2,AC15P,S5,quadgrams,branch artifact type status,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+memory must be auditable,2,AC15P,S5,quadgrams,memory must auditable,3,,0,,memory,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+use vectors only for,2,AC15P,S5,quadgrams,use vectors,2,,0,,vector|vectors,2,0.5,False,,,0,0,0,0,,,,True
+adr pr issue or,2,AC15P,S5,quadgrams,adr pr issue,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+is most compelling when,2,AC15P,S5,quadgrams,most compelling,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+with citations prs issues,2,AC15P,S5,quadgrams,citations prs issues,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+citations prs issues docs,2,AC15P,S5,quadgrams,citations prs issues docs,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+prs issues docs not,2,AC15P,S5,quadgrams,prs issues docs,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+curated artifacts project brief,2,AC15P,S5,quadgrams,curated artifacts project brief,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+artifacts project brief adr,2,AC15P,S5,quadgrams,artifacts project brief adr,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+eyes vs continuum mode,2,AC15P,S5,quadgrams,eyes vs continuum mode,4,,0,,continuum,1,0.25,False,,,0,0,0,0,,,,True
+cited and time branch,2,AC15P,S5,quadgrams,cited time branch,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+eyes vs continuum and,2,AC15P,S5,quadgrams,eyes vs continuum,3,,0,,continuum,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+time branch artifact type,2,AC15P,S5,quadgrams,time branch artifact type,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+owner created_at last_validated_at repo,2,AC15P,S5,quadgrams,owner created_at last_validated_at repo,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+links pr issue doc,2,AC15P,S5,quadgrams,links pr issue doc,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+where did we do,2,AC15P,S5,quadgrams,where did,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+issues adrs runbooks postmortems,2,AC15P,S5,quadgrams,issues adrs runbooks postmortems,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+adrs runbooks postmortems selected,2,AC15P,S5,quadgrams,adrs runbooks postmortems selected,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+postmortems selected logs stack,2,AC15P,S5,quadgrams,postmortems selected logs stack,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+selected logs stack traces,2,AC15P,S5,quadgrams,selected logs stack traces,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+design docs not raw,2,AC15P,S5,quadgrams,design docs raw,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+docs not raw chats,2,AC15P,S5,quadgrams,docs raw chats,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+not raw chats by,2,AC15P,S5,quadgrams,raw chats,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+raw chats by default,2,AC15P,S5,quadgrams,raw chats default,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+filters repo branch artifact,2,AC15P,S5,quadgrams,filters repo branch artifact,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+repo branch artifact type,2,AC15P,S5,quadgrams,repo branch artifact type,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+branch artifact type time,2,AC15P,S5,quadgrams,branch artifact type time,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+self reinforcing retrieval loops,2,AC15P,S5,quadgrams,self reinforcing retrieval loops,4,,0,,retrieval,1,0.25,False,,,0,0,0,0,,,,True
+brief adrs runbook outcomes,2,AC15P,S5,quadgrams,brief adrs runbook outcomes,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+raw chat by default,2,AC15P,S5,quadgrams,raw chat default,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+ephemeral or user invoked,2,AC15P,S5,quadgrams,ephemeral user invoked,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+memory loaded brief vn,2,AC15P,S5,quadgrams,memory loaded brief vn,4,,0,,memory,1,0.25,False,,,0,0,0,0,,,,True
+keep unit economics sane,2,AC15P,S5,quadgrams,keep unit economics sane,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+last_validated_at repo branch links,2,AC15P,S5,quadgrams,last_validated_at repo branch links,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+needs review after n,2,AC15P,S5,quadgrams,needs review after n,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+review after n days,2,AC15P,S5,quadgrams,review after n days,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+conventions constraints system map,7,CONTROL,S5,quadgrams,conventions constraints system map,4,practicality_and_feasibility,1,constraints,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,constrain|constraints,False
+decisions conventions constraints system,6,CONTROL,S5,quadgrams,decisions conventions constraints system,4,practicality_and_feasibility,1,constraints,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,constrain|constraints,False
+notebook decisions conventions constraints,3,CONTROL,S5,quadgrams,notebook decisions conventions constraints,4,practicality_and_feasibility,1,constraints,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,constrain|constraints,False
+scope tags service module,3,CONTROL,S5,quadgrams,scope tags service module,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+more likely to create,2,CONTROL,S5,quadgrams,more likely create,3,,0,,,0,0.0,False,hedging|practical_considerations_and_execution,hedging|practical_considerations_and_execution.action_and_execution,2,2,1,1,practical_considerations_and_execution,hedging,create|likely,False
+basic repo conflict checks,2,CONTROL,S5,quadgrams,basic repo conflict checks,4,,0,,,0,0.0,False,surfacing|truth,surfacing.tension_exposure|truth.verification,2,2,1,1,truth,surfacing,checks|conflict,False
+gated vector backed evidence,2,CONTROL,S5,quadgrams,gated vector backed evidence,4,truth_and_fact,1,evidence,vector,1,0.25,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+verify against the repo,2,CONTROL,S5,quadgrams,verify against repo,3,truth_and_fact,1,verify,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,verif|verify,False
+module tags recency window,2,CONTROL,S5,quadgrams,module tags recency window,4,temporal_dynamics,1,window,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,window,False
+continuum notebook gated evidence,2,CONTROL,S5,quadgrams,continuum notebook gated evidence,4,truth_and_fact,1,evidence,continuum,1,0.25,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+vector backed evidence index,2,CONTROL,S5,quadgrams,vector backed evidence index,4,truth_and_fact,1,evidence,vector,1,0.25,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+constraints conventions system map,2,CONTROL,S5,quadgrams,constraints conventions system map,4,practicality_and_feasibility,1,constraints,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,constrain|constraints,False
+as decision convention constraint,2,CONTROL,S5,quadgrams,decision convention constraint,3,practicality_and_feasibility,1,constraint,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,constrain|constraint,False
+repo verification before recommending,2,CONTROL,S5,quadgrams,repo verification before recommending,4,truth_and_fact,1,verification,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,verif|verification,False
+that preserves fresh eyes,2,CONTROL,S5,quadgrams,preserves fresh eyes,3,,0,,fresh eyes,1,0.6666666666666666,False,temporal_projection,temporal_projection.decay_and_currency,1,1,1,0,temporal_projection,,fresh,False
+tends to do well,2,CONTROL,S5,quadgrams,tends well,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,tends|tends to,False
+but more likely to,2,CONTROL,S5,quadgrams,more likely,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,likely,False
+likely to cause ruts,2,CONTROL,S5,quadgrams,likely cause ruts,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,likely,False
+why did we choose,2,CONTROL,S5,quadgrams,did choose,2,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,choose,False
+hard filters first repo,2,CONTROL,S5,quadgrams,hard filters first repo,4,,0,,,0,0.0,False,surfacing,surfacing.friction_exposed,1,1,0,1,,surfacing,hard,False
+fresh eyes notebook repo,2,CONTROL,S5,quadgrams,fresh eyes notebook repo,4,,0,,fresh eyes,1,0.5,False,temporal_projection,temporal_projection.decay_and_currency,1,1,1,0,temporal_projection,,fresh,False
+hard filters branch main,2,CONTROL,S5,quadgrams,hard filters branch main,4,,0,,,0,0.0,False,surfacing,surfacing.friction_exposed,1,1,0,1,,surfacing,hard,False
+not just prose decision,2,CONTROL,S5,quadgrams,just prose decision,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+curated summary adr layer,2,CONTROL,S5,quadgrams,curated summary adr layer,4,,0,,summary,1,0.25,False,,,0,0,0,0,,,,True
+for deep recall and,2,CONTROL,S5,quadgrams,deep recall,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+what was that error,2,CONTROL,S5,quadgrams,was error,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+resume yesterday s thread,2,CONTROL,S5,quadgrams,resume yesterday thread,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+s something you d,2,CONTROL,S5,quadgrams,something d,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+this eliminates most re,2,CONTROL,S5,quadgrams,eliminates most,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+eliminates most re briefing,2,CONTROL,S5,quadgrams,eliminates most briefing,3,,0,,re briefing,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+over raw artifacts chat,2,CONTROL,S5,quadgrams,over raw artifacts chat,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+not loaded by default,2,CONTROL,S5,quadgrams,loaded default,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+first useful answer drops,2,CONTROL,S5,quadgrams,first useful answer drops,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+useful answer drops materially,2,CONTROL,S5,quadgrams,useful answer drops materially,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+if memory is used,2,CONTROL,S5,quadgrams,memory used,2,,0,,memory,1,0.5,False,,,0,0,0,0,,,,True
+memory is used as,2,CONTROL,S5,quadgrams,memory used,2,,0,,memory,1,0.5,False,,,0,0,0,0,,,,True
+with timestamps commit branch,2,CONTROL,S5,quadgrams,timestamps commit branch,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+on memory influenced answers,2,CONTROL,S5,quadgrams,memory influenced answers,3,,0,,memory,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+use vectors only as,2,CONTROL,S5,quadgrams,use vectors,2,,0,,vector|vectors,2,0.5,False,,,0,0,0,0,,,,True
+the system of record,2,CONTROL,S5,quadgrams,system record,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+everything forever as the,2,CONTROL,S5,quadgrams,everything forever,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+forever as the primary,2,CONTROL,S5,quadgrams,forever primary,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+architecture interaction summary memory,2,CONTROL,S5,quadgrams,architecture interaction summary memory,4,,0,,memory|summary,2,0.5,False,,,0,0,0,0,,,,True
+summary structured memory as,2,CONTROL,S5,quadgrams,summary structured memory,3,,0,,memory|summary,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+module scope exclude superseded,2,CONTROL,S5,quadgrams,module scope exclude superseded,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+debugging what did we,2,CONTROL,S5,quadgrams,debugging did,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+title status active superseded,2,CONTROL,S5,quadgrams,title status active superseded,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+links pr adr doc,2,CONTROL,S5,quadgrams,links pr adr doc,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+pr adr doc scope,2,CONTROL,S5,quadgrams,pr adr doc scope,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+adr doc scope tags,2,CONTROL,S5,quadgrams,adr doc scope tags,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+doc scope tags service,2,CONTROL,S5,quadgrams,doc scope tags service,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+did we try what,2,CONTROL,S5,quadgrams,did try,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+branch main module tags,2,CONTROL,S5,quadgrams,branch main module tags,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+main module tags recency,2,CONTROL,S5,quadgrams,main module tags recency,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+eyes notebook repo only,2,CONTROL,S5,quadgrams,eyes notebook repo,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+notebook repo only vs,2,CONTROL,S5,quadgrams,notebook repo vs,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+repo only vs continuum,2,CONTROL,S5,quadgrams,repo vs continuum,3,,0,,continuum,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+only vs continuum notebook,2,CONTROL,S5,quadgrams,vs continuum notebook,3,,0,,continuum,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+vs continuum notebook gated,2,CONTROL,S5,quadgrams,vs continuum notebook gated,4,,0,,continuum,1,0.25,False,,,0,0,0,0,,,,True
+forensics what did we,2,CONTROL,S5,quadgrams,forensics did,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+project notebook summaries structured,2,CONTROL,S5,quadgrams,project notebook summaries structured,4,,0,,summaries,1,0.25,False,,,0,0,0,0,,,,True
+you must answer the,2,CONTROL,S5,quadgrams,must answer,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+project notebook decisions conventions,2,CONTROL,S5,quadgrams,project notebook decisions conventions,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+services modules owners entry,2,CONTROL,S5,quadgrams,services modules owners entry,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+modules owners entry points,2,CONTROL,S5,quadgrams,modules owners entry points,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+import from repo docs,2,CONTROL,S5,quadgrams,import repo docs,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+only for resume last,2,CONTROL,S5,quadgrams,resume last,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+for resume last session,2,CONTROL,S5,quadgrams,resume last session,3,,0,,session,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+resume last session debugging,2,CONTROL,S5,quadgrams,resume last session debugging,4,,0,,session,1,0.25,False,,,0,0,0,0,,,,True
+verbatim citations retention defaults,2,CONTROL,S5,quadgrams,verbatim citations retention defaults,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+citations retention defaults e,2,CONTROL,S5,quadgrams,citations retention defaults e,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+retention defaults e g,2,CONTROL,S5,quadgrams,retention defaults e g,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+defaults e g days,2,CONTROL,S5,quadgrams,defaults e g days,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+save as decision convention,2,CONTROL,S5,quadgrams,save decision convention,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+metadata repo branch commit,2,CONTROL,S5,quadgrams,metadata repo branch commit,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+repo branch commit time,2,CONTROL,S5,quadgrams,repo branch commit time,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+filters branch main recency,2,CONTROL,S5,quadgrams,filters branch main recency,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+project brief adrs conventions,7,HYBRID_3_5,S5,quadgrams,project brief adrs conventions,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+brief adrs conventions constraints,5,HYBRID_3_5,S5,quadgrams,brief adrs conventions constraints,4,practicality_and_feasibility,1,constraints,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,constrain|constraints,False
+exclude pin mark superseded,4,HYBRID_3_5,S5,quadgrams,exclude pin mark superseded,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+adrs conventions constraints glossary,3,HYBRID_3_5,S5,quadgrams,adrs conventions constraints glossary,4,practicality_and_feasibility,1,constraints,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,constrain|constraints,False
+more likely to be,3,HYBRID_3_5,S5,quadgrams,more likely,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,likely,False
+only current repo spine,3,HYBRID_3_5,S5,quadgrams,current repo spine,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+re briefing tax is,3,HYBRID_3_5,S5,quadgrams,briefing tax,2,,0,,re briefing,1,0.5,False,,,0,0,0,0,,,,True
+briefing tax is real,3,HYBRID_3_5,S5,quadgrams,briefing tax real,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+assert we decided x,3,HYBRID_3_5,S5,quadgrams,assert decided x,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+rut staleness risk unless,2,HYBRID_3_5,S5,quadgrams,rut staleness risk unless,4,practicality_and_feasibility,1,risk,staleness,1,0.25,False,conditions|temporal_projection|warning,conditions|temporal_projection.decay_and_currency|warning,3,3,1,2,temporal_projection,conditions|warning,risk|staleness|unless,False
+as evidence not truth,2,HYBRID_3_5,S5,quadgrams,evidence truth,2,truth_and_fact,2,truth|evidence,,0,0.0,False,truth,truth.fact_vs_interpretation|truth.verification,1,2,1,0,truth,,evidence|truth,False
+tried may be outdated,2,HYBRID_3_5,S5,quadgrams,tried may outdated,3,temporal_dynamics,1,outdated,,0,0.0,False,hedging|temporal_projection,hedging|temporal_projection.decay_and_currency,2,2,1,1,temporal_projection,hedging,may|outdated,False
+it tends to preserve,2,HYBRID_3_5,S5,quadgrams,tends preserve,2,,0,,,0,0.0,False,hedging|temporal_projection,hedging|temporal_projection.robustness_and_resilience,2,2,1,1,temporal_projection,hedging,preserve|tends|tends to,False
+debugging attempts speculative hypotheses,2,HYBRID_3_5,S5,quadgrams,debugging attempts speculative hypotheses,4,truth_and_fact|imagination_and_possibility,1,speculative,,0,0.0,False,imagination_and_possibility,imagination_and_possibility.speculative_boundary_marking,1,1,1,0,imagination_and_possibility,,hypothes|speculat|speculative,False
+spine adrs conventions constraints,2,HYBRID_3_5,S5,quadgrams,spine adrs conventions constraints,4,practicality_and_feasibility,1,constraints,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,constrain|constraints,False
+can make continuity mostly,2,HYBRID_3_5,S5,quadgrams,make continuity mostly,3,temporal_dynamics,1,continuity,continuity,1,0.3333333333333333,False,hedging,hedging,1,1,0,1,,hedging,mostly,False
+make continuity more likely,2,HYBRID_3_5,S5,quadgrams,make continuity more likely,4,temporal_dynamics,1,continuity,continuity,1,0.25,False,hedging,hedging,1,1,0,1,,hedging,likely,False
+continuity more likely to,2,HYBRID_3_5,S5,quadgrams,continuity more likely,3,temporal_dynamics,1,continuity,continuity,1,0.3333333333333333,False,hedging,hedging,1,1,0,1,,hedging,likely,False
+users can t correct,2,HYBRID_3_5,S5,quadgrams,users correct,2,truth_and_fact,1,correct,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,can t,False
+blocks volatile evidence retrieval,2,HYBRID_3_5,S5,quadgrams,blocks volatile evidence retrieval,4,truth_and_fact,1,evidence,retrieval,1,0.25,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+evidence items influenced the,2,HYBRID_3_5,S5,quadgrams,evidence items influenced,3,truth_and_fact,1,evidence,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+and provenance from day,2,HYBRID_3_5,S5,quadgrams,provenance day,2,truth_and_fact,1,provenance,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,provenance,False
+provenance from day one,2,HYBRID_3_5,S5,quadgrams,provenance day one,3,truth_and_fact,1,provenance,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,provenance,False
+scope status timestamps provenance,2,HYBRID_3_5,S5,quadgrams,scope status timestamps provenance,4,truth_and_fact,1,provenance,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,provenance,False
+status timestamps provenance links,2,HYBRID_3_5,S5,quadgrams,status timestamps provenance links,4,truth_and_fact,1,provenance,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,provenance,False
+previously tried may be,2,HYBRID_3_5,S5,quadgrams,previously tried may,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,may,False
+fresh eyes mode is,2,HYBRID_3_5,S5,quadgrams,fresh eyes mode,3,,0,,fresh eyes,1,0.6666666666666666,False,temporal_projection,temporal_projection.decay_and_currency,1,1,1,0,temporal_projection,,fresh,False
+work is long horizon,2,HYBRID_3_5,S5,quadgrams,work long horizon,3,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,horizon,False
+is long horizon and,2,HYBRID_3_5,S5,quadgrams,long horizon,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,horizon,False
+long horizon and the,2,HYBRID_3_5,S5,quadgrams,long horizon,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,horizon,False
+likely to be net,2,HYBRID_3_5,S5,quadgrams,likely net,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,likely,False
+provide fresh eyes mode,2,HYBRID_3_5,S5,quadgrams,provide fresh eyes mode,4,,0,,fresh eyes,1,0.5,False,temporal_projection,temporal_projection.decay_and_currency,1,1,1,0,temporal_projection,,fresh,False
+fresh eyes mode that,2,HYBRID_3_5,S5,quadgrams,fresh eyes mode,3,,0,,fresh eyes,1,0.6666666666666666,False,temporal_projection,temporal_projection.decay_and_currency,1,1,1,0,temporal_projection,,fresh,False
+create adr from this,2,HYBRID_3_5,S5,quadgrams,create adr,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,create,False
+isolation is least likely,2,HYBRID_3_5,S5,quadgrams,isolation least likely,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,likely,False
+is least likely to,2,HYBRID_3_5,S5,quadgrams,least likely,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,likely,False
+version proximity existence checks,2,HYBRID_3_5,S5,quadgrams,version proximity existence checks,4,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,checks,False
+active superseded failed tentative,2,HYBRID_3_5,S5,quadgrams,active superseded failed tentative,4,,0,,,0,0.0,False,imagination_and_possibility,imagination_and_possibility.speculative_boundary_marking,1,1,1,0,imagination_and_possibility,,tentative,False
+compatibility checks against current,2,HYBRID_3_5,S5,quadgrams,compatibility checks against current,4,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,checks,False
+fresh eyes mode toggle,2,HYBRID_3_5,S5,quadgrams,fresh eyes mode toggle,4,,0,,fresh eyes,1,0.5,False,temporal_projection,temporal_projection.decay_and_currency,1,1,1,0,temporal_projection,,fresh,False
+add vectors later keep,2,HYBRID_3_5,S5,quadgrams,add vectors later keep,4,,0,,vector|vectors,2,0.25,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,later,False
+only can make continuity,2,HYBRID_3_5,S5,quadgrams,make continuity,2,temporal_dynamics,1,continuity,continuity,1,0.5,False,,,0,0,0,0,,,,True
+architectures make continuity more,2,HYBRID_3_5,S5,quadgrams,architectures make continuity more,4,temporal_dynamics,1,continuity,continuity,1,0.25,False,,,0,0,0,0,,,,True
+continuity where it s,2,HYBRID_3_5,S5,quadgrams,continuity where,2,temporal_dynamics,1,continuity,continuity,1,0.5,False,,,0,0,0,0,,,,True
+keep continuity from becoming,2,HYBRID_3_5,S5,quadgrams,keep continuity becoming,3,temporal_dynamics,1,continuity,continuity,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+project continuum but not,2,HYBRID_3_5,S5,quadgrams,project continuum,2,,0,,continuum,1,0.5,False,,,0,0,0,0,,,,True
+opt in on demand,2,HYBRID_3_5,S5,quadgrams,opt demand,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+if retrieval is opaque,2,HYBRID_3_5,S5,quadgrams,retrieval opaque,2,,0,,retrieval,1,0.5,False,,,0,0,0,0,,,,True
+uses only current code,2,HYBRID_3_5,S5,quadgrams,uses current code,3,,0,,code,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+don t guardrails security,2,HYBRID_3_5,S5,quadgrams,guardrails security,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+vector keyword hybrid search,2,HYBRID_3_5,S5,quadgrams,vector keyword hybrid search,4,,0,,vector,1,0.25,False,,,0,0,0,0,,,,True
+with metadata timestamp repo,2,HYBRID_3_5,S5,quadgrams,metadata timestamp repo,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+metadata timestamp repo branch,2,HYBRID_3_5,S5,quadgrams,metadata timestamp repo branch,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+scope repo module service,2,HYBRID_3_5,S5,quadgrams,scope repo module service,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+uses only current repo,2,HYBRID_3_5,S5,quadgrams,uses current repo,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+do not auto load,2,HYBRID_3_5,S5,quadgrams,auto load,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+how that affects ruts,2,HYBRID_3_5,S5,quadgrams,how affects ruts,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+because enterprise work is,2,HYBRID_3_5,S5,quadgrams,because enterprise work,3,,0,,enterprise,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+enterprise work is long,2,HYBRID_3_5,S5,quadgrams,enterprise work long,3,,0,,enterprise,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+eyes mode that uses,2,HYBRID_3_5,S5,quadgrams,eyes mode uses,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+mode that uses only,2,HYBRID_3_5,S5,quadgrams,mode uses,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+that uses only current,2,HYBRID_3_5,S5,quadgrams,uses current,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+add last reviewed review,2,HYBRID_3_5,S5,quadgrams,add last reviewed review,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+last reviewed review by,2,HYBRID_3_5,S5,quadgrams,last reviewed review,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+when related files change,2,HYBRID_3_5,S5,quadgrams,related files change,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+make summaries structured docs,2,HYBRID_3_5,S5,quadgrams,make summaries structured docs,4,,0,,summaries,1,0.25,False,,,0,0,0,0,,,,True
+summaries structured docs the,2,HYBRID_3_5,S5,quadgrams,summaries structured docs,3,,0,,summaries,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+outcome it happens if,2,HYBRID_3_5,S5,quadgrams,outcome happens,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+happens if the assistant,2,HYBRID_3_5,S5,quadgrams,happens assistant,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+and keeping them current,2,HYBRID_3_5,S5,quadgrams,keeping current,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+adr from this thread,2,HYBRID_3_5,S5,quadgrams,adr thread,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+best as the default,2,HYBRID_3_5,S5,quadgrams,best default,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+recency version proximity existence,2,HYBRID_3_5,S5,quadgrams,recency version proximity existence,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+to assert we decided,2,HYBRID_3_5,S5,quadgrams,assert decided,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+memory used panel show,2,HYBRID_3_5,S5,quadgrams,memory used panel show,4,,0,,memory,1,0.25,False,,,0,0,0,0,,,,True
+used panel show retrieved,2,HYBRID_3_5,S5,quadgrams,used panel show retrieved,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+panel show retrieved items,2,HYBRID_3_5,S5,quadgrams,panel show retrieved items,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+link allow exclude pin,2,HYBRID_3_5,S5,quadgrams,link allow exclude pin,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+allow exclude pin mark,2,HYBRID_3_5,S5,quadgrams,allow exclude pin mark,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+try last time find,2,HYBRID_3_5,S5,quadgrams,try last time find,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+last time find the,2,HYBRID_3_5,S5,quadgrams,last time find,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the exact error message,2,HYBRID_3_5,S5,quadgrams,exact error message,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+we decided x without,2,HYBRID_3_5,S5,quadgrams,decided x without,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+status active superseded failed,2,HYBRID_3_5,S5,quadgrams,status active superseded failed,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+users stop re briefing,2,HYBRID_3_5,S5,quadgrams,users stop briefing,3,,0,,re briefing,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+items influenced the answer,2,HYBRID_3_5,S5,quadgrams,items influenced answer,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+is worth doing because,2,HYBRID_3_5,S5,quadgrams,worth doing because,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+include the curated spine,2,HYBRID_3_5,S5,quadgrams,include curated spine,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+stop re briefing with,2,HYBRID_3_5,S5,quadgrams,stop briefing,2,,0,,re briefing,1,0.5,False,,,0,0,0,0,,,,True
+id type scope status,2,HYBRID_3_5,S5,quadgrams,id type scope status,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+type scope status timestamps,2,HYBRID_3_5,S5,quadgrams,type scope status timestamps,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+on demand evidence retrieval,4,HYBRID_SEMANTIC,S5,quadgrams,demand evidence retrieval,3,truth_and_fact,1,evidence,retrieval,1,0.3333333333333333,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+brief only deep recall,4,HYBRID_SEMANTIC,S5,quadgrams,brief deep recall,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+only deep recall no,4,HYBRID_SEMANTIC,S5,quadgrams,deep recall no,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+deep recall no memory,4,HYBRID_SEMANTIC,S5,quadgrams,deep recall no memory,4,,0,,memory,1,0.25,False,,,0,0,0,0,,,,True
+irrelevant outdated never use,3,HYBRID_SEMANTIC,S5,quadgrams,irrelevant outdated never use,4,temporal_dynamics,1,outdated,,0,0.0,False,temporal_projection,temporal_projection.decay_and_currency,1,1,1,0,temporal_projection,,outdated,False
+outdated never use again,3,HYBRID_SEMANTIC,S5,quadgrams,outdated never use again,4,temporal_dynamics,1,outdated,,0,0.0,False,temporal_projection,temporal_projection.decay_and_currency,1,1,1,0,temporal_projection,,outdated,False
+the re brief tax,3,HYBRID_SEMANTIC,S5,quadgrams,brief tax,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+default off on demand,3,HYBRID_SEMANTIC,S5,quadgrams,default off demand,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+pasted logs stack traces,3,HYBRID_SEMANTIC,S5,quadgrams,pasted logs stack traces,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+logs stack traces referenced,3,HYBRID_SEMANTIC,S5,quadgrams,logs stack traces referenced,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+durable truth from exploration,2,HYBRID_SEMANTIC,S5,quadgrams,durable truth exploration,3,truth_and_fact|imagination_and_possibility,2,truth|exploration,,0,0.0,False,imagination_and_possibility|temporal_projection|truth,imagination_and_possibility.exploration_within_bounds|temporal_projection.robustness_and_resilience|truth.fact_vs_interpretation,3,3,3,0,imagination_and_possibility|temporal_projection|truth,,durable|explor|exploration|truth,False
+truth from exploration exhaust,2,HYBRID_SEMANTIC,S5,quadgrams,truth exploration exhaust,3,truth_and_fact|imagination_and_possibility,2,truth|exploration,,0,0.0,False,imagination_and_possibility|truth,imagination_and_possibility.exploration_within_bounds|truth.fact_vs_interpretation,2,2,2,0,imagination_and_possibility|truth,,explor|exploration|truth,False
+constraints conventions glossary confirmed,2,HYBRID_SEMANTIC,S5,quadgrams,constraints conventions glossary confirmed,4,truth_and_fact|practicality_and_feasibility,2,confirmed|constraints,,0,0.0,False,practical_considerations_and_execution|truth,practical_considerations_and_execution.constraints_and_tradeoffs|truth.verification,2,2,2,0,practical_considerations_and_execution|truth,,confirm|confirmed|constrain|constraints,False
+can expire unless reaffirmed,2,HYBRID_SEMANTIC,S5,quadgrams,expire unless reaffirmed,3,temporal_dynamics,1,expire,,0,0.0,False,conditions|temporal_projection,conditions|temporal_projection.decay_and_currency,2,2,1,1,temporal_projection,conditions,expire|unless,False
+fresh eyes constraints only,2,HYBRID_SEMANTIC,S5,quadgrams,fresh eyes constraints,3,practicality_and_feasibility,1,constraints,fresh eyes,1,0.6666666666666666,False,practical_considerations_and_execution|temporal_projection,practical_considerations_and_execution.constraints_and_tradeoffs|temporal_projection.decay_and_currency,2,2,2,0,practical_considerations_and_execution|temporal_projection,,constrain|constraints|fresh,False
+provenance links derived from,2,HYBRID_SEMANTIC,S5,quadgrams,provenance links derived,3,truth_and_fact,1,provenance,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,provenance,False
+by default decisions constraints,2,HYBRID_SEMANTIC,S5,quadgrams,default decisions constraints,3,practicality_and_feasibility,1,constraints,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,constrain|constraints,False
+default decisions constraints conventions,2,HYBRID_SEMANTIC,S5,quadgrams,default decisions constraints conventions,4,practicality_and_feasibility,1,constraints,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,constrain|constraints,False
+risk frequent retrieval of,2,HYBRID_SEMANTIC,S5,quadgrams,risk frequent retrieval,3,practicality_and_feasibility,1,risk,retrieval,1,0.3333333333333333,False,warning,warning,1,1,0,1,,warning,risk,False
+the risk is real,2,HYBRID_SEMANTIC,S5,quadgrams,risk real,2,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+verify against the current,2,HYBRID_SEMANTIC,S5,quadgrams,verify against current,3,truth_and_fact,1,verify,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,verif|verify,False
+last verified at sha,2,HYBRID_SEMANTIC,S5,quadgrams,last verified sha,3,truth_and_fact,1,verified,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,verif|verified,False
+verified at sha date,2,HYBRID_SEMANTIC,S5,quadgrams,verified sha date,3,truth_and_fact,1,verified,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,verif|verified,False
+you choose continuity via,2,HYBRID_SEMANTIC,S5,quadgrams,choose continuity via,3,temporal_dynamics,1,continuity,continuity,1,0.3333333333333333,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,choose|you choose,False
+feeds isolation argument risk,2,HYBRID_SEMANTIC,S5,quadgrams,feeds isolation argument risk,4,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+active superseded links constraints,2,HYBRID_SEMANTIC,S5,quadgrams,active superseded links constraints,4,practicality_and_feasibility,1,constraints,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,constrain|constraints,False
+superseded links constraints security,2,HYBRID_SEMANTIC,S5,quadgrams,superseded links constraints security,4,practicality_and_feasibility,1,constraints,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,constrain|constraints,False
+constraints security compliance slo,2,HYBRID_SEMANTIC,S5,quadgrams,constraints security compliance slo,4,practicality_and_feasibility,1,constraints,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,constrain|constraints,False
+confirmed root causes fixes,2,HYBRID_SEMANTIC,S5,quadgrams,confirmed root causes fixes,4,truth_and_fact,1,confirmed,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,confirm|confirmed,False
+or stored as evidence,2,HYBRID_SEMANTIC,S5,quadgrams,stored evidence,2,truth_and_fact,1,evidence,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+stored as evidence in,2,HYBRID_SEMANTIC,S5,quadgrams,stored evidence,2,truth_and_fact,1,evidence,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+as evidence in b,2,HYBRID_SEMANTIC,S5,quadgrams,evidence b,2,truth_and_fact,1,evidence,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+evidence in b under,2,HYBRID_SEMANTIC,S5,quadgrams,evidence b under,3,truth_and_fact,1,evidence,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+editable diffable source linked,2,HYBRID_SEMANTIC,S5,quadgrams,editable diffable source linked,4,truth_and_fact,1,source,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,source,False
+decision constraint convention glossary,2,HYBRID_SEMANTIC,S5,quadgrams,decision constraint convention glossary,4,practicality_and_feasibility,1,constraint,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,constrain|constraint,False
+constraint convention glossary learning,2,HYBRID_SEMANTIC,S5,quadgrams,constraint convention glossary learning,4,practicality_and_feasibility,1,constraint,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,constrain|constraint,False
+docs merged code adrs,2,HYBRID_SEMANTIC,S5,quadgrams,docs merged code adrs,4,,0,,code,1,0.25,False,smoothing,smoothing,1,1,0,1,,smoothing,merged,False
+authority and always cited,2,HYBRID_SEMANTIC,S5,quadgrams,authority always cited,3,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,authority,False
+one click fresh eyes,2,HYBRID_SEMANTIC,S5,quadgrams,one click fresh eyes,4,,0,,fresh eyes,1,0.5,False,temporal_projection,temporal_projection.decay_and_currency,1,1,1,0,temporal_projection,,fresh,False
+tickets retrieved only when,2,HYBRID_SEMANTIC,S5,quadgrams,tickets retrieved,2,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,only when,False
+these are non negotiable,2,HYBRID_SEMANTIC,S5,quadgrams,these non negotiable,3,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,non negotiable,False
+are non negotiable to,2,HYBRID_SEMANTIC,S5,quadgrams,non negotiable,2,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,non negotiable,False
+non negotiable to avoid,2,HYBRID_SEMANTIC,S5,quadgrams,non negotiable avoid,3,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,non negotiable,False
+code that doesn t,2,HYBRID_SEMANTIC,S5,quadgrams,code doesn,2,,0,,code,1,0.5,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn|doesn t,False
+that doesn t compile,2,HYBRID_SEMANTIC,S5,quadgrams,doesn compile,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn|doesn t,False
+it confidently remembered wrong,2,HYBRID_SEMANTIC,S5,quadgrams,confidently remembered wrong,3,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,wrong,False
+whether chat can be,2,HYBRID_SEMANTIC,S5,quadgrams,whether chat,2,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+start with keyword search,2,HYBRID_SEMANTIC,S5,quadgrams,start keyword search,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,start,False
+or be marked superseded,2,HYBRID_SEMANTIC,S5,quadgrams,marked superseded,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+tier session outcomes curated,2,HYBRID_SEMANTIC,S5,quadgrams,tier session outcomes curated,4,,0,,session,1,0.25,False,,,0,0,0,0,,,,True
+session outcomes curated summary,2,HYBRID_SEMANTIC,S5,quadgrams,session outcomes curated summary,4,,0,,session|summary,2,0.5,False,,,0,0,0,0,,,,True
+links to tickets docs,2,HYBRID_SEMANTIC,S5,quadgrams,links tickets docs,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+at end of session,2,HYBRID_SEMANTIC,S5,quadgrams,end session,2,,0,,session,1,0.5,False,,,0,0,0,0,,,,True
+links derived from session,2,HYBRID_SEMANTIC,S5,quadgrams,links derived session,3,,0,,session,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+repo sha branch i,2,HYBRID_SEMANTIC,S5,quadgrams,repo sha branch i,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+sha branch i can,2,HYBRID_SEMANTIC,S5,quadgrams,sha branch i,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+clean slate should mean,2,HYBRID_SEMANTIC,S5,quadgrams,clean slate should mean,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+logging error handling layering,2,HYBRID_SEMANTIC,S5,quadgrams,logging error handling layering,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+opaque why did it,2,HYBRID_SEMANTIC,S5,quadgrams,opaque did,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+exact details stack traces,2,HYBRID_SEMANTIC,S5,quadgrams,exact details stack traces,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+can make them auditable,2,HYBRID_SEMANTIC,S5,quadgrams,make auditable,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+at that point vectors,2,HYBRID_SEMANTIC,S5,quadgrams,point vectors,2,,0,,vector|vectors,2,0.5,False,,,0,0,0,0,,,,True
+if devmate memory is,2,HYBRID_SEMANTIC,S5,quadgrams,devmate memory,2,,0,,devmate|memory,2,1.0,True,,,0,0,0,0,,,,True
+show what was retrieved,2,HYBRID_SEMANTIC,S5,quadgrams,show was retrieved,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+we try last week,2,HYBRID_SEMANTIC,S5,quadgrams,try last week,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+shown to the user,2,HYBRID_SEMANTIC,S5,quadgrams,shown user,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+i m using these,2,HYBRID_SEMANTIC,S5,quadgrams,i m using these,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+m using these excerpts,2,HYBRID_SEMANTIC,S5,quadgrams,m using these excerpts,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+toggle per request brief,2,HYBRID_SEMANTIC,S5,quadgrams,toggle per request brief,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+per request brief only,2,HYBRID_SEMANTIC,S5,quadgrams,per request brief,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+request brief only deep,2,HYBRID_SEMANTIC,S5,quadgrams,request brief deep,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+status active superseded links,2,HYBRID_SEMANTIC,S5,quadgrams,status active superseded links,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+security compliance slo platform,2,HYBRID_SEMANTIC,S5,quadgrams,security compliance slo platform,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+root causes fixes optional,2,HYBRID_SEMANTIC,S5,quadgrams,root causes fixes optional,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+path how it s,2,HYBRID_SEMANTIC,S5,quadgrams,path how,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+c session memory ephemeral,2,HYBRID_SEMANTIC,S5,quadgrams,c session memory ephemeral,4,,0,,session|memory,2,0.5,False,,,0,0,0,0,,,,True
+in b under policy,2,HYBRID_SEMANTIC,S5,quadgrams,b under policy,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+conventions glossary current goals,2,HYBRID_SEMANTIC,S5,quadgrams,conventions glossary current goals,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+only for selected corpora,2,HYBRID_SEMANTIC,S5,quadgrams,selected corpora,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+can be worse than,2,HYBRID_SEMANTIC,S5,quadgrams,worse than,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+t maintain it consistently,2,HYBRID_SEMANTIC,S5,quadgrams,maintain consistently,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+end of session pr,2,HYBRID_SEMANTIC,S5,quadgrams,end session pr,3,,0,,session,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+file or managed doc,2,HYBRID_SEMANTIC,S5,quadgrams,file managed doc,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+brief only no memory,2,HYBRID_SEMANTIC,S5,quadgrams,brief no memory,3,,0,,memory,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+with citations and retention,2,HYBRID_SEMANTIC,S5,quadgrams,citations retention,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+citations and retention limits,2,HYBRID_SEMANTIC,S5,quadgrams,citations retention limits,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+models or moving from,2,HYBRID_SEMANTIC,S5,quadgrams,models moving,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+convention glossary learning status,2,HYBRID_SEMANTIC,S5,quadgrams,convention glossary learning status,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+show what you used,2,HYBRID_SEMANTIC,S5,quadgrams,show used,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True

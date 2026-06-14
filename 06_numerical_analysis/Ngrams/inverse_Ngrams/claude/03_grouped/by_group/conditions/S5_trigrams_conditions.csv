@@ -1,0 +1,12 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+days unless promoted,2,AC15,S5,trigrams,days unless promoted,3,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,unless,False
+should we depends,2,AC15P,S5,trigrams,should depends,2,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,depends,False
+unless filtered validated,2,AC15P,S5,trigrams,unless filtered validated,3,,0,,,0,0.0,False,conditions|truth,conditions|truth.verification,2,2,1,1,truth,conditions,unless|validat|validated,False
+days sprints unless,2,AC15P,S5,trigrams,days sprints unless,3,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,unless,False
+sprints unless reaffirmed,2,AC15P,S5,trigrams,sprints unless reaffirmed,3,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,unless,False
+risk unless governed,2,HYBRID_3_5,S5,trigrams,risk unless governed,3,practicality_and_feasibility,1,risk,,0,0.0,False,conditions|warning,conditions|warning,2,2,0,2,,conditions|warning,risk|unless,False
+staleness risk unless,2,HYBRID_3_5,S5,trigrams,staleness risk unless,3,practicality_and_feasibility,1,risk,staleness,1,0.3333333333333333,False,conditions|temporal_projection|warning,conditions|temporal_projection.decay_and_currency|warning,3,3,1,2,temporal_projection,conditions|warning,risk|staleness|unless,False
+can expire unless,2,HYBRID_SEMANTIC,S5,trigrams,expire unless,2,temporal_dynamics,1,expire,,0,0.0,False,conditions|temporal_projection,conditions|temporal_projection.decay_and_currency,2,2,1,1,temporal_projection,conditions,expire|unless,False
+expire unless reaffirmed,2,HYBRID_SEMANTIC,S5,trigrams,expire unless reaffirmed,3,temporal_dynamics,1,expire,,0,0.0,False,conditions|temporal_projection,conditions|temporal_projection.decay_and_currency,2,2,1,1,temporal_projection,conditions,expire|unless,False
+always on conditioning,2,HYBRID_SEMANTIC,S5,trigrams,always conditioning,2,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,on condition,False
+whether chat can,2,HYBRID_SEMANTIC,S5,trigrams,whether chat,2,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,whether,False

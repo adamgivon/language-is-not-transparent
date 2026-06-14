@@ -1,0 +1,7 @@
+{
+  "id": "anchor_practicality_and_feasibility",
+  "version": "hybrid_v3_5",
+  "order": 8,
+  "name": "practicality_and_feasibility",
+  "text": "# practicality and feasibility\n\nBuild actionable plans within real constraints.\n\n## Rules\nPSF\nR1: Surface friction points and tradeoffs and blockers as early as possible; do not hide difficulty.\nR2: Prefer situational, incremental and actionable steps over abstract principles.\nR3: If complexity too high, scale down/simplify - never isolate, keep alignment with larger structure/context/purpose.\n\n## Semantic Fields\n\n### core_positive\n- actionable\n- situational\n- tradeoff\n- feasible\n- constraints\n\n### supporting_positive\n- step-by-step\n- surface difficulty\n- implementation\n- simplification\n- context-sensitive\n- resources\n- concrete steps\n- prioritization\n\n### core_avoid\n- impossible plan\n- hiding difficulty\n- isolated solution\n- ignoring constraints\n\n### supporting_avoid\n- pure abstraction\n- over-engineered\n- handwave execution\n- complexity denial\n- unusable\n- detached from reality\n"
+}

@@ -1,0 +1,41 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+acceptance testing that,3,AC15,S1,trigrams,acceptance testing,2,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,testing,False
+long run evidence,2,AC15,S1,trigrams,long run evidence,3,truth_and_fact,1,evidence,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+and council proof,2,AC15,S1,trigrams,council proof,2,truth_and_fact,1,proof,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,proof,False
+documented formats transition,2,AC15,S1,trigrams,documented formats transition,3,temporal_dynamics,1,transition,,0,0.0,False,temporal_projection|truth,temporal_projection.change_and_rate|truth.verification,2,2,2,0,temporal_projection|truth,,documented|transit|transition,False
+testing that includes,2,AC15,S1,trigrams,testing includes,2,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,testing,False
+failover test as,2,AC15,S1,trigrams,failover test,2,,0,,failover,1,0.5,False,truth,truth.verification,1,1,1,0,truth,,test,False
+procurement legal confirm,2,AC15P,S1,trigrams,procurement legal confirm,3,truth_and_fact,1,confirm,procurement,1,0.3333333333333333,False,truth,truth.verification,1,1,1,0,truth,,confirm,False
+management and audit,2,AC15P,S1,trigrams,management audit,2,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,audit,False
+full export documented,2,AC15P,S1,trigrams,full export documented,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,documented,False
+plans logs documented,2,AC15P,S1,trigrams,plans logs documented,3,,0,,,0,0.0,False,practical_considerations_and_execution|truth,practical_considerations_and_execution.action_and_execution|truth.verification,2,2,2,0,practical_considerations_and_execution|truth,,documented|plans,False
+logs documented interfaces,2,AC15P,S1,trigrams,logs documented interfaces,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,documented,False
+export test as,3,CONTROL,S1,trigrams,export test,2,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,test,False
+models multi source,2,HYBRID_3_5,S1,trigrams,models multi source,3,truth_and_fact,1,source,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,source,False
+multi source availability,2,HYBRID_3_5,S1,trigrams,multi source availability,3,truth_and_fact,1,source,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,source,False
+long horizon evidence,2,HYBRID_3_5,S1,trigrams,long horizon evidence,3,truth_and_fact,1,evidence,,0,0.0,False,temporal_projection|truth,temporal_projection.time_horizons|truth.verification,2,2,2,0,temporal_projection|truth,,evidence|horizon,False
+single source pricing,2,HYBRID_3_5,S1,trigrams,single source pricing,3,truth_and_fact,1,source,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,source,False
+source procurement city,2,HYBRID_3_5,S1,trigrams,source procurement city,3,truth_and_fact,1,source,procurement,1,0.3333333333333333,False,truth,truth.verification,1,1,1,0,truth,,source,False
+escalation stress test,2,HYBRID_3_5,S1,trigrams,escalation stress test,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,test,False
+testing and contract,2,HYBRID_3_5,S1,trigrams,testing contract,2,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,testing,False
+added integration testing,2,HYBRID_3_5,S1,trigrams,added integration testing,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,testing,False
+integration testing complexity,2,HYBRID_3_5,S1,trigrams,integration testing complexity,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,testing,False
+documented formats include,2,HYBRID_3_5,S1,trigrams,documented formats include,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,documented,False
+written confirmation of,2,HYBRID_3_5,S1,trigrams,written confirmation,2,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,confirm|confirmation,False
+tested fail safes,2,HYBRID_3_5,S1,trigrams,tested fail safes,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,tested,False
+exportable in documented,2,HYBRID_3_5,S1,trigrams,exportable documented,2,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,documented,False
+interface access documented,2,HYBRID_3_5,S1,trigrams,interface access documented,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,documented,False
+documented formats sample,2,HYBRID_3_5,S1,trigrams,documented formats sample,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,documented,False
+to ask verify,9,HYBRID_SEMANTIC,S1,trigrams,ask verify,2,truth_and_fact,1,verify,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,verif|verify,False
+and less evidence,2,HYBRID_SEMANTIC,S1,trigrams,less evidence,2,truth_and_fact,1,evidence,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+ask verify documented,2,HYBRID_SEMANTIC,S1,trigrams,ask verify documented,3,truth_and_fact,1,verify,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,documented|verif|verify,False
+testing and burn,2,HYBRID_SEMANTIC,S1,trigrams,testing burn,2,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,testing,False
+documented formats exit,2,HYBRID_SEMANTIC,S1,trigrams,documented formats exit,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,documented,False
+rollback audit trail,2,HYBRID_SEMANTIC,S1,trigrams,rollback audit trail,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,audit,False
+audit trail degraded,2,HYBRID_SEMANTIC,S1,trigrams,audit trail degraded,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,audit,False
+documented formats priced,2,HYBRID_SEMANTIC,S1,trigrams,documented formats priced,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,documented,False
+and acceptance tested,2,HYBRID_SEMANTIC,S1,trigrams,acceptance tested,2,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,tested,False
+acceptance tested time,2,HYBRID_SEMANTIC,S1,trigrams,acceptance tested time,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,tested,False
+tested time to,2,HYBRID_SEMANTIC,S1,trigrams,tested time,2,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,tested,False
+pressure test require,2,HYBRID_SEMANTIC,S1,trigrams,pressure test require,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,test,False
+test require a,2,HYBRID_SEMANTIC,S1,trigrams,test require,2,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,test,False

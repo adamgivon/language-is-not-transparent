@@ -1,0 +1,23 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+pursue this seriously,2,AC15,S7,trigrams,pursue seriously,2,,0,,,0,0.0,False,warning,warning,1,1,0,1,,warning,seriously,False
+the danger isn,2,AC15,S7,trigrams,danger isn,2,,0,,,0,0.0,False,surfacing|warning,surfacing.confrontation|warning,2,2,0,2,,surfacing|warning,danger|the danger is,False
+danger isn t,2,AC15,S7,trigrams,danger isn,2,,0,,,0,0.0,False,surfacing|warning,surfacing.confrontation|warning,2,2,0,2,,surfacing|warning,danger|isn t,False
+that reduces risk,2,AC15P,S7,trigrams,reduces risk,2,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+if serious illness,2,AC15P,S7,trigrams,serious illness,2,,0,,,0,0.0,False,warning,warning,1,1,0,1,,warning,serious,False
+serious illness occurs,2,AC15P,S7,trigrams,serious illness occurs,3,,0,,,0,0.0,False,warning,warning,1,1,0,1,,warning,serious,False
+your risk profile,2,CONTROL,S7,trigrams,risk profile,2,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+risk before permanence,2,CONTROL,S7,trigrams,risk before permanence,3,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+at higher risk,2,HYBRID_3_5,S7,trigrams,higher risk,2,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+higher risk of,2,HYBRID_3_5,S7,trigrams,higher risk,2,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+biggest structural risk,2,HYBRID_3_5,S7,trigrams,biggest structural risk,3,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+structural risk if,2,HYBRID_3_5,S7,trigrams,structural risk,2,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+risk if i,2,HYBRID_3_5,S7,trigrams,risk i,2,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+your main risk,2,HYBRID_3_5,S7,trigrams,main risk,2,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+main risk is,2,HYBRID_3_5,S7,trigrams,main risk,2,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+your risk checks,2,HYBRID_SEMANTIC,S7,trigrams,risk checks,2,practicality_and_feasibility,1,risk,,0,0.0,False,truth|warning,truth.verification|warning,2,2,1,1,truth,warning,checks|risk,False
+risk checks a,2,HYBRID_SEMANTIC,S7,trigrams,risk checks,2,practicality_and_feasibility,1,risk,,0,0.0,False,truth|warning,truth.verification|warning,2,2,1,1,truth,warning,checks|risk,False
+complex care risk,2,HYBRID_SEMANTIC,S7,trigrams,complex care risk,3,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+catastrophic medical risk,2,HYBRID_SEMANTIC,S7,trigrams,catastrophic medical risk,3,practicality_and_feasibility,1,risk,medical,1,0.3333333333333333,False,warning,warning,1,1,0,1,,warning,risk,False
+plan for serious,2,HYBRID_SEMANTIC,S7,trigrams,plan serious,2,,0,,,0,0.0,False,practical_considerations_and_execution|warning,practical_considerations_and_execution.action_and_execution|warning,2,2,1,1,practical_considerations_and_execution,warning,plan|plan for|serious,False
+for serious illness,2,HYBRID_SEMANTIC,S7,trigrams,serious illness,2,,0,,,0,0.0,False,warning,warning,1,1,0,1,,warning,serious,False
+caution looks like,2,HYBRID_SEMANTIC,S7,trigrams,caution looks like,3,,0,,,0,0.0,False,warning,warning,1,1,0,1,,warning,caution,False

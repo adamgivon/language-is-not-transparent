@@ -1,0 +1,33 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+motivations could be,2,AC15,S7,trigrams,motivations could,2,,0,,motivations,1,0.5,False,hedging,hedging,1,1,0,1,,hedging,could|could be,False
+could be love,2,AC15,S7,trigrams,could love,2,,0,,love,1,0.5,False,hedging,hedging,1,1,0,1,,hedging,could|could be,False
+performers tend to,2,AC15,S7,trigrams,performers tend,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,tend,False
+tends to sound,2,AC15,S7,trigrams,tends sound,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,tends|tends to,False
+kind of urgency,2,AC15,S7,trigrams,kind urgency,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,kind of,False
+situation that typically,2,AC15,S7,trigrams,situation typically,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,typically,False
+may have more,2,AC15P,S7,trigrams,may have more,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,may,False
+track how often,2,AC15P,S7,trigrams,track how often,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,often,False
+often you feel,2,AC15P,S7,trigrams,often feel,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,often,False
+clarify how often,2,AC15P,S7,trigrams,clarify how often,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,often,False
+likely caused it,2,AC15P,S7,trigrams,likely caused,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,likely,False
+usually sounds like,2,AC15P,S7,trigrams,usually sounds like,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,usually,False
+opener i don,2,AC15P,S7,trigrams,opener i,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,i d,False
+seeing you might,2,AC15P,S7,trigrams,seeing might,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,might,False
+you could become,2,AC15P,S7,trigrams,could become,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,could|could be,False
+could become dependent,2,AC15P,S7,trigrams,could become dependent,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,could|could be,False
+may bring urgency,2,CONTROL,S7,trigrams,may bring urgency,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,may,False
+complex care may,2,CONTROL,S7,trigrams,complex care may,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,may,False
+may be less,2,CONTROL,S7,trigrams,may less,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,may,False
+may be underestimating,2,CONTROL,S7,trigrams,may underestimating,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,may,False
+may not want,6,HYBRID_3_5,S7,trigrams,may want,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,may,False
+often correlates with,2,HYBRID_3_5,S7,trigrams,often correlates,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,often,False
+think i might,2,HYBRID_3_5,S7,trigrams,think i might,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,might,False
+i might not,2,HYBRID_3_5,S7,trigrams,i might,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,might,False
+might not move,2,HYBRID_3_5,S7,trigrams,might move,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,might,False
+this often surfaces,2,HYBRID_3_5,S7,trigrams,often surfaces,2,,0,,,0,0.0,False,hedging|surfacing,hedging|surfacing.friction_exposed,2,2,0,2,,hedging|surfacing,often|surfaces,False
+often surfaces the,2,HYBRID_3_5,S7,trigrams,often surfaces,2,,0,,,0,0.0,False,hedging|surfacing,hedging|surfacing.friction_exposed,2,2,0,2,,hedging|surfacing,often|surfaces,False
+love tends to,2,HYBRID_3_5,S7,trigrams,love tends,2,,0,,love,1,0.5,False,hedging,hedging,1,1,0,1,,hedging,tends|tends to,False
+may be missing,8,HYBRID_SEMANTIC,S7,trigrams,may missing,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,may,False
+where you may,3,HYBRID_SEMANTIC,S7,trigrams,where may,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,may,False
+may want to,2,HYBRID_SEMANTIC,S7,trigrams,may want,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,may|may want,False
+is more likely,2,HYBRID_SEMANTIC,S7,trigrams,more likely,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,likely,False

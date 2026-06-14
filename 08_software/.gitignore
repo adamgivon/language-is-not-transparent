@@ -1,0 +1,32 @@
+# Ignore everything hidden except .gitignore, .github, etc.
+.*
+!.gitignore
+!.env.example
+!.github/
+
+# Node
+node_modules/
+.next/
+out/
+build/
+dist/
+
+# Python
+venv/
+__pycache__/
+
+# Local & temp folders
+changes/
+for_uploading/
+openai_knowledge/
+lib/faiss
+python_judge/upload_files_for_judging/
+prisma/*.db
+prisma/*.db.backup_*
+
+# Logs & envs
+*.log
+.env
+.env.local
+
+

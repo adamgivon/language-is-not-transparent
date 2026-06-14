@@ -1,0 +1,17 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+shielding prototype validated,2,AC15,S3,trigrams,shielding prototype validated,3,imagination_and_possibility,1,prototype,shielding,1,0.3333333333333333,False,imagination_and_possibility|truth,imagination_and_possibility.exploration_within_bounds|imagination_and_possibility.path_toward_feasibility|truth.verification,2,3,2,0,imagination_and_possibility|truth,,prototype|validat|validated,False
+prototype validated evt,2,AC15,S3,trigrams,prototype validated evt,3,imagination_and_possibility,1,prototype,,0,0.0,False,imagination_and_possibility|truth,imagination_and_possibility.exploration_within_bounds|imagination_and_possibility.path_toward_feasibility|truth.verification,2,3,2,0,imagination_and_possibility|truth,,prototype|validat|validated,False
+verification bench emi,2,AC15,S3,trigrams,verification bench emi,3,truth_and_fact,1,verification,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,verif|verification,False
+validated evt dvt,2,AC15,S3,trigrams,validated evt dvt,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,validat|validated,False
+confirmed the chief,2,AC15P,S3,trigrams,confirmed chief,2,truth_and_fact,1,confirmed,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,confirm|confirmed,False
+simple decision test,2,AC15P,S3,trigrams,simple decision test,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,test,False
+check whether the,2,AC15P,S3,trigrams,check whether,2,,0,,,0,0.0,False,conditions|truth,conditions|truth.verification,2,2,1,1,truth,conditions,check|whether,False
+validated dynamic detection,2,AC15P,S3,trigrams,validated dynamic detection,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,validat|validated,False
+check whether it,2,CONTROL,S3,trigrams,check whether,2,,0,,,0,0.0,False,conditions|truth,conditions|truth.verification,2,2,1,1,truth,conditions,check|whether,False
+hardware fix validation,2,HYBRID_3_5,S3,trigrams,hardware fix validation,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,validat|validation,False
+your test plan,2,HYBRID_3_5,S3,trigrams,test plan,2,,0,,,0,0.0,False,practical_considerations_and_execution|truth,practical_considerations_and_execution.action_and_execution|truth.verification,2,2,2,0,practical_considerations_and_execution|truth,,plan|test,False
+for controlled testing,2,HYBRID_3_5,S3,trigrams,controlled testing,2,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,testing,False
+freeze build validation,2,HYBRID_3_5,S3,trigrams,freeze build validation,3,,0,,,0,0.0,False,practical_considerations_and_execution|truth,practical_considerations_and_execution.action_and_execution|truth.verification,2,2,2,0,practical_considerations_and_execution|truth,,build|validat|validation,False
+field re test,2,HYBRID_3_5,S3,trigrams,field test,2,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,test,False
+test with weekly,2,HYBRID_3_5,S3,trigrams,test weekly,2,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,test,False
+stress test proposal,2,HYBRID_SEMANTIC,S3,trigrams,stress test proposal,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,test,False

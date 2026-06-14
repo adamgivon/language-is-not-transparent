@@ -1,0 +1,6 @@
+system,grouped_sum_count,filtered_inverse_sum_count,tri_plus_quad_total,grouped_share_within_filtered_inverse,filtered_inverse_share_of_total_tokens,grouped_share_of_total_tokens,grouped_rate_per_10k_tokens
+CONTROL,633,2492,104376,0.254013,0.023875,0.006065,60.646
+AC15,781,3148,121572,0.248094,0.025894,0.006424,64.242
+AC15P,988,3751,125360,0.263396,0.029922,0.007881,78.813
+HYBRID_3_5,806,2933,113872,0.274804,0.025757,0.007078,70.781
+HYBRID_SEMANTIC,940,3212,120356,0.292653,0.026687,0.007810,78.102

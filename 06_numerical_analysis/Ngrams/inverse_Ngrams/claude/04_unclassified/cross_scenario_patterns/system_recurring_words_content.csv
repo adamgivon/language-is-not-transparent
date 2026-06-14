@@ -1,0 +1,16 @@
+system,word,scenarios_present,scenarios,total_count_in_system,is_scenario_term,band,technical_artifact
+AC15,vs,3,S1|S3|S5,11,False,content_signature,False
+AC15,must,3,S1|S3|S7,11,False,content_signature,False
+AC15,default,3,S1|S3|S5,8,False,content_signature,False
+AC15P,vs,3,S1|S5|S7,26,False,content_signature,False
+AC15P,after,3,S3|S5|S7,20,False,content_signature,False
+AC15P,within,3,S1|S3|S7,19,False,content_signature,False
+AC15P,because,3,S1|S3|S7,9,False,content_signature,False
+HYBRID_3_5,without,4,S1|S3|S5|S7,22,False,content_signature,False
+HYBRID_3_5,scope,3,S1|S3|S5,11,False,content_signature,False
+HYBRID_3_5,explicit,3,S3|S5|S7,8,False,content_signature,False
+HYBRID_SEMANTIC,now,3,S1|S3|S7,20,False,content_signature,False
+HYBRID_SEMANTIC,default,4,S1|S3|S5|S7,17,False,content_signature,False
+HYBRID_SEMANTIC,under,4,S1|S3|S5|S7,15,False,content_signature,False
+HYBRID_SEMANTIC,without,3,S1|S3|S7,12,False,content_signature,False
+HYBRID_SEMANTIC,must,3,S1|S3|S5,12,False,content_signature,False

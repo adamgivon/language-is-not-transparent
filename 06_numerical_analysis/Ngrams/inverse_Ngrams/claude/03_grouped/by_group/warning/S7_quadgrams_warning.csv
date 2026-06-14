@@ -1,0 +1,16 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+to pursue this seriously,2,AC15,S7,quadgrams,pursue seriously,2,,0,,,0,0.0,False,warning,warning,1,1,0,1,,warning,seriously,False
+the danger isn t,2,AC15,S7,quadgrams,danger isn,2,,0,,,0,0.0,False,surfacing|warning,surfacing.confrontation|warning,2,2,0,2,,surfacing|warning,danger|isn t|the danger is,False
+choosing you seriously and,2,AC15,S7,quadgrams,choosing seriously,2,,0,,,0,0.0,False,autonomy_sovereignty|warning,autonomy_sovereignty|warning,2,2,0,2,,autonomy_sovereignty|warning,choosing|seriously,False
+serious mean to you,2,AC15,S7,quadgrams,serious mean,2,,0,,,0,0.0,False,warning,warning,1,1,0,1,,warning,serious,False
+if serious illness occurs,2,AC15P,S7,quadgrams,serious illness occurs,3,,0,,,0,0.0,False,warning,warning,1,1,0,1,,warning,serious,False
+tail risk before permanence,2,CONTROL,S7,quadgrams,tail risk before permanence,4,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+re at higher risk,2,HYBRID_3_5,S7,quadgrams,higher risk,2,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+at higher risk of,2,HYBRID_3_5,S7,quadgrams,higher risk,2,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+your biggest structural risk,2,HYBRID_3_5,S7,quadgrams,biggest structural risk,3,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+biggest structural risk if,2,HYBRID_3_5,S7,quadgrams,biggest structural risk,3,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+structural risk if i,2,HYBRID_3_5,S7,quadgrams,structural risk i,3,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+risk if i have,2,HYBRID_3_5,S7,quadgrams,risk i have,3,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+your main risk is,2,HYBRID_3_5,S7,quadgrams,main risk,2,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+your risk checks a,2,HYBRID_SEMANTIC,S7,quadgrams,risk checks,2,practicality_and_feasibility,1,risk,,0,0.0,False,truth|warning,truth.verification|warning,2,2,1,1,truth,warning,checks|risk,False
+plan for serious illness,2,HYBRID_SEMANTIC,S7,quadgrams,plan serious illness,3,,0,,,0,0.0,False,practical_considerations_and_execution|warning,practical_considerations_and_execution.action_and_execution|warning,2,2,1,1,practical_considerations_and_execution,warning,plan|plan for|serious,False

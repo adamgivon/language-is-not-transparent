@@ -1,0 +1,40 @@
+scenario,scenario_label,level,system,ngram,count,token_len,rank_within_system,system_sum_count,count_share_in_system,owner_count,owner_systems,global_ngram_count,content_token_count,content_token_ratio,scaffold_prefix,has_scaffold_prefix,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy
+S5,Scenario 5 - Quadgrams,quadgrams,AC15,authoritative project memory apm,3,4,9,11093,0.00027,1,AC15,3,4,1.0,,False,,0,,memory;project memory,2,0.5,False
+S5,Scenario 5 - Quadgrams,quadgrams,AC15,confidence user approved vs,3,4,11,11093,0.00027,1,AC15,3,4,1.0,,False,,0,,,0,0.0,False
+S5,Scenario 5 - Quadgrams,quadgrams,AC15,ttl e g days,3,4,18,11093,0.00027,1,AC15,3,4,1.0,,False,,0,,,0,0.0,False
+S5,Scenario 5 - Quadgrams,quadgrams,AC15,a authoritative project memory,3,4,5,11093,0.00027,1,AC15,3,3,0.75,,False,,0,,memory;project memory,2,0.666667,False
+S5,Scenario 5 - Quadgrams,quadgrams,AC15,approval for high impact,3,4,7,11093,0.00027,1,AC15,3,3,0.75,,False,,0,,,0,0.0,False
+S5,Scenario 5 - Quadgrams,quadgrams,AC15,for high impact items,3,4,14,11093,0.00027,1,AC15,3,3,0.75,,False,,0,,,0,0.0,False
+S5,Scenario 5 - Quadgrams,quadgrams,AC15,layer a authoritative project,3,4,15,11093,0.00027,1,AC15,3,3,0.75,,False,,0,,,0,0.0,False
+S5,Scenario 5 - Quadgrams,quadgrams,AC15,link to adr pr,3,4,16,11093,0.00027,1,AC15,3,3,0.75,,False,,0,,,0,0.0,False
+S5,Scenario 5 - Quadgrams,quadgrams,AC15P,adrs prs issues runbooks,6,4,1,12194,0.000492,1,AC15P,6,4,1.0,,False,,0,,,0,0.0,False
+S5,Scenario 5 - Quadgrams,quadgrams,AC15P,artifacts adrs prs issues,5,4,3,12194,0.00041,1,AC15P,5,4,1.0,,False,,0,,,0,0.0,False
+S5,Scenario 5 - Quadgrams,quadgrams,AC15P,prs issues runbooks postmortems,5,4,5,12194,0.00041,1,AC15P,5,4,1.0,,False,,0,,,0,0.0,False
+S5,Scenario 5 - Quadgrams,quadgrams,AC15P,brief adr style decisions,4,4,7,12194,0.000328,1,AC15P,4,4,1.0,,False,,0,,,0,0.0,False
+S5,Scenario 5 - Quadgrams,quadgrams,AC15P,durable artifacts adrs prs,4,4,9,12194,0.000328,1,AC15P,4,4,1.0,,False,,0,,,0,0.0,False
+S5,Scenario 5 - Quadgrams,quadgrams,AC15P,id type text status,4,4,10,12194,0.000328,1,AC15P,4,4,1.0,,False,,0,,,0,0.0,False
+S5,Scenario 5 - Quadgrams,quadgrams,AC15P,project brief adr style,4,4,12,12194,0.000328,1,AC15P,4,4,1.0,,False,,0,,,0,0.0,False
+S5,Scenario 5 - Quadgrams,quadgrams,AC15P,runbooks postmortems selected logs,4,4,13,12194,0.000328,1,AC15P,4,4,1.0,,False,,0,,,0,0.0,False
+S5,Scenario 5 - Quadgrams,quadgrams,AC15P,after n days sprints,3,4,17,12194,0.000246,1,AC15P,3,4,1.0,,False,,0,,,0,0.0,False
+S5,Scenario 5 - Quadgrams,quadgrams,AC15P,created_at last_validated_at repo branch,3,4,18,12194,0.000246,1,AC15P,3,4,1.0,,False,,0,,,0,0.0,False
+S5,Scenario 5 - Quadgrams,quadgrams,AC15P,filters repo branch time,3,4,21,12194,0.000246,1,AC15P,3,4,1.0,,False,,0,,,0,0.0,False
+S5,Scenario 5 - Quadgrams,quadgrams,AC15P,project brief accepted decisions,3,4,25,12194,0.000246,1,AC15P,3,4,1.0,,False,,0,,,0,0.0,False
+S5,Scenario 5 - Quadgrams,quadgrams,AC15P,status draft accepted superseded,3,4,27,12194,0.000246,1,AC15P,3,4,1.0,,False,,0,,,0,0.0,False
+S5,Scenario 5 - Quadgrams,quadgrams,AC15P,durable artifacts with citations,3,4,20,12194,0.000246,1,AC15P,3,3,0.75,,False,,0,,,0,0.0,False
+S5,Scenario 5 - Quadgrams,quadgrams,AC15P,over durable artifacts with,3,4,24,12194,0.000246,1,AC15P,3,3,0.75,,False,,0,,,0,0.0,False
+S5,Scenario 5 - Quadgrams,quadgrams,AC15P,what influenced the answer,3,4,31,12194,0.000246,1,AC15P,3,2,0.5,,False,,0,,,0,0.0,False
+S5,Scenario 5 - Quadgrams,quadgrams,CONTROL,scope tags service module,3,4,10,11899,0.000252,1,CONTROL,3,4,1.0,,False,,0,,,0,0.0,False
+S5,Scenario 5 - Quadgrams,quadgrams,HYBRID_3_5,project brief adrs conventions,7,4,1,10895,0.000642,1,HYBRID_3_5,7,4,1.0,,False,,0,,,0,0.0,False
+S5,Scenario 5 - Quadgrams,quadgrams,HYBRID_3_5,exclude pin mark superseded,4,4,3,10895,0.000367,1,HYBRID_3_5,4,4,1.0,,False,,0,,,0,0.0,False
+S5,Scenario 5 - Quadgrams,quadgrams,HYBRID_3_5,assert we decided x,3,4,5,10895,0.000275,1,HYBRID_3_5,3,3,0.75,,False,,0,,,0,0.0,False
+S5,Scenario 5 - Quadgrams,quadgrams,HYBRID_3_5,briefing tax is real,3,4,6,10895,0.000275,1,HYBRID_3_5,3,3,0.75,,False,,0,,,0,0.0,False
+S5,Scenario 5 - Quadgrams,quadgrams,HYBRID_3_5,only current repo spine,3,4,10,10895,0.000275,1,HYBRID_3_5,3,3,0.75,,False,,0,,,0,0.0,False
+S5,Scenario 5 - Quadgrams,quadgrams,HYBRID_3_5,more likely to be,3,4,9,10895,0.000275,1,HYBRID_3_5,3,2,0.5,,False,,0,,,0,0.0,False
+S5,Scenario 5 - Quadgrams,quadgrams,HYBRID_3_5,re briefing tax is,3,4,11,10895,0.000275,1,HYBRID_3_5,3,2,0.5,,False,,0,,re briefing,1,0.5,False
+S5,Scenario 5 - Quadgrams,quadgrams,HYBRID_SEMANTIC,deep recall no memory,4,4,4,11653,0.000343,1,HYBRID_SEMANTIC,4,4,1.0,,False,,0,,memory,1,0.25,False
+S5,Scenario 5 - Quadgrams,quadgrams,HYBRID_SEMANTIC,brief only deep recall,4,4,3,11653,0.000343,1,HYBRID_SEMANTIC,4,3,0.75,,False,,0,,,0,0.0,False
+S5,Scenario 5 - Quadgrams,quadgrams,HYBRID_SEMANTIC,only deep recall no,4,4,7,11653,0.000343,1,HYBRID_SEMANTIC,4,3,0.75,,False,,0,,,0,0.0,False
+S5,Scenario 5 - Quadgrams,quadgrams,HYBRID_SEMANTIC,logs stack traces referenced,3,4,15,11653,0.000257,1,HYBRID_SEMANTIC,3,4,1.0,,False,,0,,,0,0.0,False
+S5,Scenario 5 - Quadgrams,quadgrams,HYBRID_SEMANTIC,pasted logs stack traces,3,4,17,11653,0.000257,1,HYBRID_SEMANTIC,3,4,1.0,,False,,0,,,0,0.0,False
+S5,Scenario 5 - Quadgrams,quadgrams,HYBRID_SEMANTIC,default off on demand,3,4,10,11653,0.000257,1,HYBRID_SEMANTIC,3,3,0.75,,False,,0,,,0,0.0,False
+S5,Scenario 5 - Quadgrams,quadgrams,HYBRID_SEMANTIC,the re brief tax,3,4,18,11653,0.000257,1,HYBRID_SEMANTIC,3,2,0.5,,False,,0,,,0,0.0,False

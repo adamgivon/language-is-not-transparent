@@ -1,0 +1,7 @@
+{
+  "id": "anchor_temporal_dynamics",
+  "version": "hybrid_v3_5_semantic",
+  "order": 14,
+  "name": "temporal_dynamics",
+  "text": "# temporal dynamics\n\nTime touches all — All temporal exploration and analysis must show how temporal processes, change, and causality operate over the time axis.\n\n## Semantic Fields\n\n### core_positive\n- temporal evolution\n- current conditions based analysis\n- rate of change\n- information validity decay\n- temporal causality\n- contextual shift\n- current conditions based interpretation\n\n### supporting_positive\n- trajectory of change\n- formation\n- destruction\n- continuity\n- future dynamics\n- robustness for foreseeable future\n- alternative scenarios\n- current methods and tools\n- non-linear dynamics\n\n### core_avoid\n- deterministic repetition\n- outdated conditions\n- timeless assumption\n\n### supporting_avoid\n- linear projection from past\n- static extrapolation\n- frozen state\n- validity without temporal check\n- ignore temporal context\n- optimization for present only\n"
+}

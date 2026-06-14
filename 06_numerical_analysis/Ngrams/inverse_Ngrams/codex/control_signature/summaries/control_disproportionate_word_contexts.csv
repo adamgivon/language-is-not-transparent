@@ -1,0 +1,161 @@
+word,count,scenario,level,ngram
+people,1,S7,trigrams,your people or
+people,1,S7,trigrams,you think people
+people,1,S7,trigrams,work most people
+people,1,S7,trigrams,where people in
+people,1,S7,trigrams,trial where people
+people,1,S7,trigrams,tool most people
+people,1,S7,trigrams,to different people
+people,1,S7,trigrams,think people assume
+shared,2,S7,trigrams,to shared expenses
+shared,2,S7,trigrams,shared assets giving
+shared,2,S7,trigrams,relocation marriage shared
+shared,2,S7,trigrams,marriage shared assets
+shared,2,S7,trigrams,for shared expenses
+shared,2,S7,quadgrams,shared assets giving up
+shared,2,S7,quadgrams,relocation marriage shared assets
+shared,2,S7,quadgrams,marriage shared assets giving
+refresh,1,S5,trigrams,time based refresh
+refresh,1,S5,trigrams,refresh from the
+refresh,1,S5,trigrams,refresh alone use
+refresh,1,S5,trigrams,investigation auto refresh
+refresh,1,S5,trigrams,based refresh alone
+refresh,1,S5,trigrams,auto refresh from
+refresh,1,S5,quadgrams,time based refresh alone
+refresh,1,S5,quadgrams,refresh from the repo
+wide,1,S5,trigrams,wide with security
+wide,1,S5,trigrams,wide vs personal
+wide,1,S5,trigrams,wide org wide
+wide,1,S5,trigrams,team wide vs
+wide,1,S5,trigrams,team wide org
+wide,1,S5,trigrams,s team wide
+wide,1,S5,trigrams,org wide with
+wide,1,S5,trigrams,beta team wide
+legitimately,1,S7,trigrams,people legitimately want
+legitimately,1,S7,trigrams,many people legitimately
+legitimately,1,S7,trigrams,legitimately want a
+legitimately,1,S7,quadgrams,something many people legitimately
+legitimately,1,S7,quadgrams,people legitimately want a
+legitimately,1,S7,quadgrams,many people legitimately want
+legitimately,1,S7,quadgrams,legitimately want a partner
+legitimately,1,S3,trigrams,to legitimately call
+severe,1,S7,trigrams,you is severe
+severe,1,S7,trigrams,severe isolation dependence
+severe,1,S7,trigrams,is severe isolation
+severe,1,S7,quadgrams,you is severe isolation
+severe,1,S7,quadgrams,severe isolation dependence and
+severe,1,S7,quadgrams,is severe isolation dependence
+severe,1,S7,quadgrams,for you is severe
+severe,1,S3,trigrams,threat is severe
+prioritize,2,S1,trigrams,if you prioritize
+prioritize,1,S7,trigrams,you prioritize visiting
+prioritize,1,S7,trigrams,you prioritize time
+prioritize,1,S7,trigrams,you prioritize the
+prioritize,1,S7,trigrams,request you prioritize
+prioritize,1,S7,trigrams,prioritize visiting your
+prioritize,1,S7,trigrams,prioritize time with
+prioritize,1,S7,trigrams,prioritize the remaining
+consequence,4,S3,trigrams,a high consequence
+consequence,3,S3,trigrams,high consequence operational
+consequence,2,S3,trigrams,consequence severity in
+consequence,2,S3,trigrams,consequence operational hazard
+consequence,2,S3,quadgrams,high consequence operational hazard
+consequence,2,S3,quadgrams,a high consequence operational
+consequence,1,S5,trigrams,problem implementation consequence
+consequence,1,S5,trigrams,implementation consequence default
+intact,3,S7,trigrams,exit options intact
+intact,2,S7,trigrams,intact if you
+intact,2,S7,quadgrams,your exit options intact
+intact,2,S7,quadgrams,intact if you tell
+intact,1,S7,trigrams,savings intact exit
+intact,1,S7,trigrams,safe financially intact
+intact,1,S7,trigrams,romance intact while
+intact,1,S7,trigrams,return plan intact
+debt,1,S7,trigrams,income debt obligations
+debt,1,S7,trigrams,disclosing income debt
+debt,1,S7,trigrams,debt obligations if
+debt,1,S7,quadgrams,income debt obligations if
+debt,1,S7,quadgrams,disclosing income debt obligations
+debt,1,S7,quadgrams,debt obligations if you
+debt,1,S7,quadgrams,comfortable disclosing income debt
+debt,1,S5,trigrams,repeated decision debt
+probable,1,S7,trigrams,probable is she
+probable,1,S7,trigrams,first probable is
+probable,1,S7,trigrams,die first probable
+probable,1,S7,quadgrams,you die first probable
+probable,1,S7,quadgrams,probable is she financially
+probable,1,S7,quadgrams,first probable is she
+probable,1,S7,quadgrams,die first probable is
+probable,1,S3,trigrams,survivable or probable
+realistically,2,S7,trigrams,can t realistically
+realistically,1,S7,trigrams,would i realistically
+realistically,1,S7,trigrams,t realistically plan
+realistically,1,S7,trigrams,t realistically leave
+realistically,1,S7,trigrams,realistically plan for
+realistically,1,S7,trigrams,realistically live on
+realistically,1,S7,trigrams,realistically leave without
+realistically,1,S7,trigrams,realistically into her
+drama,2,S7,trigrams,without drama rule
+drama,1,S7,trigrams,without drama if
+drama,1,S7,trigrams,them without drama
+drama,1,S7,trigrams,respectful no drama
+drama,1,S7,trigrams,partnership over drama
+drama,1,S7,trigrams,over drama your
+drama,1,S7,trigrams,no drama no
+drama,1,S7,trigrams,leave without drama
+embedded,2,S7,trigrams,you re embedded
+embedded,1,S7,trigrams,socially embedded you
+embedded,1,S7,trigrams,re embedded what
+embedded,1,S7,trigrams,re embedded interpreting
+embedded,1,S7,trigrams,emotionally socially embedded
+embedded,1,S7,trigrams,embedded you start
+embedded,1,S7,trigrams,embedded what reveals
+embedded,1,S7,trigrams,embedded interpreting reluctance
+generally,1,S7,trigrams,s generally fair
+generally,1,S7,trigrams,it s generally
+generally,1,S7,trigrams,generally fair when
+generally,1,S7,quadgrams,s generally fair when
+generally,1,S7,quadgrams,relationship it s generally
+generally,1,S7,quadgrams,it s generally fair
+generally,1,S7,quadgrams,generally fair when she
+generally,1,S5,trigrams,you ll generally
+recommend,5,S1,trigrams,recommend civitas modular
+recommend,2,S1,trigrams,recommend award to
+recommend,1,S5,trigrams,to recommend a
+recommend,1,S5,trigrams,recommend the tightest
+recommend,1,S5,trigrams,recommend financially and
+recommend,1,S5,trigrams,recommend a specific
+recommend,1,S5,trigrams,item to recommend
+recommend,1,S5,trigrams,i d recommend
+sketch,1,S7,trigrams,you sketch a
+sketch,1,S7,trigrams,sketch a realistic
+sketch,1,S7,trigrams,help you sketch
+sketch,1,S7,quadgrams,you sketch a realistic
+sketch,1,S7,quadgrams,sketch a realistic care
+sketch,1,S7,quadgrams,help you sketch a
+sketch,1,S7,quadgrams,can help you sketch
+sketch,1,S5,trigrams,sketch a concrete
+framework,1,S7,trigrams,plan framework and
+framework,1,S7,trigrams,framework simple and
+framework,1,S7,trigrams,framework and the
+framework,1,S7,trigrams,decision framework simple
+framework,1,S7,trigrams,concrete decision framework
+framework,1,S7,trigrams,care plan framework
+framework,1,S7,quadgrams,realistic care plan framework
+framework,1,S7,quadgrams,plan framework and the
+represent,2,S3,trigrams,will not represent
+represent,2,S3,quadgrams,we will not represent
+represent,1,S7,trigrams,understand i represent
+represent,1,S7,trigrams,represent stability and
+represent,1,S7,trigrams,i represent stability
+represent,1,S7,quadgrams,understand i represent stability
+represent,1,S7,quadgrams,represent stability and options
+represent,1,S7,quadgrams,i understand i represent
+actively,1,S7,trigrams,you can actively
+actively,1,S7,trigrams,want to actively
+actively,1,S7,trigrams,to actively look
+actively,1,S7,trigrams,can actively protect
+actively,1,S7,trigrams,actively protect her
+actively,1,S7,trigrams,actively look for
+actively,1,S7,quadgrams,you want to actively
+actively,1,S7,quadgrams,you can actively protect

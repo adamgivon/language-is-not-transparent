@@ -1,0 +1,11 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+unless downtime is,2,AC15,S3,trigrams,unless downtime,2,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,unless,False
+b whether the,3,AC15P,S3,trigrams,b whether,2,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+contingent on rev,2,AC15P,S3,trigrams,contingent rev,2,,0,,,0,0.0,False,conditions|practical_considerations_and_execution,conditions|practical_considerations_and_execution.resources_timing_conditions,2,2,1,1,practical_considerations_and_execution,conditions,contingen|contingent|contingent on,False
+check whether the,2,AC15P,S3,trigrams,check whether,2,,0,,,0,0.0,False,conditions|truth,conditions|truth.verification,2,2,1,1,truth,conditions,check|whether,False
+check whether it,2,CONTROL,S3,trigrams,check whether,2,,0,,,0,0.0,False,conditions|truth,conditions|truth.verification,2,2,1,1,truth,conditions,check|whether,False
+safety depends on,2,CONTROL,S3,trigrams,safety depends,2,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,depends|depends on,False
+lois msas contingent,2,CONTROL,S3,trigrams,lois msas contingent,3,,0,,,0,0.0,False,conditions|practical_considerations_and_execution,conditions|practical_considerations_and_execution.resources_timing_conditions,2,2,1,1,practical_considerations_and_execution,conditions,contingen|contingent,False
+msas contingent on,2,CONTROL,S3,trigrams,msas contingent,2,,0,,,0,0.0,False,conditions|practical_considerations_and_execution,conditions|practical_considerations_and_execution.resources_timing_conditions,2,2,1,1,practical_considerations_and_execution,conditions,contingen|contingent|contingent on,False
+whether the architect,2,HYBRID_SEMANTIC,S3,trigrams,whether architect,2,,0,,,0,0.0,False,conditions,conditions,1,1,0,1,,conditions,whether,False
+re deciding whether,2,HYBRID_SEMANTIC,S3,trigrams,deciding whether,2,,0,,,0,0.0,False,autonomy_sovereignty|conditions,autonomy_sovereignty|conditions,2,2,0,2,,autonomy_sovereignty|conditions,deciding|whether,False

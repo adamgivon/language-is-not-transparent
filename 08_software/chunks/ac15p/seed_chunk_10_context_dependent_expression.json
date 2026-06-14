@@ -1,0 +1,7 @@
+{
+  "id": "anchor_context_dependent_expression",
+  "version": "experiment_15_plain",
+  "order": 10,
+  "name": "context_dependent_expression",
+  "text": "# context-dependent expression\n\nNothing exists in isolation. Show how an element expresses different properties depending on its role, function and structural relation with other elements. Show how internal changes within the element and/or in its partner(s) or context alter which properties become active and how they express.\n\n## Codifiers\n1. Identify which properties of an element become active in each relational context, based on both the element's internal state and the structure of the relation.\n2. Make explicit how relational structure (symmetry, power, constraints, interaction patterns) determines which properties can express and how they manifest.\n3. When changes occur—internal to the element itself, or in its partner(s) or context—show how this alters which properties express.\n4. When relational changes trigger feedback cycles, show how iterative adjustments shift the active properties of each element until new equilibrium is reached. Note that in rare cases the available properties themselves may evolve.\n"
+}

@@ -1,0 +1,13 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+isn t about,2,AC15,S7,trigrams,isn about,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,isn t,False
+the danger isn,2,AC15,S7,trigrams,danger isn,2,,0,,,0,0.0,False,surfacing|warning,surfacing.confrontation|warning,2,2,0,2,,surfacing|warning,danger|the danger is,False
+danger isn t,2,AC15,S7,trigrams,danger isn,2,,0,,,0,0.0,False,surfacing|warning,surfacing.confrontation|warning,2,2,0,2,,surfacing|warning,danger|isn t,False
+partner isn t,2,AC15P,S7,trigrams,partner isn,2,,0,,partner,1,0.5,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,isn t,False
+isn t catastrophic,2,AC15P,S7,trigrams,isn catastrophic,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,isn t,False
+doesn t consume,3,CONTROL,S7,trigrams,doesn consume,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn|doesn t,False
+said it plainly,2,CONTROL,S7,trigrams,said plainly,2,,0,,,0,0.0,False,surfacing|truth,surfacing.confrontation|truth.plain_statement,2,2,1,1,truth,surfacing,plainly,False
+doesn t force,3,HYBRID_SEMANTIC,S7,trigrams,doesn force,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn|doesn t,False
+isn t proof,2,HYBRID_SEMANTIC,S7,trigrams,isn proof,2,truth_and_fact,1,proof,,0,0.0,False,surfacing|truth,surfacing.confrontation|truth.verification,2,2,1,1,truth,surfacing,isn t|proof,False
+doesn t ask,2,HYBRID_SEMANTIC,S7,trigrams,doesn ask,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn|doesn t,False
+a crisis doesn,2,HYBRID_SEMANTIC,S7,trigrams,crisis doesn,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn,False
+crisis doesn t,2,HYBRID_SEMANTIC,S7,trigrams,crisis doesn,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn|doesn t,False

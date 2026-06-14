@@ -1,0 +1,154 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy
+for interference triggered,5,AC15,S3,trigrams,interference triggered,2,,0,,interference,1,0.5,False
+hardware rev b,5,AC15,S3,trigrams,hardware rev b,3,,0,,,0,0.0,False
+commissioning period exclusions,5,AC15,S3,trigrams,commissioning period exclusions,3,,0,,,0,0.0,False
+interference triggered safety,4,AC15,S3,trigrams,interference triggered safety,3,,0,,interference,1,0.3333333333333333,False
+within a certified,4,AC15,S3,trigrams,within certified,2,,0,,,0,0.0,False
+certified operating envelope,4,AC15,S3,trigrams,certified operating envelope,3,,0,,,0,0.0,False
+operating envelope v1,4,AC15,S3,trigrams,operating envelope v1,3,,0,,,0,0.0,False
+a supported operating,3,AC15,S3,trigrams,supported operating,2,,0,,,0,0.0,False
+interest fees warrants,3,AC15,S3,trigrams,interest fees warrants,3,,0,,,0,0.0,False
+redundancy such that,3,AC15,S3,trigrams,redundancy such,2,,0,,,0,0.0,False
+triggered safety landings,3,AC15,S3,trigrams,triggered safety landings,3,,0,,,0,0.0,False
+commissioning stabilization period,3,AC15,S3,trigrams,commissioning stabilization period,3,,0,,,0,0.0,False
+hot spares fast,3,AC15,S3,trigrams,hot spares fast,3,,0,,,0,0.0,False
+downtime definition or,3,AC15,S3,trigrams,downtime definition,2,,0,,,0,0.0,False
+over critical corridors,3,AC15,S3,trigrams,over critical corridors,3,,0,,,0,0.0,False
+traffic control procedure,3,AC15,S3,trigrams,traffic control procedure,3,,0,,,0,0.0,False
+roads decks work,3,AC15,S3,trigrams,roads decks work,3,,0,,,0,0.0,False
+decks work faces,3,AC15,S3,trigrams,decks work faces,3,,0,,,0,0.0,False
+keep out volumes,3,AC15,S3,trigrams,keep out volumes,3,,0,,,0,0.0,False
+you provide redundancy,3,AC15,S3,trigrams,provide redundancy,2,,0,,,0,0.0,False
+max time to,3,AC15,S3,trigrams,max time,2,,0,,,0,0.0,False
+series b condition,3,AC15,S3,trigrams,series b condition,3,,0,,series b,1,0.6666666666666666,False
+low emi sites,6,AC15P,S3,trigrams,low emi sites,3,,0,,,0,0.0,False
+corridors over haul,6,AC15P,S3,trigrams,corridors over haul,3,,0,,,0,0.0,False
+will accept a,5,AC15P,S3,trigrams,will accept,2,,0,,,0,0.0,False
+the next round,5,AC15P,S3,trigrams,next round,2,,0,,,0,0.0,False
+b shielding or,5,AC15P,S3,trigrams,b shielding,2,,0,,shielding,1,0.5,False
+within the supported,4,AC15P,S3,trigrams,within supported,2,,0,,,0,0.0,False
+no or capped,4,AC15P,S3,trigrams,no capped,2,,0,,,0,0.0,False
+high emi mining,4,AC15P,S3,trigrams,high emi mining,3,,0,,mining,1,0.3333333333333333,False
+penalty slas in,4,AC15P,S3,trigrams,penalty slas,2,,0,,,0,0.0,False
+de scope mining,4,AC15P,S3,trigrams,de scope mining,3,,0,,mining,1,0.3333333333333333,False
+predefined safe loiter,4,AC15P,S3,trigrams,predefined safe loiter,3,,0,,,0,0.0,False
+limited availability early,4,AC15P,S3,trigrams,limited availability early,3,,0,,,0,0.0,False
+availability early access,4,AC15P,S3,trigrams,availability early access,3,,0,,early access,1,0.6666666666666666,False
+qualified low emi,4,AC15P,S3,trigrams,qualified low emi,3,,0,,,0,0.0,False
+la eap launch,4,AC15P,S3,trigrams,la eap launch,3,,0,,launch,1,0.3333333333333333,False
+written sign off,3,AC15P,S3,trigrams,written sign off,3,,0,,,0,0.0,False
+discount cap warrants,3,AC15P,S3,trigrams,discount cap warrants,3,,0,,,0,0.0,False
+a refinance trap,3,AC15P,S3,trigrams,refinance trap,2,,0,,,0,0.0,False
+in high emi,3,AC15P,S3,trigrams,high emi,2,,0,,,0,0.0,False
+or capped downtime,3,AC15P,S3,trigrams,capped downtime,2,,0,,,0,0.0,False
+capped downtime penalties,3,AC15P,S3,trigrams,capped downtime penalties,3,,0,,,0,0.0,False
+emi site qualification,3,AC15P,S3,trigrams,emi site qualification,3,,0,,,0,0.0,False
+on penalties now,3,AC15P,S3,trigrams,penalties now,2,,0,,,0,0.0,False
+mutually agreed acceptance,3,AC15P,S3,trigrams,mutually agreed acceptance,3,,0,,,0,0.0,False
+agreed acceptance metrics,3,AC15P,S3,trigrams,agreed acceptance metrics,3,,0,,,0,0.0,False
+no penalty slas,3,AC15P,S3,trigrams,no penalty slas,3,,0,,,0,0.0,False
+b whether the,3,AC15P,S3,trigrams,b whether,2,,0,,,0,0.0,False
+with capped no,3,AC15P,S3,trigrams,capped no,2,,0,,,0,0.0,False
+capped no penalties,3,AC15P,S3,trigrams,capped no penalties,3,,0,,,0,0.0,False
+under remote supervision,3,AC15P,S3,trigrams,under remote supervision,3,,0,,,0,0.0,False
+within qualified operating,3,AC15P,S3,trigrams,within qualified operating,3,,0,,,0,0.0,False
+within qualified zones,3,AC15P,S3,trigrams,within qualified zones,3,,0,,,0,0.0,False
+qualified zones under,3,AC15P,S3,trigrams,qualified zones under,3,,0,,,0,0.0,False
+sla after rev,3,AC15P,S3,trigrams,sla after rev,3,,0,,,0,0.0,False
+reliability case for,3,AC15P,S3,trigrams,reliability case,2,,0,,,0,0.0,False
+in unbounded emi,3,AC15P,S3,trigrams,unbounded emi,2,,0,,,0,0.0,False
+unbounded emi environments,3,AC15P,S3,trigrams,unbounded emi environments,3,,0,,,0,0.0,False
+a penalty free,3,AC15P,S3,trigrams,penalty free,2,,0,,,0,0.0,False
+for high emi,3,AC15P,S3,trigrams,high emi,2,,0,,,0,0.0,False
+health emi indicators,3,AC15P,S3,trigrams,health emi indicators,3,,0,,,0,0.0,False
+envelope stop criteria,3,AC15P,S3,trigrams,envelope stop criteria,3,,0,,,0,0.0,False
+sign off stop,3,AC15P,S3,trigrams,sign off stop,3,,0,,,0,0.0,False
+how often do,3,AC15P,S3,trigrams,how often,2,,0,,,0,0.0,False
+mining production sla,3,AC15P,S3,trigrams,mining production sla,3,,0,,mining,1,0.3333333333333333,False
+no hover corridors,3,AC15P,S3,trigrams,no hover corridors,3,,0,,hover,1,0.3333333333333333,False
+our ability to,3,AC15P,S3,trigrams,our ability,2,,0,,,0,0.0,False
+during eap qualification,3,AC15P,S3,trigrams,during eap qualification,3,,0,,,0,0.0,False
+no fly corridors,3,AC15P,S3,trigrams,no fly corridors,3,,0,,,0,0.0,False
+spares hot swap,7,CONTROL,S3,trigrams,spares hot swap,3,,0,,,0,0.0,False
+fail safe behavior,4,CONTROL,S3,trigrams,fail safe behavior,3,,0,,,0,0.0,False
+service led ops,4,CONTROL,S3,trigrams,service led ops,3,,0,,,0,0.0,False
+qualified zones corridors,4,CONTROL,S3,trigrams,qualified zones corridors,3,,0,,,0,0.0,False
+redundancy spares hot,4,CONTROL,S3,trigrams,redundancy spares hot,3,,0,,,0,0.0,False
+stop ops authority,4,CONTROL,S3,trigrams,stop ops authority,3,,0,,,0,0.0,False
+a high consequence,4,CONTROL,S3,trigrams,high consequence,2,,0,,,0,0.0,False
+a non negotiable,3,CONTROL,S3,trigrams,non negotiable,2,,0,,,0,0.0,False
+enforced by design,3,CONTROL,S3,trigrams,enforced design,2,,0,,,0,0.0,False
+tranche based series,3,CONTROL,S3,trigrams,tranche based series,3,,0,,,0,0.0,False
+based series b,3,CONTROL,S3,trigrams,based series b,3,,0,,series b,1,0.6666666666666666,False
+hot swap to,3,CONTROL,S3,trigrams,hot swap,2,,0,,,0,0.0,False
+insists on unconditional,3,CONTROL,S3,trigrams,insists unconditional,2,,0,,,0,0.0,False
+caps cure periods,3,CONTROL,S3,trigrams,caps cure periods,3,,0,,,0,0.0,False
+across the full,3,CONTROL,S3,trigrams,across full,2,,0,,,0,0.0,False
+the full site,3,CONTROL,S3,trigrams,full site,2,,0,,,0,0.0,False
+delta ev approx,3,CONTROL,S3,trigrams,delta ev approx,3,,0,,,0,0.0,False
+outside the qualified,3,CONTROL,S3,trigrams,outside qualified,2,,0,,,0,0.0,False
+the qualified odd,3,CONTROL,S3,trigrams,qualified odd,2,,0,,,0,0.0,False
+hover descend where,3,CONTROL,S3,trigrams,hover descend where,3,,0,,hover,1,0.3333333333333333,False
+your safety authority,3,CONTROL,S3,trigrams,safety authority,2,,0,,,0,0.0,False
+safety authority won,3,CONTROL,S3,trigrams,safety authority won,3,,0,,,0,0.0,False
+authority won t,3,CONTROL,S3,trigrams,authority won,2,,0,,,0,0.0,False
+entry into service,14,HYBRID_3_5,S3,trigrams,entry service,2,,0,,,0,0.0,False
+responsible technical authority,10,HYBRID_3_5,S3,trigrams,responsible technical authority,3,,0,,,0,0.0,False
+technical authority sign,7,HYBRID_3_5,S3,trigrams,technical authority sign,3,,0,,,0,0.0,False
+authority sign off,7,HYBRID_3_5,S3,trigrams,authority sign off,3,,0,,,0,0.0,False
+non stationary emi,5,HYBRID_3_5,S3,trigrams,non stationary emi,3,,0,,,0,0.0,False
+during early access,4,HYBRID_3_5,S3,trigrams,during early access,3,,0,,early access,1,0.6666666666666666,False
+forced landing hover,3,HYBRID_3_5,S3,trigrams,forced landing hover,3,,0,,hover,1,0.3333333333333333,False
+a milestone rewrite,3,HYBRID_3_5,S3,trigrams,milestone rewrite,2,,0,,,0,0.0,False
+service credits hard,3,HYBRID_3_5,S3,trigrams,service credits hard,3,,0,,,0,0.0,False
+production loss pass,3,HYBRID_3_5,S3,trigrams,production loss pass,3,,0,,,0,0.0,False
+loss pass through,3,HYBRID_3_5,S3,trigrams,loss pass through,3,,0,,,0,0.0,False
+penalty clause redacted,3,HYBRID_3_5,S3,trigrams,penalty clause redacted,3,,0,,,0,0.0,False
+or equivalent root,3,HYBRID_3_5,S3,trigrams,equivalent root,2,,0,,,0,0.0,False
+equivalent root cause,3,HYBRID_3_5,S3,trigrams,equivalent root cause,3,,0,,,0,0.0,False
+envelope with remote,3,HYBRID_3_5,S3,trigrams,envelope remote,2,,0,,,0,0.0,False
+with remote support,3,HYBRID_3_5,S3,trigrams,remote support,2,,0,,,0,0.0,False
+penalties begin only,3,HYBRID_3_5,S3,trigrams,penalties begin,2,,0,,,0,0.0,False
+begin only after,3,HYBRID_3_5,S3,trigrams,begin after,2,,0,,,0,0.0,False
+bounded entry into,3,HYBRID_3_5,S3,trigrams,bounded entry,2,,0,,,0,0.0,False
+into service eis,3,HYBRID_3_5,S3,trigrams,service eis,2,,0,,,0,0.0,False
+a dated plan,3,HYBRID_3_5,S3,trigrams,dated plan,2,,0,,,0,0.0,False
+downtime definitions and,3,HYBRID_3_5,S3,trigrams,downtime definitions,2,,0,,,0,0.0,False
+dated plan for,3,HYBRID_3_5,S3,trigrams,dated plan,2,,0,,,0,0.0,False
+like haul roads,3,HYBRID_3_5,S3,trigrams,like haul roads,3,,0,,,0,0.0,False
+penalty bearing uptime,3,HYBRID_3_5,S3,trigrams,penalty bearing uptime,3,,0,,,0,0.0,False
+threat is real,3,HYBRID_3_5,S3,trigrams,threat real,2,,0,,,0,0.0,False
+runtime integrity monitoring,7,HYBRID_SEMANTIC,S3,trigrams,runtime integrity monitoring,3,,0,,,0,0.0,False
+the launch envelope,5,HYBRID_SEMANTIC,S3,trigrams,launch envelope,2,,0,,launch,1,0.5,False
+environments where the,4,HYBRID_SEMANTIC,S3,trigrams,environments where,2,,0,,,0,0.0,False
+controlled commercial launch,4,HYBRID_SEMANTIC,S3,trigrams,controlled commercial launch,3,,0,,launch,1,0.3333333333333333,False
+doesn t equal,4,HYBRID_SEMANTIC,S3,trigrams,doesn equal,2,,0,,,0,0.0,False
+in qualified corridors,4,HYBRID_SEMANTIC,S3,trigrams,qualified corridors,2,,0,,,0,0.0,False
+over critical zones,4,HYBRID_SEMANTIC,S3,trigrams,over critical zones,3,,0,,,0,0.0,False
+for early units,3,HYBRID_SEMANTIC,S3,trigrams,early units,2,,0,,,0,0.0,False
+covenants default triggers,3,HYBRID_SEMANTIC,S3,trigrams,covenants default triggers,3,,0,,,0,0.0,False
+a controlled launch,3,HYBRID_SEMANTIC,S3,trigrams,controlled launch,2,,0,,launch,1,0.5,False
+safe corridors landing,3,HYBRID_SEMANTIC,S3,trigrams,safe corridors landing,3,,0,,,0,0.0,False
+outside designated safe,3,HYBRID_SEMANTIC,S3,trigrams,outside designated safe,3,,0,,,0,0.0,False
+will you stay,3,HYBRID_SEMANTIC,S3,trigrams,will stay,2,,0,,,0,0.0,False
+service credits and,3,HYBRID_SEMANTIC,S3,trigrams,service credits,2,,0,,,0,0.0,False
+penalty backed uptime,3,HYBRID_SEMANTIC,S3,trigrams,penalty backed uptime,3,,0,,,0,0.0,False
+caps exclusions and,3,HYBRID_SEMANTIC,S3,trigrams,caps exclusions,2,,0,,,0,0.0,False
+t equal site,3,HYBRID_SEMANTIC,S3,trigrams,equal site,2,,0,,,0,0.0,False
+and capped remedies,3,HYBRID_SEMANTIC,S3,trigrams,capped remedies,2,,0,,,0,0.0,False
+runtime navigation integrity,3,HYBRID_SEMANTIC,S3,trigrams,runtime navigation integrity,3,,0,,navigation,1,0.3333333333333333,False
+yes you have,3,HYBRID_SEMANTIC,S3,trigrams,yes have,2,,0,,,0,0.0,False
+and contract structure,3,HYBRID_SEMANTIC,S3,trigrams,contract structure,2,,0,,,0,0.0,False
+where the edge,3,HYBRID_SEMANTIC,S3,trigrams,where edge,2,,0,,,0,0.0,False
+edge case can,3,HYBRID_SEMANTIC,S3,trigrams,edge case,2,,0,,,0,0.0,False
+case can occur,3,HYBRID_SEMANTIC,S3,trigrams,case occur,2,,0,,,0,0.0,False
+capped convert customer,3,HYBRID_SEMANTIC,S3,trigrams,capped convert customer,3,,0,,,0,0.0,False
+convert customer prepay,3,HYBRID_SEMANTIC,S3,trigrams,convert customer prepay,3,,0,,,0,0.0,False
+a defensible safety,3,HYBRID_SEMANTIC,S3,trigrams,defensible safety,2,,0,,,0,0.0,False
+defensible safety reliability,3,HYBRID_SEMANTIC,S3,trigrams,defensible safety reliability,3,,0,,,0,0.0,False
+the eap must,3,HYBRID_SEMANTIC,S3,trigrams,eap must,2,,0,,,0,0.0,False
+only after acceptance,3,HYBRID_SEMANTIC,S3,trigrams,after acceptance,2,,0,,,0,0.0,False
+before entering critical,3,HYBRID_SEMANTIC,S3,trigrams,before entering critical,3,,0,,,0,0.0,False
+commercial mining launch,3,HYBRID_SEMANTIC,S3,trigrams,commercial mining launch,3,,0,,launch|mining,2,0.6666666666666666,False
+early access production,3,HYBRID_SEMANTIC,S3,trigrams,early access production,3,,0,,early access,1,0.6666666666666666,False
+the controlled launch,3,HYBRID_SEMANTIC,S3,trigrams,controlled launch,2,,0,,launch,1,0.5,False

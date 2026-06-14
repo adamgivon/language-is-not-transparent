@@ -1,0 +1,37 @@
+/* >>> BEGIN FILE: components/PromptInput.module.css */
+.container {
+    background-color: #111;
+    border: 1px solid #444;
+    border-radius: 8px;
+    padding: 8px;
+    display: flex;
+    align-items: flex-end; /* Anchor to bottom */
+  }
+
+
+.disabled {
+  opacity: 0.4;
+  pointer-events: none;
+}
+
+.textarea {
+  width: 100%;
+  min-height: 24px;
+  padding: 8px;
+  background-color: transparent;
+  color: #eee;
+  border: none;
+  outline: none;
+  resize: none;
+  font-family: inherit;
+  font-size: 14px;
+  line-height: 24px;
+  overflow-y: auto; /* Add scroll when exceeds max height */
+}
+
+.actions {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+/* <<< END FILE */

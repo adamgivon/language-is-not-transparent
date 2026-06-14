@@ -1,0 +1,13 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+propose the staged,2,AC15,S7,trigrams,propose staged,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,staged,False
+the staged plan,2,AC15,S7,trigrams,staged plan,2,,0,,,0,0.0,False,practical_considerations_and_execution|temporal_projection,practical_considerations_and_execution.action_and_execution|temporal_projection.change_and_rate,2,2,2,0,practical_considerations_and_execution|temporal_projection,,plan|staged,False
+extend trial shift,2,AC15P,S7,trigrams,extend trial shift,3,temporal_dynamics,1,shift,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,shift,False
+trial shift to,2,AC15P,S7,trigrams,trial shift,2,temporal_dynamics,1,shift,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,shift,False
+shift to dual,2,AC15P,S7,trigrams,shift dual,2,temporal_dynamics,1,shift,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,shift,False
+slow down a,2,AC15P,S7,trigrams,slow down,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,slow down,False
+a staged path,3,CONTROL,S7,trigrams,staged path,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,staged,False
+a staged approach,2,CONTROL,S7,trigrams,staged approach,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,staged,False
+respects a staged,2,CONTROL,S7,trigrams,respects staged,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,staged,False
+staged path that,2,CONTROL,S7,trigrams,staged path,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,staged,False
+stages so i,2,HYBRID_3_5,S7,trigrams,stages i,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,stages,False
+i slow down,2,HYBRID_SEMANTIC,S7,trigrams,i slow down,3,,0,,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,slow down,False

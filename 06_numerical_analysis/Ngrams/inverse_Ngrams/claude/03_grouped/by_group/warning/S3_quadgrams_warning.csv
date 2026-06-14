@@ -1,0 +1,11 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+high consequence operational hazard,2,CONTROL,S3,quadgrams,high consequence operational hazard,4,practicality_and_feasibility,1,operational,,0,0.0,False,warning,warning,1,1,0,1,,warning,hazard,False
+written safety case hazard,2,CONTROL,S3,quadgrams,written safety case hazard,4,,0,,,0,0.0,False,warning,warning,1,1,0,1,,warning,hazard,False
+safety case hazard analysis,2,CONTROL,S3,quadgrams,safety case hazard analysis,4,,0,,,0,0.0,False,truth|warning,truth.fact_vs_interpretation|warning,2,2,1,1,truth,warning,analysis|hazard,False
+case hazard analysis fmea,2,CONTROL,S3,quadgrams,case hazard analysis fmea,4,,0,,,0,0.0,False,truth|warning,truth.fact_vs_interpretation|warning,2,2,1,1,truth,warning,analysis|hazard,False
+non stationary emi risk,4,HYBRID_3_5,S3,quadgrams,non stationary emi risk,4,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+resignation threat is real,3,HYBRID_3_5,S3,quadgrams,resignation threat real,3,,0,,,0,0.0,False,warning,warning,1,1,0,1,,warning,threat,False
+know the resignation threat,2,HYBRID_3_5,S3,quadgrams,know resignation threat,3,,0,,,0,0.0,False,warning,warning,1,1,0,1,,warning,threat,False
+threat is real and,2,HYBRID_3_5,S3,quadgrams,threat real,2,,0,,,0,0.0,False,warning,warning,1,1,0,1,,warning,threat,False
+bound the interference risk,2,HYBRID_SEMANTIC,S3,quadgrams,bound interference risk,3,practicality_and_feasibility,1,risk,interference,1,0.3333333333333333,False,practical_considerations_and_execution|warning,practical_considerations_and_execution.constraints_and_tradeoffs|warning,2,2,1,1,practical_considerations_and_execution,warning,bound|risk,False
+the interference risk at,2,HYBRID_SEMANTIC,S3,quadgrams,interference risk,2,practicality_and_feasibility,1,risk,interference,1,0.5,False,warning,warning,1,1,0,1,,warning,risk,False

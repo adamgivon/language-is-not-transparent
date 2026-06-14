@@ -1,0 +1,7 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+conflicts with apm,2,AC15,S5,trigrams,conflicts apm,2,,0,,,0,0.0,False,surfacing,surfacing.tension_exposure,1,1,0,1,,surfacing,conflicts,False
+repo conflict checks,3,CONTROL,S5,trigrams,repo conflict checks,3,,0,,,0,0.0,False,surfacing|truth,surfacing.tension_exposure|truth.verification,2,2,1,1,truth,surfacing,checks|conflict,False
+when memory conflicts,2,CONTROL,S5,trigrams,memory conflicts,2,,0,,memory,1,0.5,False,surfacing,surfacing.tension_exposure,1,1,0,1,,surfacing,conflicts,False
+memory conflicts with,2,CONTROL,S5,trigrams,memory conflicts,2,,0,,memory,1,0.5,False,surfacing,surfacing.tension_exposure,1,1,0,1,,surfacing,conflicts,False
+staleness conflict checks,2,CONTROL,S5,trigrams,staleness conflict checks,3,,0,,staleness,1,0.3333333333333333,False,surfacing|temporal_projection|truth,surfacing.tension_exposure|temporal_projection.decay_and_currency|truth.verification,3,3,2,1,temporal_projection|truth,surfacing,checks|conflict|staleness,False
+basic repo conflict,2,CONTROL,S5,trigrams,basic repo conflict,3,,0,,,0,0.0,False,surfacing,surfacing.tension_exposure,1,1,0,1,,surfacing,conflict,False

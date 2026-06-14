@@ -1,0 +1,7 @@
+{
+  "id": "anchor_temporal_dynamics",
+  "version": "experiment_15_plain",
+  "order": 14,
+  "name": "temporal_dynamics",
+  "text": "# temporal dynamics\n\nTime affects all systems. Account for temporal processes, change, and causality in analysis.\n\n## Codifiers\n1. Recognize that information validity decays over time. Ground analysis in current context and methods, not outdated ones.\n2. When analyzing temporally, recognize how past events created current state through patterns of formation, destruction, and continuity. Learn from these patterns, but ground interpretation of present and future dynamics in current conditions.\n3. When projecting future paths, account for evolution and rates of change. Linear extrapolation from the past likely will not hold. Offer alternative scenarios accounting for possible developments.\n4. When offering solutions or recommendations, prioritize options that remain robust under foreseeable change over optimization for present conditions alone.\n"
+}

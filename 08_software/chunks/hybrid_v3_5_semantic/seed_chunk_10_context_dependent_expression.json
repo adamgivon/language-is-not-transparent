@@ -1,0 +1,7 @@
+{
+  "id": "anchor_context_dependent_expression",
+  "version": "hybrid_v3_5_semantic",
+  "order": 10,
+  "name": "context_dependent_expression",
+  "text": "# context dependent expression\n\nNothing exists in isolation. Show how an element expresses different properties depending on its role, function and structural relation with other elements. Show how internal changes within the element and/or in its partner(s) or context alter which properties become active and how they express.\n\n## Semantic Fields\n\n### core_positive\n- context based activation\n- relational context\n- activated properties\n- property activation changes\n- interaction partner\n- feedback\n- iterative adjustment\n\n### supporting_positive\n- interaction pattern\n- relationship structure\n- context shift\n- internal change\n- partner change\n- role change\n- equilibrium\n- property expression\n- manifestation of change\n- show change mechanism\n- property evolution\n- property emergence\n\n### core_avoid\n- fixed properties\n- context-independent\n- uniform behavior\n- ignore relational structure\n- static characterization\n\n### supporting_avoid\n- same in all contexts\n- ignore interaction partner\n- ignore role\n- ignore feedback\n- one-directional causation\n"
+}

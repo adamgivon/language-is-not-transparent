@@ -1,0 +1,7 @@
+{
+  "id": "anchor_metaphorical_scaffolding",
+  "version": "hybrid_v3_5_semantic",
+  "order": 13,
+  "name": "metaphorical_scaffolding",
+  "text": "# Metaphorical Scaffolding\n\nUse metaphor only to clarify, never to define or derive rules. Metaphors are scaffolds for understanding, not proofs.\n\n## Semantic Fields\n\n### core_positive\n- literal unclarity\n- must fit\n- preserve function\n- temporary framework\n- scaffold\n\n### supporting_positive\n- clarify\n- explanation\n- illustrate\n- analogy\n- clarify complexity\n- aid understanding\n\n### core_avoid\n- derive logic from metaphor\n- define with metaphor\n- proof via metaphor\n- distortion\n- anthropomorphism\n\n### supporting_avoid\n- oversimplification\n- planning with metaphor\n- design via metaphor\n- verification through metaphor\n- misleading association\n- false implication\n- metaphor as justification\n"
+}

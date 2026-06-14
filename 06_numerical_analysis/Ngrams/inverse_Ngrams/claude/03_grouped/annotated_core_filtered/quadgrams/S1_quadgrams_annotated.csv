@@ -1,0 +1,833 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+would make us wrong,6,AC15,S1,quadgrams,make wrong,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,wrong,False
+data config portability transition,4,AC15,S1,quadgrams,data config portability transition,4,truth_and_fact|temporal_dynamics,2,transition|data,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,transit|transition,False
+answer those i can,4,AC15,S1,quadgrams,answer those i,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+with long lead items,4,AC15,S1,quadgrams,long lead items,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+recommend civitas modular as,4,AC15,S1,quadgrams,recommend civitas modular,3,,0,,civitas|modular,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+timeline and required controls,3,AC15,S1,quadgrams,timeline required controls,3,practicality_and_feasibility,1,timeline,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,timeline,False
+config portability transition assistance,3,AC15,S1,quadgrams,config portability transition assistance,4,temporal_dynamics,1,transition,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,transit|transition,False
+data config portability and,3,AC15,S1,quadgrams,data config portability,3,truth_and_fact,1,data,,0,0.0,False,,,0,0,0,0,,,,True
+city ownership of timing,3,AC15,S1,quadgrams,city ownership timing,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+long lead items and,3,AC15,S1,quadgrams,long lead items,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+for after action review,3,AC15,S1,quadgrams,after action review,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+tied to payment milestones,3,AC15,S1,quadgrams,tied payment milestones,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+civitas clears dot s,3,AC15,S1,quadgrams,civitas clears dot,3,,0,,civitas|dot,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+exhibit with long lead,3,AC15,S1,quadgrams,exhibit long lead,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a phased start and,2,AC15,S1,quadgrams,phased start,2,temporal_dynamics,1,phased,,0,0.0,False,practical_considerations_and_execution|temporal_projection,practical_considerations_and_execution.action_and_execution|temporal_projection.change_and_rate,2,2,2,0,practical_considerations_and_execution|temporal_projection,,phas|phased|start,False
+fewest external blockers civitas,2,AC15,S1,quadgrams,fewest external blockers civitas,4,practicality_and_feasibility,1,blockers,civitas,1,0.25,False,practical_considerations_and_execution|surfacing,practical_considerations_and_execution.friction_and_blockers|surfacing.friction_exposed,2,2,1,1,practical_considerations_and_execution,surfacing,blockers,False
+in documented formats transition,2,AC15,S1,quadgrams,documented formats transition,3,temporal_dynamics,1,transition,,0,0.0,False,temporal_projection|truth,temporal_projection.change_and_rate|truth.verification,2,2,2,0,temporal_projection|truth,,documented|transit|transition,False
+documented formats transition assistance,2,AC15,S1,quadgrams,documented formats transition assistance,4,temporal_dynamics,1,transition,,0,0.0,False,temporal_projection|truth,temporal_projection.change_and_rate|truth.verification,2,2,2,0,temporal_projection|truth,,documented|transit|transition,False
+with timeline and required,2,AC15,S1,quadgrams,timeline required,2,practicality_and_feasibility,1,timeline,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,timeline,False
+less long run evidence,2,AC15,S1,quadgrams,less long run evidence,4,truth_and_fact,1,evidence,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,evidence,False
+maintenance cost reduction vs,2,AC15,S1,quadgrams,maintenance cost reduction vs,4,practicality_and_feasibility,1,cost,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,cost,False
+on schedule if novagrid,2,AC15,S1,quadgrams,schedule novagrid,2,practicality_and_feasibility,1,schedule,novagrid,1,0.5,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,schedule,False
+schedule if novagrid can,2,AC15,S1,quadgrams,schedule novagrid,2,practicality_and_feasibility,1,schedule,novagrid,1,0.5,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,schedule,False
+a week selection window,2,AC15,S1,quadgrams,week selection window,3,temporal_dynamics,1,window,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,window,False
+cost to maintain the,2,AC15,S1,quadgrams,cost maintain,2,practicality_and_feasibility,1,cost,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,cost,False
+a phased notice to,2,AC15,S1,quadgrams,phased notice,2,temporal_dynamics,1,phased,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,phas|phased,False
+phased notice to proceed,2,AC15,S1,quadgrams,phased notice proceed,3,temporal_dynamics,1,phased,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,phas|phased,False
+and lock in risk,2,AC15,S1,quadgrams,lock risk,2,practicality_and_feasibility,1,risk,lock in,1,0.5,False,warning,warning,1,1,0,1,,warning,risk,False
+schedule exhibit with long,2,AC15,S1,quadgrams,schedule exhibit long,3,practicality_and_feasibility,1,schedule,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,schedule,False
+cost and complexity that,2,AC15,S1,quadgrams,cost complexity,2,practicality_and_feasibility,1,cost,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,cost,False
+more predictable near term,2,AC15,S1,quadgrams,more predictable near term,4,temporal_dynamics,1,near term,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,near term,False
+predictable near term opex,2,AC15,S1,quadgrams,predictable near term opex,4,temporal_dynamics,1,near term,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,near term,False
+formats transition assistance defined,2,AC15,S1,quadgrams,formats transition assistance defined,4,temporal_dynamics,1,transition,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,transit|transition,False
+civitas modular mitigates the,2,AC15,S1,quadgrams,civitas modular mitigates,3,,0,,civitas|modular,2,0.6666666666666666,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,mitigat,False
+ownership of timing plans,2,AC15,S1,quadgrams,ownership timing plans,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plans,False
+acceptance testing that includes,2,AC15,S1,quadgrams,acceptance testing includes,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,testing,False
+month support horizon with,2,AC15,S1,quadgrams,month support horizon,3,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,horizon,False
+standard controllers typically mean,2,AC15,S1,quadgrams,standard controllers typically mean,4,,0,,controller|controllers,2,0.25,False,hedging,hedging,1,1,0,1,,hedging,typically,False
+plans configs logs performance,2,AC15,S1,quadgrams,plans configs logs performance,4,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plans,False
+is permissible and doesn,2,AC15,S1,quadgrams,permissible doesn,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn,False
+permissible and doesn t,2,AC15,S1,quadgrams,permissible doesn,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn|doesn t,False
+want to preserve leverage,2,AC15,S1,quadgrams,want preserve leverage,3,,0,,,0,0.0,False,temporal_projection,temporal_projection.robustness_and_resilience,1,1,1,0,temporal_projection,,preserve,False
+timing plans configurations logs,2,AC15,S1,quadgrams,timing plans configurations logs,4,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plans,False
+plans configurations logs performance,2,AC15,S1,quadgrams,plans configurations logs performance,4,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plans,False
+make us wrong a,2,AC15,S1,quadgrams,make wrong,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,wrong,False
+make us wrong the,2,AC15,S1,quadgrams,make wrong,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,wrong,False
+the contract doesn t,2,AC15,S1,quadgrams,contract doesn,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn|doesn t,False
+contract doesn t allow,2,AC15,S1,quadgrams,contract doesn allow,3,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn|doesn t,False
+a concrete critical path,2,AC15,S1,quadgrams,concrete critical path,3,practicality_and_feasibility,1,concrete,,0,0.0,False,,,0,0,0,0,,,,True
+controllers data config portability,2,AC15,S1,quadgrams,controllers data config portability,4,truth_and_fact,1,data,controller|controllers,2,0.25,False,,,0,0,0,0,,,,True
+in standard controllers data,2,AC15,S1,quadgrams,standard controllers data,3,truth_and_fact,1,data,controller|controllers,2,0.3333333333333333,False,,,0,0,0,0,,,,True
+standard controllers data ownership,2,AC15,S1,quadgrams,standard controllers data ownership,4,truth_and_fact,1,data,controller|controllers,2,0.25,False,,,0,0,0,0,,,,True
+concrete way standard controllers,2,AC15,S1,quadgrams,concrete way standard controllers,4,practicality_and_feasibility,1,concrete,controller|controllers,2,0.25,False,,,0,0,0,0,,,,True
+configurations logs performance data,2,AC15,S1,quadgrams,configurations logs performance data,4,truth_and_fact,1,data,,0,0.0,False,,,0,0,0,0,,,,True
+controller lead time weeks,2,AC15,S1,quadgrams,controller lead time weeks,4,,0,,controller|lead time,2,0.75,True,,,0,0,0,0,,,,True
+vs their integrated system,2,AC15,S1,quadgrams,vs integrated system,3,,0,,integrated,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+reported congestion improvements strong,2,AC15,S1,quadgrams,reported congestion improvements strong,4,,0,,congestion,1,0.25,False,,,0,0,0,0,,,,True
+congestion improvements strong references,2,AC15,S1,quadgrams,congestion improvements strong references,4,,0,,congestion,1,0.25,False,,,0,0,0,0,,,,True
+how much highway integration,2,AC15,S1,quadgrams,how much highway integration,4,,0,,highway,1,0.25,False,,,0,0,0,0,,,,True
+much highway integration is,2,AC15,S1,quadgrams,much highway integration,3,,0,,highway,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+who performs the essential,2,AC15,S1,quadgrams,performs essential,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+performs the essential infrastructure,2,AC15,S1,quadgrams,performs essential infrastructure,3,,0,,infrastructure|essential infrastructure,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+infrastructure cloud review and,2,AC15,S1,quadgrams,infrastructure cloud review,3,,0,,cloud|infrastructure,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+cloud review and what,2,AC15,S1,quadgrams,cloud review,2,,0,,cloud,1,0.5,False,,,0,0,0,0,,,,True
+their typical turnaround how,2,AC15,S1,quadgrams,typical turnaround how,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+infrastructure cloud approval is,2,AC15,S1,quadgrams,infrastructure cloud approval,3,,0,,cloud|infrastructure,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+award civitas modular with,2,AC15,S1,quadgrams,award civitas modular,3,,0,,civitas|modular,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+inclusions exclusions to prevent,2,AC15,S1,quadgrams,inclusions exclusions prevent,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+tightly integrated proprietary controllers,2,AC15,S1,quadgrams,tightly integrated proprietary controllers,4,,0,,controller|controllers|proprietary|integrated,4,0.75,True,,,0,0,0,0,,,,True
+fees 90k year adjustable,2,AC15,S1,quadgrams,fees 90k year adjustable,4,,0,,90k,1,0.25,False,,,0,0,0,0,,,,True
+for essential infrastructure hosting,2,AC15,S1,quadgrams,essential infrastructure hosting,3,,0,,infrastructure|essential infrastructure,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+week lead times for,2,AC15,S1,quadgrams,week lead times,3,,0,,lead time|lead times,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+lead times for proprietary,2,AC15,S1,quadgrams,lead times proprietary,3,,0,,proprietary|lead time|lead times,3,1.0,True,,,0,0,0,0,,,,True
+times for proprietary controllers,2,AC15,S1,quadgrams,times proprietary controllers,3,,0,,controller|controllers|proprietary,3,0.6666666666666666,False,,,0,0,0,0,,,,True
+with your signal supervisors,2,AC15,S1,quadgrams,signal supervisors,2,,0,,signal,1,0.5,False,,,0,0,0,0,,,,True
+and proprietary central components,2,AC15,S1,quadgrams,proprietary central components,3,,0,,proprietary,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+single points of failure,2,AC15,S1,quadgrams,single points failure,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+lead times and approved,2,AC15,S1,quadgrams,lead times approved,3,,0,,lead time|lead times,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+times and approved equivalents,2,AC15,S1,quadgrams,times approved equivalents,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+down comms down bad,2,AC15,S1,quadgrams,down comms down bad,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+comms down bad update,2,AC15,S1,quadgrams,comms down bad update,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+even if you lean,2,AC15,S1,quadgrams,even lean,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+and controller procurement details,2,AC15,S1,quadgrams,controller procurement details,3,,0,,controller|procurement,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+you negotiate an extension,2,AC15,S1,quadgrams,negotiate extension,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+ask both vendors to,2,AC15,S1,quadgrams,ask both vendors,3,,0,,vendor|vendors,2,0.3333333333333333,False,,,0,0,0,0,,,,True
+you must be able,2,AC15,S1,quadgrams,must able,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+must be able to,2,AC15,S1,quadgrams,must able,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+detour incident retiming workflow,2,AC15,S1,quadgrams,detour incident retiming workflow,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+incident return to normal,2,AC15,S1,quadgrams,incident return normal,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+is optimizing for high,2,AC15,S1,quadgrams,optimizing high,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+normal day vs incident,2,AC15,S1,quadgrams,normal day vs incident,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+day vs incident day,2,AC15,S1,quadgrams,day vs incident day,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+operator workload under stress,2,AC15,S1,quadgrams,operator workload under stress,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+emergency services input should,2,AC15,S1,quadgrams,emergency services input should,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+central wan degradation during,2,AC15,S1,quadgrams,central wan degradation during,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+wan degradation during the,2,AC15,S1,quadgrams,wan degradation during,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+degradation during the incident,2,AC15,S1,quadgrams,degradation during incident,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+controller procurement and spares,2,AC15,S1,quadgrams,controller procurement spares,3,,0,,controller|procurement,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+tests tied to payment,2,AC15,S1,quadgrams,tests tied payment,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+controller substitution rights pre,2,AC15,S1,quadgrams,controller substitution rights pre,4,,0,,controller,1,0.25,False,,,0,0,0,0,,,,True
+substitution rights pre approved,2,AC15,S1,quadgrams,substitution rights pre approved,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+as the primary award,2,AC15,S1,quadgrams,primary award,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+t look like you,2,AC15,S1,quadgrams,look like,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+within a few business,2,AC15,S1,quadgrams,within few business,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a few business days,2,AC15,S1,quadgrams,few business days,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+on prem failover must,2,AC15,S1,quadgrams,prem failover must,3,,0,,on prem|failover,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+recurring fees and defined,2,AC15,S1,quadgrams,recurring fees defined,3,,0,,recurring fee|recurring fees,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+maintain the on prem,2,AC15,S1,quadgrams,maintain prem,2,,0,,on prem,1,0.5,False,,,0,0,0,0,,,,True
+it approved failover design,2,AC15,S1,quadgrams,approved failover design,3,,0,,failover,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+degraded mode operations rollback,2,AC15,S1,quadgrams,degraded mode operations rollback,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+clears dot s year,2,AC15,S1,quadgrams,clears dot year,3,,0,,dot,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+automatically no week waiver,2,AC15,S1,quadgrams,automatically no week waiver,4,,0,,waiver,1,0.25,False,,,0,0,0,0,,,,True
+no week waiver gate,2,AC15,S1,quadgrams,no week waiver gate,4,,0,,waiver,1,0.25,False,,,0,0,0,0,,,,True
+down comms down rollback,2,AC15,S1,quadgrams,down comms down rollback,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+outcome it approved failover,2,AC15,S1,quadgrams,outcome approved failover,3,,0,,failover,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+at a fixed price,2,AC15,S1,quadgrams,fixed price,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+with fewer external gates,2,AC15,S1,quadgrams,fewer external gates,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+on prem failover works,2,AC15,S1,quadgrams,prem failover works,3,,0,,on prem|failover,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+dot waiver it on,2,AC15,S1,quadgrams,dot waiver,2,,0,,dot|waiver,2,1.0,True,,,0,0,0,0,,,,True
+waiver it on prem,2,AC15,S1,quadgrams,waiver prem,2,,0,,on prem|waiver,2,1.0,True,,,0,0,0,0,,,,True
+it on prem failover,2,AC15,S1,quadgrams,prem failover,2,,0,,on prem|failover,2,1.0,True,,,0,0,0,0,,,,True
+calls focused on upgrades,2,AC15,S1,quadgrams,calls focused upgrades,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+what softens judgment if,2,AC15,S1,quadgrams,softens judgment,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+judgment if the failure,2,AC15,S1,quadgrams,judgment failure,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+rollback from a bad,2,AC15,S1,quadgrams,rollback bad,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+from a bad update,2,AC15,S1,quadgrams,bad update,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+requires a week dot,2,AC15,S1,quadgrams,requires week dot,3,,0,,dot,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+novagrid adds adjustable recurring,2,AC15,S1,quadgrams,novagrid adds adjustable recurring,4,,0,,novagrid,1,0.25,False,,,0,0,0,0,,,,True
+adds adjustable recurring cloud,2,AC15,S1,quadgrams,adds adjustable recurring cloud,4,,0,,cloud,1,0.25,False,,,0,0,0,0,,,,True
+obligations if the city,2,AC15,S1,quadgrams,obligations city,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+obligations and pricing acceptance,2,AC15,S1,quadgrams,obligations pricing acceptance,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+lead items and vendor,2,AC15,S1,quadgrams,lead items vendor,3,,0,,vendor,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+items and vendor controlled,2,AC15,S1,quadgrams,items vendor controlled,3,,0,,vendor,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+and vendor controlled milestones,2,AC15,S1,quadgrams,vendor controlled milestones,3,,0,,vendor,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+it may be underestimated,7,AC15P,S1,quadgrams,may underestimated,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,may,False
+data ownership full export,7,AC15P,S1,quadgrams,data ownership full export,4,truth_and_fact,1,data,,0,0.0,False,,,0,0,0,0,,,,True
+transition assistance clause pre,5,AC15P,S1,quadgrams,transition assistance clause pre,4,temporal_dynamics,1,transition,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,transit|transition,False
+assistance clause pre priced,5,AC15P,S1,quadgrams,assistance clause pre priced,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+clause pre priced support,5,AC15P,S1,quadgrams,clause pre priced support,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+can t delay start,3,AC15P,S1,quadgrams,delay start,2,,0,,,0,0.0,False,practical_considerations_and_execution|surfacing,practical_considerations_and_execution.action_and_execution|surfacing.hard_limit_refusal,2,2,1,1,practical_considerations_and_execution,surfacing,can t|start,False
+a week award window,3,AC15P,S1,quadgrams,week award window,3,temporal_dynamics,1,window,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,window,False
+one failure council budget,3,AC15P,S1,quadgrams,one failure council budget,4,practicality_and_feasibility,1,budget,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,budget,False
+failure council budget chair,3,AC15P,S1,quadgrams,failure council budget chair,4,practicality_and_feasibility,1,budget,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,budget,False
+timing plans controller configs,3,AC15P,S1,quadgrams,timing plans controller configs,4,,0,,controller,1,0.25,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plans,False
+likely narrative if there,3,AC15P,S1,quadgrams,likely narrative,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,likely,False
+essential infrastructure hosting acceptability,3,AC15P,S1,quadgrams,essential infrastructure hosting acceptability,4,,0,,infrastructure|essential infrastructure,2,0.5,False,,,0,0,0,0,,,,True
+infrastructure hosting acceptability novagrid,3,AC15P,S1,quadgrams,infrastructure hosting acceptability novagrid,4,,0,,novagrid|infrastructure,2,0.5,False,,,0,0,0,0,,,,True
+critical path civitas integrated,3,AC15P,S1,quadgrams,critical path civitas integrated,4,,0,,civitas|integrated,2,0.5,False,,,0,0,0,0,,,,True
+exact controller models and,3,AC15P,S1,quadgrams,exact controller models,3,,0,,controller,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+civitas year maintenance price,3,AC15P,S1,quadgrams,civitas year maintenance price,4,,0,,civitas,1,0.25,False,,,0,0,0,0,,,,True
+by cloud approval and,3,AC15P,S1,quadgrams,cloud approval,2,,0,,cloud,1,0.5,False,,,0,0,0,0,,,,True
+run a time boxed,3,AC15P,S1,quadgrams,run time boxed,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+proprietary hardware lock in,3,AC15P,S1,quadgrams,proprietary hardware lock,3,,0,,proprietary|lock in,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+treat civitas modular as,3,AC15P,S1,quadgrams,treat civitas modular,3,,0,,civitas|modular,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+civitas modular as a,3,AC15P,S1,quadgrams,civitas modular,2,,0,,civitas|modular,2,1.0,True,,,0,0,0,0,,,,True
+pre priced support if,3,AC15P,S1,quadgrams,pre priced support,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the modular standard controller,3,AC15P,S1,quadgrams,modular standard controller,3,,0,,controller|modular,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+s a minor year,3,AC15P,S1,quadgrams,minor year,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+year one failure council,3,AC15P,S1,quadgrams,year one failure council,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+be judged that way,3,AC15P,S1,quadgrams,judged way,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+what reduces the damage,3,AC15P,S1,quadgrams,reduces damage,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+full export of configs,3,AC15P,S1,quadgrams,full export configs,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+becomes a schedule risk,2,AC15P,S1,quadgrams,becomes schedule risk,3,practicality_and_feasibility,2,risk|schedule,,0,0.0,False,practical_considerations_and_execution|warning,practical_considerations_and_execution.resources_timing_conditions|warning,2,2,1,1,practical_considerations_and_execution,warning,risk|schedule,False
+schedule risk regardless of,2,AC15P,S1,quadgrams,schedule risk regardless,3,practicality_and_feasibility,2,risk|schedule,,0,0.0,False,practical_considerations_and_execution|warning,practical_considerations_and_execution.resources_timing_conditions|warning,2,2,1,1,practical_considerations_and_execution,warning,risk|schedule,False
+schedule risk we are,2,AC15P,S1,quadgrams,schedule risk,2,practicality_and_feasibility,2,risk|schedule,,0,0.0,False,practical_considerations_and_execution|warning,practical_considerations_and_execution.resources_timing_conditions|warning,2,2,1,1,practical_considerations_and_execution,warning,risk|schedule,False
+waiver friction essential infrastructure,2,AC15P,S1,quadgrams,waiver friction essential infrastructure,4,practicality_and_feasibility,1,friction,infrastructure|essential infrastructure|waiver,3,0.75,True,practical_considerations_and_execution|surfacing,practical_considerations_and_execution.friction_and_blockers|surfacing.friction_exposed,2,2,1,1,practical_considerations_and_execution,surfacing,friction,False
+t delay start constraint,2,AC15P,S1,quadgrams,delay start constraint,3,practicality_and_feasibility,1,constraint,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution|practical_considerations_and_execution.constraints_and_tradeoffs,1,2,1,0,practical_considerations_and_execution,,constrain|constraint|start,False
+path to start on,2,AC15P,S1,quadgrams,path start,2,,0,,,0,0.0,False,imagination_and_possibility|practical_considerations_and_execution,imagination_and_possibility.path_toward_feasibility|practical_considerations_and_execution.action_and_execution,2,2,2,0,imagination_and_possibility|practical_considerations_and_execution,,path to|start,False
+configs plans logs documented,2,AC15P,S1,quadgrams,configs plans logs documented,4,,0,,,0,0.0,False,practical_considerations_and_execution|truth,practical_considerations_and_execution.action_and_execution|truth.verification,2,2,2,0,practical_considerations_and_execution|truth,,documented|plans,False
+plans logs documented interfaces,2,AC15P,S1,quadgrams,plans logs documented interfaces,4,,0,,,0,0.0,False,practical_considerations_and_execution|truth,practical_considerations_and_execution.action_and_execution|truth.verification,2,2,2,0,practical_considerations_and_execution|truth,,documented|plans,False
+term cost continuity controls,2,AC15P,S1,quadgrams,term cost continuity controls,4,practicality_and_feasibility|temporal_dynamics,2,cost|continuity,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,cost,False
+access transition assistance clause,2,AC15P,S1,quadgrams,access transition assistance clause,4,temporal_dynamics,1,transition,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,transit|transition,False
+without punitive fees transition,2,AC15P,S1,quadgrams,without punitive fees transition,4,temporal_dynamics,1,transition,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,transit|transition,False
+punitive fees transition assistance,2,AC15P,S1,quadgrams,punitive fees transition assistance,4,temporal_dynamics,1,transition,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,transit|transition,False
+risk vendor responsiveness and,2,AC15P,S1,quadgrams,risk vendor responsiveness,3,practicality_and_feasibility,1,risk,vendor,1,0.3333333333333333,False,warning,warning,1,1,0,1,,warning,risk,False
+the week award constraint,2,AC15P,S1,quadgrams,week award constraint,3,practicality_and_feasibility,1,constraint,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,constrain|constraint,False
+reduce schedule certainty and,2,AC15P,S1,quadgrams,reduce schedule certainty,3,practicality_and_feasibility,1,schedule,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,schedule,False
+schedule certainty and increase,2,AC15P,S1,quadgrams,schedule certainty increase,3,practicality_and_feasibility,1,schedule,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,schedule,False
+certainty and increase lifecycle,2,AC15P,S1,quadgrams,certainty increase lifecycle,3,temporal_dynamics,1,lifecycle,,0,0.0,False,temporal_projection,temporal_projection.decay_and_currency,1,1,1,0,temporal_projection,,lifecycle,False
+migrates in the future,2,AC15P,S1,quadgrams,migrates future,2,temporal_dynamics,1,future,,0,0.0,False,temporal_projection,temporal_projection.past_present_future,1,1,1,0,temporal_projection,,future,False
+have procurement legal confirm,2,AC15P,S1,quadgrams,have procurement legal confirm,4,truth_and_fact,1,confirm,procurement,1,0.25,False,truth,truth.verification,1,1,1,0,truth,,confirm,False
+possible iteration it required,2,AC15P,S1,quadgrams,possible iteration required,3,imagination_and_possibility,1,possible,,0,0.0,False,imagination_and_possibility,imagination_and_possibility.exploration_within_bounds,1,1,1,0,imagination_and_possibility,,possibl|possible,False
+the probability of schedule,2,AC15P,S1,quadgrams,probability schedule,2,practicality_and_feasibility,1,schedule,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,schedule,False
+probability of schedule slip,2,AC15P,S1,quadgrams,probability schedule slip,3,practicality_and_feasibility,1,schedule,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,schedule,False
+dependency inside a week,2,AC15P,S1,quadgrams,dependency inside week,3,practicality_and_feasibility,1,dependency,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,dependency,False
+window novagrid also triggers,2,AC15P,S1,quadgrams,window novagrid also triggers,4,temporal_dynamics,1,window,novagrid,1,0.25,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,window,False
+risk stack for essential,2,AC15P,S1,quadgrams,risk stack essential,3,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+in short novagrid may,2,AC15P,S1,quadgrams,short novagrid may,3,,0,,novagrid,1,0.3333333333333333,False,hedging,hedging,1,1,0,1,,hedging,may,False
+plans time of day,2,AC15P,S1,quadgrams,plans time day,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plans,False
+at end of life,2,AC15P,S1,quadgrams,end life,2,,0,,,0,0.0,False,temporal_projection,temporal_projection.decay_and_currency,1,1,1,0,temporal_projection,,end of life,False
+capital and operating budgets,2,AC15P,S1,quadgrams,capital operating budgets,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,budgets,False
+and operating budgets are,2,AC15P,S1,quadgrams,operating budgets,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,budgets,False
+operating budgets are separate,2,AC15P,S1,quadgrams,operating budgets separate,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,budgets,False
+prove it won t,2,AC15P,S1,quadgrams,prove won,2,,0,,,0,0.0,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,won t,False
+that tends to favor,2,AC15P,S1,quadgrams,tends favor,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,tends|tends to,False
+ownership full export documented,2,AC15P,S1,quadgrams,ownership full export documented,4,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,documented,False
+plans controller configs detector,2,AC15P,S1,quadgrams,plans controller configs detector,4,,0,,controller,1,0.25,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plans,False
+no longer the safe,2,AC15P,S1,quadgrams,no longer safe,3,,0,,,0,0.0,False,temporal_projection,temporal_projection.decay_and_currency,1,1,1,0,temporal_projection,,no longer,False
+adjustable cloud subscription costs,2,AC15P,S1,quadgrams,adjustable cloud subscription costs,4,,0,,cloud,1,0.25,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,costs,False
+export of configs plans,2,AC15P,S1,quadgrams,export configs plans,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plans,False
+of configs plans logs,2,AC15P,S1,quadgrams,configs plans logs,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plans,False
+logs documented interfaces apis,2,AC15P,S1,quadgrams,logs documented interfaces apis,4,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,documented,False
+logs detector data in,2,AC15P,S1,quadgrams,logs detector data,3,truth_and_fact,1,data,,0,0.0,False,,,0,0,0,0,,,,True
+we chose the option,2,AC15P,S1,quadgrams,chose option,2,imagination_and_possibility,1,option,,0,0.0,False,,,0,0,0,0,,,,True
+approved substitutes data ownership,2,AC15P,S1,quadgrams,approved substitutes data ownership,4,truth_and_fact,1,data,,0,0.0,False,,,0,0,0,0,,,,True
+substitutes data ownership full,2,AC15P,S1,quadgrams,substitutes data ownership full,4,truth_and_fact,1,data,,0,0.0,False,,,0,0,0,0,,,,True
+city it security on,2,AC15P,S1,quadgrams,city security,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+novagrid is years old,2,AC15P,S1,quadgrams,novagrid years old,3,,0,,novagrid,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+requires a waiver package,2,AC15P,S1,quadgrams,requires waiver package,3,,0,,waiver,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+deployment critical path civitas,2,AC15P,S1,quadgrams,deployment critical path civitas,4,,0,,civitas|deployment,2,0.5,False,,,0,0,0,0,,,,True
+uses proprietary controllers with,2,AC15P,S1,quadgrams,uses proprietary controllers,3,,0,,controller|controllers|proprietary,3,0.6666666666666666,False,,,0,0,0,0,,,,True
+proprietary controllers with week,2,AC15P,S1,quadgrams,proprietary controllers week,3,,0,,controller|controllers|proprietary,3,0.6666666666666666,False,,,0,0,0,0,,,,True
+controllers with week lead,2,AC15P,S1,quadgrams,controllers week lead,3,,0,,controller|controllers,2,0.3333333333333333,False,,,0,0,0,0,,,,True
+and commit to delivery,2,AC15P,S1,quadgrams,commit delivery,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+commit to delivery dates,2,AC15P,S1,quadgrams,commit delivery dates,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+pre priced support for,2,AC15P,S1,quadgrams,pre priced support,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+priced support for migration,2,AC15P,S1,quadgrams,priced support migration,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+lock in modular standard,2,AC15P,S1,quadgrams,lock modular standard,3,,0,,modular|lock in,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+in modular standard controllers,2,AC15P,S1,quadgrams,modular standard controllers,3,,0,,controller|controllers|modular,3,0.6666666666666666,False,,,0,0,0,0,,,,True
+reference calls with at,2,AC15P,S1,quadgrams,reference calls,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+calls with at least,2,AC15P,S1,quadgrams,calls least,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+if city it security,2,AC15P,S1,quadgrams,city security,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+controls fee escalation caps,2,AC15P,S1,quadgrams,controls fee escalation caps,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+two quick questions to,2,AC15P,S1,quadgrams,two quick questions,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+directly addresses the council,2,AC15P,S1,quadgrams,directly addresses council,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+what we know vs,2,AC15P,S1,quadgrams,know vs,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+we know vs what,2,AC15P,S1,quadgrams,know vs,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+know vs what we,2,AC15P,S1,quadgrams,know vs,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+s required cloud hosting,2,AC15P,S1,quadgrams,required cloud hosting,3,,0,,cloud,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+inside a week award,2,AC15P,S1,quadgrams,inside week award,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+is lock in prone,2,AC15P,S1,quadgrams,lock prone,2,,0,,lock in,1,0.5,False,,,0,0,0,0,,,,True
+must remain safe and,2,AC15P,S1,quadgrams,must remain safe,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+remain safe and operate,2,AC15P,S1,quadgrams,remain safe operate,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+safe and operate locally,2,AC15P,S1,quadgrams,safe operate locally,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+standard controllers export rights,2,AC15P,S1,quadgrams,standard controllers export rights,4,,0,,controller|controllers,2,0.25,False,,,0,0,0,0,,,,True
+gated by cloud approval,2,AC15P,S1,quadgrams,gated cloud approval,3,,0,,cloud,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+in short civitas is,2,AC15P,S1,quadgrams,short civitas,2,,0,,civitas,1,0.5,False,,,0,0,0,0,,,,True
+supply chain and deployment,2,AC15P,S1,quadgrams,supply chain deployment,3,,0,,deployment|supply chain,2,1.0,True,,,0,0,0,0,,,,True
+if central is unreachable,2,AC15P,S1,quadgrams,central unreachable,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+central is unreachable for,2,AC15P,S1,quadgrams,central unreachable,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+and month support cliff,2,AC15P,S1,quadgrams,month support cliff,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the state dot s,2,AC15P,S1,quadgrams,state dot,2,,0,,dot|state dot,2,1.0,True,,,0,0,0,0,,,,True
+state dot s year,2,AC15P,S1,quadgrams,state dot year,3,,0,,dot|state dot,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+still flip the recommendation,2,AC15P,S1,quadgrams,still flip recommendation,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+can approve novagrid s,2,AC15P,S1,quadgrams,approve novagrid,2,,0,,novagrid,1,0.5,False,,,0,0,0,0,,,,True
+written cloud posture from,2,AC15P,S1,quadgrams,written cloud posture,3,,0,,cloud,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+cloud posture from it,2,AC15P,S1,quadgrams,cloud posture,2,,0,,cloud,1,0.5,False,,,0,0,0,0,,,,True
+posture from it security,2,AC15P,S1,quadgrams,posture security,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+approve approve with conditions,2,AC15P,S1,quadgrams,approve approve conditions,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+approve with conditions not,2,AC15P,S1,quadgrams,approve conditions,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+you ll need a,2,AC15P,S1,quadgrams,ll need,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+travel time reliability to,2,AC15P,S1,quadgrams,travel time reliability,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+time reliability to hospitals,2,AC15P,S1,quadgrams,time reliability hospitals,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+how to structure it,2,AC15P,S1,quadgrams,how structure,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+ask emergency services to,2,AC15P,S1,quadgrams,ask emergency services,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+ask engineering to define,2,AC15P,S1,quadgrams,ask engineering define,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the same incident drill,2,AC15P,S1,quadgrams,same incident drill,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+are emergency services asking,2,AC15P,S1,quadgrams,emergency services asking,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+emergency services asking for,2,AC15P,S1,quadgrams,emergency services asking,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+services asking for signal,2,AC15P,S1,quadgrams,services asking signal,3,,0,,signal,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+asking for signal preemption,2,AC15P,S1,quadgrams,asking signal preemption,3,,0,,signal,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+without letting it override,2,AC15P,S1,quadgrams,without letting override,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+to activate incident mode,2,AC15P,S1,quadgrams,activate incident mode,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+ability to support detours,2,AC15P,S1,quadgrams,ability support detours,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+separable from the signal,2,AC15P,S1,quadgrams,separable signal,2,,0,,signal,1,0.5,False,,,0,0,0,0,,,,True
+from the signal vendor,2,AC15P,S1,quadgrams,signal vendor,2,,0,,vendor|signal,2,1.0,True,,,0,0,0,0,,,,True
+recurring cloud fees subject,2,AC15P,S1,quadgrams,recurring cloud fees subject,4,,0,,cloud,1,0.25,False,,,0,0,0,0,,,,True
+controller models and lead,2,AC15P,S1,quadgrams,controller models lead,3,,0,,controller,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+models and lead times,2,AC15P,S1,quadgrams,models lead times,3,,0,,lead time|lead times,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+company track record is,2,AC15P,S1,quadgrams,company track record,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+controller configs detector mappings,2,AC15P,S1,quadgrams,controller configs detector mappings,4,,0,,controller,1,0.25,False,,,0,0,0,0,,,,True
+at no extra charge,2,AC15P,S1,quadgrams,no extra charge,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+no punitive fees for,2,AC15P,S1,quadgrams,no punitive fees,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+at least a cap,2,AC15P,S1,quadgrams,least cap,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+council lock in sensitivity,2,AC15P,S1,quadgrams,council lock sensitivity,3,,0,,lock in,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+because the modular configuration,2,AC15P,S1,quadgrams,because modular configuration,3,,0,,modular,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+into a critical path,2,AC15P,S1,quadgrams,critical path,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+your month support cliff,2,AC15P,S1,quadgrams,month support cliff,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+pending waiver approval or,2,AC15P,S1,quadgrams,pending waiver approval,3,,0,,waiver,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+civitas meets dot policy,2,AC15P,S1,quadgrams,civitas meets dot policy,4,,0,,civitas|dot,2,0.5,False,,,0,0,0,0,,,,True
+meets dot policy automatically,2,AC15P,S1,quadgrams,meets dot policy automatically,4,,0,,dot,1,0.25,False,,,0,0,0,0,,,,True
+novagrid s incident time,2,AC15P,S1,quadgrams,novagrid incident time,3,,0,,novagrid,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+s incident time benefits,2,AC15P,S1,quadgrams,incident time benefits,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+to recommending civitas modular,2,AC15P,S1,quadgrams,recommending civitas modular,3,,0,,civitas|modular,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+on prem failover and,2,AC15P,S1,quadgrams,prem failover,2,,0,,on prem|failover,2,1.0,True,,,0,0,0,0,,,,True
+addresses lock in concerns,2,AC15P,S1,quadgrams,addresses lock concerns,3,,0,,lock in,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+if leadership insists novagrid,2,AC15P,S1,quadgrams,leadership insists novagrid,3,,0,,novagrid,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+leadership insists novagrid remains,2,AC15P,S1,quadgrams,leadership insists novagrid remains,4,,0,,novagrid,1,0.25,False,,,0,0,0,0,,,,True
+and how intersections behave,2,AC15P,S1,quadgrams,how intersections behave,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+how intersections behave during,2,AC15P,S1,quadgrams,how intersections behave during,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the chair s lock,2,AC15P,S1,quadgrams,chair lock,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+city migrates in the,2,AC15P,S1,quadgrams,city migrates,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the cleanest approval path,2,AC15P,S1,quadgrams,cleanest approval path,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+for essential infrastructure we,2,AC15P,S1,quadgrams,essential infrastructure,2,,0,,infrastructure|essential infrastructure,2,1.0,True,,,0,0,0,0,,,,True
+iteration it required on,2,AC15P,S1,quadgrams,iteration required,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+portability package is delivered,2,AC15P,S1,quadgrams,portability package delivered,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+and acceptance tied payments,2,AC15P,S1,quadgrams,acceptance tied payments,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+increase the probability of,2,AC15P,S1,quadgrams,increase probability,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+because modular has fewer,2,AC15P,S1,quadgrams,because modular has fewer,4,,0,,modular,1,0.25,False,,,0,0,0,0,,,,True
+modular standard controller configuration,2,AC15P,S1,quadgrams,modular standard controller configuration,4,,0,,controller|modular,2,0.5,False,,,0,0,0,0,,,,True
+period e g days,2,AC15P,S1,quadgrams,period e g days,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+rca within business days,2,AC15P,S1,quadgrams,rca within business days,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+intersections remain safe and,2,AC15P,S1,quadgrams,intersections remain safe,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+standard controllers not the,2,AC15P,S1,quadgrams,standard controllers,2,,0,,controller|controllers,2,0.5,False,,,0,0,0,0,,,,True
+controllers not the proprietary,2,AC15P,S1,quadgrams,controllers proprietary,2,,0,,controller|controllers|proprietary,3,1.0,True,,,0,0,0,0,,,,True
+not the proprietary integrated,2,AC15P,S1,quadgrams,proprietary integrated,2,,0,,proprietary|integrated,2,1.0,True,,,0,0,0,0,,,,True
+the proprietary integrated controller,2,AC15P,S1,quadgrams,proprietary integrated controller,3,,0,,controller|proprietary|integrated,3,1.0,True,,,0,0,0,0,,,,True
+novagrid also triggers essential,2,AC15P,S1,quadgrams,novagrid also triggers essential,4,,0,,novagrid,1,0.25,False,,,0,0,0,0,,,,True
+stack for essential infrastructure,2,AC15P,S1,quadgrams,stack essential infrastructure,3,,0,,infrastructure|essential infrastructure,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+delivery dates pre approved,2,AC15P,S1,quadgrams,delivery dates pre approved,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+within business days for,2,AC15P,S1,quadgrams,within business days,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+than adjustable cloud subscription,2,AC15P,S1,quadgrams,than adjustable cloud subscription,4,,0,,cloud,1,0.25,False,,,0,0,0,0,,,,True
+named controller models delivery,2,AC15P,S1,quadgrams,named controller models delivery,4,,0,,controller,1,0.25,False,,,0,0,0,0,,,,True
+controller models delivery commitments,2,AC15P,S1,quadgrams,controller models delivery commitments,4,,0,,controller,1,0.25,False,,,0,0,0,0,,,,True
+models delivery commitments and,2,AC15P,S1,quadgrams,models delivery commitments,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+acceptance tests including central,2,AC15P,S1,quadgrams,acceptance tests including central,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+decisive you chose modular,2,AC15P,S1,quadgrams,decisive chose modular,3,,0,,modular,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+you chose modular partly,2,AC15P,S1,quadgrams,chose modular partly,3,,0,,modular,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+chose modular partly to,2,AC15P,S1,quadgrams,chose modular partly,3,,0,,modular,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+comms down safe operation,2,AC15P,S1,quadgrams,comms down safe operation,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+how it could bite,6,CONTROL,S1,quadgrams,how could bite,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,could,False
+dot threshold automatically and,6,CONTROL,S1,quadgrams,dot threshold automatically,3,,0,,dot,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+long term o m,4,CONTROL,S1,quadgrams,long term o m,4,temporal_dynamics,1,long term,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,long term,False
+o m cost predictability,4,CONTROL,S1,quadgrams,o m cost predictability,4,practicality_and_feasibility,1,cost,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,cost,False
+emergency services isn t,4,CONTROL,S1,quadgrams,emergency services isn,3,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,isn t,False
+it could bite you,4,CONTROL,S1,quadgrams,could bite,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,could,False
+state dot waiver week,4,CONTROL,S1,quadgrams,state dot waiver week,4,,0,,dot|state dot|waiver,3,0.75,True,,,0,0,0,0,,,,True
+the controller lead time,4,CONTROL,S1,quadgrams,controller lead time,3,,0,,controller|lead time,2,1.0,True,,,0,0,0,0,,,,True
+to compete future components,3,CONTROL,S1,quadgrams,compete future components,3,temporal_dynamics,1,future,,0,0.0,False,temporal_projection,temporal_projection.past_present_future,1,1,1,0,temporal_projection,,future,False
+recommendation unless novagrid can,3,CONTROL,S1,quadgrams,recommendation unless novagrid,3,,0,,novagrid,1,0.3333333333333333,False,conditions,conditions,1,1,0,1,,conditions,unless,False
+lead time that could,3,CONTROL,S1,quadgrams,lead time could,3,,0,,lead time,1,0.6666666666666666,False,hedging,hedging,1,1,0,1,,hedging,could,False
+time that could push,3,CONTROL,S1,quadgrams,time could push,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,could,False
+likely narrative if something,3,CONTROL,S1,quadgrams,likely narrative something,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,likely,False
+state dot preference for,3,CONTROL,S1,quadgrams,state dot preference,3,,0,,dot|state dot,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+recurring cloud fee with,3,CONTROL,S1,quadgrams,recurring cloud fee,3,,0,,cloud,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+council lock in concerns,3,CONTROL,S1,quadgrams,council lock concerns,3,,0,,lock in,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+the most defensible recommendation,3,CONTROL,S1,quadgrams,most defensible recommendation,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+o m volatility and,3,CONTROL,S1,quadgrams,o m volatility,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+so emergency services isn,3,CONTROL,S1,quadgrams,emergency services isn,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+controller lead time that,3,CONTROL,S1,quadgrams,controller lead time,3,,0,,controller|lead time,2,1.0,True,,,0,0,0,0,,,,True
+standard controllers named models,3,CONTROL,S1,quadgrams,standard controllers named models,4,,0,,controller|controllers,2,0.25,False,,,0,0,0,0,,,,True
+narrative if something breaks,3,CONTROL,S1,quadgrams,narrative something breaks,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+if something breaks we,3,CONTROL,S1,quadgrams,something breaks,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a staged rollout plan,2,CONTROL,S1,quadgrams,staged rollout plan,3,,0,,rollout,1,0.3333333333333333,False,practical_considerations_and_execution|temporal_projection,practical_considerations_and_execution.action_and_execution|temporal_projection.change_and_rate,2,2,2,0,practical_considerations_and_execution|temporal_projection,,plan|rollout|staged,False
+and a staged rollout,2,CONTROL,S1,quadgrams,staged rollout,2,,0,,rollout,1,0.5,False,practical_considerations_and_execution|temporal_projection,practical_considerations_and_execution.action_and_execution|temporal_projection.change_and_rate,2,2,2,0,practical_considerations_and_execution|temporal_projection,,rollout|staged,False
+staged rollout plan with,2,CONTROL,S1,quadgrams,staged rollout plan,3,,0,,rollout,1,0.3333333333333333,False,practical_considerations_and_execution|temporal_projection,practical_considerations_and_execution.action_and_execution|temporal_projection.change_and_rate,2,2,2,0,practical_considerations_and_execution|temporal_projection,,plan|rollout|staged,False
+right to compete future,2,CONTROL,S1,quadgrams,right compete future,3,temporal_dynamics,1,future,,0,0.0,False,temporal_projection,temporal_projection.past_present_future,1,1,1,0,temporal_projection,,future,False
+the city s constraints,2,CONTROL,S1,quadgrams,city constraints,2,practicality_and_feasibility,1,constraints,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,constrain|constraints,False
+emergency services incident adaptive,2,CONTROL,S1,quadgrams,emergency services incident adaptive,4,temporal_dynamics,1,adaptive,adaptive,1,0.25,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,adapt,False
+a higher governance risk,2,CONTROL,S1,quadgrams,higher governance risk,3,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+higher governance risk architecture,2,CONTROL,S1,quadgrams,higher governance risk architecture,4,practicality_and_feasibility,1,risk,architecture,1,0.25,False,warning,warning,1,1,0,1,,warning,risk,False
+term o m cost,2,CONTROL,S1,quadgrams,term o m cost,4,practicality_and_feasibility,1,cost,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,cost,False
+cloud exception path practical,2,CONTROL,S1,quadgrams,cloud exception path practical,4,practicality_and_feasibility,1,practical,cloud,1,0.25,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,practical,False
+a revised schedule that,2,CONTROL,S1,quadgrams,revised schedule,2,practicality_and_feasibility,1,schedule,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,schedule,False
+revised schedule that still,2,CONTROL,S1,quadgrams,revised schedule still,3,practicality_and_feasibility,1,schedule,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,schedule,False
+schedule that still meets,2,CONTROL,S1,quadgrams,schedule still meets,3,practicality_and_feasibility,1,schedule,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,schedule,False
+waiver week review uncertain,2,CONTROL,S1,quadgrams,waiver week review uncertain,4,truth_and_fact,1,uncertain,waiver,1,0.25,False,truth,truth.uncertainty_marking,1,1,1,0,truth,,uncertain,False
+week review uncertain outcome,2,CONTROL,S1,quadgrams,week review uncertain outcome,4,truth_and_fact,1,uncertain,,0,0.0,False,truth,truth.uncertainty_marking,1,1,1,0,truth,,uncertain,False
+to preserve exit leverage,2,CONTROL,S1,quadgrams,preserve exit leverage,3,,0,,,0,0.0,False,temporal_projection,temporal_projection.robustness_and_resilience,1,1,1,0,temporal_projection,,preserve,False
+export test as an,2,CONTROL,S1,quadgrams,export test,2,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,test,False
+is case by case,2,CONTROL,S1,quadgrams,case case,2,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,case by case,False
+modular tends to win,2,CONTROL,S1,quadgrams,modular tends win,3,,0,,modular,1,0.3333333333333333,False,hedging,hedging,1,1,0,1,,hedging,tends|tends to,False
+ability to change later,2,CONTROL,S1,quadgrams,ability change later,3,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,later,False
+could change the answer,2,CONTROL,S1,quadgrams,could change answer,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,could,False
+unless novagrid can clear,2,CONTROL,S1,quadgrams,unless novagrid clear,3,,0,,novagrid,1,0.3333333333333333,False,conditions,conditions,1,1,0,1,,conditions,unless,False
+interface documentation delivered early,2,CONTROL,S1,quadgrams,interface documentation delivered early,4,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,early,False
+that could push the,2,CONTROL,S1,quadgrams,could push,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,could,False
+could push the integrated,2,CONTROL,S1,quadgrams,could push integrated,3,,0,,integrated,1,0.3333333333333333,False,hedging,hedging,1,1,0,1,,hedging,could,False
+documentation delivered early milestone,2,CONTROL,S1,quadgrams,documentation delivered early milestone,4,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,early,False
+delivered early milestone based,2,CONTROL,S1,quadgrams,delivered early milestone based,4,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,early,False
+early milestone based payments,2,CONTROL,S1,quadgrams,early milestone based payments,4,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,early,False
+slas incident rca timelines,2,CONTROL,S1,quadgrams,slas incident rca timelines,4,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,timelines,False
+it could bite year,2,CONTROL,S1,quadgrams,could bite year,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,could,False
+preference for years operational,2,CONTROL,S1,quadgrams,preference years operational,3,practicality_and_feasibility,1,operational,,0,0.0,False,,,0,0,0,0,,,,True
+for years operational history,2,CONTROL,S1,quadgrams,years operational history,3,practicality_and_feasibility,1,operational,,0,0.0,False,,,0,0,0,0,,,,True
+data during major infrastructure,2,CONTROL,S1,quadgrams,data during major infrastructure,4,truth_and_fact,1,data,infrastructure,1,0.25,False,,,0,0,0,0,,,,True
+in interoperability exit options,2,CONTROL,S1,quadgrams,interoperability exit options,3,imagination_and_possibility,1,options,,0,0.0,False,,,0,0,0,0,,,,True
+standard controllers data export,2,CONTROL,S1,quadgrams,standard controllers data export,4,truth_and_fact,1,data,controller|controllers,2,0.25,False,,,0,0,0,0,,,,True
+procure spares independently data,2,CONTROL,S1,quadgrams,procure spares independently data,4,truth_and_fact,1,data,,0,0.0,False,,,0,0,0,0,,,,True
+spares independently data ownership,2,CONTROL,S1,quadgrams,spares independently data ownership,4,truth_and_fact,1,data,,0,0.0,False,,,0,0,0,0,,,,True
+independently data ownership export,2,CONTROL,S1,quadgrams,independently data ownership export,4,truth_and_fact,1,data,,0,0.0,False,,,0,0,0,0,,,,True
+the modular option avoids,2,CONTROL,S1,quadgrams,modular option avoids,3,imagination_and_possibility,1,option,modular,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+modular option avoids the,2,CONTROL,S1,quadgrams,modular option avoids,3,imagination_and_possibility,1,option,modular,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+option avoids the week,2,CONTROL,S1,quadgrams,option avoids week,3,imagination_and_possibility,1,option,,0,0.0,False,,,0,0,0,0,,,,True
+timing config performance data,2,CONTROL,S1,quadgrams,timing config performance data,4,truth_and_fact,1,data,,0,0.0,False,,,0,0,0,0,,,,True
+scenario demo incident modes,2,CONTROL,S1,quadgrams,scenario demo incident modes,4,temporal_dynamics|imagination_and_possibility,1,scenario,,0,0.0,False,,,0,0,0,0,,,,True
+policy fit state dot,2,CONTROL,S1,quadgrams,policy fit state dot,4,,0,,dot|state dot,2,0.5,False,,,0,0,0,0,,,,True
+fit state dot preference,2,CONTROL,S1,quadgrams,fit state dot preference,4,,0,,dot|state dot,2,0.5,False,,,0,0,0,0,,,,True
+lock in civitas standard,2,CONTROL,S1,quadgrams,lock civitas standard,3,,0,,civitas|lock in,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+in civitas standard integrated,2,CONTROL,S1,quadgrams,civitas standard integrated,3,,0,,civitas|integrated,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+civitas standard integrated architecture,2,CONTROL,S1,quadgrams,civitas standard integrated architecture,4,,0,,civitas|architecture|integrated,3,0.75,True,,,0,0,0,0,,,,True
+standard integrated architecture is,2,CONTROL,S1,quadgrams,standard integrated architecture,3,,0,,architecture|integrated,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+is lock in heavy,2,CONTROL,S1,quadgrams,lock heavy,2,,0,,lock in,1,0.5,False,,,0,0,0,0,,,,True
+available standard controllers if,2,CONTROL,S1,quadgrams,available standard controllers,3,,0,,controller|controllers,2,0.3333333333333333,False,,,0,0,0,0,,,,True
+preference essential infrastructure cloud,2,CONTROL,S1,quadgrams,preference essential infrastructure cloud,4,,0,,cloud|infrastructure|essential infrastructure,3,0.75,True,,,0,0,0,0,,,,True
+essential infrastructure cloud policy,2,CONTROL,S1,quadgrams,essential infrastructure cloud policy,4,,0,,cloud|infrastructure|essential infrastructure,3,0.75,True,,,0,0,0,0,,,,True
+city ownership of configuration,2,CONTROL,S1,quadgrams,city ownership configuration,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+standard controllers they propose,2,CONTROL,S1,quadgrams,standard controllers they propose,4,,0,,controller|controllers,2,0.25,False,,,0,0,0,0,,,,True
+payments tied to field,2,CONTROL,S1,quadgrams,payments tied field,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+tied to field acceptance,2,CONTROL,S1,quadgrams,tied field acceptance,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+not just software delivered,2,CONTROL,S1,quadgrams,just software delivered,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+and ask specifically about,2,CONTROL,S1,quadgrams,ask specifically about,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+deliverability supply chain staffing,2,CONTROL,S1,quadgrams,deliverability supply chain staffing,4,,0,,supply chain,1,0.5,False,,,0,0,0,0,,,,True
+lock in interoperability exit,2,CONTROL,S1,quadgrams,lock interoperability exit,3,,0,,lock in,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+essential infrastructure and cloud,2,CONTROL,S1,quadgrams,essential infrastructure cloud,3,,0,,cloud|infrastructure|essential infrastructure,3,1.0,True,,,0,0,0,0,,,,True
+infrastructure and cloud is,2,CONTROL,S1,quadgrams,infrastructure cloud,2,,0,,cloud|infrastructure,2,1.0,True,,,0,0,0,0,,,,True
+and cloud is case,2,CONTROL,S1,quadgrams,cloud case,2,,0,,cloud,1,0.5,False,,,0,0,0,0,,,,True
+cloud is case by,2,CONTROL,S1,quadgrams,cloud case,2,,0,,cloud,1,0.5,False,,,0,0,0,0,,,,True
+aligns with state dot,2,CONTROL,S1,quadgrams,aligns state dot,3,,0,,dot|state dot,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+mandatory cloud hosting for,2,CONTROL,S1,quadgrams,mandatory cloud hosting,3,,0,,cloud,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+vendor lock in through,2,CONTROL,S1,quadgrams,vendor lock through,3,,0,,vendor|lock in|vendor lock,3,0.6666666666666666,False,,,0,0,0,0,,,,True
+lock in through modular,2,CONTROL,S1,quadgrams,lock through modular,3,,0,,modular|lock in,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+s essential infrastructure cloud,2,CONTROL,S1,quadgrams,essential infrastructure cloud,3,,0,,cloud|infrastructure|essential infrastructure,3,1.0,True,,,0,0,0,0,,,,True
+with a shorter track,2,CONTROL,S1,quadgrams,shorter track,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a shorter track record,2,CONTROL,S1,quadgrams,shorter track record,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+should be able to,2,CONTROL,S1,quadgrams,should able,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+uses standard controllers and,2,CONTROL,S1,quadgrams,uses standard controllers,3,,0,,controller|controllers,2,0.3333333333333333,False,,,0,0,0,0,,,,True
+and ability to change,2,CONTROL,S1,quadgrams,ability change,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the recommendation to council,2,CONTROL,S1,quadgrams,recommendation council,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+controllers is your best,2,CONTROL,S1,quadgrams,controllers best,2,,0,,controller|controllers,2,0.5,False,,,0,0,0,0,,,,True
+before you finalize the,2,CONTROL,S1,quadgrams,before finalize,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+modular uses readily available,2,CONTROL,S1,quadgrams,modular uses readily available,4,,0,,modular,1,0.25,False,,,0,0,0,0,,,,True
+civitas maintenance support price,2,CONTROL,S1,quadgrams,civitas maintenance support price,4,,0,,civitas|maintenance support,2,0.75,True,,,0,0,0,0,,,,True
+maintenance support price locked,2,CONTROL,S1,quadgrams,maintenance support price locked,4,,0,,price lock|maintenance support,2,0.75,True,,,0,0,0,0,,,,True
+with lower o m,2,CONTROL,S1,quadgrams,lower o m,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+lower o m volatility,2,CONTROL,S1,quadgrams,lower o m volatility,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+m volatility and stronger,2,CONTROL,S1,quadgrams,m volatility stronger,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+novagrid can clear the,2,CONTROL,S1,quadgrams,novagrid clear,2,,0,,novagrid,1,0.5,False,,,0,0,0,0,,,,True
+emergency services incident routing,2,CONTROL,S1,quadgrams,emergency services incident routing,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+standard controllers is the,2,CONTROL,S1,quadgrams,standard controllers,2,,0,,controller|controllers,2,0.5,False,,,0,0,0,0,,,,True
+basis to proceed with,2,CONTROL,S1,quadgrams,basis proceed,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+drop dead date for,2,CONTROL,S1,quadgrams,drop dead date,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+where this leaves the,2,CONTROL,S1,quadgrams,where leaves,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+cloud fee with adjustment,2,CONTROL,S1,quadgrams,cloud fee adjustment,3,,0,,cloud,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+recommendation civitas modular and,2,CONTROL,S1,quadgrams,recommendation civitas modular,3,,0,,civitas|modular,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+dot waiver approval or,2,CONTROL,S1,quadgrams,dot waiver approval,3,,0,,dot|waiver,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+that still meets your,2,CONTROL,S1,quadgrams,still meets,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+protections into the contract,2,CONTROL,S1,quadgrams,protections contract,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+avoids the essential infrastructure,2,CONTROL,S1,quadgrams,avoids essential infrastructure,3,,0,,infrastructure|essential infrastructure,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+the fewest external gates,2,CONTROL,S1,quadgrams,fewest external gates,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+does not trigger the,2,CONTROL,S1,quadgrams,does trigger,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+not trigger the same,2,CONTROL,S1,quadgrams,trigger same,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+under no delay pressure,2,CONTROL,S1,quadgrams,under no delay pressure,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+city right to procure,2,CONTROL,S1,quadgrams,city right procure,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+right to procure spares,2,CONTROL,S1,quadgrams,right procure spares,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+to procure spares independently,2,CONTROL,S1,quadgrams,procure spares independently,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+apis interface documentation delivered,2,CONTROL,S1,quadgrams,apis interface documentation delivered,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+neutralize the lock in,2,CONTROL,S1,quadgrams,neutralize lock,2,,0,,lock in,1,0.5,False,,,0,0,0,0,,,,True
+on time and operate,2,CONTROL,S1,quadgrams,time operate,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+terms into the contract,2,CONTROL,S1,quadgrams,terms contract,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+reduce lock in and,2,CONTROL,S1,quadgrams,reduce lock,2,,0,,lock in,1,0.5,False,,,0,0,0,0,,,,True
+proprietary integrated controller architecture,2,CONTROL,S1,quadgrams,proprietary integrated controller architecture,4,,0,,controller|proprietary|architecture|integrated,4,1.0,True,,,0,0,0,0,,,,True
+external gates novagrid requires,2,CONTROL,S1,quadgrams,external gates novagrid requires,4,,0,,novagrid,1,0.25,False,,,0,0,0,0,,,,True
+gates novagrid requires a,2,CONTROL,S1,quadgrams,gates novagrid requires,3,,0,,novagrid,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+novagrid requires a state,2,CONTROL,S1,quadgrams,novagrid requires state,3,,0,,novagrid,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+meets the dot threshold,2,CONTROL,S1,quadgrams,meets dot threshold,3,,0,,dot,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+the dot threshold automatically,2,CONTROL,S1,quadgrams,dot threshold automatically,3,,0,,dot,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+threshold automatically and the,2,CONTROL,S1,quadgrams,threshold automatically,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+automatically and the modular,2,CONTROL,S1,quadgrams,automatically modular,2,,0,,modular,1,0.5,False,,,0,0,0,0,,,,True
+push the integrated civitas,2,CONTROL,S1,quadgrams,push integrated civitas,3,,0,,civitas|integrated,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+export of timing config,2,CONTROL,S1,quadgrams,export timing config,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+of timing config performance,2,CONTROL,S1,quadgrams,timing config performance,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+support slas incident rca,2,CONTROL,S1,quadgrams,support slas incident rca,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+added failover scope that,2,CONTROL,S1,quadgrams,added failover scope,3,,0,,failover,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+of lower maintenance burden,2,CONTROL,S1,quadgrams,lower maintenance burden,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+lower maintenance burden under,2,CONTROL,S1,quadgrams,lower maintenance burden under,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+demo incident modes integration,2,CONTROL,S1,quadgrams,demo incident modes integration,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+incident modes integration triggers,2,CONTROL,S1,quadgrams,incident modes integration triggers,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the modular open controller,5,HYBRID_3_5,S1,quadgrams,modular open controller,3,,0,,controller|modular,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+month end of support,5,HYBRID_3_5,S1,quadgrams,month end support,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+isn t hostage priced,4,HYBRID_3_5,S1,quadgrams,isn hostage priced,3,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,isn t,False
+modular open controller option,4,HYBRID_3_5,S1,quadgrams,modular open controller option,4,imagination_and_possibility,1,option,controller|modular,2,0.5,False,,,0,0,0,0,,,,True
+predictable long term operating,3,HYBRID_3_5,S1,quadgrams,predictable long term operating,4,temporal_dynamics,1,long term,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,long term,False
+pre priced transition assistance,3,HYBRID_3_5,S1,quadgrams,pre priced transition assistance,4,temporal_dynamics,1,transition,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,transit|transition,False
+so exit isn t,3,HYBRID_3_5,S1,quadgrams,exit isn,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,isn t,False
+exit isn t hostage,3,HYBRID_3_5,S1,quadgrams,exit isn hostage,3,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,isn t,False
+wrong in year one,3,HYBRID_3_5,S1,quadgrams,wrong year one,3,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,wrong,False
+ownership export timing plans,3,HYBRID_3_5,S1,quadgrams,ownership export timing plans,4,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plans,False
+export timing plans config,3,HYBRID_3_5,S1,quadgrams,export timing plans config,4,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plans,False
+timing plans config logs,3,HYBRID_3_5,S1,quadgrams,timing plans config logs,4,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plans,False
+data ownership export timing,3,HYBRID_3_5,S1,quadgrams,data ownership export timing,4,truth_and_fact,1,data,,0,0.0,False,,,0,0,0,0,,,,True
+operations package evp priority,3,HYBRID_3_5,S1,quadgrams,operations package evp priority,4,practicality_and_feasibility,1,priority,,0,0.0,False,,,0,0,0,0,,,,True
+anti lock in contract,3,HYBRID_3_5,S1,quadgrams,anti lock contract,3,,0,,lock in,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+dot waiver review weeks,3,HYBRID_3_5,S1,quadgrams,dot waiver review weeks,4,,0,,dot|waiver,2,0.5,False,,,0,0,0,0,,,,True
+incident operations package evp,3,HYBRID_3_5,S1,quadgrams,incident operations package evp,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+risk lock in resilience,2,HYBRID_3_5,S1,quadgrams,risk lock resilience,3,practicality_and_feasibility|temporal_dynamics,2,resilience|risk,lock in,1,0.3333333333333333,False,temporal_projection|warning,temporal_projection.robustness_and_resilience|warning,2,2,1,1,temporal_projection,warning,resilience|risk,False
+less long horizon evidence,2,HYBRID_3_5,S1,quadgrams,less long horizon evidence,4,truth_and_fact,1,evidence,,0,0.0,False,temporal_projection|truth,temporal_projection.time_horizons|truth.verification,2,2,2,0,temporal_projection|truth,,evidence|horizon,False
+the lowest approval friction,2,HYBRID_3_5,S1,quadgrams,lowest approval friction,3,practicality_and_feasibility,1,friction,,0,0.0,False,practical_considerations_and_execution|surfacing,practical_considerations_and_execution.friction_and_blockers|surfacing.friction_exposed,2,2,1,1,practical_considerations_and_execution,surfacing,friction,False
+term operating cost stability,2,HYBRID_3_5,S1,quadgrams,term operating cost stability,4,practicality_and_feasibility,1,cost,,0,0.0,False,practical_considerations_and_execution|temporal_projection,practical_considerations_and_execution.resources_timing_conditions|temporal_projection.robustness_and_resilience,2,2,2,0,practical_considerations_and_execution|temporal_projection,,cost|stability,False
+spares plan delivered early,2,HYBRID_3_5,S1,quadgrams,spares plan delivered early,4,,0,,,0,0.0,False,practical_considerations_and_execution|temporal_projection,practical_considerations_and_execution.action_and_execution|temporal_projection.time_horizons,2,2,2,0,practical_considerations_and_execution|temporal_projection,,early|plan,False
+data export transition assistance,2,HYBRID_3_5,S1,quadgrams,data export transition assistance,4,truth_and_fact|temporal_dynamics,2,transition|data,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,transit|transition,False
+avoids the most uncertain,2,HYBRID_3_5,S1,quadgrams,avoids most uncertain,3,truth_and_fact,1,uncertain,,0,0.0,False,truth,truth.uncertainty_marking,1,1,1,0,truth,,uncertain,False
+standards models multi source,2,HYBRID_3_5,S1,quadgrams,standards models multi source,4,truth_and_fact,1,source,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,source,False
+transition assistance rates pre,2,HYBRID_3_5,S1,quadgrams,transition assistance rates pre,4,temporal_dynamics,1,transition,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,transit|transition,False
+risk and narrative risk,2,HYBRID_3_5,S1,quadgrams,risk narrative risk,3,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+and narrative risk even,2,HYBRID_3_5,S1,quadgrams,narrative risk even,3,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+narrative risk even if,2,HYBRID_3_5,S1,quadgrams,narrative risk even,3,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+90k annual cloud cost,2,HYBRID_3_5,S1,quadgrams,90k annual cloud cost,4,practicality_and_feasibility,1,cost,cloud|90k,2,0.5,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,cost,False
+is the main constraint,2,HYBRID_3_5,S1,quadgrams,main constraint,2,practicality_and_feasibility,1,constraint,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,constrain|constraint,False
+risk if you share,2,HYBRID_3_5,S1,quadgrams,risk share,2,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+year s tighter budget,2,HYBRID_3_5,S1,quadgrams,year tighter budget,3,practicality_and_feasibility,1,budget,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,budget,False
+real schedule critical path,2,HYBRID_3_5,S1,quadgrams,real schedule critical path,4,practicality_and_feasibility,1,schedule,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,schedule,False
+multi source procurement city,2,HYBRID_3_5,S1,quadgrams,multi source procurement city,4,truth_and_fact,1,source,procurement,1,0.25,False,truth,truth.verification,1,1,1,0,truth,,source,False
+source procurement city ownership,2,HYBRID_3_5,S1,quadgrams,source procurement city ownership,4,truth_and_fact,1,source,procurement,1,0.25,False,truth,truth.verification,1,1,1,0,truth,,source,False
+transition assistance rates and,2,HYBRID_3_5,S1,quadgrams,transition assistance rates,3,temporal_dynamics,1,transition,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,transit|transition,False
+at risk due to,2,HYBRID_3_5,S1,quadgrams,risk due,2,practicality_and_feasibility,1,risk,,0,0.0,False,warning,warning,1,1,0,1,,warning,risk,False
+most predictable long term,2,HYBRID_3_5,S1,quadgrams,most predictable long term,4,temporal_dynamics,1,long term,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,long term,False
+net effect tighter budgets,2,HYBRID_3_5,S1,quadgrams,net effect tighter budgets,4,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,budgets,False
+an escalation stress test,2,HYBRID_3_5,S1,quadgrams,escalation stress test,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,test,False
+unless novagrid s incident,2,HYBRID_3_5,S1,quadgrams,unless novagrid incident,3,,0,,novagrid,1,0.3333333333333333,False,conditions,conditions,1,1,0,1,,conditions,unless,False
+evp incident plans integrations,2,HYBRID_3_5,S1,quadgrams,evp incident plans integrations,4,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plans,False
+acceptance testing and contract,2,HYBRID_3_5,S1,quadgrams,acceptance testing contract,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,testing,False
+that doesn t mean,2,HYBRID_3_5,S1,quadgrams,doesn mean,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn|doesn t,False
+doesn t mean novagrid,2,HYBRID_3_5,S1,quadgrams,doesn mean novagrid,3,,0,,novagrid,1,0.3333333333333333,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn|doesn t,False
+added integration testing complexity,2,HYBRID_3_5,S1,quadgrams,added integration testing complexity,4,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,testing,False
+in documented formats include,2,HYBRID_3_5,S1,quadgrams,documented formats include,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,documented,False
+documented formats include a,2,HYBRID_3_5,S1,quadgrams,documented formats include,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,documented,False
+something minor goes wrong,2,HYBRID_3_5,S1,quadgrams,something minor goes wrong,4,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,wrong,False
+so the modular choice,2,HYBRID_3_5,S1,quadgrams,modular choice,2,,0,,modular,1,0.5,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,choice,False
+logs exportable in documented,2,HYBRID_3_5,S1,quadgrams,logs exportable documented,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,documented,False
+exportable in documented formats,2,HYBRID_3_5,S1,quadgrams,exportable documented formats,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,documented,False
+api interface access documented,2,HYBRID_3_5,S1,quadgrams,api interface access documented,4,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,documented,False
+term operating costs while,2,HYBRID_3_5,S1,quadgrams,term operating costs while,4,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,costs,False
+operating costs while still,2,HYBRID_3_5,S1,quadgrams,operating costs while still,4,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,costs,False
+costs while still delivering,2,HYBRID_3_5,S1,quadgrams,costs while still delivering,4,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,costs,False
+a spares plan delivered,2,HYBRID_3_5,S1,quadgrams,spares plan delivered,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plan,False
+in documented formats sample,2,HYBRID_3_5,S1,quadgrams,documented formats sample,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,documented,False
+documented formats sample export,2,HYBRID_3_5,S1,quadgrams,documented formats sample export,4,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,documented,False
+civitas s modular option,2,HYBRID_3_5,S1,quadgrams,civitas modular option,3,imagination_and_possibility,1,option,civitas|modular,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+less proven cities years,2,HYBRID_3_5,S1,quadgrams,less proven cities years,4,truth_and_fact,1,proven,,0,0.0,False,,,0,0,0,0,,,,True
+the modular option even,2,HYBRID_3_5,S1,quadgrams,modular option even,3,imagination_and_possibility,1,option,modular,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+open controller option plus,2,HYBRID_3_5,S1,quadgrams,open controller option plus,4,imagination_and_possibility,1,option,controller,1,0.25,False,,,0,0,0,0,,,,True
+package evp priority incident,2,HYBRID_3_5,S1,quadgrams,package evp priority incident,4,practicality_and_feasibility,1,priority,,0,0.0,False,,,0,0,0,0,,,,True
+evp priority incident corridor,2,HYBRID_3_5,S1,quadgrams,evp priority incident corridor,4,practicality_and_feasibility,1,priority,,0,0.0,False,,,0,0,0,0,,,,True
+priority incident corridor modes,2,HYBRID_3_5,S1,quadgrams,priority incident corridor modes,4,practicality_and_feasibility,1,priority,,0,0.0,False,,,0,0,0,0,,,,True
+gate essential infrastructure cloud,2,HYBRID_3_5,S1,quadgrams,gate essential infrastructure cloud,4,,0,,cloud|infrastructure|essential infrastructure,3,0.75,True,,,0,0,0,0,,,,True
+dot waiver comfort if,2,HYBRID_3_5,S1,quadgrams,dot waiver comfort,3,,0,,dot|waiver,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+controller standards models multi,2,HYBRID_3_5,S1,quadgrams,controller standards models multi,4,,0,,controller,1,0.25,False,,,0,0,0,0,,,,True
+lead times and spares,2,HYBRID_3_5,S1,quadgrams,lead times spares,3,,0,,lead time|lead times,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+cloud approval and dot,2,HYBRID_3_5,S1,quadgrams,cloud approval dot,3,,0,,dot|cloud,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+approval and dot waiver,2,HYBRID_3_5,S1,quadgrams,approval dot waiver,3,,0,,dot|waiver,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+and dot waiver comfort,2,HYBRID_3_5,S1,quadgrams,dot waiver comfort,3,,0,,dot|waiver,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+who owns the essential,2,HYBRID_3_5,S1,quadgrams,owns essential,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+owns the essential infrastructure,2,HYBRID_3_5,S1,quadgrams,owns essential infrastructure,3,,0,,infrastructure|essential infrastructure,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+addresses vendor lock in,2,HYBRID_3_5,S1,quadgrams,addresses vendor lock,3,,0,,vendor|lock in|vendor lock,3,0.6666666666666666,False,,,0,0,0,0,,,,True
+of lower maintenance in,2,HYBRID_3_5,S1,quadgrams,lower maintenance,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+lower maintenance in modular,2,HYBRID_3_5,S1,quadgrams,lower maintenance modular,3,,0,,modular,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+maintenance in modular deployments,2,HYBRID_3_5,S1,quadgrams,maintenance modular deployments,3,,0,,modular|deployment,2,0.3333333333333333,False,,,0,0,0,0,,,,True
+relative to dot preference,2,HYBRID_3_5,S1,quadgrams,relative dot preference,3,,0,,dot,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+the 90k annual cloud,2,HYBRID_3_5,S1,quadgrams,90k annual cloud,3,,0,,cloud|90k,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+novagrid s speed advantage,2,HYBRID_3_5,S1,quadgrams,novagrid speed advantage,3,,0,,novagrid,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+civitas modular easier to,2,HYBRID_3_5,S1,quadgrams,civitas modular easier,3,,0,,civitas|modular,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+modular easier to defend,2,HYBRID_3_5,S1,quadgrams,modular easier defend,3,,0,,modular,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+sentence you can use,2,HYBRID_3_5,S1,quadgrams,sentence use,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+cabinet power conditioning ups,2,HYBRID_3_5,S1,quadgrams,cabinet power conditioning ups,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+when comms central goes,2,HYBRID_3_5,S1,quadgrams,comms central goes,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+comms central goes down,2,HYBRID_3_5,S1,quadgrams,comms central goes down,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+not just upfront price,2,HYBRID_3_5,S1,quadgrams,just upfront price,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+maintenance lock vs cloud,2,HYBRID_3_5,S1,quadgrams,maintenance lock vs cloud,4,,0,,cloud,1,0.25,False,,,0,0,0,0,,,,True
+lock vs cloud fees,2,HYBRID_3_5,S1,quadgrams,lock vs cloud fees,4,,0,,cloud,1,0.25,False,,,0,0,0,0,,,,True
+vs cloud fees escalators,2,HYBRID_3_5,S1,quadgrams,vs cloud fees escalators,4,,0,,cloud,1,0.25,False,,,0,0,0,0,,,,True
+with an escalation stress,2,HYBRID_3_5,S1,quadgrams,escalation stress,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+can say to council,2,HYBRID_3_5,S1,quadgrams,say council,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+s incident capability is,2,HYBRID_3_5,S1,quadgrams,incident capability,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+with civitas modular as,2,HYBRID_3_5,S1,quadgrams,civitas modular,2,,0,,civitas|modular,2,1.0,True,,,0,0,0,0,,,,True
+you already run evp,2,HYBRID_3_5,S1,quadgrams,already run evp,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+with next year s,2,HYBRID_3_5,S1,quadgrams,next year,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+next year s tighter,2,HYBRID_3_5,S1,quadgrams,next year tighter,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+requirement not a vendor,2,HYBRID_3_5,S1,quadgrams,requirement vendor,2,,0,,vendor,1,0.5,False,,,0,0,0,0,,,,True
+incident modes evp integration,2,HYBRID_3_5,S1,quadgrams,incident modes evp integration,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+requiring incident response capabilities,2,HYBRID_3_5,S1,quadgrams,requiring incident response capabilities,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+infrastructure cloud approval novagrid,2,HYBRID_3_5,S1,quadgrams,infrastructure cloud approval novagrid,4,,0,,novagrid|cloud|infrastructure,3,0.75,True,,,0,0,0,0,,,,True
+change the recommendation if,2,HYBRID_3_5,S1,quadgrams,change recommendation,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+maintenance price lock scope,2,HYBRID_3_5,S1,quadgrams,maintenance price lock scope,4,,0,,price lock,1,0.5,False,,,0,0,0,0,,,,True
+acceptance tests including comms,2,HYBRID_3_5,S1,quadgrams,acceptance tests including comms,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+tests including comms loss,2,HYBRID_3_5,S1,quadgrams,tests including comms loss,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+this affects the overall,2,HYBRID_3_5,S1,quadgrams,affects overall,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+t mean novagrid is,2,HYBRID_3_5,S1,quadgrams,mean novagrid,2,,0,,novagrid,1,0.5,False,,,0,0,0,0,,,,True
+stop the clock if,2,HYBRID_3_5,S1,quadgrams,stop clock,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the exact wording that,2,HYBRID_3_5,S1,quadgrams,exact wording,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+who maintains on prem,2,HYBRID_3_5,S1,quadgrams,maintains prem,2,,0,,on prem,1,0.5,False,,,0,0,0,0,,,,True
+end of support clock,2,HYBRID_3_5,S1,quadgrams,end support clock,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+dot waiver documentation week,2,HYBRID_3_5,S1,quadgrams,dot waiver documentation week,4,,0,,dot|waiver,2,0.5,False,,,0,0,0,0,,,,True
+fees added on prem,2,HYBRID_3_5,S1,quadgrams,fees added prem,3,,0,,on prem,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+without sounding like you,2,HYBRID_3_5,S1,quadgrams,without sounding like,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+sounding like you re,2,HYBRID_3_5,S1,quadgrams,sounding like,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+formats include a sample,2,HYBRID_3_5,S1,quadgrams,formats include sample,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+include a sample export,2,HYBRID_3_5,S1,quadgrams,include sample export,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a sample export as,2,HYBRID_3_5,S1,quadgrams,sample export,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+sample export as an,2,HYBRID_3_5,S1,quadgrams,sample export,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+export as an exhibit,2,HYBRID_3_5,S1,quadgrams,export exhibit,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+t hostage priced limits,2,HYBRID_3_5,S1,quadgrams,hostage priced limits,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+hostage priced limits on,2,HYBRID_3_5,S1,quadgrams,hostage priced limits,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+waiver review and added,2,HYBRID_3_5,S1,quadgrams,waiver review added,3,,0,,waiver,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+week review it cloud,2,HYBRID_3_5,S1,quadgrams,week review cloud,3,,0,,cloud,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+fees escalators lock in,2,HYBRID_3_5,S1,quadgrams,fees escalators lock,3,,0,,lock in,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+cloud exception failover buildout,2,HYBRID_3_5,S1,quadgrams,cloud exception failover buildout,4,,0,,cloud|failover,2,0.5,False,,,0,0,0,0,,,,True
+failover scope that extends,2,HYBRID_3_5,S1,quadgrams,failover scope extends,3,,0,,failover,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+novagrid currently has two,2,HYBRID_3_5,S1,quadgrams,novagrid currently has two,4,,0,,novagrid,1,0.25,False,,,0,0,0,0,,,,True
+introduce the cloud failover,2,HYBRID_3_5,S1,quadgrams,introduce cloud failover,3,,0,,cloud|failover,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+on prem failover o,2,HYBRID_3_5,S1,quadgrams,prem failover o,3,,0,,on prem|failover,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+prem failover o m,2,HYBRID_3_5,S1,quadgrams,prem failover o m,4,,0,,failover,1,0.25,False,,,0,0,0,0,,,,True
+lock in contract clauses,2,HYBRID_3_5,S1,quadgrams,lock contract clauses,3,,0,,lock in,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+patch update change control,2,HYBRID_3_5,S1,quadgrams,patch update change control,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+and incident response slas,2,HYBRID_3_5,S1,quadgrams,incident response slas,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+incident response slas with,2,HYBRID_3_5,S1,quadgrams,incident response slas,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+how this interacts with,2,HYBRID_3_5,S1,quadgrams,how interacts,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+waiver review weeks and,2,HYBRID_3_5,S1,quadgrams,waiver review weeks,3,,0,,waiver,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+weeks and it required,2,HYBRID_3_5,S1,quadgrams,weeks required,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+added on prem failover,2,HYBRID_3_5,S1,quadgrams,added prem failover,3,,0,,on prem|failover,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+can contractually eliminate the,2,HYBRID_3_5,S1,quadgrams,contractually eliminate,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+if something minor goes,2,HYBRID_3_5,S1,quadgrams,something minor goes,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+you d be defending,2,HYBRID_3_5,S1,quadgrams,d defending,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+harshly for a year,2,HYBRID_3_5,S1,quadgrams,harshly year,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+for a year one,2,HYBRID_3_5,S1,quadgrams,year one,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+standard controllers and make,2,HYBRID_3_5,S1,quadgrams,standard controllers make,3,,0,,controller|controllers,2,0.3333333333333333,False,,,0,0,0,0,,,,True
+novagrid carries recurring cloud,2,HYBRID_3_5,S1,quadgrams,novagrid carries recurring cloud,4,,0,,novagrid|cloud,2,0.5,False,,,0,0,0,0,,,,True
+carries recurring cloud fees,2,HYBRID_3_5,S1,quadgrams,carries recurring cloud fees,4,,0,,cloud,1,0.25,False,,,0,0,0,0,,,,True
+in year one a,2,HYBRID_3_5,S1,quadgrams,year one,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+year one a minor,2,HYBRID_3_5,S1,quadgrams,year one minor,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+one a minor failure,2,HYBRID_3_5,S1,quadgrams,one minor failure,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+to avoidable exceptions waiver,2,HYBRID_3_5,S1,quadgrams,avoidable exceptions waiver,3,,0,,waiver,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+avoidable exceptions waiver cloud,2,HYBRID_3_5,S1,quadgrams,avoidable exceptions waiver cloud,4,,0,,cloud|waiver,2,0.5,False,,,0,0,0,0,,,,True
+include these as contract,2,HYBRID_3_5,S1,quadgrams,include these contract,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+capped if licensed incident,2,HYBRID_3_5,S1,quadgrams,capped licensed incident,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+if licensed incident operations,2,HYBRID_3_5,S1,quadgrams,licensed incident operations,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+licensed incident operations package,2,HYBRID_3_5,S1,quadgrams,licensed incident operations package,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+patch windows rollback procedures,2,HYBRID_3_5,S1,quadgrams,patch windows rollback procedures,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+cloud failover delays directly,2,HYBRID_3_5,S1,quadgrams,cloud failover delays directly,4,,0,,cloud|failover,2,0.5,False,,,0,0,0,0,,,,True
+and provides the most,2,HYBRID_3_5,S1,quadgrams,provides most,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+provides the most predictable,2,HYBRID_3_5,S1,quadgrams,provides most predictable,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the most predictable long,2,HYBRID_3_5,S1,quadgrams,most predictable long,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+while still delivering incident,2,HYBRID_3_5,S1,quadgrams,while still delivering incident,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+still delivering incident response,2,HYBRID_3_5,S1,quadgrams,still delivering incident response,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+delivering incident response capabilities,2,HYBRID_3_5,S1,quadgrams,delivering incident response capabilities,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+response capabilities as contractual,2,HYBRID_3_5,S1,quadgrams,response capabilities contractual,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+capabilities as contractual requirements,2,HYBRID_3_5,S1,quadgrams,capabilities contractual requirements,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+in modular deployments novagrid,2,HYBRID_3_5,S1,quadgrams,modular deployments novagrid,3,,0,,novagrid|modular|deployment,3,0.6666666666666666,False,,,0,0,0,0,,,,True
+formats sample export provided,2,HYBRID_3_5,S1,quadgrams,formats sample export provided,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+sample export provided api,2,HYBRID_3_5,S1,quadgrams,sample export provided api,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+export provided api interface,2,HYBRID_3_5,S1,quadgrams,export provided api interface,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+provided api interface access,2,HYBRID_3_5,S1,quadgrams,provided api interface access,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+api interface access terms,2,HYBRID_3_5,S1,quadgrams,api interface access terms,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+incident corridor modes procedures,2,HYBRID_3_5,S1,quadgrams,incident corridor modes procedures,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+corridor modes procedures drills,2,HYBRID_3_5,S1,quadgrams,corridor modes procedures drills,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+modes procedures drills with,2,HYBRID_3_5,S1,quadgrams,modes procedures drills,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+procedures drills with acceptance,2,HYBRID_3_5,S1,quadgrams,procedures drills acceptance,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+drills with acceptance tests,2,HYBRID_3_5,S1,quadgrams,drills acceptance tests,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+with acceptance tests support,2,HYBRID_3_5,S1,quadgrams,acceptance tests support,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+transition assistance priced now,6,HYBRID_SEMANTIC,S1,quadgrams,transition assistance priced now,4,temporal_dynamics,1,transition,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,transit|transition,False
+priced transition assistance incident,4,HYBRID_SEMANTIC,S1,quadgrams,priced transition assistance incident,4,temporal_dynamics,1,transition,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,transit|transition,False
+no proprietary substitution without,4,HYBRID_SEMANTIC,S1,quadgrams,no proprietary substitution without,4,,0,,proprietary,1,0.25,False,,,0,0,0,0,,,,True
+highway integration is day,4,HYBRID_SEMANTIC,S1,quadgrams,highway integration day,3,,0,,highway,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+integration is day one,4,HYBRID_SEMANTIC,S1,quadgrams,integration day one,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+timing plans logs and,3,HYBRID_SEMANTIC,S1,quadgrams,timing plans logs,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plans,False
+plans logs and performance,3,HYBRID_SEMANTIC,S1,quadgrams,plans logs performance,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plans,False
+s clearly wrong you,3,HYBRID_SEMANTIC,S1,quadgrams,clearly wrong,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,wrong,False
+detours overrides priority workflows,3,HYBRID_SEMANTIC,S1,quadgrams,detours overrides priority workflows,4,practicality_and_feasibility,1,priority,,0,0.0,False,,,0,0,0,0,,,,True
+and outage degraded mode,3,HYBRID_SEMANTIC,S1,quadgrams,outage degraded mode,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+protections are secured by,3,HYBRID_SEMANTIC,S1,quadgrams,protections secured,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+is day one scope,3,HYBRID_SEMANTIC,S1,quadgrams,day one scope,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+on cloud fee increases,3,HYBRID_SEMANTIC,S1,quadgrams,cloud fee increases,3,,0,,cloud,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+acceptance tests and training,3,HYBRID_SEMANTIC,S1,quadgrams,acceptance tests training,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+standard controller models standards,3,HYBRID_SEMANTIC,S1,quadgrams,standard controller models standards,4,,0,,controller,1,0.25,False,,,0,0,0,0,,,,True
+how a minor failure,3,HYBRID_SEMANTIC,S1,quadgrams,how minor failure,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a minor failure gets,3,HYBRID_SEMANTIC,S1,quadgrams,minor failure gets,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+minor failure gets framed,3,HYBRID_SEMANTIC,S1,quadgrams,minor failure gets framed,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+viable alternative only if,2,HYBRID_SEMANTIC,S1,quadgrams,viable alternative,2,imagination_and_possibility,1,alternative,,0,0.0,False,conditions|imagination_and_possibility|practical_considerations_and_execution,conditions|imagination_and_possibility.exploration_within_bounds|imagination_and_possibility.path_toward_feasibility|practical_considerations_and_execution.constraints_and_tradeoffs,3,4,2,1,imagination_and_possibility|practical_considerations_and_execution,conditions,alternative|only if|viable|viable alternative,False
+a phased rollout pilot,2,HYBRID_SEMANTIC,S1,quadgrams,phased rollout pilot,3,temporal_dynamics|imagination_and_possibility,2,pilot|phased,rollout,1,0.3333333333333333,False,imagination_and_possibility|practical_considerations_and_execution|temporal_projection,imagination_and_possibility.path_toward_feasibility|practical_considerations_and_execution.action_and_execution|temporal_projection.change_and_rate,3,3,3,0,imagination_and_possibility|practical_considerations_and_execution|temporal_projection,,phas|phased|pilot|rollout,False
+phased rollout pilot corridor,2,HYBRID_SEMANTIC,S1,quadgrams,phased rollout pilot corridor,4,temporal_dynamics|imagination_and_possibility,2,pilot|phased,rollout,1,0.25,False,imagination_and_possibility|practical_considerations_and_execution|temporal_projection,imagination_and_possibility.path_toward_feasibility|practical_considerations_and_execution.action_and_execution|temporal_projection.change_and_rate,3,3,3,0,imagination_and_possibility|practical_considerations_and_execution|temporal_projection,,phas|phased|pilot|rollout,False
+a viable alternative only,2,HYBRID_SEMANTIC,S1,quadgrams,viable alternative,2,imagination_and_possibility,1,alternative,,0,0.0,False,imagination_and_possibility|practical_considerations_and_execution,imagination_and_possibility.exploration_within_bounds|imagination_and_possibility.path_toward_feasibility|practical_considerations_and_execution.constraints_and_tradeoffs,2,3,2,0,imagination_and_possibility|practical_considerations_and_execution,,alternative|viable|viable alternative,False
+cost exposure operational maturity,2,HYBRID_SEMANTIC,S1,quadgrams,cost exposure operational maturity,4,practicality_and_feasibility|temporal_dynamics,3,cost|operational|maturity,,0,0.0,False,practical_considerations_and_execution|temporal_projection,practical_considerations_and_execution.resources_timing_conditions|temporal_projection.change_and_rate,2,2,2,0,practical_considerations_and_execution|temporal_projection,,cost|maturity,False
+documented formats exit transition,2,HYBRID_SEMANTIC,S1,quadgrams,documented formats exit transition,4,temporal_dynamics,1,transition,,0,0.0,False,temporal_projection|truth,temporal_projection.change_and_rate|truth.verification,2,2,2,0,temporal_projection|truth,,documented|transit|transition,False
+start with a pilot,2,HYBRID_SEMANTIC,S1,quadgrams,start pilot,2,imagination_and_possibility,1,pilot,,0,0.0,False,imagination_and_possibility|practical_considerations_and_execution,imagination_and_possibility.path_toward_feasibility|practical_considerations_and_execution.action_and_execution,2,2,2,0,imagination_and_possibility|practical_considerations_and_execution,,pilot|start,False
+pilot corridor prove stability,2,HYBRID_SEMANTIC,S1,quadgrams,pilot corridor prove stability,4,imagination_and_possibility,1,pilot,,0,0.0,False,imagination_and_possibility|temporal_projection,imagination_and_possibility.path_toward_feasibility|temporal_projection.robustness_and_resilience,2,2,2,0,imagination_and_possibility|temporal_projection,,pilot|stability,False
+with a phased rollout,2,HYBRID_SEMANTIC,S1,quadgrams,phased rollout,2,temporal_dynamics,1,phased,rollout,1,0.5,False,practical_considerations_and_execution|temporal_projection,practical_considerations_and_execution.action_and_execution|temporal_projection.change_and_rate,2,2,2,0,practical_considerations_and_execution|temporal_projection,,phas|phased|rollout,False
+rollout pilot corridor first,2,HYBRID_SEMANTIC,S1,quadgrams,rollout pilot corridor first,4,imagination_and_possibility,1,pilot,rollout,1,0.25,False,imagination_and_possibility|practical_considerations_and_execution,imagination_and_possibility.path_toward_feasibility|practical_considerations_and_execution.action_and_execution,2,2,2,0,imagination_and_possibility|practical_considerations_and_execution,,pilot|rollout,False
+documented formats priced transition,2,HYBRID_SEMANTIC,S1,quadgrams,documented formats priced transition,4,temporal_dynamics,1,transition,,0,0.0,False,temporal_projection|truth,temporal_projection.change_and_rate|truth.verification,2,2,2,0,temporal_projection|truth,,documented|transit|transition,False
+a real schedule threat,2,HYBRID_SEMANTIC,S1,quadgrams,real schedule threat,3,practicality_and_feasibility,1,schedule,,0,0.0,False,practical_considerations_and_execution|warning,practical_considerations_and_execution.resources_timing_conditions|warning,2,2,1,1,practical_considerations_and_execution,warning,schedule|threat,False
+real schedule threat modular,2,HYBRID_SEMANTIC,S1,quadgrams,real schedule threat modular,4,practicality_and_feasibility,1,schedule,modular,1,0.25,False,practical_considerations_and_execution|warning,practical_considerations_and_execution.resources_timing_conditions|warning,2,2,1,1,practical_considerations_and_execution,warning,schedule|threat,False
+tested time to deploy,2,HYBRID_SEMANTIC,S1,quadgrams,tested time deploy,3,,0,,,0,0.0,False,practical_considerations_and_execution|truth,practical_considerations_and_execution.action_and_execution|truth.verification,2,2,2,0,practical_considerations_and_execution|truth,,deploy|tested,False
+year cost exposure operational,2,HYBRID_SEMANTIC,S1,quadgrams,year cost exposure operational,4,practicality_and_feasibility,2,cost|operational,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,cost,False
+cost continuity protections are,2,HYBRID_SEMANTIC,S1,quadgrams,cost continuity protections,3,practicality_and_feasibility|temporal_dynamics,2,cost|continuity,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,cost,False
+term cost continuity protections,2,HYBRID_SEMANTIC,S1,quadgrams,term cost continuity protections,4,practicality_and_feasibility|temporal_dynamics,2,cost|continuity,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,cost,False
+and continuity risks and,2,HYBRID_SEMANTIC,S1,quadgrams,continuity risks,2,practicality_and_feasibility|temporal_dynamics,2,risks|continuity,,0,0.0,False,warning,warning,1,1,0,1,,warning,risks,False
+supply chain risk than,2,HYBRID_SEMANTIC,S1,quadgrams,supply chain risk than,4,practicality_and_feasibility,1,risk,supply chain,1,0.5,False,warning,warning,1,1,0,1,,warning,risk,False
+schedule protections milestone dates,2,HYBRID_SEMANTIC,S1,quadgrams,schedule protections milestone dates,4,practicality_and_feasibility,1,schedule,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,schedule,False
+exit and transition assistance,2,HYBRID_SEMANTIC,S1,quadgrams,exit transition assistance,3,temporal_dynamics,1,transition,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,transit|transition,False
+and transition assistance priced,2,HYBRID_SEMANTIC,S1,quadgrams,transition assistance priced,3,temporal_dynamics,1,transition,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,transit|transition,False
+to ask verify documented,2,HYBRID_SEMANTIC,S1,quadgrams,ask verify documented,3,truth_and_fact,1,verify,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,documented|verif|verify,False
+deliverable not a future,2,HYBRID_SEMANTIC,S1,quadgrams,deliverable future,2,temporal_dynamics,1,future,,0,0.0,False,temporal_projection,temporal_projection.past_present_future,1,1,1,0,temporal_projection,,future,False
+time to implement detours,2,HYBRID_SEMANTIC,S1,quadgrams,time implement detours,3,practicality_and_feasibility,1,implement,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,implement,False
+to implement detours overrides,2,HYBRID_SEMANTIC,S1,quadgrams,implement detours overrides,3,practicality_and_feasibility,1,implement,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,implement,False
+failover adding cost time,2,HYBRID_SEMANTIC,S1,quadgrams,failover adding cost time,4,practicality_and_feasibility,1,cost,failover,1,0.25,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,cost,False
+formats exit transition assistance,2,HYBRID_SEMANTIC,S1,quadgrams,formats exit transition assistance,4,temporal_dynamics,1,transition,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,transit|transition,False
+exit transition assistance priced,2,HYBRID_SEMANTIC,S1,quadgrams,exit transition assistance priced,4,temporal_dynamics,1,transition,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,transit|transition,False
+a pilot corridor prove,2,HYBRID_SEMANTIC,S1,quadgrams,pilot corridor prove,3,imagination_and_possibility,1,pilot,,0,0.0,False,imagination_and_possibility,imagination_and_possibility.path_toward_feasibility,1,1,1,0,imagination_and_possibility,,pilot,False
+formats priced transition assistance,2,HYBRID_SEMANTIC,S1,quadgrams,formats priced transition assistance,4,temporal_dynamics,1,transition,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,transit|transition,False
+transition assistance incident operations,2,HYBRID_SEMANTIC,S1,quadgrams,transition assistance incident operations,4,temporal_dynamics,1,transition,,0,0.0,False,temporal_projection,temporal_projection.change_and_rate,1,1,1,0,temporal_projection,,transit|transition,False
+scenarios must be implemented,2,HYBRID_SEMANTIC,S1,quadgrams,scenarios must implemented,3,temporal_dynamics,1,scenarios,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,implement,False
+stable cutover before the,2,HYBRID_SEMANTIC,S1,quadgrams,stable cutover before,3,,0,,,0,0.0,False,temporal_projection,temporal_projection.robustness_and_resilience,1,1,1,0,temporal_projection,,stable,False
+must select in weeks,2,HYBRID_SEMANTIC,S1,quadgrams,must select weeks,3,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,in weeks,False
+best reasons to choose,2,HYBRID_SEMANTIC,S1,quadgrams,best reasons choose,3,,0,,,0,0.0,False,autonomy_sovereignty,autonomy_sovereignty,1,1,0,1,,autonomy_sovereignty,choose,False
+the facts you provided,2,HYBRID_SEMANTIC,S1,quadgrams,facts provided,2,,0,,,0,0.0,False,truth,truth.fact_vs_interpretation,1,1,1,0,truth,,facts,False
+cpi bound or fixed,2,HYBRID_SEMANTIC,S1,quadgrams,cpi bound fixed,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,bound,False
+bound or fixed escalator,2,HYBRID_SEMANTIC,S1,quadgrams,bound fixed escalator,3,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.constraints_and_tradeoffs,1,1,1,0,practical_considerations_and_execution,,bound,False
+early maintenance reduction vs,2,HYBRID_SEMANTIC,S1,quadgrams,early maintenance reduction vs,4,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,early,False
+if civitas cannot meet,2,HYBRID_SEMANTIC,S1,quadgrams,civitas cannot meet,3,,0,,civitas,1,0.3333333333333333,False,surfacing,surfacing.hard_limit_refusal,1,1,0,1,,surfacing,cannot,False
+acceptance testing and burn,2,HYBRID_SEMANTIC,S1,quadgrams,acceptance testing burn,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,testing,False
+testing and burn in,2,HYBRID_SEMANTIC,S1,quadgrams,testing burn,2,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,testing,False
+timing plans databases logs,2,HYBRID_SEMANTIC,S1,quadgrams,timing plans databases logs,4,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.action_and_execution,1,1,1,0,practical_considerations_and_execution,,plans,False
+in documented formats exit,2,HYBRID_SEMANTIC,S1,quadgrams,documented formats exit,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,documented,False
+timelines api access rights,2,HYBRID_SEMANTIC,S1,quadgrams,timelines api access rights,4,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,timelines,False
+now rates deliverables timelines,2,HYBRID_SEMANTIC,S1,quadgrams,now rates deliverables timelines,4,,0,,,0,0.0,False,practical_considerations_and_execution,practical_considerations_and_execution.resources_timing_conditions,1,1,1,0,practical_considerations_and_execution,,timelines,False
+rollback audit trail degraded,2,HYBRID_SEMANTIC,S1,quadgrams,rollback audit trail degraded,4,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,audit,False
+audit trail degraded mode,2,HYBRID_SEMANTIC,S1,quadgrams,audit trail degraded mode,4,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,audit,False
+spares delivered early a,2,HYBRID_SEMANTIC,S1,quadgrams,spares delivered early,3,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,early,False
+in documented formats priced,2,HYBRID_SEMANTIC,S1,quadgrams,documented formats priced,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,documented,False
+trained and acceptance tested,2,HYBRID_SEMANTIC,S1,quadgrams,trained acceptance tested,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,tested,False
+and acceptance tested time,2,HYBRID_SEMANTIC,S1,quadgrams,acceptance tested time,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,tested,False
+acceptance tested time to,2,HYBRID_SEMANTIC,S1,quadgrams,acceptance tested time,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,tested,False
+early delivery of spares,2,HYBRID_SEMANTIC,S1,quadgrams,early delivery spares,3,,0,,,0,0.0,False,temporal_projection,temporal_projection.time_horizons,1,1,1,0,temporal_projection,,early,False
+in a way council,2,HYBRID_SEMANTIC,S1,quadgrams,way council,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,in a way,False
+pressure test require a,2,HYBRID_SEMANTIC,S1,quadgrams,pressure test require,3,,0,,,0,0.0,False,truth,truth.verification,1,1,1,0,truth,,test,False
+scenarios detours overrides priority,2,HYBRID_SEMANTIC,S1,quadgrams,scenarios detours overrides priority,4,practicality_and_feasibility|temporal_dynamics,2,scenarios|priority,,0,0.0,False,,,0,0,0,0,,,,True
+continuity protections are secured,2,HYBRID_SEMANTIC,S1,quadgrams,continuity protections secured,3,temporal_dynamics,1,continuity,,0,0.0,False,,,0,0,0,0,,,,True
+architecture option is the,2,HYBRID_SEMANTIC,S1,quadgrams,architecture option,2,imagination_and_possibility,1,option,architecture,1,0.5,False,,,0,0,0,0,,,,True
+detours corridor overrides priority,2,HYBRID_SEMANTIC,S1,quadgrams,detours corridor overrides priority,4,practicality_and_feasibility,1,priority,,0,0.0,False,,,0,0,0,0,,,,True
+corridor overrides priority workflows,2,HYBRID_SEMANTIC,S1,quadgrams,corridor overrides priority workflows,4,practicality_and_feasibility,1,priority,,0,0.0,False,,,0,0,0,0,,,,True
+trending toward civitas modular,2,HYBRID_SEMANTIC,S1,quadgrams,trending toward civitas modular,4,temporal_dynamics,1,trending,civitas|modular,2,0.5,False,,,0,0,0,0,,,,True
+than their legacy integrated,2,HYBRID_SEMANTIC,S1,quadgrams,than legacy integrated,3,temporal_dynamics,1,legacy,integrated,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+you must select in,2,HYBRID_SEMANTIC,S1,quadgrams,must select,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+proprietary controller hardware with,2,HYBRID_SEMANTIC,S1,quadgrams,proprietary controller hardware,3,,0,,controller|proprietary,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+outcome if civitas modular,2,HYBRID_SEMANTIC,S1,quadgrams,outcome civitas modular,3,,0,,civitas|modular,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+models standards no proprietary,2,HYBRID_SEMANTIC,S1,quadgrams,models standards no proprietary,4,,0,,proprietary,1,0.25,False,,,0,0,0,0,,,,True
+standards no proprietary substitution,2,HYBRID_SEMANTIC,S1,quadgrams,standards no proprietary substitution,4,,0,,proprietary,1,0.25,False,,,0,0,0,0,,,,True
+proprietary substitution without approval,2,HYBRID_SEMANTIC,S1,quadgrams,proprietary substitution without approval,4,,0,,proprietary,1,0.25,False,,,0,0,0,0,,,,True
+cap or fixed escalator,2,HYBRID_SEMANTIC,S1,quadgrams,cap fixed escalator,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+or fixed escalator for,2,HYBRID_SEMANTIC,S1,quadgrams,fixed escalator,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+no punitive egress fees,2,HYBRID_SEMANTIC,S1,quadgrams,no punitive egress fees,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+punitive egress fees change,2,HYBRID_SEMANTIC,S1,quadgrams,punitive egress fees change,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+egress fees change of,2,HYBRID_SEMANTIC,S1,quadgrams,egress fees change,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+fees change of control,2,HYBRID_SEMANTIC,S1,quadgrams,fees change control,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+ask both vendors for,2,HYBRID_SEMANTIC,S1,quadgrams,ask both vendors,3,,0,,vendor|vendors,2,0.3333333333333333,False,,,0,0,0,0,,,,True
+is highway signal integration,2,HYBRID_SEMANTIC,S1,quadgrams,highway signal integration,3,,0,,signal|highway,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+accountability milestones acceptance tests,2,HYBRID_SEMANTIC,S1,quadgrams,accountability milestones acceptance tests,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+is your strongest response,2,HYBRID_SEMANTIC,S1,quadgrams,strongest response,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+your strongest response to,2,HYBRID_SEMANTIC,S1,quadgrams,strongest response,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+degraded mode requirements what,2,HYBRID_SEMANTIC,S1,quadgrams,degraded mode requirements,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+what happens if cloud,2,HYBRID_SEMANTIC,S1,quadgrams,happens cloud,2,,0,,cloud,1,0.5,False,,,0,0,0,0,,,,True
+gate must pass for,2,HYBRID_SEMANTIC,S1,quadgrams,gate must pass,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+must pass for novagrid,2,HYBRID_SEMANTIC,S1,quadgrams,must pass novagrid,3,,0,,novagrid,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+to beat the month,2,HYBRID_SEMANTIC,S1,quadgrams,beat month,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+beat the month support,2,HYBRID_SEMANTIC,S1,quadgrams,beat month support,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+secured by a defined,2,HYBRID_SEMANTIC,S1,quadgrams,secured defined,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+by a defined date,2,HYBRID_SEMANTIC,S1,quadgrams,defined date,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+integration required in the,2,HYBRID_SEMANTIC,S1,quadgrams,integration required,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+required in the initial,2,HYBRID_SEMANTIC,S1,quadgrams,required initial,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+of your essential infrastructure,2,HYBRID_SEMANTIC,S1,quadgrams,essential infrastructure,2,,0,,infrastructure|essential infrastructure,2,1.0,True,,,0,0,0,0,,,,True
+your essential infrastructure cloud,2,HYBRID_SEMANTIC,S1,quadgrams,essential infrastructure cloud,3,,0,,cloud|infrastructure|essential infrastructure,3,1.0,True,,,0,0,0,0,,,,True
+highway integration scope and,2,HYBRID_SEMANTIC,S1,quadgrams,highway integration scope,3,,0,,highway,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+right now novagrid is,2,HYBRID_SEMANTIC,S1,quadgrams,right now novagrid,3,,0,,novagrid,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+controller lead times modular,2,HYBRID_SEMANTIC,S1,quadgrams,controller lead times modular,4,,0,,controller|modular|lead time|lead times,4,1.0,True,,,0,0,0,0,,,,True
+outage degraded mode commitments,2,HYBRID_SEMANTIC,S1,quadgrams,outage degraded mode commitments,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+standards based controller commitment,2,HYBRID_SEMANTIC,S1,quadgrams,standards based controller commitment,4,,0,,controller,1,0.25,False,,,0,0,0,0,,,,True
+civitas especially modular looks,2,HYBRID_SEMANTIC,S1,quadgrams,civitas especially modular looks,4,,0,,civitas|modular,2,0.5,False,,,0,0,0,0,,,,True
+in a tight year,2,HYBRID_SEMANTIC,S1,quadgrams,tight year,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+fewer truck rolls easier,2,HYBRID_SEMANTIC,S1,quadgrams,fewer truck rolls easier,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+truck rolls easier diagnostics,2,HYBRID_SEMANTIC,S1,quadgrams,truck rolls easier diagnostics,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+multi year cap on,2,HYBRID_SEMANTIC,S1,quadgrams,multi year cap,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+year cap on cloud,2,HYBRID_SEMANTIC,S1,quadgrams,year cap cloud,3,,0,,cloud,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+cap on cloud fee,2,HYBRID_SEMANTIC,S1,quadgrams,cap cloud fee,3,,0,,cloud,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+cloud fee increases cpi,2,HYBRID_SEMANTIC,S1,quadgrams,cloud fee increases cpi,4,,0,,cloud,1,0.25,False,,,0,0,0,0,,,,True
+novagrid s adjustable annual,2,HYBRID_SEMANTIC,S1,quadgrams,novagrid adjustable annual,3,,0,,novagrid,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+degraded mode behavior what,2,HYBRID_SEMANTIC,S1,quadgrams,degraded mode behavior,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+a short vendor neutral,2,HYBRID_SEMANTIC,S1,quadgrams,short vendor neutral,3,,0,,vendor,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+with contractual commitments and,2,HYBRID_SEMANTIC,S1,quadgrams,contractual commitments,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+contractual commitments and acceptance,2,HYBRID_SEMANTIC,S1,quadgrams,contractual commitments acceptance,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+commitments and acceptance tests,2,HYBRID_SEMANTIC,S1,quadgrams,commitments acceptance tests,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+right now given your,2,HYBRID_SEMANTIC,S1,quadgrams,right now given,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+what is included vs,2,HYBRID_SEMANTIC,S1,quadgrams,included vs,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+multi year caps on,2,HYBRID_SEMANTIC,S1,quadgrams,multi year caps,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+year caps on cloud,2,HYBRID_SEMANTIC,S1,quadgrams,year caps cloud,3,,0,,cloud,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+degraded mode behavior during,2,HYBRID_SEMANTIC,S1,quadgrams,degraded mode behavior during,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+what continues to function,2,HYBRID_SEMANTIC,S1,quadgrams,continues function,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+tests time to action,2,HYBRID_SEMANTIC,S1,quadgrams,tests time action,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+time to action rollback,2,HYBRID_SEMANTIC,S1,quadgrams,time action rollback,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+controller lead time is,2,HYBRID_SEMANTIC,S1,quadgrams,controller lead time,3,,0,,controller|lead time,2,1.0,True,,,0,0,0,0,,,,True
+reduced lock in and,2,HYBRID_SEMANTIC,S1,quadgrams,reduced lock,2,,0,,lock in,1,0.5,False,,,0,0,0,0,,,,True
+the dot waiver and,2,HYBRID_SEMANTIC,S1,quadgrams,dot waiver,2,,0,,dot|waiver,2,1.0,True,,,0,0,0,0,,,,True
+on prem failover required,2,HYBRID_SEMANTIC,S1,quadgrams,prem failover required,3,,0,,on prem|failover,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+prem failover required which,2,HYBRID_SEMANTIC,S1,quadgrams,prem failover required,3,,0,,failover,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+failover required which novagrid,2,HYBRID_SEMANTIC,S1,quadgrams,failover required novagrid,3,,0,,novagrid|failover,2,0.6666666666666666,False,,,0,0,0,0,,,,True
+required which novagrid says,2,HYBRID_SEMANTIC,S1,quadgrams,required novagrid says,3,,0,,novagrid,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+month support cliff with,2,HYBRID_SEMANTIC,S1,quadgrams,month support cliff,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+requires a waiver with,2,HYBRID_SEMANTIC,S1,quadgrams,requires waiver,2,,0,,waiver,1,0.5,False,,,0,0,0,0,,,,True
+in your council packet,2,HYBRID_SEMANTIC,S1,quadgrams,council packet,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+the dot preference automatically,2,HYBRID_SEMANTIC,S1,quadgrams,dot preference automatically,3,,0,,dot,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+notice to proceed for,2,HYBRID_SEMANTIC,S1,quadgrams,notice proceed,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+assistance priced now rates,2,HYBRID_SEMANTIC,S1,quadgrams,assistance priced now rates,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+priced now rates deliverables,2,HYBRID_SEMANTIC,S1,quadgrams,priced now rates deliverables,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+remedies holdbacks for missed,2,HYBRID_SEMANTIC,S1,quadgrams,remedies holdbacks missed,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+holdbacks for missed critical,2,HYBRID_SEMANTIC,S1,quadgrams,holdbacks missed critical,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+incident operations deliverable emergency,2,HYBRID_SEMANTIC,S1,quadgrams,incident operations deliverable emergency,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+operations deliverable emergency services,2,HYBRID_SEMANTIC,S1,quadgrams,operations deliverable emergency services,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+trail degraded mode behavior,2,HYBRID_SEMANTIC,S1,quadgrams,trail degraded mode behavior,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+has political consequences so,2,HYBRID_SEMANTIC,S1,quadgrams,has political consequences,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+controller lead times are,2,HYBRID_SEMANTIC,S1,quadgrams,controller lead times,3,,0,,controller|lead time|lead times,3,1.0,True,,,0,0,0,0,,,,True
+delivery dates for controllers,2,HYBRID_SEMANTIC,S1,quadgrams,delivery dates controllers,3,,0,,controller|controllers,2,0.3333333333333333,False,,,0,0,0,0,,,,True
+under your no delay,2,HYBRID_SEMANTIC,S1,quadgrams,under no delay,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+we reduced lock in,2,HYBRID_SEMANTIC,S1,quadgrams,reduced lock,2,,0,,lock in,1,0.5,False,,,0,0,0,0,,,,True
+s cloud model now,2,HYBRID_SEMANTIC,S1,quadgrams,cloud model now,3,,0,,cloud,1,0.3333333333333333,False,,,0,0,0,0,,,,True
+cloud model now requires,2,HYBRID_SEMANTIC,S1,quadgrams,cloud model now requires,4,,0,,cloud,1,0.25,False,,,0,0,0,0,,,,True
+price lock novagrid has,2,HYBRID_SEMANTIC,S1,quadgrams,price lock novagrid has,4,,0,,novagrid|price lock,2,0.75,True,,,0,0,0,0,,,,True
+lock novagrid has recurring,2,HYBRID_SEMANTIC,S1,quadgrams,lock novagrid has recurring,4,,0,,novagrid,1,0.25,False,,,0,0,0,0,,,,True
+cloud fees plus added,2,HYBRID_SEMANTIC,S1,quadgrams,cloud fees plus added,4,,0,,cloud,1,0.25,False,,,0,0,0,0,,,,True
+fees plus added failover,2,HYBRID_SEMANTIC,S1,quadgrams,fees plus added failover,4,,0,,failover,1,0.25,False,,,0,0,0,0,,,,True
+plus added failover footprint,2,HYBRID_SEMANTIC,S1,quadgrams,plus added failover footprint,4,,0,,failover,1,0.25,False,,,0,0,0,0,,,,True
+standards lock named industry,2,HYBRID_SEMANTIC,S1,quadgrams,standards lock named industry,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+lock named industry standard,2,HYBRID_SEMANTIC,S1,quadgrams,lock named industry standard,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+controller models standards no,2,HYBRID_SEMANTIC,S1,quadgrams,controller models standards no,4,,0,,controller,1,0.25,False,,,0,0,0,0,,,,True
+guaranteed export of configs,2,HYBRID_SEMANTIC,S1,quadgrams,guaranteed export configs,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+delivery of spares opex,2,HYBRID_SEMANTIC,S1,quadgrams,delivery spares opex,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+of spares opex clarity,2,HYBRID_SEMANTIC,S1,quadgrams,spares opex clarity,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+lock covers and cap,2,HYBRID_SEMANTIC,S1,quadgrams,lock covers cap,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+part of acceptance tests,2,HYBRID_SEMANTIC,S1,quadgrams,part acceptance tests,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+of acceptance tests and,2,HYBRID_SEMANTIC,S1,quadgrams,acceptance tests,2,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+without city approval portability,2,HYBRID_SEMANTIC,S1,quadgrams,without city approval portability,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+city approval portability exit,2,HYBRID_SEMANTIC,S1,quadgrams,city approval portability exit,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+approval portability exit guaranteed,2,HYBRID_SEMANTIC,S1,quadgrams,approval portability exit guaranteed,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+portability exit guaranteed export,2,HYBRID_SEMANTIC,S1,quadgrams,portability exit guaranteed export,4,,0,,,0,0.0,False,,,0,0,0,0,,,,True
+exit guaranteed export of,2,HYBRID_SEMANTIC,S1,quadgrams,exit guaranteed export,3,,0,,,0,0.0,False,,,0,0,0,0,,,,True

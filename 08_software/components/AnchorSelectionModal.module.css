@@ -1,0 +1,152 @@
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+  }
+
+  .modal {
+    background: var(--bg-primary, #1e1e1e);
+    border: 1px solid var(--border-color, #3e3e3e);
+    border-radius: 8px;
+    padding: 24px;
+    min-width: 500px;
+    max-width: 600px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  }
+
+  .title {
+    margin: 0 0 20px 0;
+    font-size: 20px;
+    font-weight: 600;
+    color: var(--text-primary, #e0e0e0);
+  }
+
+  .error {
+    background: rgba(255, 100, 100, 0.1);
+    border: 1px solid rgba(255, 100, 100, 0.3);
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 16px;
+    color: #ff6464;
+    font-size: 14px;
+  }
+
+  .field {
+    margin-bottom: 20px;
+  }
+
+  .label {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--text-secondary, #b0b0b0);
+  }
+
+  .input,
+  .select {
+    width: 100%;
+    padding: 10px;
+    background: var(--bg-secondary, #2a2a2a);
+    border: 1px solid var(--border-color, #3e3e3e);
+    border-radius: 4px;
+    color: var(--text-primary, #e0e0e0);
+    font-size: 14px;
+    font-family: inherit;
+  }
+
+  .input:focus,
+  .select:focus {
+    outline: none;
+    border-color: var(--accent-color, #569cd6);
+  }
+
+  .radioGroup {
+    margin-bottom: 12px;
+  }
+
+  .radioLabel {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 0;
+    cursor: pointer;
+    color: var(--text-primary, #e0e0e0);
+    font-size: 14px;
+  }
+
+  .radioLabel input[type="radio"] {
+    cursor: pointer;
+  }
+
+  .radioLabel span {
+    font-weight: 500;
+  }
+
+  .indent {
+    margin-left: 24px;
+    margin-top: 8px;
+  }
+
+  .systemInfo {
+    margin-top: 6px;
+    padding: 8px;
+    background: var(--bg-tertiary, #252525);
+    border-radius: 4px;
+    font-size: 12px;
+    color: var(--text-tertiary, #808080);
+    font-family: monospace;
+  }
+
+  .hint {
+    margin-top: 6px;
+    font-size: 12px;
+    color: var(--text-tertiary, #808080);
+    font-style: italic;
+  }
+
+  .actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 12px;
+    margin-top: 24px;
+    padding-top: 16px;
+    border-top: 1px solid var(--border-color, #3e3e3e);
+  }
+
+  .btnCancel,
+  .btnConfirm {
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    border: none;
+    transition: all 0.2s;
+  }
+
+  .btnCancel {
+    background: transparent;
+    color: var(--text-secondary, #b0b0b0);
+    border: 1px solid var(--border-color, #3e3e3e);
+  }
+
+  .btnCancel:hover {
+    background: var(--bg-secondary, #2a2a2a);
+  }
+
+  .btnConfirm {
+    background: var(--accent-color, #569cd6);
+    color: #ffffff;
+  }
+
+  .btnConfirm:hover {
+    background: var(--accent-color-hover, #4a8cc4);
+  }

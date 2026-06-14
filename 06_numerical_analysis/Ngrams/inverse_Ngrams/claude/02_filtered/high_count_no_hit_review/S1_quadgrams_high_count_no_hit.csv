@@ -1,0 +1,81 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy
+would make us wrong,6,AC15,S1,quadgrams,make wrong,2,,0,,,0,0.0,False
+answer those i can,4,AC15,S1,quadgrams,answer those i,3,,0,,,0,0.0,False
+with long lead items,4,AC15,S1,quadgrams,long lead items,3,,0,,,0,0.0,False
+recommend civitas modular as,4,AC15,S1,quadgrams,recommend civitas modular,3,,0,,civitas|modular,2,0.6666666666666666,False
+city ownership of timing,3,AC15,S1,quadgrams,city ownership timing,3,,0,,,0,0.0,False
+long lead items and,3,AC15,S1,quadgrams,long lead items,3,,0,,,0,0.0,False
+for after action review,3,AC15,S1,quadgrams,after action review,3,,0,,,0,0.0,False
+tied to payment milestones,3,AC15,S1,quadgrams,tied payment milestones,3,,0,,,0,0.0,False
+civitas clears dot s,3,AC15,S1,quadgrams,civitas clears dot,3,,0,,civitas|dot,2,0.6666666666666666,False
+exhibit with long lead,3,AC15,S1,quadgrams,exhibit long lead,3,,0,,,0,0.0,False
+it may be underestimated,7,AC15P,S1,quadgrams,may underestimated,2,,0,,,0,0.0,False
+assistance clause pre priced,5,AC15P,S1,quadgrams,assistance clause pre priced,4,,0,,,0,0.0,False
+clause pre priced support,5,AC15P,S1,quadgrams,clause pre priced support,4,,0,,,0,0.0,False
+essential infrastructure hosting acceptability,3,AC15P,S1,quadgrams,essential infrastructure hosting acceptability,4,,0,,infrastructure|essential infrastructure,2,0.5,False
+infrastructure hosting acceptability novagrid,3,AC15P,S1,quadgrams,infrastructure hosting acceptability novagrid,4,,0,,novagrid|infrastructure,2,0.5,False
+critical path civitas integrated,3,AC15P,S1,quadgrams,critical path civitas integrated,4,,0,,civitas|integrated,2,0.5,False
+exact controller models and,3,AC15P,S1,quadgrams,exact controller models,3,,0,,controller,1,0.3333333333333333,False
+civitas year maintenance price,3,AC15P,S1,quadgrams,civitas year maintenance price,4,,0,,civitas,1,0.25,False
+timing plans controller configs,3,AC15P,S1,quadgrams,timing plans controller configs,4,,0,,controller,1,0.25,False
+by cloud approval and,3,AC15P,S1,quadgrams,cloud approval,2,,0,,cloud,1,0.5,False
+run a time boxed,3,AC15P,S1,quadgrams,run time boxed,3,,0,,,0,0.0,False
+proprietary hardware lock in,3,AC15P,S1,quadgrams,proprietary hardware lock,3,,0,,proprietary|lock in,2,0.6666666666666666,False
+treat civitas modular as,3,AC15P,S1,quadgrams,treat civitas modular,3,,0,,civitas|modular,2,0.6666666666666666,False
+civitas modular as a,3,AC15P,S1,quadgrams,civitas modular,2,,0,,civitas|modular,2,1.0,True
+pre priced support if,3,AC15P,S1,quadgrams,pre priced support,3,,0,,,0,0.0,False
+the modular standard controller,3,AC15P,S1,quadgrams,modular standard controller,3,,0,,controller|modular,2,0.6666666666666666,False
+can t delay start,3,AC15P,S1,quadgrams,delay start,2,,0,,,0,0.0,False
+likely narrative if there,3,AC15P,S1,quadgrams,likely narrative,2,,0,,,0,0.0,False
+s a minor year,3,AC15P,S1,quadgrams,minor year,2,,0,,,0,0.0,False
+year one failure council,3,AC15P,S1,quadgrams,year one failure council,4,,0,,,0,0.0,False
+be judged that way,3,AC15P,S1,quadgrams,judged way,2,,0,,,0,0.0,False
+what reduces the damage,3,AC15P,S1,quadgrams,reduces damage,2,,0,,,0,0.0,False
+full export of configs,3,AC15P,S1,quadgrams,full export configs,3,,0,,,0,0.0,False
+dot threshold automatically and,6,CONTROL,S1,quadgrams,dot threshold automatically,3,,0,,dot,1,0.3333333333333333,False
+how it could bite,6,CONTROL,S1,quadgrams,how could bite,3,,0,,,0,0.0,False
+emergency services isn t,4,CONTROL,S1,quadgrams,emergency services isn,3,,0,,,0,0.0,False
+state dot waiver week,4,CONTROL,S1,quadgrams,state dot waiver week,4,,0,,dot|state dot|waiver,3,0.75,True
+the controller lead time,4,CONTROL,S1,quadgrams,controller lead time,3,,0,,controller|lead time,2,1.0,True
+it could bite you,4,CONTROL,S1,quadgrams,could bite,2,,0,,,0,0.0,False
+state dot preference for,3,CONTROL,S1,quadgrams,state dot preference,3,,0,,dot|state dot,2,0.6666666666666666,False
+recurring cloud fee with,3,CONTROL,S1,quadgrams,recurring cloud fee,3,,0,,cloud,1,0.3333333333333333,False
+council lock in concerns,3,CONTROL,S1,quadgrams,council lock concerns,3,,0,,lock in,1,0.3333333333333333,False
+the most defensible recommendation,3,CONTROL,S1,quadgrams,most defensible recommendation,3,,0,,,0,0.0,False
+o m volatility and,3,CONTROL,S1,quadgrams,o m volatility,3,,0,,,0,0.0,False
+recommendation unless novagrid can,3,CONTROL,S1,quadgrams,recommendation unless novagrid,3,,0,,novagrid,1,0.3333333333333333,False
+so emergency services isn,3,CONTROL,S1,quadgrams,emergency services isn,3,,0,,,0,0.0,False
+controller lead time that,3,CONTROL,S1,quadgrams,controller lead time,3,,0,,controller|lead time,2,1.0,True
+standard controllers named models,3,CONTROL,S1,quadgrams,standard controllers named models,4,,0,,controller|controllers,2,0.25,False
+lead time that could,3,CONTROL,S1,quadgrams,lead time could,3,,0,,lead time,1,0.6666666666666666,False
+time that could push,3,CONTROL,S1,quadgrams,time could push,3,,0,,,0,0.0,False
+likely narrative if something,3,CONTROL,S1,quadgrams,likely narrative something,3,,0,,,0,0.0,False
+narrative if something breaks,3,CONTROL,S1,quadgrams,narrative something breaks,3,,0,,,0,0.0,False
+if something breaks we,3,CONTROL,S1,quadgrams,something breaks,2,,0,,,0,0.0,False
+the modular open controller,5,HYBRID_3_5,S1,quadgrams,modular open controller,3,,0,,controller|modular,2,0.6666666666666666,False
+month end of support,5,HYBRID_3_5,S1,quadgrams,month end support,3,,0,,,0,0.0,False
+isn t hostage priced,4,HYBRID_3_5,S1,quadgrams,isn hostage priced,3,,0,,,0,0.0,False
+so exit isn t,3,HYBRID_3_5,S1,quadgrams,exit isn,2,,0,,,0,0.0,False
+exit isn t hostage,3,HYBRID_3_5,S1,quadgrams,exit isn hostage,3,,0,,,0,0.0,False
+anti lock in contract,3,HYBRID_3_5,S1,quadgrams,anti lock contract,3,,0,,lock in,1,0.3333333333333333,False
+dot waiver review weeks,3,HYBRID_3_5,S1,quadgrams,dot waiver review weeks,4,,0,,dot|waiver,2,0.5,False
+wrong in year one,3,HYBRID_3_5,S1,quadgrams,wrong year one,3,,0,,,0,0.0,False
+ownership export timing plans,3,HYBRID_3_5,S1,quadgrams,ownership export timing plans,4,,0,,,0,0.0,False
+incident operations package evp,3,HYBRID_3_5,S1,quadgrams,incident operations package evp,4,,0,,,0,0.0,False
+export timing plans config,3,HYBRID_3_5,S1,quadgrams,export timing plans config,4,,0,,,0,0.0,False
+timing plans config logs,3,HYBRID_3_5,S1,quadgrams,timing plans config logs,4,,0,,,0,0.0,False
+no proprietary substitution without,4,HYBRID_SEMANTIC,S1,quadgrams,no proprietary substitution without,4,,0,,proprietary,1,0.25,False
+highway integration is day,4,HYBRID_SEMANTIC,S1,quadgrams,highway integration day,3,,0,,highway,1,0.3333333333333333,False
+integration is day one,4,HYBRID_SEMANTIC,S1,quadgrams,integration day one,3,,0,,,0,0.0,False
+and outage degraded mode,3,HYBRID_SEMANTIC,S1,quadgrams,outage degraded mode,3,,0,,,0,0.0,False
+protections are secured by,3,HYBRID_SEMANTIC,S1,quadgrams,protections secured,2,,0,,,0,0.0,False
+is day one scope,3,HYBRID_SEMANTIC,S1,quadgrams,day one scope,3,,0,,,0,0.0,False
+timing plans logs and,3,HYBRID_SEMANTIC,S1,quadgrams,timing plans logs,3,,0,,,0,0.0,False
+plans logs and performance,3,HYBRID_SEMANTIC,S1,quadgrams,plans logs performance,3,,0,,,0,0.0,False
+on cloud fee increases,3,HYBRID_SEMANTIC,S1,quadgrams,cloud fee increases,3,,0,,cloud,1,0.3333333333333333,False
+acceptance tests and training,3,HYBRID_SEMANTIC,S1,quadgrams,acceptance tests training,3,,0,,,0,0.0,False
+standard controller models standards,3,HYBRID_SEMANTIC,S1,quadgrams,standard controller models standards,4,,0,,controller,1,0.25,False
+how a minor failure,3,HYBRID_SEMANTIC,S1,quadgrams,how minor failure,3,,0,,,0,0.0,False
+a minor failure gets,3,HYBRID_SEMANTIC,S1,quadgrams,minor failure gets,3,,0,,,0,0.0,False
+minor failure gets framed,3,HYBRID_SEMANTIC,S1,quadgrams,minor failure gets framed,4,,0,,,0,0.0,False
+s clearly wrong you,3,HYBRID_SEMANTIC,S1,quadgrams,clearly wrong,2,,0,,,0,0.0,False

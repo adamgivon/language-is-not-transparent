@@ -1,0 +1,4 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+then the balance usually,2,AC15P,S3,quadgrams,then balance usually,3,,0,,,0,0.0,False,hedging|smoothing,hedging|smoothing,2,2,0,2,,hedging|smoothing,balance|usually,False
+the balance usually lies,2,AC15P,S3,quadgrams,balance usually lies,3,,0,,,0,0.0,False,hedging|smoothing,hedging|smoothing,2,2,0,2,,hedging|smoothing,balance|usually,False
+balance usually lies toward,2,AC15P,S3,quadgrams,balance usually lies toward,4,,0,,,0,0.0,False,hedging|smoothing,hedging|smoothing,2,2,0,2,,hedging|smoothing,balance|usually,False

@@ -1,0 +1,18 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+appears to best,2,AC15,S1,trigrams,appears best,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,appears|appears to,False
+standard controllers typically,2,AC15,S1,trigrams,standard controllers typically,3,,0,,controller|controllers,2,0.3333333333333333,False,hedging,hedging,1,1,0,1,,hedging,typically,False
+controllers typically mean,2,AC15,S1,trigrams,controllers typically mean,3,,0,,controller|controllers,2,0.3333333333333333,False,hedging,hedging,1,1,0,1,,hedging,typically,False
+likely stronger in,2,AC15,S1,trigrams,likely stronger,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,likely,False
+may be underestimated,7,AC15P,S1,trigrams,may underestimated,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,may,False
+short novagrid may,2,AC15P,S1,trigrams,short novagrid may,3,,0,,novagrid,1,0.3333333333333333,False,hedging,hedging,1,1,0,1,,hedging,may,False
+how it could,6,CONTROL,S1,trigrams,how could,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,could,False
+it could bite,6,CONTROL,S1,trigrams,could bite,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,could,False
+could bite you,4,CONTROL,S1,trigrams,could bite,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,could,False
+time that could,3,CONTROL,S1,trigrams,time could,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,could,False
+modular tends to,2,CONTROL,S1,trigrams,modular tends,2,,0,,modular,1,0.5,False,hedging,hedging,1,1,0,1,,hedging,tends|tends to,False
+tends to win,2,CONTROL,S1,trigrams,tends win,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,tends|tends to,False
+could change the,2,CONTROL,S1,trigrams,could change,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,could,False
+could bite year,2,CONTROL,S1,trigrams,could bite year,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,could,False
+interface api documentation,2,CONTROL,S1,trigrams,interface api documentation,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,i d,False
+api documentation access,2,HYBRID_3_5,S1,trigrams,api documentation access,3,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,i d,False
+appearing to pick,2,HYBRID_SEMANTIC,S1,trigrams,appearing pick,2,,0,,,0,0.0,False,hedging,hedging,1,1,0,1,,hedging,appearing,False

@@ -1,0 +1,15 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy,expression_groups,expression_first_class,expression_group_count,expression_first_class_count,layer_a_count,layer_b_count,layer_a_groups,layer_b_groups,matched_expression_terms,unclassified
+the danger isn t,2,AC15,S7,quadgrams,danger isn,2,,0,,,0,0.0,False,surfacing|warning,surfacing.confrontation|warning,2,2,0,2,,surfacing|warning,danger|isn t|the danger is,False
+isn t just a,2,AC15P,S7,quadgrams,isn just,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,isn t,False
+love isn t real,2,AC15P,S7,quadgrams,love isn real,3,,0,,love,1,0.3333333333333333,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,isn t,False
+isn t real but,2,AC15P,S7,quadgrams,isn real,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,isn t,False
+it doesn t prove,2,AC15P,S7,quadgrams,doesn prove,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn|doesn t,False
+doesn t consume her,3,CONTROL,S7,quadgrams,doesn consume her,3,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn|doesn t,False
+life that isn t,2,CONTROL,S7,quadgrams,life isn,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,isn t,False
+that doesn t consume,2,CONTROL,S7,quadgrams,doesn consume,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn|doesn t,False
+answer isn t proof,2,HYBRID_SEMANTIC,S7,quadgrams,answer isn proof,3,truth_and_fact,1,proof,,0,0.0,False,surfacing|truth,surfacing.confrontation|truth.verification,2,2,1,1,truth,surfacing,isn t|proof,False
+isn t proof of,2,HYBRID_SEMANTIC,S7,quadgrams,isn proof,2,truth_and_fact,1,proof,,0,0.0,False,surfacing|truth,surfacing.confrontation|truth.verification,2,2,1,1,truth,surfacing,isn t|proof,False
+so a crisis doesn,2,HYBRID_SEMANTIC,S7,quadgrams,crisis doesn,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn,False
+a crisis doesn t,2,HYBRID_SEMANTIC,S7,quadgrams,crisis doesn,2,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn|doesn t,False
+crisis doesn t force,2,HYBRID_SEMANTIC,S7,quadgrams,crisis doesn force,3,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn|doesn t,False
+doesn t force asset,2,HYBRID_SEMANTIC,S7,quadgrams,doesn force asset,3,,0,,,0,0.0,False,surfacing,surfacing.confrontation,1,1,0,1,,surfacing,doesn|doesn t,False

@@ -1,0 +1,11 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy
+fresh eyes this,2,AC15,S5,trigrams,fresh eyes,2,,0,,fresh eyes,1,1.0,True
+project memory you,2,AC15,S5,trigrams,project memory,2,,0,,memory|project memory,2,1.0,True
+a fresh eyes,2,AC15,S5,trigrams,fresh eyes,2,,0,,fresh eyes,1,1.0,True
+fresh eyes continuum,2,AC15P,S5,trigrams,fresh eyes continuum,3,,0,,continuum|fresh eyes,2,1.0,True
+when project memory,2,CONTROL,S5,trigrams,project memory,2,,0,,memory|project memory,2,1.0,True
+devmate s enterprise,2,CONTROL,S5,trigrams,devmate enterprise,2,,0,,devmate|enterprise,2,1.0,True
+a project memory,2,HYBRID_SEMANTIC,S5,trigrams,project memory,2,,0,,memory|project memory,2,1.0,True
+memory a memory,2,HYBRID_SEMANTIC,S5,trigrams,memory memory,2,,0,,memory,1,1.0,True
+if devmate memory,2,HYBRID_SEMANTIC,S5,trigrams,devmate memory,2,,0,,devmate|memory,2,1.0,True
+devmate memory is,2,HYBRID_SEMANTIC,S5,trigrams,devmate memory,2,,0,,devmate|memory,2,1.0,True

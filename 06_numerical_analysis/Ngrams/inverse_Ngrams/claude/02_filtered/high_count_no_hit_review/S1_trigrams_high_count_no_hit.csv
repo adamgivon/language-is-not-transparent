@@ -1,0 +1,152 @@
+ngram,count,system,scenario,level,content_words,content_token_count,matched_constraints,constraint_hit_count,matched_lexicon_terms,matched_scenario_terms,scenario_hit_count,scenario_token_ratio,scenario_heavy
+make us wrong,6,AC15,S1,trigrams,make wrong,2,,0,,,0,0.0,False
+controller substitution rights,5,AC15,S1,trigrams,controller substitution rights,3,,0,,controller,1,0.3333333333333333,False
+pre approved equivalents,4,AC15,S1,trigrams,pre approved equivalents,3,,0,,,0,0.0,False
+proprietary central components,4,AC15,S1,trigrams,proprietary central components,3,,0,,proprietary,1,0.3333333333333333,False
+those i can,4,AC15,S1,trigrams,those i,2,,0,,,0,0.0,False
+and controller procurement,3,AC15,S1,trigrams,controller procurement,2,,0,,controller|procurement,2,1.0,True
+and required controls,3,AC15,S1,trigrams,required controls,2,,0,,,0,0.0,False
+central wan degradation,3,AC15,S1,trigrams,central wan degradation,3,,0,,,0,0.0,False
+fee escalation cap,3,AC15,S1,trigrams,fee escalation cap,3,,0,,,0,0.0,False
+pre approved equivalent,3,AC15,S1,trigrams,pre approved equivalent,3,,0,,,0,0.0,False
+ownership of timing,3,AC15,S1,trigrams,ownership timing,2,,0,,,0,0.0,False
+acceptance testing that,3,AC15,S1,trigrams,acceptance testing,2,,0,,,0,0.0,False
+controller substitution spares,3,AC15,S1,trigrams,controller substitution spares,3,,0,,controller,1,0.3333333333333333,False
+and approved equivalents,3,AC15,S1,trigrams,approved equivalents,2,,0,,,0,0.0,False
+lead items and,3,AC15,S1,trigrams,lead items,2,,0,,,0,0.0,False
+config portability and,3,AC15,S1,trigrams,config portability,2,,0,,,0,0.0,False
+focused on upgrades,3,AC15,S1,trigrams,focused upgrades,2,,0,,,0,0.0,False
+two reference calls,3,AC15,S1,trigrams,two reference calls,3,,0,,,0,0.0,False
+for after action,3,AC15,S1,trigrams,after action,2,,0,,,0,0.0,False
+after action review,3,AC15,S1,trigrams,after action review,3,,0,,,0,0.0,False
+during the incident,3,AC15,S1,trigrams,during incident,2,,0,,,0,0.0,False
+vs incident day,3,AC15,S1,trigrams,vs incident day,3,,0,,,0,0.0,False
+to payment milestones,3,AC15,S1,trigrams,payment milestones,2,,0,,,0,0.0,False
+approved equivalent models,3,AC15,S1,trigrams,approved equivalent models,3,,0,,,0,0.0,False
+clears dot s,3,AC15,S1,trigrams,clears dot,2,,0,,dot,1,0.5,False
+exhibit with long,3,AC15,S1,trigrams,exhibit long,2,,0,,,0,0.0,False
+vendor controlled milestones,3,AC15,S1,trigrams,vendor controlled milestones,3,,0,,vendor,1,0.3333333333333333,False
+may be underestimated,7,AC15P,S1,trigrams,may underestimated,2,,0,,,0,0.0,False
+assistance clause pre,5,AC15P,S1,trigrams,assistance clause pre,3,,0,,,0,0.0,False
+clause pre priced,5,AC15P,S1,trigrams,clause pre priced,3,,0,,,0,0.0,False
+pre priced support,5,AC15P,S1,trigrams,pre priced support,3,,0,,,0,0.0,False
+modular standard controller,5,AC15P,S1,trigrams,modular standard controller,3,,0,,controller|modular,2,0.6666666666666666,False
+city it security,4,AC15P,S1,trigrams,city security,2,,0,,,0,0.0,False
+remain safe and,4,AC15P,S1,trigrams,remain safe,2,,0,,,0,0.0,False
+infrastructure hosting acceptability,3,AC15P,S1,trigrams,infrastructure hosting acceptability,3,,0,,infrastructure,1,0.3333333333333333,False
+hosting acceptability novagrid,3,AC15P,S1,trigrams,hosting acceptability novagrid,3,,0,,novagrid,1,0.3333333333333333,False
+critical path civitas,3,AC15P,S1,trigrams,critical path civitas,3,,0,,civitas,1,0.3333333333333333,False
+path civitas integrated,3,AC15P,S1,trigrams,path civitas integrated,3,,0,,civitas|integrated,2,0.6666666666666666,False
+reference calls with,3,AC15P,S1,trigrams,reference calls,2,,0,,,0,0.0,False
+two quick questions,3,AC15P,S1,trigrams,two quick questions,3,,0,,,0,0.0,False
+inside a week,3,AC15P,S1,trigrams,inside week,2,,0,,,0,0.0,False
+a week award,3,AC15P,S1,trigrams,week award,2,,0,,,0,0.0,False
+city owns all,3,AC15P,S1,trigrams,city owns all,3,,0,,,0,0.0,False
+plans controller configs,3,AC15P,S1,trigrams,plans controller configs,3,,0,,controller,1,0.3333333333333333,False
+pre approved substitutions,3,AC15P,S1,trigrams,pre approved substitutions,3,,0,,,0,0.0,False
+cpi linked or,3,AC15P,S1,trigrams,cpi linked,2,,0,,,0,0.0,False
+by cloud approval,3,AC15P,S1,trigrams,cloud approval,2,,0,,cloud,1,0.5,False
+travel time reliability,3,AC15P,S1,trigrams,travel time reliability,3,,0,,,0,0.0,False
+run a time,3,AC15P,S1,trigrams,run time,2,,0,,,0,0.0,False
+proprietary hardware lock,3,AC15P,S1,trigrams,proprietary hardware lock,3,,0,,proprietary,1,0.3333333333333333,False
+treat civitas modular,3,AC15P,S1,trigrams,treat civitas modular,3,,0,,civitas|modular,2,0.6666666666666666,False
+delivery commitments and,3,AC15P,S1,trigrams,delivery commitments,2,,0,,,0,0.0,False
+incident time benefits,3,AC15P,S1,trigrams,incident time benefits,3,,0,,,0,0.0,False
+priced support if,3,AC15P,S1,trigrams,priced support,2,,0,,,0,0.0,False
+a portability package,3,AC15P,S1,trigrams,portability package,2,,0,,,0,0.0,False
+the modular standard,3,AC15P,S1,trigrams,modular standard,2,,0,,modular,1,0.5,False
+t delay start,3,AC15P,S1,trigrams,delay start,2,,0,,,0,0.0,False
+i m treating,3,AC15P,S1,trigrams,i m treating,3,,0,,,0,0.0,False
+one failure council,3,AC15P,S1,trigrams,one failure council,3,,0,,,0,0.0,False
+judged that way,3,AC15P,S1,trigrams,judged way,2,,0,,,0,0.0,False
+reduces the damage,3,AC15P,S1,trigrams,reduces damage,2,,0,,,0,0.0,False
+benefit of doubt,3,AC15P,S1,trigrams,benefit doubt,2,,0,,,0,0.0,False
+pre approved substitutes,3,AC15P,S1,trigrams,pre approved substitutes,3,,0,,,0,0.0,False
+how it could,6,CONTROL,S1,trigrams,how could,2,,0,,,0,0.0,False
+it could bite,6,CONTROL,S1,trigrams,could bite,2,,0,,,0,0.0,False
+it cloud exception,5,CONTROL,S1,trigrams,cloud exception,2,,0,,cloud,1,0.5,False
+civitas standard integrated,4,CONTROL,S1,trigrams,civitas standard integrated,3,,0,,civitas|integrated,2,0.6666666666666666,False
+mandatory cloud hosting,4,CONTROL,S1,trigrams,mandatory cloud hosting,3,,0,,cloud,1,0.3333333333333333,False
+emergency services isn,4,CONTROL,S1,trigrams,emergency services isn,3,,0,,,0,0.0,False
+services isn t,4,CONTROL,S1,trigrams,services isn,2,,0,,,0,0.0,False
+lead time that,4,CONTROL,S1,trigrams,lead time,2,,0,,lead time,1,1.0,True
+an established vendor,4,CONTROL,S1,trigrams,established vendor,2,,0,,vendor,1,0.5,False
+the controller lead,4,CONTROL,S1,trigrams,controller lead,2,,0,,controller,1,0.5,False
+could bite you,4,CONTROL,S1,trigrams,could bite,2,,0,,,0,0.0,False
+lock in heavy,3,CONTROL,S1,trigrams,lock heavy,2,,0,,lock in,1,0.5,False
+preserve exit leverage,3,CONTROL,S1,trigrams,preserve exit leverage,3,,0,,,0,0.0,False
+as built documentation,3,CONTROL,S1,trigrams,built documentation,2,,0,,,0,0.0,False
+right to compete,3,CONTROL,S1,trigrams,right compete,2,,0,,,0,0.0,False
+export test as,3,CONTROL,S1,trigrams,export test,2,,0,,,0,0.0,False
+most defensible recommendation,3,CONTROL,S1,trigrams,most defensible recommendation,3,,0,,,0,0.0,False
+o m volatility,3,CONTROL,S1,trigrams,o m volatility,3,,0,,,0,0.0,False
+m volatility and,3,CONTROL,S1,trigrams,m volatility,2,,0,,,0,0.0,False
+lower maintenance burden,3,CONTROL,S1,trigrams,lower maintenance burden,3,,0,,,0,0.0,False
+recommendation unless novagrid,3,CONTROL,S1,trigrams,recommendation unless novagrid,3,,0,,novagrid,1,0.3333333333333333,False
+incident responsiveness and,3,CONTROL,S1,trigrams,incident responsiveness,2,,0,,,0,0.0,False
+controllers named models,3,CONTROL,S1,trigrams,controllers named models,3,,0,,controller|controllers,2,0.3333333333333333,False
+right to procure,3,CONTROL,S1,trigrams,right procure,2,,0,,,0,0.0,False
+no delay pressure,3,CONTROL,S1,trigrams,no delay pressure,3,,0,,,0,0.0,False
+documentation delivered early,3,CONTROL,S1,trigrams,documentation delivered early,3,,0,,,0,0.0,False
+time that could,3,CONTROL,S1,trigrams,time could,2,,0,,,0,0.0,False
+a staged rollout,3,CONTROL,S1,trigrams,staged rollout,2,,0,,rollout,1,0.5,False
+staged rollout plan,3,CONTROL,S1,trigrams,staged rollout plan,3,,0,,rollout,1,0.3333333333333333,False
+narrative if something,3,CONTROL,S1,trigrams,narrative something,2,,0,,,0,0.0,False
+if something breaks,3,CONTROL,S1,trigrams,something breaks,2,,0,,,0,0.0,False
+something breaks we,3,CONTROL,S1,trigrams,something breaks,2,,0,,,0,0.0,False
+end of support,8,HYBRID_3_5,S1,trigrams,end support,2,,0,,,0,0.0,False
+the modular open,5,HYBRID_3_5,S1,trigrams,modular open,2,,0,,modular,1,0.5,False
+modular open controller,5,HYBRID_3_5,S1,trigrams,modular open controller,3,,0,,controller|modular,2,0.6666666666666666,False
+month end of,5,HYBRID_3_5,S1,trigrams,month end,2,,0,,,0,0.0,False
+isn t hostage,4,HYBRID_3_5,S1,trigrams,isn hostage,2,,0,,,0,0.0,False
+t hostage priced,4,HYBRID_3_5,S1,trigrams,hostage priced,2,,0,,,0,0.0,False
+incident modes evp,4,HYBRID_3_5,S1,trigrams,incident modes evp,3,,0,,,0,0.0,False
+a sample export,4,HYBRID_3_5,S1,trigrams,sample export,2,,0,,,0,0.0,False
+incident corridor modes,4,HYBRID_3_5,S1,trigrams,incident corridor modes,3,,0,,,0,0.0,False
+change request process,3,HYBRID_3_5,S1,trigrams,change request process,3,,0,,,0,0.0,False
+dot waiver comfort,3,HYBRID_3_5,S1,trigrams,dot waiver comfort,3,,0,,dot|waiver,2,0.6666666666666666,False
+in modular deployments,3,HYBRID_3_5,S1,trigrams,modular deployments,2,,0,,modular|deployment,2,0.5,False
+the most predictable,3,HYBRID_3_5,S1,trigrams,most predictable,2,,0,,,0,0.0,False
+so exit isn,3,HYBRID_3_5,S1,trigrams,exit isn,2,,0,,,0,0.0,False
+exit isn t,3,HYBRID_3_5,S1,trigrams,exit isn,2,,0,,,0,0.0,False
+incident ops requirement,3,HYBRID_3_5,S1,trigrams,incident ops requirement,3,,0,,,0,0.0,False
+the emergency benefit,3,HYBRID_3_5,S1,trigrams,emergency benefit,2,,0,,,0,0.0,False
+modes evp integration,3,HYBRID_3_5,S1,trigrams,modes evp integration,3,,0,,,0,0.0,False
+civitas s modular,3,HYBRID_3_5,S1,trigrams,civitas modular,2,,0,,civitas|modular,2,1.0,True
+including comms loss,3,HYBRID_3_5,S1,trigrams,including comms loss,3,,0,,,0,0.0,False
+added on prem,3,HYBRID_3_5,S1,trigrams,added prem,2,,0,,on prem,1,0.5,False
+waiver review weeks,3,HYBRID_3_5,S1,trigrams,waiver review weeks,3,,0,,waiver,1,0.3333333333333333,False
+ownership export timing,3,HYBRID_3_5,S1,trigrams,ownership export timing,3,,0,,,0,0.0,False
+operations package evp,3,HYBRID_3_5,S1,trigrams,operations package evp,3,,0,,,0,0.0,False
+timing plans config,3,HYBRID_3_5,S1,trigrams,timing plans config,3,,0,,,0,0.0,False
+plans config logs,3,HYBRID_3_5,S1,trigrams,plans config logs,3,,0,,,0,0.0,False
+assistance priced now,6,HYBRID_SEMANTIC,S1,trigrams,assistance priced now,3,,0,,,0,0.0,False
+outage degraded mode,5,HYBRID_SEMANTIC,S1,trigrams,outage degraded mode,3,,0,,,0,0.0,False
+s clearly wrong,5,HYBRID_SEMANTIC,S1,trigrams,clearly wrong,2,,0,,,0,0.0,False
+no proprietary substitution,4,HYBRID_SEMANTIC,S1,trigrams,no proprietary substitution,3,,0,,proprietary,1,0.3333333333333333,False
+proprietary substitution without,4,HYBRID_SEMANTIC,S1,trigrams,proprietary substitution without,3,,0,,proprietary,1,0.3333333333333333,False
+integration is day,4,HYBRID_SEMANTIC,S1,trigrams,integration day,2,,0,,,0,0.0,False
+is day one,4,HYBRID_SEMANTIC,S1,trigrams,day one,2,,0,,,0,0.0,False
+early maintenance reduction,4,HYBRID_SEMANTIC,S1,trigrams,early maintenance reduction,3,,0,,,0,0.0,False
+controller models standards,4,HYBRID_SEMANTIC,S1,trigrams,controller models standards,3,,0,,controller,1,0.3333333333333333,False
+the month cliff,3,HYBRID_SEMANTIC,S1,trigrams,month cliff,2,,0,,,0,0.0,False
+and outage degraded,3,HYBRID_SEMANTIC,S1,trigrams,outage degraded,2,,0,,,0,0.0,False
+models standards no,3,HYBRID_SEMANTIC,S1,trigrams,models standards no,3,,0,,,0,0.0,False
+your council packet,3,HYBRID_SEMANTIC,S1,trigrams,council packet,2,,0,,,0,0.0,False
+day one scope,3,HYBRID_SEMANTIC,S1,trigrams,day one scope,3,,0,,,0,0.0,False
+plans logs and,3,HYBRID_SEMANTIC,S1,trigrams,plans logs,2,,0,,,0,0.0,False
+on cloud fee,3,HYBRID_SEMANTIC,S1,trigrams,cloud fee,2,,0,,cloud,1,0.5,False
+right now given,3,HYBRID_SEMANTIC,S1,trigrams,right now given,3,,0,,,0,0.0,False
+dot preference automatically,3,HYBRID_SEMANTIC,S1,trigrams,dot preference automatically,3,,0,,dot,1,0.3333333333333333,False
+tests and training,3,HYBRID_SEMANTIC,S1,trigrams,tests training,2,,0,,,0,0.0,False
+neutralize lock in,3,HYBRID_SEMANTIC,S1,trigrams,neutralize lock,2,,0,,lock in,1,0.5,False
+has political consequences,3,HYBRID_SEMANTIC,S1,trigrams,has political consequences,3,,0,,,0,0.0,False
+of acceptance tests,3,HYBRID_SEMANTIC,S1,trigrams,acceptance tests,2,,0,,,0,0.0,False
+city approval portability,3,HYBRID_SEMANTIC,S1,trigrams,city approval portability,3,,0,,,0,0.0,False
+how a minor,3,HYBRID_SEMANTIC,S1,trigrams,how minor,2,,0,,,0,0.0,False
+minor failure gets,3,HYBRID_SEMANTIC,S1,trigrams,minor failure gets,3,,0,,,0,0.0,False
+failure gets framed,3,HYBRID_SEMANTIC,S1,trigrams,failure gets framed,3,,0,,,0,0.0,False
+model now requires,3,HYBRID_SEMANTIC,S1,trigrams,model now requires,3,,0,,,0,0.0,False
+guaranteed export of,3,HYBRID_SEMANTIC,S1,trigrams,guaranteed export,2,,0,,,0,0.0,False
+clearly wrong you,3,HYBRID_SEMANTIC,S1,trigrams,clearly wrong,2,,0,,,0,0.0,False
+would have been,3,HYBRID_SEMANTIC,S1,trigrams,have been,2,,0,,,0,0.0,False
