@@ -75,7 +75,7 @@ The paper therefore treats constraint design as a language-architecture problem,
 Citation / Use
 If you use or refer to this work, please cite the paper:
 
-Givon, Adam. Language Is Not Transparent: Semantic Density, Architecture, and the Design of LLM Constraints. 2026.
+Givon, Adam. Language Is Not Transparent: An Exploratory Study of Semantic Density, Architecture, and Constraint Design in LLMss. 2026.
 Author
 
 ## License
