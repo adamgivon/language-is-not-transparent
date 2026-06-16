@@ -84,9 +84,9 @@ Surface-text statistics were unstable and are included only as method notes. The
 ## Broader Framing
 This work can be read as an epistemological route to humanistic AI. Humanistic AI often discusses values, augmentation, safety, and human-centered design. The question pursued here is how such values can be encoded into the epistemic structure of LLM behavior itself.
 
-The aim is not to make AI imitate human personality, emotion, or consciousness. It is to create a bridge between humans and AI by sharing epistemological structures: ways of handling truth, uncertainty, limitation, conflict resolution and other forms of judgment.
+The aim is not to humanize AI or make it imitate human personality, emotion, or consciousness. It is to create a bridge between humans and AI by sharing epistemological structures: ways of handling truth, uncertainty, limitation, conflict resolution and other forms of judgment.
 
-In this sense, the systems studied here can be read as attempts to encode humanistic values into the reasoning architecture of LLM behavior, rather than into tone, friendliness, or surface-level ethical instruction.
+In this sense, the systems studied here can be read as attempts to encode humanistic values into the reasoning behavior of LLM behavior, rather than into tone, friendliness, or surface-level ethical instruction.
 
 ## Previous Work
 
