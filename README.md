@@ -86,7 +86,7 @@ This work can be read as an epistemological route to humanistic AI. Humanistic A
 
 The aim is not to humanize AI or make it imitate human personality, emotion, or consciousness. It is to create a bridge between humans and AI by sharing epistemological structures: ways of handling truth, uncertainty, limitation, conflict resolution and other forms of judgment.
 
-In this sense, the systems studied here can be read as attempts to encode humanistic values into the reasoning behavior of LLM behavior, rather than into tone, friendliness, or surface-level ethical instruction.
+In this sense, the systems studied here can be read as attempts to encode humanistic values into the reasoning behavior of LLMs, rather than into tone, friendliness, or surface-level ethical instruction.
 
 ## Previous Work
 
